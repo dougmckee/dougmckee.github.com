@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dougmckee.github.com/blog/2011/12/21/first-post/</loc>
+        <lastmod>2012-11-23T22:19:22-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://dougmckee.github.com/blog/archives/</loc>
-        <lastmod>2012-11-21T00:31:13-05:00</lastmod>
+        <lastmod>2012-11-23T22:19:22-05:00</lastmod>
     </url>
     <url>
         <loc>http://dougmckee.github.com/</loc>
-        <lastmod>2012-11-21T00:31:13-05:00</lastmod>
+        <lastmod>2012-11-23T22:19:22-05:00</lastmod>
     </url>
 </urlset>

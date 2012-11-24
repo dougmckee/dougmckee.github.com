@@ -4,13 +4,51 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dougmckee.github.com/atom.xml" rel="self"/>
   <link href="http://dougmckee.github.com/"/>
-  <updated>2012-11-23T21:31:07-05:00</updated>
+  <updated>2012-11-23T22:19:49-05:00</updated>
   <id>http://dougmckee.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Doug McKee]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://dougmckee.github.com/blog/2011/12/21/first-post/"/>
+    <updated>2011-12-21T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2011/12/21/first-post</id>
+    <content type="html"><![CDATA[<p>I&#8217;m sure there are hundreds (if not thousands) of articles on the web
+about why one should (or shouldn&#8217;t) blog, but I think this is a very
+personal question.  For me, the first (but not the only) reason is that
+I want to consume less and create more.  Of course, blogging is
+something I&#8217;ve thought about for a long time and
+<a href="http://www.quora.com/Chris-Wake/Hidden-habits-of-ineffective-people">this article</a> was the straw that filled the camel&#8217;s stomach.</p>
+
+<p>I also feel the only way to write better and more comfortably is to
+write, and blogging is a natural and fun form of writing.  I think it
+lends itself to the 15-30 minute chunks that I&#8217;m planning to invest.  I
+tried Twitter a few months ago as way to scratch my blogging itch and
+the experience confirmed for me that tweeting isn&#8217;t writing. Even my
+tiny attention span is too long for Twitter.</p>
+
+<p>But these two goals could have been accomplished with a personal
+journal.  That didn&#8217;t feel right either, because I also aspire to
+providing entertaining, useful, and inspiring content, though achieving
+just one or two of these at a time is probably a more achievable goal.
+Having an audience also has perks: It&#8217;s a great incentive to not put out
+junk.  You don&#8217;t even need an audience to get this benefit&#8211;just a
+potential audience.  I&#8217;m also looking forward to hearing occasional
+feedback on stuff I write.</p>
+
+<p>So what&#8217;s on the horizon?  To be honest, this might be one of those
+projects I start that fizzles almost immediately.  I almost named this
+Ghost Blog in honor of that possibility.  But instead, I went with a
+more optimistically descriptive title because I have eclectic plans for
+this space.  And while this is most definitely not a purely professional
+blog, I don&#8217;t plan write anything that will prevent me from holding
+elected office.</p>
+]]></content>
+  </entry>
   
 </feed>
