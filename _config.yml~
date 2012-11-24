@@ -5,9 +5,9 @@
 url: http://dougmckee.github.com
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Doug McKee
+author: Your Name
 simple_search: http://google.com/search
-description: This is my blog.
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
