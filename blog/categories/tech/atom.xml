@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | High Variance]]></title>
+  <link href="http://dougmckee.github.com/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://dougmckee.github.com/"/>
+  <updated>2012-11-26T10:15:30-05:00</updated>
+  <id>http://dougmckee.github.com/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A few comments on Apple's Big October Event]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/10/25/apple-observations/"/>
+    <updated>2012-10-25T00:00:00-04:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/10/25/apple-observations</id>
+    <content type="html"><![CDATA[<p>Apple's big October product announcements are now behind us and I've
+read more blogger reactions than I care to admit.  Even I'm surprised
+that I still have a few somewhat original thoughts of my own to share.
+Instead of simply being an "iPad mini" event Apple announced a whole
+slew of products.  While some folks predicted some of the "extra"
+stuff, I don't think anyone expected the sheer quantity we saw.  That
+said, I'm most excited about two products Apple did not announce:</p>
+
+<ol>
+<li><p><strong>A new Thunderbolt display:</strong> The new iMac is beautiful and I can't
+wait until they translate it into a stand-alone display.  Less glare and
+pixels closer to the glass will be terrific.  It will also give Apple a
+chance to add a few ports that they neglected on the first rev: USB 3
+and analog audio out.  And imagine how thin it will be when it doesn't
+have to also house a whole computer?</p></li>
+<li><p><strong>The Fusion Drive:</strong> I know, I know, they DID announce this as an
+option for the new iMac and Mac Mini, but I'm hoping they will sell it
+separately so I can stick one in my 2010 iMac.  I really like the idea
+of having the speed of an SSD and the size of a traditional HD without
+the hassle of managing the pair.  We'll have to wait for the iFixit
+teardown to see if it has a new interface (and is thus incompatible) and
+something tells me even if it has standard wiring, Apple will want to
+reserve this feature as reason for folks to upgrade their old (but
+perfectly usable) iMacs.  I can still dream.</p></li>
+</ol>
+
+
+<p>There's been a lot of talk about how Apple is making a mistake by
+pricing the iPad mini at $329 and leaving breathing room for the other
+cheaper small tablets in the market.  I think Apple priced the product
+as high as possible such that they will sell all the mini's they can make
+before the holidays.  If they didn't, they would simply be leaving money
+on the table.  When their supply chain gets up to speed some time in the
+spring, I predict they will drop the price below $300.</p>
+
+<p>I have very mixed feelings about the new iMac.  While it's gorgeous and
+powerful, I'm not sure I agree with the sacrifices Apple had to make to
+achieve its super-model-thin curves.  Most iMac owners spend
+the bulk of their time in <em>front</em> of their iMac where they never even
+see the curves--my own is right up against a wall, and I'd have to lean
+over and around my desk to appreciate the sides and back.</p>
+
+<p>Apple loves to be first to cast old standards aside: Remember when the
+iMac dropped the floppy drive?  I think they were the first PC maker to
+stop using special keyboard and mouse ports and just rely on USB.  And
+just a month ago they said goodbye to the venerable Dock Connector.  Now
+they want to do the same thing to the optical drive.  For a notebook,
+this makes perfect sense: In the last year there was exactly one time
+when it would have been nice to mount a CD on my Air and that is
+certainly not enough to justify the added weight and bulk of a drive.
+At my desk, I do rip the occasional DVD or used CD.  And I'm certainly
+not throwing my iMac in my bag when I head out on the town.  But maybe
+Apple's right.  Maybe folks should just keep an ugly old SuperDrive in a
+drawer for those rare occasions when they need it.  Then they can
+appreciate beautiful design every day.  Even if it means leaning over
+their desks to do so.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comments on Blogs]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/06/comments-on-blogs/"/>
+    <updated>2012-01-06T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/06/comments-on-blogs</id>
+    <content type="html"><![CDATA[<p>It's become very trendy on tech blogs to not allow comments on articles.
+And at least a couple of folks
+(<a href="http://mattgemmell.com/2011/11/29/comments-off/">Matt Gemmell</a> and
+<a href="http://brooksreview.net/2011/11/gemmell-comments/">Ben Brooks</a> have been
+actively trying to convince other bloggers to turn off their comments too.  I
+agree that if you've got a popular blog (and maybe a thin skin), turning
+off comments can make your life easier.  I would even agree that on
+popular blogs (and websites more generally) many (most?)  comments don't
+really further the discussion.  In fact, I read most of my blogs
+(including Matt's and Ben's) inside
+<a href="http://reederapp.com/">an RSS reader</a> and so I don't even see any of
+the comments that might or might not be there unless I click through to
+the site itself.</p>
+
+<p>But I have three objections to their position on comments.  First, when
+you don't get much traffic (I'm looking at you High Variance) and you
+know most of the people reading your blog, it's really nice to get as
+much feedback as possible and I think comments are the best way to do
+that.  If someone reading my article has something interesting to say
+about it, the comment gives them an audience.  They can always email if
+they want to say something privately,</p>
+
+<p>Second, I often like to read what other people have to say about an
+article (whether I've written it or not), even when I have to wade
+through some less than insightful stuff.  Again, the signal-to-noise
+ratio is particularly high in the early days of a blog when it's mostly
+friends reading, but even on a big messy site like
+<a href="http://www.espn.com">espn.com</a> I think it's fun to see the popular
+reaction to a story.  And yes, I get it that the sample is not even
+representative of the readership let alone the general population.  I
+think <a href="http://slashdot.org">Slashdot</a> is a terrific example of how
+constructive (and entertaining) discussion of an issue can happen on the
+web through comments.</p>
+
+<p>Third, there's this high horse attitude that if people have something to
+say about an article, they should just write it up as an article on
+their own blog.  And if the original author reads it and wants to
+comment back, they will write another article on their blog.  I'm sorry,
+but this just doesn't happen.  I mean, I've seen blogs comment on other
+blogs, but in almost every case the debate stops there.  And it's
+impossible for someone visiting the original site to see the
+conversation at all.  And, believe it or not, there are people with
+intelligent things to say that don't have a blog.</p>
+
+<p>Maybe I'll change my tune in the future when I'm drowning in haters and
+forum-spam, but I have a feeling that's going to be a while.  Until
+then, comments will stay turned on.</p>
+
+<p><a href="http://highvariance.net/post/15402930759/update-comments-on-blogs">UPDATE HERE</a></p>
+]]></content>
+  </entry>
+  
+</feed>

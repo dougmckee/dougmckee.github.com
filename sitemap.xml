@@ -2,14 +2,58 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dougmckee.github.com/blog/2011/12/21/first-post/</loc>
-        <lastmod>2012-11-24T08:34:57-05:00</lastmod>
+        <lastmod>2012-11-24T13:37:24-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2011/12/30/bad-behavior/</loc>
+        <lastmod>2012-11-24T13:41:57-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/01/06/comments-on-blogs/</loc>
+        <lastmod>2012-11-24T13:45:34-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/01/11/does-school-suck/</loc>
+        <lastmod>2012-11-24T13:48:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/01/14/downfall/</loc>
+        <lastmod>2012-11-24T13:51:58-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/01/28/all-men-play-on-10/</loc>
+        <lastmod>2012-11-24T13:39:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/02/06/albums/</loc>
+        <lastmod>2012-11-24T13:36:34-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/02/13/ebooks-and-kids/</loc>
+        <lastmod>2012-11-24T13:53:03-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/05/10/carle-vs-lioni/</loc>
+        <lastmod>2012-11-26T01:21:44-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/05/20/country/</loc>
+        <lastmod>2012-11-24T13:46:42-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/10/25/apple-observations/</loc>
+        <lastmod>2012-11-24T13:40:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dougmckee.github.com/blog/2012/10/30/bathroom-fan-love-letters/</loc>
+        <lastmod>2012-11-24T13:42:52-05:00</lastmod>
     </url>
     <url>
         <loc>http://dougmckee.github.com/blog/archives/</loc>
-        <lastmod>2012-11-24T08:34:57-05:00</lastmod>
+        <lastmod>2012-11-26T01:21:44-05:00</lastmod>
     </url>
     <url>
         <loc>http://dougmckee.github.com/</loc>
-        <lastmod>2012-11-24T08:34:57-05:00</lastmod>
+        <lastmod>2012-11-26T01:21:44-05:00</lastmod>
     </url>
 </urlset>

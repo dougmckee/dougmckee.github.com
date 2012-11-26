@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mundane | High Variance]]></title>
+  <link href="http://dougmckee.github.com/blog/categories/mundane/atom.xml" rel="self"/>
+  <link href="http://dougmckee.github.com/"/>
+  <updated>2012-11-26T10:15:30-05:00</updated>
+  <id>http://dougmckee.github.com/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/10/30/bathroom-fan-love-letters/"/>
+    <updated>2012-10-30T00:00:00-04:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/10/30/bathroom-fan-love-letters</id>
+    <content type="html"><![CDATA[<p>Two of my favorite bloggers (<a href="http://www.marco.org">Marco Arment</a> and <a href="http://brooksreview.net">Ben Brooks</a>) recently
+published passionate <a href="http://www.marco.org/2012/05/06/bathroom-fan-timer-switches">love</a> <a href="http://brooksreview.net/2012/03/amazon-item/">letters</a> to the <a href="http://www.amazon.com/dp/B003TJAGPS">Panasonic WhisperCeiling</a> bathroom
+fan, and in Marco's case, a <a href="http://www.amazon.com/dp/B00313JXB0">Leviton electronic timer switch</a>.  Since
+our downstairs bathroom has had no fan at all for more than a year, and
+our upstairs bathroom fan sounded like a jet engine (and took 20 minutes
+to de-fog a mirror), I took this as a sign that it was time to upgrade.
+It was harder than expected to find an electrician to install them, but
+today was the big day.  It's worked out pretty well for our upstairs
+bathroom, but not so much for the downstairs bathroom.  In fact, I was
+surprised by three issues that were unmentioned in the "reviews" I read:</p>
+
+<ol>
+<li><p>The Panasonic WhisperLite fan/light combo unit is approximately
+square and it doesn't fit in our downstairs bathroom because we have a
+cast-iron drain pipe running 8.5" away from the stud where the fan has
+to be mounted.  Drat.</p></li>
+<li><p>The bulbs in the WhisperLite are compact-fluorescent and they send
+out a very white light.  I like it, but my wife calls it "institutional"
+and she says it reminds her of a public restroom.  This isn't exactly
+where anyone wants to be taking a shower, and if she doesn't acclimate, I'm
+hoping we can just change the bulbs to something a little softer.</p></li>
+<li><p>The Leviton switch requires three wires (including a neutral) and our
+downstairs bathroom only has two.  If I want a timer switch we either
+spend $200 to run a new line (I'm not <em>that</em> crazy) or we get one of
+those <a href="http://www.amazon.com/Intermatic-FD15MWC-15-Minute-Spring-Loaded/dp/B000EVS4WG">spring-loaded knobs</a> that screams hotel sauna.  For now, we're
+sticking with the old manual switch.</p></li>
+</ol>
+
+
+<p>To be fair, the new fan is very quiet and is working like a champ--our
+upstairs bathroom isn't small and during a leisurely shower the mirror
+never fogged up.  And the Leviton timer is far more reliable than I was
+about remembering to turn off the fan when it's done its job.  But I
+think there is a bigger lesson here: Some products that are perfect for
+some people (or bathrooms) are not perfect for others, and we shouldn't
+let ourselves be blinded by the opinions of fan-bois.</p>
+]]></content>
+  </entry>
+  
+</feed>
