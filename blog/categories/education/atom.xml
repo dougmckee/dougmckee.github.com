@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[education | High Variance]]></title>
+  <link href="http://dougmckee.github.com/blog/categories/education/atom.xml" rel="self"/>
+  <link href="http://dougmckee.github.com/"/>
+  <updated>2012-12-16T21:34:21-05:00</updated>
+  <id>http://dougmckee.github.com/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Few Thoughts on MOOC's]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/12/08/thoughts-on-moocs/"/>
+    <updated>2012-12-08T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/12/08/thoughts-on-moocs</id>
+    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Mooc">MOOC</a> is an acroynm for Massive Open Online Course.  It’s a trendy name
+for packing up a course’s content (video lectures, problem sets, exams,
+a mechanism for peer interactions, etc.) and making it available to a large
+number of students over the internet without requiring significant live instructor input.
+It’s that last part that allows the system to scale and separates the
+idea from simple distance learning or a traditional online course.</p>
+
+<p>The most exciting thing about MOOC’s is the expansion in availability of
+university-level content.  At least three groups of top-tier
+universities in the US (<a href="http://www.edx.org">edX</a>, <a href="http://www.coursera.org">Coursera</a>, and <a href="http://www.udacity.org">Udacity</a>) are
+actively producing these kinds of online courses and making them
+available for free to anyone.  It means that kids and
+adults from rural China to urban Brazil can watch and learn from the
+some of the best professors in the world and interact with each other
+about the material.</p>
+
+<p>A second exciting thing about MOOC’s is that they promise to be a major
+disruptive innovation for existing institutions of higher education.
+Think about what happens in an average traditional college course.  The
+professor stands up and gives a lecture taking occasional questions from
+the class. He/she assigns reading and homework and gives exams. They are
+somewhat available to answer questions in office hours or by email. A
+MOOC isn’t better on every dimension, but I believe they’ve recently crossed a
+line and the overall experience is actually better than the average
+college course.  </p>
+
+<p>As students become aware of MOOC’s, I think a few will decide to forego
+college and instead learn what they want to learn more cheaply and on
+their own schedule.  Most students (and their future employers) however
+will want a credential (degree) that “proves” they have mastered a set
+of material.  It’s only a matter of time before the big three (or
+someone new) comes along and is able to provide this.  Online degrees
+exist today and I predict they will become more and more
+mainstream.<sup id="fnref:fn_dating"><a href="#fn:fn_dating" rel="footnote">1</a></sup>  That said, the current college experience is more than
+courses and I think the market for that won’t be going away soon.  </p>
+
+<p>Students will also start demanding more of classes at existing
+universities and attending colleges that raise their game and start
+providing higher quality in-class experiences.  That means colleges will
+have to leverage what they have that the MOOC’s will never have: live
+instructors/experts that are able to spend time either one-on-one or in
+small groups with students answering questions and having real time
+conversations. This is possible online, but it doesn’t scale up to
+massive numbers of students per instructor.  Some faculty will start
+building on MOOC content–that is, they will replace their own lectures
+with those of the MOOC’s and add their own interactivity.  And I’m happy
+to say that the he big live lecture will go the way of the horse and
+buggy–average professors just won’t be able to compete with the top
+professors in the world and their video lectures.</p>
+
+<p>I was going to title this post “The Revolution’s Coming” but the
+revolution is already here.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn_dating">
+      <p>This is exactly what happened with online dating over
+thelast 10 years.<a href="#fnref:fn_dating" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Social Science "Labs"]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/04/06/social-science-labs/"/>
+    <updated>2012-04-06T00:00:00-04:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/04/06/social-science-labs</id>
+    <content type="html"><![CDATA[<p>When most people think of labs, they imagine scientists in white coats
+staring into microscopes, carrying around beakers of bubbling chemicals, 
+and holding test tubes over Bunsen burners.  In social science, the
+reality is much more mundane.  It’s usually just a room full of
+computers with software that may or may not be useful and may or may not
+be up to date.  Even less compelling are the labs associated with
+statistical methods classes.  The last couple years my own classes have
+been the worst case scenario–I just get up and lecture about how my
+students should use some particular piece of software to apply the
+methods we’ve been learning in the “lecture” part of the class.  It
+doesn’t have to be this way.</p>
+
+<p>Over the next few months I will have the opportunity to teach two new
+methods classes and completely re-invent how I incorporate labs.  I had
+lunch with <a href="http://publichealth.yale.edu/cde/people/mayur_desai.profile">Mayur Desai</a> the other day and I think he does a great job
+with labs in his classes and he’s inspired most (but not all) of the
+ideas here.  This is what I’m thinking:</p>
+
+<ol>
+  <li>
+    <p>No lectures.  None.  Students enter the lab and get their assignment
+    and spend the rest of the class trying to complete it.</p>
+  </li>
+  <li>
+    <p>Each assignment starts with a data set (preferably real) and a
+    blank screen–that is, I don’t give them any code.  Their job is to
+    answer a substantive question by applying methods we’ve covered
+    recently to the data.</p>
+  </li>
+  <li>
+    <p>Students work in pairs and take turns driving.  I think this keeps
+    students focused and they can teach each other.  It also means only
+    half the class has to have laptops if I want to implement a lab in a
+    regular classroom.</p>
+  </li>
+  <li>
+    <p>I’m around to answer questions.  In this way, it’s very different
+    from a problem set where getting stuck on something dumb for hours
+    at a time is a common occurrence.  Struggling with problem is good
+    for learning, but banging your head against a wall isn’t an
+    efficient use of time.</p>
+  </li>
+  <li>
+    <p>The end product should be similar to results they might find
+  in a published paper.  Sometimes I’ll provide an empty table they must
+  fill in and other times they will produce their own tables of results
+  from scratch.</p>
+  </li>
+  <li>
+    <p>There should be opportunities for quicker/more advanced students to
+  do more.  One size does not fit all.</p>
+  </li>
+</ol>
+
+<p>While it’s possible to use any statistical analysis tool in a lab
+successfully, I do think some packages are better than others.  Most
+students already know Microsoft Excel and doing basic analyses (even
+regression) using it is easy, but you really hit a wall when you want to
+do anything even a little sophisticated.  SAS is powerful, but there is
+a steep learning curve.  My plan is to use Stata.  You can browse your
+data in a spreadsheet style interface.  You can play with commands
+through the menus and when you choose one, it shows you the command-line
+equivalent.  You can work interactively at the command-line or build
+programs (using those same commands) in an editor.  And the
+documentation is excellent and available online.</p>
+
+<p>I’ll let you know how it goes!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Top 10 Things Professors Do During Spring Break]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/03/04/professors-over-break/"/>
+    <updated>2012-03-04T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/03/04/professors-over-break</id>
+    <content type="html"><![CDATA[<p>It turns out there is a lot of confusion out there about what exactly
+professors do over spring break. My neighbors think I’m on my way to the
+beach and my students don’t know what to think. So let’s put this
+mystery to rest with a top 10 list:</p>
+
+<ol>
+  <li>
+    <p>Catch up on research. During the semester if you have a less than
+productive research day there are no short term consequences.  On the
+other hand, if you don’t prep you lecture for the next day you look
+pretty silly standing up in front of your class with nothing to
+say. That’s a recipe for falling behind on research.</p>
+  </li>
+  <li>
+    <p>Grade the exams students took the week before break and the
+papers students passed in right before they left for Daytona.</p>
+  </li>
+  <li>
+    <p>Write referee reports. Part of our job is to evaluate our peers’ work and
+either suggest improvements or make the case that the project is
+hopeless.</p>
+  </li>
+  <li>
+    <p>Attend conferences.  These are often conveniently scheduled when we
+don’t have to work around classes.</p>
+  </li>
+  <li>
+    <p>Collect data in the field. I don’t do much of this, but if I did,
+this is when I’d do it. Preferably someplace warm.</p>
+  </li>
+  <li>
+    <p>Recover some sleep. We don’t get enough during the semester either.</p>
+  </li>
+  <li>
+    <p>See family. These might be members in our own homes that we didn’t
+see enough or grandparents that live in another state.</p>
+  </li>
+  <li>
+    <p>Prep classes for after break. It’s always nice to start the second
+half with a few lectures in the bank.</p>
+  </li>
+  <li>
+    <p>File taxes. If you’re extremely lucky you have another professor in
+your household that’s willing to do this.  (Thank you!)</p>
+  </li>
+  <li>
+    <p>Blog a little more. We can always dream!</p>
+  </li>
+</ol>
+
+<p>So is spring break vacation?  Kind of, but not really since we work almost
+every day.  It’s still nice change of pace.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Does School Suck?]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/11/does-school-suck/"/>
+    <updated>2012-01-11T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/11/does-school-suck</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/5513063?portrait=0" width="600" height="337" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+<p>The beginning of the semester has me thinking about
+<a href="http://vimeo.com/5513063">this 30 minute video</a> I saw about a year ago
+on teaching and schools by <a href="http://drtae.org">Dr. Tae</a>.  It’s
+provocative and if you care about teaching, especially at the university
+level, I encourage you to watch it.  I agree with most of what he’s
+saying and try to incorporate a lot of his ideas in my own classes.  But
+he’s just wrong about a few things.</p>
+
+<p>Dr. Tae is unhappy with the state of schools in America–he says
+they “suck” for a variety of reasons, but the main one is that they are
+full of big impersonal lecture classes where the teacher/professor
+stands at the front and pontificates while the students sit there
+and take notes (best case) or update their Facebook status (worst case).</p>
+
+<p>I don’t think lecture classes have to be all that bad–I had some very
+good ones when I was an undergrad science major at
+<a href="http://rpi.edu">Rensselaer</a> in the mid 1980’s.  At the time (and maybe
+still) the institution took a lot of pride in it’s teaching.  Big physics
+and chemistry lectures were full of very entertaining and illuminating
+experiments and I definitely learned in that environment.  The
+main problem with this set up is that it isn’t optimal–there are much
+better ways to teach when the professor and students are in close
+proximity.  I actually think the days of the big lecture are numbered as
+there are several places people can go to get free high quality
+impersonal video lectures on the internet.  You may have heard of
+<a href="http://www.khanacademy.org/">Kahn Academy</a>,
+<a href="http://www.apple.com/education/itunes-u/">iTunes U</a>, and
+<a href="http://ocw.mit.edu/index.htm">MIT’s Open Courseware</a>.  I was very happy
+to see one of Yale’s very best economics professors on the front page of
+<a href="http://www.academicearth.org/">Academic Earth</a> earlier this week.
+<a href="http://www.academicearth.org/courses/game-theory">Ben Polak’s game theory class</a>
+is legendary here, and now anyone on earth can experience it (as a
+non-interactive lecture) for free.  The point is that if you’re paying
+gobs of money for an in-person university education, you deserve better
+than that.</p>
+
+<p>Dr. Tae goes on to say that university teaching is bad because schools
+don’t hire great teachers–they hire and promote based on research. He’s
+exactly right about this.  Not only is teaching ability ignored
+during hiring, all the incentives for tenure track faculty are to spend
+as little time as possible on teaching.  You just have to keep your
+enrollments and student evaluations above pretty low thresholds.  I
+don’t see how universities can improve without changing these hiring
+practices and incentives.</p>
+
+<p>As an aside, he’s pretty critical of the certification process that’s
+required for getting most secondary school jobs.  In order to teach
+science at the high school level, I think you should not only know a lot
+about science, you should also know how to teach.  The certification
+process (flawed as it is) is supposed to make sure you do.  I bet
+Dr. Tae would be an amazing high school science teacher, but I’m not so
+sure about all of his Northwestern physics faculty colleagues.</p>
+
+<p>Dr. Tae hates grades; he calls them “coercive”–he feels that teachers
+make students think the way they want them to think by holding grades
+over their head.  I’ll concede that there are better ways to motivate
+students to work hard than grades, but at the end of the day, the grade
+is how someone who wasn’t in the classroom (like a prospective employer
+or admissions committee) can judge what you learned in that classroom.
+It provides information that’s just not readily apparent in an
+interview.  So I’m not ready to just throw out grades all together.</p>
+
+<p>Dr. Tae loves for kids (even adult kids) to ask questions and do
+experiments to answer them.  I agree this is a great way to learn and
+stay excited about science.  It’s also true that having a strong base of
+knowledge (be that facts or methods) is important and that means
+students have to read and listen to stuff they might think is boring in
+the moment.</p>
+
+<p>Dr. Tae is exactly right when he says the secret to learning is to “Work
+your ass off until you figure it out”.  Failure is far more common than
+success in science and learning.  So often I have students who come to
+me and say “I read the article for today and didn’t understand it.
+Something is terribly wrong!”  No it’s not.  Learning is hard.  Reading
+science, doing math, writing well, making an argument, they all take
+serious effort.  None of it is supposed to be like reading a newspaper
+article or watching tv.  It’s totally normal to have to read something
+several times to get it.</p>
+
+<p>Dr. Tae talks a bunch about how fundamentally broken our schools are
+with their bad teachers and semester-long courses and grades.  But then
+he says there are a lot of ways we can “polish the turd”.  He’s right about
+this too.  My students ask their own questions, work in small groups,
+and spend big chunks of time one-on-one with me.  I reward curiosity,
+creativity, and hard work in my grading.  Many of them continue research
+they started in my classes after the semester is over.  My bet is that
+all this is true of Dr. Tae’s classes when he teaches physics.</p>
+
+<p>Before you throw out schools as currently conceived, you have to be
+ready to replace them with something better.  Here’s where I think
+Dr. Tae’s train goes off the rails.  His ideas about “distributed
+teaching” are totally crazy.  He seems to think that we should all teach
+what we know part-time and all together, this will give people a better
+educational experience than they would get in college.  He gives
+Wikipedia as an example.  I love Wikipedia, but reading about a topic
+there is a far cry from taking a course on it with someone who has spent
+their life studying it.</p>
+
+<p>Like so many things, it all comes down to incentives.  Knowledge is a
+public good, but someone has to produce it and communicate it.  That’s
+not free.  A system that depends on people volunteering their time is a
+system that produces an extremely sub-optimal amount of knowledge.
+There’s probably a role for government in subsidizing this production,
+and I think this a great argument for not
+<a href="http://www.universityofcalifornia.edu/news/article/21271">dismantling our public universities</a>.
+But I do think there’s vast room for improvement to the education
+system.  In the meantime I’ll continue to polish turds in my own
+classes.</p>
+]]></content>
+  </entry>
+  
+</feed>

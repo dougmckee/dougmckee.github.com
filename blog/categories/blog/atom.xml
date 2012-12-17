@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[blog | High Variance]]></title>
+  <link href="http://dougmckee.github.com/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://dougmckee.github.com/"/>
+  <updated>2012-12-16T21:34:21-05:00</updated>
+  <id>http://dougmckee.github.com/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Update: Comments on Blogs]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/06/update-comments-on-blogs/"/>
+    <updated>2012-01-06T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/06/update-comments-on-blogs</id>
+    <content type="html"><![CDATA[<p>Wouldn’t you know it, the very day after I post <a href="http://highvariance.net/post/15325386814/comments-on-blogs">my piece on comments on
+blogs</a>, <a href="http://www.marco.org">Marco Arment</a> and
+<a href="http://twitter.com/mattalexand">Matt Alexander</a> actually have a
+<a href="http://www.loopinsight.com/2012/01/04/the-e-reader-as-we-know-it-is-doomed/">post</a>,
+<a href="http://www.marco.org/2012/01/04/the-ereader-as-we-know-it-is-doomed">back</a>,
+and <a href="http://www.one37.net/blog/2012/1/5/doomed.html">forth</a> and
+<a href="http://www.marco.org">back</a>.  Just the kind of blog-to-blog
+conversation I said never happens.  I guess
+<a href="http://www.youtube.com/watch?v=_Z5-P9v3F8w">Justin Bieber</a> was right.</p>
+
+<p>Incidentally, <a href="http://www.loopinsight.com/">The Loop</a>, where Matt
+Alexander posted his original article does allow comments.
+His take-away on Twitter seems to be that the conversation
+wasn’t all that fruitful:</p>
+
+<blockquote>
+  <p>“It’s blogging interactions like I had
+yesterday that prove @mattgemmell right.”  </p>
+</blockquote>
+
+<p>So we’ve come full circle.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comments on Blogs]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/06/comments-on-blogs/"/>
+    <updated>2012-01-06T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/06/comments-on-blogs</id>
+    <content type="html"><![CDATA[<p>It’s become very trendy on tech blogs to not allow comments on articles.
+And at least a couple of folks
+(<a href="http://mattgemmell.com/2011/11/29/comments-off/">Matt Gemmell</a> and
+<a href="http://brooksreview.net/2011/11/gemmell-comments/">Ben Brooks</a> have been
+actively trying to convince other bloggers to turn off their comments too.  I
+agree that if you’ve got a popular blog (and maybe a thin skin), turning
+off comments can make your life easier.  I would even agree that on
+popular blogs (and websites more generally) many (most?)  comments don’t
+really further the discussion.  In fact, I read most of my blogs
+(including Matt’s and Ben’s) inside
+<a href="http://reederapp.com/">an RSS reader</a> and so I don’t even see any of
+the comments that might or might not be there unless I click through to
+the site itself.</p>
+
+<p>But I have three objections to their position on comments.  First, when
+you don’t get much traffic (I’m looking at you High Variance) and you
+know most of the people reading your blog, it’s really nice to get as
+much feedback as possible and I think comments are the best way to do
+that.  If someone reading my article has something interesting to say
+about it, the comment gives them an audience.  They can always email if
+they want to say something privately,</p>
+
+<p>Second, I often like to read what other people have to say about an
+article (whether I’ve written it or not), even when I have to wade
+through some less than insightful stuff.  Again, the signal-to-noise
+ratio is particularly high in the early days of a blog when it’s mostly
+friends reading, but even on a big messy site like
+<a href="http://www.espn.com">espn.com</a> I think it’s fun to see the popular
+reaction to a story.  And yes, I get it that the sample is not even
+representative of the readership let alone the general population.  I
+think <a href="http://slashdot.org">Slashdot</a> is a terrific example of how
+constructive (and entertaining) discussion of an issue can happen on the
+web through comments.</p>
+
+<p>Third, there’s this high horse attitude that if people have something to
+say about an article, they should just write it up as an article on
+their own blog.  And if the original author reads it and wants to
+comment back, they will write another article on their blog.  I’m sorry,
+but this just doesn’t happen.  I mean, I’ve seen blogs comment on other
+blogs, but in almost every case the debate stops there.  And it’s
+impossible for someone visiting the original site to see the
+conversation at all.  And, believe it or not, there are people with
+intelligent things to say that don’t have a blog.</p>
+
+<p>Maybe I’ll change my tune in the future when I’m drowning in haters and
+forum-spam, but I have a feeling that’s going to be a while.  Until
+then, comments will stay turned on.</p>
+
+<p><a href="http://highvariance.net/post/15402930759/update-comments-on-blogs">UPDATE HERE</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://dougmckee.github.com/blog/2011/12/21/first-post/"/>
+    <updated>2011-12-21T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2011/12/21/first-post</id>
+    <content type="html"><![CDATA[<p>I’m sure there are hundreds (if not thousands) of articles on the web
+about why one should (or shouldn’t) blog, but I think this is a very
+personal question.  For me, the first (but not the only) reason is that
+I want to consume less and create more.  Of course, blogging is
+something I’ve thought about for a long time and
+<a href="http://www.quora.com/Chris-Wake/Hidden-habits-of-ineffective-people">this article</a> was the straw that filled the camel’s stomach.</p>
+
+<p>I also feel the only way to write better and more comfortably is to
+write, and blogging is a natural and fun form of writing.  I think it
+lends itself to the 15-30 minute chunks that I’m planning to invest.  I
+tried Twitter a few months ago as way to scratch my blogging itch and
+the experience confirmed for me that tweeting isn’t writing. Even my
+tiny attention span is too long for Twitter.</p>
+
+<p>But these two goals could have been accomplished with a personal
+journal.  That didn’t feel right either, because I also aspire to
+providing entertaining, useful, and inspiring content, though achieving
+just one or two of these at a time is probably a more achievable goal.
+Having an audience also has perks: It’s a great incentive to not put out
+junk.  You don’t even need an audience to get this benefit–just a
+potential audience.  I’m also looking forward to hearing occasional
+feedback on stuff I write.</p>
+
+<p>So what’s on the horizon?  To be honest, this might be one of those
+projects I start that fizzles almost immediately.  I almost named this
+Ghost Blog in honor of that possibility.  But instead, I went with a
+more optimistically descriptive title because I have eclectic plans for
+this space.  And while this is most definitely not a purely professional
+blog, I don’t plan to write anything that will prevent me from holding
+elected office.</p>
+]]></content>
+  </entry>
+  
+</feed>

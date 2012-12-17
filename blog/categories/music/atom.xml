@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: music | High Variance]]></title>
+  <title><![CDATA[music | High Variance]]></title>
   <link href="http://dougmckee.github.com/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://dougmckee.github.com/"/>
-  <updated>2012-11-26T10:15:30-05:00</updated>
+  <updated>2012-12-16T21:34:21-05:00</updated>
   <id>http://dougmckee.github.com/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -14,204 +14,312 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Playing the Victim]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/12/13/playing-the-victim/"/>
+    <updated>2012-12-13T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/12/13/playing-the-victim</id>
+    <content type="html"><![CDATA[<p>The eighties are not known as a time of soul bearing honesty (see
+<a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">Iran-Contra</a>), but
+eighties music is full of cheesy earnestness about love in its various
+messy forms.  Eighties singers told the hard truths even when it made
+them look weak.  Here are four great examples of eighties guys who
+weren’t afraid to play the victim:</p>
+
+<ul>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=9abYzI9ycjk">Everything She Wants</a> (by
+Wham, 1984): George Michael is having a rough time with a no-good
+money-grubbing girlfriend.  I smile every time he finds out
+she’s pregnant and says “If my best isn’t good enough, how can it be
+good enough for two?  I can’t work any harder than I do!” Maybe this was
+the incident that turned him off women forever?  Not that there’s
+anything wrong with that!</p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=Iu788foYCa8">I’ve Done Everything For You</a>
+(Rick Springfield, 1981): Based on my analysis of his catalog, this
+guy seems like he was just a bad boyfriend.  He lusted after his friend
+<a href="http://www.youtube.com/watch?v=qYkbTyHXwbs">Jessie’s girl</a>.  He told his girl not to <a href="http://www.youtube.com/watch?v=cp42V938eBA">talk to strangers</a>.  And here
+he says “I’ve done everything for you; you’ve done nothing for me!”
+At least he was <a href="http://ztams.com/index.php?action=display&amp;ref=26342">good looking</a>!</p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=uPudE8nDog0">Don’t You Want Me?</a>(by
+The Human League, 1981) This is another case of a guy who did
+everything–“I picked you out, I shook you up, and turned you around”
+and she’s got the nerve to dump him.  What’s unique in this song is that she
+gets the opportunity to tell her side of the story.</p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=9dZW1C3neao">The Rain</a> (by Oran Juice
+Jones, 1986): Here’s where we see that eighties male victimhood
+crossed race lines.  The best part of the song is when we listen in on Mr. Jones
+confronting his cheating girlfriend and telling her “You gotta get on
+outta here with that alley-cat-coat-wearing, punch-bucket-shoe-wearing
+crumbcake I saw you with. Cause you dismissed!”</p>
+  </li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In the age of the internet, original ideas are hard to come by]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas/"/>
+    <updated>2012-06-03T00:00:00-04:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas</id>
+    <content type="html"><![CDATA[<p>I think of myself as a reasonably creative guy.  I’m not always coming
+up with particularly useful or imporant ideas, but I like to think
+they’re fairly unique.  Unique in a small town or among your friends is
+one thing, but unique on the Internet is quite another.  I thought it
+would be fun to share some ideas I had for posts that turned out be less
+original than I first thought.</p>
+
+<h2 id="is-height-normal">Is height normal?</h2>
+
+<p>Adult height is one of the prototypical examples of a naturally
+occurring normal distribution, but if you look at real data, it’s not
+perfectly normal.  First off, it’s a mixture of men and women who
+individually have pretty normal heights but quite different means (by
+about 5”).  Second, the tails of the distribution are fatter than
+normal.  That is, extremely short and tall people are far more common
+than predicted by a pure normal distribution.  All this is explained
+very nicely explained in two 2008 posts (<a href="http://www.johndcook.com/blog/2008/07/20/why-heights-are-normally-distributed/">here</a>, <a href="http://www.johndcook.com/blog/2008/11/25/distribution-of-adult-heights/">here</a>, and
+<a href="http://www.johndcook.com/blog/2008/07/20/why-heights-are-not-normally-distributed/">here</a>) by John D. Cook at <a href="http://www.johndcook.com/blog/">The Endeavor</a>.</p>
+
+<h2 id="nietzsche-and-pop-music">Nietzsche and pop music</h2>
+
+<p>There aren’t very many 19th or 20th Century philosophers that inspire
+pop songs. The Cure turned Albert Camus’ The Stranger into “Staring at
+the Sea”, but up until a few weeks ago I thought that was it.  How wrong I
+was!  Kelly Clarkson’s “<a href="http://www.youtube.com/watch?v=Xn676-fLq7I">What Doesn’t Kill You</a>” has been getting
+tremendous airplay on pop stations and it’s not much different from
+Christina Aguilera’s “<a href="http://www.youtube.com/watch?v=RBOJpIwF47Y">Fighter</a>” which also talks about how being
+beaten down just makes her “stronger”, “harder”, and “wiser”.  And it
+turns out <a href="http://www.youtube.com/watch?v=FujhZoAg2-I">tons and tons of songs</a> have been inspired by this
+<a href="http://www.brainyquote.com/quotes/quotes/f/friedrichn159167.html">Nietzsche quote</a>.  I thought it would be fun to see how many more of
+Nietzsche’s ideas (e.g., the <a href="http://en.wikipedia.org/wiki/Friedrich_Nietzsche#.C3.9Cbermensch">Superman</a>)  have been translated into pop
+music (maybe “<a href="http://en.wikipedia.org/wiki/Donovan#Sunshine_Superman">Sunshine Superman</a>”?).  Turns out Craig
+Schuftan has written a <a href="http://startnarrativehere.com/2010/01/hey-nietzsche-leave-them-kids-alone-the-romantic-movement-rock-roll-and-the-end-of-civilisation-as-we-know-it-by-craig-schuftan-2009">whole book</a> about this called
+<em>Hey! Nietzsche! Leave Them Kids Alone!: The Romantic Movement, Rock &amp;
+Roll, and the End of Civilisation as We Know It</em>.</p>
+
+<h2 id="the-environmental-impact-of-cleaning-the-augean-stables">The environmental impact of cleaning the Augean stables</h2>
+
+<p><a href="http://en.wikipedia.org/wiki/Augeas">The Fifth Labor of Heracles</a> was to clean the Augean stables.
+They were so dirty and filthy that he had to divert two rivers through
+them to wash out the manure that 1000 cattle had produced over thirty
+years.  This reminded me of what happened when hurricanes hit North
+Carolina a few years ago and pushed massive amounts of pig waste into
+the water supply.  Wouldn’t it be interesting to write a quick
+environmental impact statement for Hercules’ act?  A few people have
+noticed that the effects were probably pretty serious (<a href="http://thepunnery.wordpress.com/tag/augean-stables/">The Punnery</a>,
+<a href="http://hazwastemanagement.info/HazWasteManagement_Solutions/Chapter_16_HWM_2nd_ed_Solutions.pdf">this homework assignment</a> for a class on Hazardous Waste Management)
+but no one has actually done any calculations to show how serious.
+Hmm….maybe I can contribute something here!</p>
+
+<h2 id="a-sitcom-about-a-woman-with-cancer">A sitcom about a woman with cancer.</h2>
+
+<p>Last month I had a strange dream about developing a sitcom that starred
+a woman who is diagnosed with cancer and goes through the whole
+treatment process.  The story would have a full three year arc with
+cliff-hangers every year when she (or her new best friend who also has
+cancer) goes in for testing.  The final episode would be her saying
+goodbye.  The show would have lots of funny kids, hair loss jokes, and
+nausea jokes.  She could also start a romantic relationship in the
+middle of the run.  An awfully large number of people have either had
+cancer by now or had someone very close go through it.  I really believe
+that a show like this would have a big audience of people who want to
+laugh about a serious thing.  Showtime also believed this and started
+“<a href="http://en.wikipedia.org/wiki/The_Big_C_(TV_series)">The Big C</a>” in 2010 and it’s entering its third season now.
+According to Wikipedia, it’s been very successful since the beginning!</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Got My Country On]]></title>
     <link href="http://dougmckee.github.com/blog/2012/05/20/country/"/>
     <updated>2012-05-20T00:00:00-04:00</updated>
     <id>http://dougmckee.github.com/blog/2012/05/20/country</id>
-    <content type="html"><![CDATA[<p>There have been times in my life when I've listened to whatever music I
+    <content type="html"><![CDATA[<p>There have been times in my life when I’ve listened to whatever music I
 wanted whenever I wanted, but these days, I have a lot more constraints.
-At work, I'm pretty underslept and need all the concentration I can
-get---that means a silent work environment.  At home, I don't feel right
+At work, I’m pretty underslept and need all the concentration I can
+get—that means a silent work environment.  At home, I don’t feel right
 cranking up Swedish death metal or even <a href="http://www.directlyrics.com/katy-perry-last-friday-night-lyrics.html">Katy Perry</a> in front of the
 kids.  I get my classic rock fix while shopping in the supermarket late
 at night, and in the car, all the trashy dance music stations I like are
 full of static.</p>
 
-<p>So I've started listening to <a href="http://licountry.com/">97.1, My Country</a>.
+<p>So I’ve started listening to <a href="http://licountry.com/">97.1, My Country</a>.
 It comes in crystal clear and plays terrific new country.  Trust me that
-I'm as surprised as you are as I've always been an "I don't like
-country" guy.  The twang and the stories and the guitar always bugged
-me.  I'm not totally sure what's changed, but over the last few weeks
-I've Shazamed several songs that I've had to buy on iTunes.  Here are my
+I’m as surprised as you are as I’ve always been an “I don’t like
+country” guy.  The twang and the stories and the guitar always bugged
+me.  I’m not totally sure what’s changed, but over the last few weeks
+I’ve Shazamed several songs that I’ve had to buy on iTunes.  Here are my
 current favorites:</p>
 
 <ul>
-<li><p><a href="http://www.youtube.com/watch?v=8peBUdlUNmM&amp;ob=av2e">"Country Must Be Country Wide"</a>
-(by Brantley Gilbert): This is a straight-up country anthems and it's so
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=8peBUdlUNmM&amp;ob=av2e">“Country Must Be Country Wide”</a>
+(by Brantley Gilbert): This is a straight-up country anthems and it’s so
 rockin I swear Bon Jovi could have recorded
-it in the mid 80's.  It's got awesome guitar and great lines like
-"In every state there's a station playing Cash, Hank, Willie, and
-Waylon".</p></li>
-<li><p><a href="http://www.youtube.com/watch?v=SCuaCDPR0ao">"Got My Country On"</a> (by
+it in the mid 80’s.  It’s got awesome guitar and great lines like
+“In every state there’s a station playing Cash, Hank, Willie, and
+Waylon”.  </p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=SCuaCDPR0ao">“Got My Country On”</a> (by
 Chris Cable): Another anthem, this reminds me of all those
 rap songs that brag about being the biggest gangsta around.  Except this
-gangsta is "Gonna do some chillin, chicken grillin and guitars".  He
-even says he's "Trickin [his] truck like a Cadillac".</p></li>
-<li><p><a href="http://www.youtube.com/watch?v=bjKFb-4t_vg&amp;ob=av2e">"This"</a> (by Darius Rucker): This song couldn't be more earnest: "Thank
-God for all I missed Cause it led me here to this."  I've never been a
-Hootie and the Blowfish fan, but maybe I need to give them a chance.  Yikes.</p></li>
-<li><p><a href="http://www.youtube.com/watch?v=7UCGzawJ1yg">"Drink On It"</a> (by Blake Shelton): This one is less sweet, but just as
-earnest.  It's about a country boy trying to get a girl drunk so he can
-sleep with her.</p></li>
+gangsta is “Gonna do some chillin, chicken grillin and guitars”.  He
+even says he’s “Trickin [his] truck like a Cadillac”.</p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=bjKFb-4t_vg&amp;ob=av2e">“This”</a> (by Darius Rucker): This song couldn’t be more earnest: “Thank
+God for all I missed Cause it led me here to this.”  I’ve never been a
+Hootie and the Blowfish fan, but maybe I need to give them a chance.  Yikes.</p>
+  </li>
+  <li>
+    <p><a href="http://www.youtube.com/watch?v=7UCGzawJ1yg">“Drink On It”</a> (by Blake Shelton): This one is less sweet, but just as
+earnest.  It’s about a country boy trying to get a girl drunk so he can
+sleep with her.  </p>
+  </li>
 </ul>
 
+<p>Maybe this will country thing be a fad for me.  Or maybe I’ll be wearing Wranglers and
+cowboy boots by this time next year.  I’ll definitely pass on the <a href="http://www.cancer.gov/cancertopics/factsheet/Tobacco/smokeless">Skoal</a> though.</p>
 
-<p>Maybe this will country thing be a fad for me.  Or maybe I'll be wearing Wranglers and
-cowboy boots by this time next year.  I'll definitely pass on the <a href="http://www.cancer.gov/cancertopics/factsheet/Tobacco/smokeless">Skoal</a> though.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Albums]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/02/06/albums/"/>
-    <updated>2012-02-06T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/02/06/albums</id>
-    <content type="html"><![CDATA[<p>I'm old. I grew up wandering around record stores trying to decide
-whether to buy albums based on one or two songs I might have heard on
-the radio, cover art, and what I knew about the band. These were big
-decisions when I didn't have much money and cd's were $15-17 each.</p>
+    <title type="html"><![CDATA[The Beatles' Strange Obsession with Serial Killers]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/03/05/the-beatles-strange-obsession/"/>
+    <updated>2012-03-05T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/03/05/the-beatles-strange-obsession</id>
+    <content type="html"><![CDATA[<p>The Beatles played mostly sugary upbeat pop songs.  They have <em>at least
+three</em> songs about good mornings<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. They sang that “All You Need is
+Love” and “Octopus’s Garden” and “Yellow Submarine”.  The whole band
+spent time in India getting in tune with their spiritual sides.  John
+went on to “imagine all the people living life in peace” while Paul sang
+“Ebony and Ivory” with Stevie Wonder.</p>
 
-<p>Today's online music world couldn't be more different.  Kids these days
-think about albums like they're rotary dial phones--they download gobs of
-music for free (e.g., BitTorrent) or they just listen to whatever they
-want through Pandora or Spotify.  And when they do actually shell out cash,
-it's 99 cents per song.</p>
+<p>All that’s true.  And so is the fact that they had a creepy obsession
+with violence against women and serial killers.  It all started in 1965
+with <em>Rubber Soul</em>’s final track: “Run for Your Life”.  I’ll lyrics
+speak for themselves:</p>
 
-<p>But I live in the past and still agonize over album purchases.  Prices have
-gone down and my income has gone up a little, but I like owning my
-music legally and I still like listening to the set of songs an artist
-chose to package together as an album.  Over time though, I've developed
-a few rules to guide me in the decision process.</p>
+<pre>
+Well I'd rather see you dead, little girl
+Than to be with another man
+You better keep your head, little girl
+Or I won't know where I am
 
-<ol>
-<li><p>Learn from previous purchases if the band produces albums with a few
-good tracks and filler.  Madonna and Metallica both produce tremendous
-quality throughout while Katy Perry is more up and down.  The younger
-the artist, the more careful you have to be (Yes I'm looking at you
-Justin Bieber!)</p></li>
-<li><p>"Best of" albums can be a treasure trove (e.g., Electric Light
-Orchestra or Heart) if original album quality is spotty.</p></li>
-<li><p>Beware of bargains--it's those dreaded filler albums that are
-most often on sale.</p></li>
-<li><p>If you can restrain yourself from the impulse purchase, listen to the
-album a couple times through on Spotify first.  A minute and a half
-sample often isn't enough.</p></li>
-<li><p>iTunes has deluxe versions of many albums that contain remixes and
-the occasional music video.  With YouTube, the video's not much of a
-draw, but I never regret the remixes which are often better than the
-original versions.</p></li>
-<li><p>Just because it's a concept album doesn't you shouldn't. cherry pick
-the best tracks. Judas Priest's <em>Nostradamus</em> just isn't that good even
-though the second track ("Prophecy") rocks.</p></li>
-<li><p>As bends enter the twilight of their careers, albums get worse and
-worse even though they can still produce individually good
-songs. Metallica and Depeche Mode are great examples. This is the bright
-side of a great band breaking up mid-career like The Beatles, Led
-Zeppelin, or The Smiths.</p></li>
-</ol>
+You better run for your life if you can, little girl
+Hide your head in the sand little girl
+Catch you with another man 
+That's the end'a little girl
+</pre>
 
+<p>They followed this in 1967 with Sgt. Pepper’s “Getting Better”.  I loved
+this song when I was a kid and thought nothing of these lines:</p>
 
-<p>Bottom line: The album may be dying, but it's not dead yet.  At least
-not in my little fantasy world.</p>
+<pre>
+I used to be cruel to my woman
+I beat her and kept her apart 
+  from the things that she loved
+Man, I was mean but I'm changing my scene
+And I'm doing the best that I can (ooh)
+</pre>
+
+<p>Unfortunately, things were not getting better.  In 1968 the Beatles
+released the White Album which was full of songs that went on to inspire
+renowned serial killer Charles Manson.  The lyrics to Manson’s favorite
+song (“Helter Skelter”) are a little opaque (e.g., “When I get to the
+bottom I go back to the top of the slide”) but Manson sure knew what
+they meant.</p>
+
+<p>And finally, on the last album they recorded together (<em>Abbey Road</em>),
+the Beatles transparently glamourized a serial killer named Maxwell
+Edison who by the end of the song bludgeons to death two women and a
+male magistrate:</p>
+
+<pre>
+Bang, bang, Maxwell's silver hammer
+Came down upon his head
+Bang, bang, Maxwell's silver hammer
+Made sure that he was dead
+</pre>
+
+<p>The Beatles were an incredibly talented and versatile band.  They’ve
+inspired countless musicians over the years.  Perhaps it’s time to give
+them credit for inspiring some 1990’s sicko metal (and nü-metal)
+bands like Slayer and Korn too.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><em>Revolver</em>’s “Good Day Sunshine”, <em>Sgt. Pepper</em>’s “Good Morning”,
+and <em>Abbey Road</em>’s “Here Comes the Sun”.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[All Men Play on 10]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/01/28/all-men-play-on-10/"/>
-    <updated>2012-01-28T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/01/28/all-men-play-on-10</id>
-    <content type="html"><![CDATA[<pre>
-  All men play on ten,
-  Never gonna turn down again.
-  All men play on ten,
-  Never gonna turn down.
- 
-           "All Men Play on 10" 
-           <em>Manowar, Sign of the Hammer</em>, 1984
-</pre>
+    <title type="html"><![CDATA[Home Music Streaming]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/03/02/home-music-streaming/"/>
+    <updated>2012-03-02T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/03/02/home-music-streaming</id>
+    <content type="html"><![CDATA[<p>Sometimes I write because I’ve learned or created something interesting
+that I want to share. Sometimes I write because I’m so appalled by
+something I need to get it off my chest. But rarely is it both. About a
+week ago I was ready to write a scathing post describing my really great
+but really unstable home music system.  Things are a lot better now, but
+I still wanted to share.</p>
 
+<p>The hardware is a combination of old Apple parts and stereo equipment:</p>
 
-<p>Songs that celebrate rock and roll are a dime a dozen.  I mean, I love
-Joan Jett's "I Love Rock and Roll" and Ozzy Osbourne's "You Can't Kill
-Rock and Roll" and even Huey Lewis' "Heart of Rock and
-Roll" as much as anyone, but the idea is a little played out.</p>
+<ul>
+  <li>An Airport Express that I bought on eBay for $55 connected to an old
+Bose Acoustic Wave (also bought on eBay) in the kitchen </li>
+  <li>An iMac in the office with my entire 76 GB music collection stored in mp3’s
+and de-drm’ed AAC files</li>
+  <li>A 1.0 AppleTV connected to a traditional stereo system in the
+living room </li>
+</ul>
 
-<p>On the other hand, songs that literally <strong>demand</strong> to be played loud and
-explicitly proclaim the band's love of loud music are tremendously
-under-appreciated.  It's a much smaller genre, but I can (and do) listen
-to these songs over and over.</p>
+<p>With this set up, I run iTunes on the Mac and can have it play in any
+or all of the three locations at any time.  With the Remote iPhone app,
+I can control it from anywhere in the house.  Sounds nice, right?
+Unfortunately, I would have to reboot my wireless router (a 2wire from
+Uverse) a couple times a day because the Remote app would spontaneously
+stop talking to the Mac. And then a few times a week I would have to
+reboot the Mac because it would stop talking to the kitchen Airport
+Express and the living room AppleTV.  Grr….</p>
 
-<p>Here's a list of my favorites (<a href="http://c.itunes.apple.com/us/imix/play-it-loud!/id497298702">Ping version</a>):</p>
+<p>I had no idea what was going on until I stopped using the Parallels
+virtual machine software on the Mac. I had been running MS Office in a
+Windows 7 vm, but finally got sick of the quirks and just installed the Mac
+native version of Office. It took me a couple weeks to notice that I
+never had to reboot the router again. Damn you Parallels!  I don’t know
+how you messed up the network, but you did!  Then I noticed that the
+Mac only stopped talking to the other devices when I used the Yale
+VPN. And when I got off and even quit out of the Cisco VPN app, it
+<em>still</em> couldn’t connect until I rebooted.  Two applications messing up
+the network?  Hmm….makes me wonder if maybe a bug in the OS is to
+blame.</p>
 
-<ol>
-<li>"All Men Play on 10" <em>Manowar</em></li>
-<li>"Turn Up the Radio" <em>Autograph</em></li>
-<li>"I Love It Loud" <em>Kiss</em></li>
-<li>"Shout It Out Loud" <em>Kiss</em></li>
-<li>"Louder than Hell" <em>Motley Crue</em></li>
-<li>"We Like It Loud" <em>Rough Cutt</em></li>
-<li>"Turn It Up" <em>Ted Nugent</em></li>
-<li>"The Right to Rock" <em>Keel</em></li>
-<li>"I Wanna Rock" <em>Twisted Sister</em></li>
-</ol>
-
-
-<p>The first track, "All Men Play on 10" by Manowar is not the most
-popular, but definitely has the most testosterone.  Everyone has
-probably heard "Turn Up the Radio" by Autograph as it got tons of
-airplay during the eighties, but Kiss has to be the undisputed king of
-the category with two contributions: "I Love It Loud" and "Shout it Out
-Loud".  "Louder than Hell" from Motley Crue wasn't one of their hits,
-but it's always been one of my favorites.  Rough Cutt's "We Like it
-Loud" and Ted Nugent's "Turn It Up" are more obscure, but still
-classics.</p>
-
-<p>The last two songs on my list are honorable mentions because they're
-really more straight up rock anthems than only tangentially suggest that
-music shouldn't be turned down.  Keel's "The Right to Rock" says</p>
-
-<pre>
-  Don't let anyone tell you
-  How to live your life
-  We won't turn it off
-  We won't turn it down
-  'Cause it's our way of life
-</pre>
-
-
-<p>while Twisted Sister's "I Wanna Rock" says:</p>
-
-<pre>
-  Turn it down you say,
-  Well all i got to say to you is 
-  Time and time again i say, "no!"
-  No! no, no, no, no, no!
-</pre>
-
-
-<p>I'm absolutely certain I've left out some important tracks.  So any
-suggested additions will be much appreciated!</p>
-
-<h2>Update:</h2>
-
-<p>I asked for help on
-<a href="http://www.classicrockforums.com/forum/f7/play-loud-19367/">Classic Rock Forums</a> and got some
-great suggested additions:</p>
-
-<ol>
-<li>"Loud" <em>Sammy Hagar</em></li>
-<li>"Shout" <em>Grand Prix</em></li>
-<li>"Blow Your Speakers" <em>Manowar</em></li>
-<li>"Loud and Clear" <em>Autograph</em></li>
-<li>"Play It Loud" <em>Diamond Head</em></li>
-<li>"Play It Loud" <em>Saxon</em></li>
-</ol>
-
-
-<p>I can't believe I forgot to include "Blow Your Speakers", but the other five tracks
-are new to me.  Every one is worth a listen--cranked up all the way of
-course!</p>
+<p>So as of today, I still don’t know why those two apps were causing
+problems, but I don’t have any more surprises. I don’t use Parallels and
+I always reboot after using the VPN.  This keeps the 80’s music
+flowing. The system still isn’t perfect. I want to add another output
+node in the basement. I want to install Airfoil and stream Spotify
+throughout the house. And the Remote app takes way longer than it should
+to connect when it starts. But for the most part, I can listen to
+whatever I want wherever I want and that makes me happy.</p>
 ]]></content>
   </entry>
   

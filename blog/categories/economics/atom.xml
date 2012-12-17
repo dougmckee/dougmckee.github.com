@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[economics | High Variance]]></title>
+  <link href="http://dougmckee.github.com/blog/categories/economics/atom.xml" rel="self"/>
+  <link href="http://dougmckee.github.com/"/>
+  <updated>2012-12-16T21:34:21-05:00</updated>
+  <id>http://dougmckee.github.com/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Is it cruel to raise the retirement age?]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/11/19/raising-the-retirement-age/"/>
+    <updated>2012-11-19T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/11/19/raising-the-retirement-age</id>
+    <content type="html"><![CDATA[<p>I like Paul Krugman a lot–we’re both liberals and believe strongly in
+the value of big government and thougtful regulation.  Unfortunately, he
+sometimes has strong opinions about things he hasn’t thought through.
+That’s my only explanation for his <a href="">recent article</a> on the “cruelty” of
+raising the Social Security retirement age–a policy I think is smart on
+almost every dimension.  </p>
+
+<p>The Social Security system was designed after the Great Depression to do
+two things: keep old people out of poverty and insure against disability
+that prevents people from working to support themselves.  The disability
+insurance part of Social Security is less well-known than its retirement
+benefits but is very important and I have nothing to say about it today.
+You’ll note that I didn’t mention a third objective: funding a long
+retirement for most people after they’ve worked a sufficient number of
+years.  The Social Security system is expected to provide this now, but
+it certainly wasn’t at the beginning.</p>
+
+<p>In 1930, the average white 20 year old male could be expected to live to
+age 66 (<a href="http://www.infoplease.com/ipa/A0005140.html">source</a>).  If he
+made it to age 40, he could expect to live to age 69, and if he made it
+to age 50, his expected age of death increased to about 72 years.  During
+the bulk of the years he contributed to Social Security, he was
+expecting a fairly short (1 to 7 year) period after age 65 when he could
+actually retire with full benefits.  Even FDR didn’t see the goal as
+funding people’s “golden years”:</p>
+
+<pre><code>"We can never insure one hundred percent of the population against
+one hundred percent of the hazards and vicissitudes of life, but we
+have tried to frame a law which will give some measure of protection
+to the average citizen and to his family against the loss of a job
+and against poverty-ridden old age."
+
+-- President Roosevelt upon signing Social Security Act ([source](http://www.ssa.gov/history/briefhistory3.html))
+</code></pre>
+
+<p>Contrast this with the experiences of people in 2004 (the latest year I
+could easily find data). A 20 year old expected to live to 77 years, a
+40 year old to 78 years, and a 50 year old to 79 years.  The expected
+duration of retirement ranged from 12 to 14 years.  Krugman is right
+that the expected length of retirement upon reaching age 65 has not
+changed all <em>that</em> much
+(<a href="http://www.ssa.gov/pressoffice/basicfact.htm">from 14 years to almost 20 years</a>),
+but that’s irrelevant to people’s expectations during working life.</p>
+
+<p>Other things have changed since the Social Security was enacted too.
+While original benefits were high enough to keep retirees out of
+poverty, modern levels replace a much larger fraction of income.  Jobs
+are a lot less physically demanding today.  In 1940, 26.7% of those
+employed worked on farms or did miscellaneous forms of physical labor
+relative to just 5.9% in 1990.  And in 1940, only 21.3% of workers were
+managers, officials, clerical workers, or professionals.  This ballooned
+to more than half the work force by 1990.  (More detailed breakdowns
+<a href="http://www.demographicchartbook.com/Chartbook/images/figures/fig16-1.pdf">here</a>).
+Finally, I’m pretty sure physical health of those who do survive to 65
+is better now than it has been in the past though I couldn’t easily find
+data to back that up.</p>
+
+<p>Most people who reach 65<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> are strongly enouraged by the incentives in
+the Social Security system to retire even though they are perfectly
+capable of being highly productive members of the work force.  I believe
+their experience is a huge untapped resource for the economy.  But what
+of the people that Krugman is worried about: Those who worked physically
+stressful jobs for years and at age 65 don’t expect to live all that
+much longer.  I have a heart and I worry about this group too.  Suppose
+we let people retire at age 65 but capped their benefits at a relatively
+low level.  This constraint would be unbinding for those who worked low
+paying (and more likely physically demanding) jobs.  At the same time,
+it would encourage relatively wealthier (and healthier) folks to work
+until they were, say, 70 years old.  If wealthier people really want to
+retire earlier, they can save more during their working lives and rely
+on Social Security for what it was designed: insurance against poverty
+in old age.  We all win!</p>
+
+<p>benefits at 62 and higher benefits if they wait until the “full
+retirement age” of 65.  The amounts are designed to make the people
+fairly indifferent between the two dates.  In the next few years, the
+full retirement age will be going up to age 67 (details
+<a href="http://www.socialsecurity.gov/retire2/agereduction.htm">here</a>).</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Currently the system allows people to retire with some<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Time Preference Puzzles]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/02/17/time-preference-puzzles/"/>
+    <updated>2012-02-17T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/02/17/time-preference-puzzles</id>
+    <content type="html"><![CDATA[<p>Last week I saw
+<a href="http://louisville.edu/faculty/cjcour02">Charles Courtemanche</a> present
+<a href="http://www.nber.org/papers/w17483">an interesting paper</a> about how
+people react to changes in food prices. Turns out the impatient people
+and those who might have trouble with commitment (to diets for example)
+are quicker to buy more food when the prices drop.  The paper had some
+issues so I wouldn’t immediately go betting the farm on the results, but
+it used some measures of how people think about time that got me thinking.</p>
+
+<p>The National Longitudinal Survey of Youth (1979 cohort) interviewed
+individuals age 14-22 in 1979 and continued to interview them every year
+until 1994 and every two years after that.  It includes great data on
+schooling, employment, income, fertility, marriage, and cognitive
+skills.  In 2006, they added two particularly interesting questions.
+First, they asked about trade-offs between getting money today versus one
+year later:</p>
+
+<blockquote>
+  <p>Suppose you have won a prize of $1000, which you can claim
+immediately. How- ever, you have the alternative of waiting one year
+to claim the prize. If you do wait, you will receive more than
+$1000. What is the smallest amount of money in addition to the $1000
+you would have to receive one year from now to convince you to wait
+rather than claim the prize now?</p>
+</blockquote>
+
+<p>Based on this question, it’s easy to compute an annual discount rate;
+i.e., how much an individual values the present over the past.  If
+someone says they would be indifferent between $1000 today and $1100 a
+year from now, then their discount rate would be 1100/1000, or about
+0.91.  That is, a dollar today is only worth 91 cents a year from now.</p>
+
+<p>In Courtemanche’s paper, they report that the average discount factor of
+respondents based on the first question is 0.59.  That is, on average,
+people report indifference between $1000 today and $1684 a year from
+now.  This is far far lower than any revealed preference measure I’ve
+ever seen.  For example, in Keane and Wolpin’s classic 1997 paper, they
+estimate that the discount factor is 0.9367, based on career choices of
+young men in the same data set.  Rust and Phelan’s 1997 paper reports an
+estimate of the discount factor of 0.98 based on retirement decisions of
+low income older men in another data set.  And then there’s the fact
+that if people really did discount the future at a really high rate, why
+would they ever invest their money in assets that return 5-10%?
+Strange.</p>
+
+<p>It turns out people sometimes report different annual discount rates
+depending on how long they have to wait–that is, they are inconsistent
+about how much they discount the future.  You can get at the extent of
+this inconsistency by looking at answers to a second (very similar)
+question that was added to the NLSY in 2006:</p>
+
+<blockquote>
+  <p>Suppose you have won a prize of $1000, which you can claim
+immediately. How- ever, you can choose to wait <strong>one month</strong> to claim the
+prize. If you do wait, you will receive more than $1000. What is the
+smallest amount of money in addition to the $1000 you would have to
+receive one month from now to convince you to wait rather than claim
+the prize now?</p>
+</blockquote>
+
+<p>You could compute an annual discount rate from this question too, and
+for many (most?) people it will be lower, because we think that people
+are “present-biased.”  That is, as soon as they have to wait at all,
+there is a penalty.  The average discount rate in the data based on this
+question is indeed lower: 0.28.  Quasi-hyperbolic discounting formalizes the
+idea of present bias by saying that individuals discount future payments
+that are t periods away by β δ<sup>t</sup> where β is
+the measure of present bias and δ is the “pure” measure of time
+preference.  </p>
+
+<p>The average estimates reported in the Courtemanche paper are 0.80 for
+β and 0.75 for δ.  I don’t have much intuition for what these
+numbers should be, but Fang and Sliverman’s 2009 paper (published in
+International Economic Review) uses the NLSY 1979 to estimate them based
+on labor supply and welfare take-up decisions of single mothers.  They
+get a very different number for β (0.34) and a kind of close one
+for δ (0.88).  You can look at the glass as half-empty or
+half-full.</p>
+
+<p>Personally, I find this inconsistency in estimates of people’s time
+inconsistency somewhat disturbing.  It makes me wonder what would happen
+if the NLSY added a third question where the time people had to wait was
+even shorter.  Like a day instead of month.  This would give us another
+estimate of β.  If it was very close to 0.28, I’d feel better about
+the theory of hyperbolic discounting.  Perhaps these experiments have
+already been done in the lab?  We’ve now reached the limits of my
+knowledge of this area.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Morality of Voting]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/20/the-morality-of-voting/"/>
+    <updated>2012-01-20T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/20/the-morality-of-voting</id>
+    <content type="html"><![CDATA[<p>My friend Julian is a pretty nice guy.  He’s generous with his time and
+tolerant of most social behavior.  He honors his commitments and is
+honest in his communication.  But at the same time, he chooses not to
+participate in the US democratic government by voting.  For those of us
+who see voting as a moral obligation, this is somewhat disturbing.
+Julian recently posted a
+<a href="http://tunesforbears.com/2012/01/19/no-really-i-dont-vote/">clear statement of why</a>
+on <a href="http://tunesforbears.com">his blog</a> (which makes for a good read in general
+BTW).  Since he is economic theorist by training, he makes his argument
+by laying out a fairly standard economic model of voting and pointing
+out how it is perfectly rational for him to vote and many other people
+not to.</p>
+
+<p>In Julian’s model, people benefit from voting in two ways: the (slight)
+chance they will personally influence the election and the “warm glow”
+(WG) they get from the experience.  If the sum of these outweigh the
+costs of missing work and traveling to the polling place, then people
+will vote.  Julian justifies his personal decision by saying that most
+other people must get a warmer feeling inside when they vote since the
+chance of any one person changing the election is tiny.  As
+models go, this one is pretty empty (as Julian admits) since so much of
+the action happens in WG and it says nothing about where WG comes from.</p>
+
+<p>I think utilitarian models are great for describing behavior, but lousy
+for defining what behavior is right or wrong.  Just because someone
+might find stealing to be individually rational if their chances of
+being caught are low, that doesn’t make it right.  Before I go on, I
+want to be perfectly clear that I don’t know anything about
+philosophy–I couldn’t even make much sense of this
+<a href="http://www.amazon.com/Philosophy-Beginners-Writers-Readers-Documentary/dp/086316157X">comic book guide to philosphy</a>
+when I read it a few years ago.  That said, Julian’s description of
+Kant’s categorical imperative really spoke to me.  In his (Julian’s)
+words, “citizens are morally obligated to vote if they prefer a world in
+which others do”.  I translate this to mean “it’s immoral to free-ride
+on other people’s voting behavior”.  This is a statement <em>outside</em> the
+model about behavior that may or may not be rational <em>inside</em> the model.
+Julian justifies his own action in this context by saying he wants
+everyone to act as he would act <em>conditional on the WG they happen to
+feel</em>.</p>
+
+<p>If Kant were here, I think he would say that WG is BS and that people
+don’t decide whether or not to vote in order to maximize their
+utility–they decide between right and wrong.  I vote because I want
+to live in a world where everyone (or at least the informed folks vote),
+not because it makes me feel warmer than it does Julian.  To be more
+precise, I think WG is almost homogeneously distributed and some people
+are moral and some are immoral free-riders.</p>
+
+<p>Of course, my statement about Julian being an upstanding moral guy in
+the rest of his life still holds.  :) I just think he’s putting too much
+faith in
+<a href="http://en.wikipedia.org/wiki/Fundamental_theorems_of_welfare_economics">the first theorem of welfare economics</a>.
+Just because there are some (many?) situations where individually
+rational behavior leads to a socially optimal outcome doesn’t mean all
+situations are like that.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mincer 1958]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/17/mincer-1958/"/>
+    <updated>2012-01-17T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/17/mincer-1958</id>
+    <content type="html"><![CDATA[<p>Jacob Mincer’s 1958 paper in the <em>Journal of Political Economy</em>,
+<a href="http://www.jstor.org/pss/1827422">“Investment in Human Capital and Personal Income Distribution”</a>,
+is one of the most well-cited in economics–304 times according to
+<a href="http://apps.isiknowledge.com">Web of Science</a>.  And yet, I would be
+shocked if more than half the people who’ve cited the paper have even
+opened it and read the first page.  The reason it’s cited so often is that Mincer
+did indeed write down the famed Mincer equation here, but he
+wasn’t the first to notice that log wages are an approximately linear
+function of years of education.  What’s special about this paper is that
+Mincer was the first person to write down a simple utility-maximizing
+model from which you can derive such an equation.</p>
+
+<p>Wages are not normally distributed.  The lower half of the distribution
+is all clustered together, but the high end is really spread out.  And
+all those
+<a href="http://en.wikipedia.org/wiki/Occupy_Wall_Street">one percenters</a> at the
+high end are making far more than average wages.  But physical
+dimensions like height, head circumference, and forearm length <em>are</em>
+normally distributed.  And though it’s a lot harder to measure, most
+scholars believe that cognitive ability is normally distributed too. In
+the early part of the twentieth century, this was seen as something of a
+paradox–if physical and cognitive ability are the major determinants of
+productivity then shouldn’t wages (which measure productivity) also be
+normally distributed? </p>
+
+<p>The average gain in wages that comes from an additional year of schooling
+increases with the amount of schooling someone has.  Expected wages go
+up by more for the 16th year of schooling than the 12th year of
+schooling.  One of Mincer’s insights was that a big part of the
+non-normality of the wage distribution is a direct consequence of these
+non-linear returns to schooling.</p>
+
+<p>Mincer had great intuition.  He recognized that a person must eventually
+be compensated for wages they could have earned during the years they
+attend school.  The more schooling you already have, the more you need
+to be compensated for getting an additional year of schooling.  Mincer
+shows that in his model, wages must increase multiplicatively for each
+year and that is exactly what happens when the log wage is a linear
+function of years of education.  In the data, wages are generally
+associated with about a 15 <em>percent</em> increase for each year of
+schooling.</p>
+
+<p>Academic economists worship at the altar of the new and technically
+sophisticated.  This means the vast majority of econ papers written
+before the 1980’s just languish on library shelves.  And even though
+it’s true that most of these older papers aren’t terribly relevant, I
+think Mincer (1958) is just one of several diamonds in the rough.  I’m
+always on the look out for more, and would welcome any suggestions.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pregnant Women and Ramadan]]></title>
+    <link href="http://dougmckee.github.com/blog/2012/01/03/pregnant-women-and-ramadan/"/>
+    <updated>2012-01-03T00:00:00-05:00</updated>
+    <id>http://dougmckee.github.com/blog/2012/01/03/pregnant-women-and-ramadan</id>
+    <content type="html"><![CDATA[<p>Doug Almond has turned out an impressive amount of work in recent years
+on how bad stuff that happens to fetuses early in pregnancy can cause
+long-lasting problems. His first paper on this
+(<a href="http://www.aeaweb.org/articles.php?doi=10.1257/000282805774669943">AER 1985</a>)
+showed that babies who were in utero during the 1918 American flu
+pandemic “displayed reduced educational attainment, increased rates of
+disability, lower income, and lower socioeconomic status.”</p>
+
+<p>In the last year, he has produced two more papers in this area
+(<a href="http://www.aeaweb.org/articles.php?doi=10.1257/app.3.4.56">AEJ Applied 2011</a>,
+<a href="http://papers.nber.org/papers/w17713">NBER Working Paper 17713</a>) that
+focus specifically on the long-term effects of the fasting of pregnant Muslim women
+during Ramadan. And one of his co-authors (Reyn van Ewijk) has a
+<a href="http://www.economists.nl/files/20111122-Long-termhealtheffectsonthenextgenerationofRamadanfastingduringpregnancy-forthcoming.pdf">forthcoming paper</a>
+in the <em>Journal of Health Economics</em> on this topic as well. While none of the
+papers is truly convincing on its own, taken together, the results are
+striking. In Michigan, England, and Indonesia, Muslim babies who were in their
+first trimester during Ramadan go on to experience worse health and
+schooling outcomes than other babies.</p>
+
+<p>What’s surprising about this finding is that the Koran specifically
+states that pregnant women are exempt from fasting during Ramadan if the
+health of their baby is at risk. Van Ewijk’s paper has a terrific
+background section where he explains that in fact most pregnant Muslims
+from around the world do tend to fast during Ramadan. There are three
+main reasons:</p>
+
+<ul>
+  <li>differing beliefs about whether fasting is harmful to fetuses or
+mothers,</li>
+  <li>the requirement that any fasting that doesn’t happen during Ramadan
+must be made up later, or</li>
+  <li>an obligation to make up the fasting with a charitable donation.</li>
+</ul>
+
+<p>It certainly seems to me that as the results from these three papers
+diffuse into the popular press, they could really affect mothers’ and
+physicians’ beliefs.  That is, this research really could have pretty
+direct positive effects on child health.  More research like this please!</p>
+]]></content>
+  </entry>
+  
+</feed>

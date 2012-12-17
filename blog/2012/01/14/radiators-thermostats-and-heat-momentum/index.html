@@ -1,0 +1,287 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Radiators, Thermostats, and Heat Momentum - High Variance</title>
+  <meta name="author" content="Doug McKee">
+
+  
+  <meta name="description" content="We’re deep into our first winter in the new house and are just now
+figuring out how to properly control the indoor temperature. On the
+plus side, we’ &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://dougmckee.github.com/blog/2012/01/14/radiators-thermostats-and-heat-momentum/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="High Variance" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">High Variance</a></h1>
+  
+    <h2>Musings on a wide variety of topics. Basically, I write about stuff I'm thinking about.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:dougmckee.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/blog/categories/kids/">Kids</a></li>
+  <li><a href="/blog/categories/education/">Education</a></li>
+  <li><a href="/blog/categories/music/">Music</a></li>
+  <li><a href="/blog/categories/tech/">Tech</a></li>
+  <li><a href="/blog/categories/economics/">Economics</a></li>
+  <li><a href="/blog/categories/other/">Other</a></li>
+  <li><a href="/blog/archives">All</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Radiators, Thermostats, and Heat Momentum</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-14T00:00:00-05:00" pubdate data-updated="true">Jan 14<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>We’re deep into our first winter in the new house and are just now
+figuring out how to properly control the indoor temperature.  On the
+plus side, we’ve got the ingredients of a fabulous heating system.  The
+brand-new
+<a href="http://www.buderus.us/products/gasheating/gasconventionalboilers/loganog234x.html">gas-fired boiler</a>
+is <em>so</em> much cheaper and cleaner than the oil-fueled relic that was here
+when we moved in.  The house was built in the 1920’s and has one
+or two huge radiators in every room.  We even have a
+programmable thermostat (a Lux TX500B which is nearly identical to the
+current <a href="http://www.luxproducts.com/thermostats/tx500e.php">Lux TX500E</a>)
+so we can lower the temperature during the day when we’re at work and at
+night when we’re in bed.</p>
+
+<p>For the last couple months, the thermostat would turn on the boiler at
+6:00 am and keep it on until the house reached 68 F.  The problem was
+that even though the boiler turned off, the radiators were still full of
+hot water and they would continue heating the house driving the
+temperature up to 71 or 72 and driving me kind of crazy.  The same thing
+would happen in the afternoon when we got home from work.</p>
+
+<p>My first thought was that there must be a setting on the thermostat to
+account for what I’m calling “radiator heat momentum”.  There isn’t.
+The closest you can get is to lower the minimum amount of time the
+boiler is on and that doesn’t actually help in most situations.  My
+second thought was that this was a great excuse to get a
+<a href="http://www.nest.com">Nest</a>–it’s the only thermostat anyone has ever
+described as sexy, but as far as I can tell, its AI smarts are all about
+saving you 10 minutes of programming.  This is especially true if you
+have a pretty rigid schedule.  And it has no special knowledge of
+radiators.  Oh well.</p>
+
+<p>The solution we’ve settled on is imperfect, but  good and easy to
+implement with some semi-creative thermostat programming.</p>
+
+<p>WEEKDAYS: In the morning, we simply set the thermostat to go to 66 and
+the temperature drifts up to where we want it after the boiler turns
+off.  During the day, the house goes down to 62 and at 4:30 pm, the
+thermostat goes back to 67.  The temperature drifts up a little higher
+than we’d like, but we don’t want it to drop below 67 before we go to
+bed and we can only have 4 different temperature settings per day. (Yes,
+I think this restriction is ridiculous.)</p>
+
+<p>WEEKENDS: At 6:00 am, the thermostat jumps to 66 and drifts up to about
+68 within the hour.  At 7:00 am, the thermostat goes to 68 and that
+keeps the house from getting too cold during the day when we are around.  We also set the
+Swing on the thermostat to 0.25 degrees; this means the boiler turns on
+fairly often for short periods of time but these little firings during the
+day don’t generate much momentum–it’s really just the big push in the
+morning and in the afternoon during the week that cause a problem.  It’s
+possible we could raise the Swing and be a little more efficient and
+still not generate much heat momentum.</p>
+
+<p>I’m don’t know why other folks aren’t complaining about this (since
+radiator heat isn’t <em>that</em> rare) and why the thermostats don’t handle it
+more transparently.  My best guess is that less than mammoth radiators
+don’t hold their heat as well and so it’s just not an issue in houses
+with average radiators.  Either that or the solution I’ve come up with
+is so obvious that no one feels the need to talk about it.  My ego tells
+me it’s the former so I’m going with that.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Doug McKee</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-14T00:00:00-05:00" pubdate data-updated="true">Jan 14<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/mundane/'>mundane</a>, <a class='category' href='/blog/categories/other/'>other</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dougmckee.github.com/blog/2012/01/14/radiators-thermostats-and-heat-momentum/" data-via="" data-counturl="http://dougmckee.github.com/blog/2012/01/14/radiators-thermostats-and-heat-momentum/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/01/14/downfall/" title="Previous Post: Downfall">&laquo; Downfall</a>
+      
+      
+        <a class="basic-alignment right" href="/blog/2012/01/16/google-calendar-for-small-groups/" title="Next Post: Google Calendar for Small Groups">Google Calendar for Small Groups &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1><a href="http://www.econ.yale.edu/~dm529">About Me</a></h1>
+</section>
+<section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/12/13/playing-the-victim/">Playing the Victim</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/08/thoughts-on-moocs/">A Few Thoughts on MOOC's</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/19/raising-the-retirement-age/">Is it cruel to raise the retirement age?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/11/16/kid-book-review-halloween/">Kid Book Review: Halloween Edition</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/10/30/bathroom-fan-love-letters/">Bathroom Fan Love Letters</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Doug McKee -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
