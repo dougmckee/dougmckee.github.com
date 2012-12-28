@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[height | High Variance]]></title>
-  <link href="http://dougmckee.github.com/blog/categories/height/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/blog/categories/height/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[In the age of the internet, original ideas are hard to come by]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas/"/>
+    <link href="http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
     <updated>2012-06-03T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas</id>
+    <id>http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
     <content type="html"><![CDATA[<p>I think of myself as a reasonably creative guy.  I’m not always coming
 up with particularly useful or imporant ideas, but I like to think
 they’re fairly unique.  Unique in a small town or among your friends is

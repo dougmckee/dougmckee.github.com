@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[productivity | High Variance]]></title>
-  <link href="http://dougmckee.github.com/blog/categories/productivity/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting Things Done with Remember The Milk (i.e., GTD with RTM)]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm/"/>
     <updated>2012-05-27T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm</id>
+    <id>http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm</id>
     <content type="html"><![CDATA[<p>Every year or so I get cranky about my task management system and switch
 to something new.  This year it’s particularly bad because I’ve been
 hearing the Siren Song of <a href="http://www.omnigroup.com/products/omnifocus/">OmniFocus</a>.  I swear every nerd blogger I read
@@ -254,9 +254,9 @@ just need to get back to work!</p>
   
   <entry>
     <title type="html"><![CDATA[PDF Annotation on the iPad in 2012]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
     <updated>2012-05-16T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
+    <id>http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
     <content type="html"><![CDATA[<p>I’ve always wanted to live life efficiently.  When I was in third grade
 I made a list of all the chores I had to do every morning (like make the
 bed) and timed myself doing them. I even made my mom assign quality
@@ -369,9 +369,9 @@ I am.  And he also likes PDF Expert best.</p>
   
   <entry>
     <title type="html"><![CDATA[Progress Toward Paperless]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/03/30/progress-toward-paperless/"/>
+    <link href="http://www.highvariance.net/blog/2012/03/30/progress-toward-paperless/"/>
     <updated>2012-03-30T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/03/30/progress-toward-paperless</id>
+    <id>http://www.highvariance.net/blog/2012/03/30/progress-toward-paperless</id>
     <content type="html"><![CDATA[<p>I love paper—wrapping paper, home made greeting cards, paper mâché
 piñatas, a good coffee table book, any <a href="http://www.amazon.com/The-Wonderful-Wizard-Oz-Commemorative/dp/0689817517">Sabuda pop up book</a>, origami,
 even (especially?) paper airplanes—it all makes me happy.  And up until

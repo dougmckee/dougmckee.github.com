@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[tech | High Variance]]></title>
-  <link href="http://dougmckee.github.com/blog/categories/tech/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Happy Blogoversary!]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/22/happy-blogoversary/"/>
     <updated>2012-12-22T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary</id>
+    <id>http://www.highvariance.net/blog/2012/12/22/happy-blogoversary</id>
     <content type="html"><![CDATA[<p>The first time I saw the World Wide Web, I was hunched over an 8 lb laptop using a <a href="http://en.wikipedia.org/wiki/Lynx_(web_browser)">text based browser</a> and a 56k modem. There wasn’t much to see and it didn’t seem like a big deal. Then about three month’s later <a href="http://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a> (the first graphical browser) was released and I “got it.” Within a week <a href="http://en.wikipedia.org/wiki/NaviSoft">we</a> redefined our product line and turned a generic set of “network publishing” tools into a web server and a web authoring tool.  Within a year we were purchased by America Online to show that they “got” the web too. My point is that I’ve been deeply embedded in the web for a long time.  </p>
 
 <p>And yet, not including my professional <a href="http://www.econ.yale.edu/~dm529">web-based resume/cv</a>, I didn’t have my own website until exactly a year ago when High Variance was <a href="http://highvariance.net/post/14573237390/first-post">born</a>. I’m not sure why it took me so long to get here, but after a year of any project, I think it’s important to step back and take stock to see if the original goals are being met. I had three:</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[A few comments on Apple's Big October Event]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/25/apple-observations/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/25/apple-observations/"/>
     <updated>2012-10-25T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/25/apple-observations</id>
+    <id>http://www.highvariance.net/blog/2012/10/25/apple-observations</id>
     <content type="html"><![CDATA[<p>Apple’s big October product announcements are now behind us and I’ve
 read more blogger reactions than I care to admit.  Even I’m surprised
 that I still have a few somewhat original thoughts of my own to share.
@@ -110,9 +110,9 @@ their desks to do so.</p>
   
   <entry>
     <title type="html"><![CDATA[My thoughts on the iPhone 5]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/02/iphone5-ios6-review/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/02/iphone5-ios6-review/"/>
     <updated>2012-10-02T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/02/iphone5-ios6-review</id>
+    <id>http://www.highvariance.net/blog/2012/10/02/iphone5-ios6-review</id>
     <content type="html"><![CDATA[<p>So I got my iPhone 5 about a week ago (pre-ordered from AT&amp;T) and have
 barely been able to brag about it to anyone since most of my local
 friends aren’t nearly as nerdy as I am.  Then I remembered that I had a
@@ -214,9 +214,9 @@ how it works.  Truly revolutionary devices aren’t 5.0’s, they are
   
   <entry>
     <title type="html"><![CDATA[Getting Things Done with Remember The Milk (i.e., GTD with RTM)]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm/"/>
     <updated>2012-05-27T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm</id>
+    <id>http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm</id>
     <content type="html"><![CDATA[<p>Every year or so I get cranky about my task management system and switch
 to something new.  This year it’s particularly bad because I’ve been
 hearing the Siren Song of <a href="http://www.omnigroup.com/products/omnifocus/">OmniFocus</a>.  I swear every nerd blogger I read
@@ -453,9 +453,9 @@ just need to get back to work!</p>
   
   <entry>
     <title type="html"><![CDATA[PDF Annotation on the iPad in 2012]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
     <updated>2012-05-16T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
+    <id>http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
     <content type="html"><![CDATA[<p>I’ve always wanted to live life efficiently.  When I was in third grade
 I made a list of all the chores I had to do every morning (like make the
 bed) and timed myself doing them. I even made my mom assign quality

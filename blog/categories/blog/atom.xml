@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[blog | High Variance]]></title>
-  <link href="http://dougmckee.github.com/blog/categories/blog/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Happy Blogoversary!]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/22/happy-blogoversary/"/>
     <updated>2012-12-22T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary</id>
+    <id>http://www.highvariance.net/blog/2012/12/22/happy-blogoversary</id>
     <content type="html"><![CDATA[<p>The first time I saw the World Wide Web, I was hunched over an 8 lb laptop using a <a href="http://en.wikipedia.org/wiki/Lynx_(web_browser)">text based browser</a> and a 56k modem. There wasn’t much to see and it didn’t seem like a big deal. Then about three month’s later <a href="http://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a> (the first graphical browser) was released and I “got it.” Within a week <a href="http://en.wikipedia.org/wiki/NaviSoft">we</a> redefined our product line and turned a generic set of “network publishing” tools into a web server and a web authoring tool.  Within a year we were purchased by America Online to show that they “got” the web too. My point is that I’ve been deeply embedded in the web for a long time.  </p>
 
 <p>And yet, not including my professional <a href="http://www.econ.yale.edu/~dm529">web-based resume/cv</a>, I didn’t have my own website until exactly a year ago when High Variance was <a href="http://highvariance.net/post/14573237390/first-post">born</a>. I’m not sure why it took me so long to get here, but after a year of any project, I think it’s important to step back and take stock to see if the original goals are being met. I had three:</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[Update: Comments on Blogs]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/01/06/update-comments-on-blogs/"/>
+    <link href="http://www.highvariance.net/blog/2012/01/06/update-comments-on-blogs/"/>
     <updated>2012-01-06T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/01/06/update-comments-on-blogs</id>
+    <id>http://www.highvariance.net/blog/2012/01/06/update-comments-on-blogs</id>
     <content type="html"><![CDATA[<p>Wouldn’t you know it, the very day after I post <a href="http://highvariance.net/post/15325386814/comments-on-blogs">my piece on comments on
 blogs</a>, <a href="http://www.marco.org">Marco Arment</a> and
 <a href="http://twitter.com/mattalexand">Matt Alexander</a> actually have a
@@ -71,9 +71,9 @@ yesterday that prove @mattgemmell right.”  </p>
   
   <entry>
     <title type="html"><![CDATA[Comments on Blogs]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/01/04/comments-on-blogs/"/>
+    <link href="http://www.highvariance.net/blog/2012/01/04/comments-on-blogs/"/>
     <updated>2012-01-04T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/01/04/comments-on-blogs</id>
+    <id>http://www.highvariance.net/blog/2012/01/04/comments-on-blogs</id>
     <content type="html"><![CDATA[<p>It’s become very trendy on tech blogs to not allow comments on articles.
 And at least a couple of folks
 (<a href="http://mattgemmell.com/2011/11/29/comments-off/">Matt Gemmell</a> and
@@ -128,9 +128,9 @@ then, comments will stay turned on.</p>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://dougmckee.github.com/blog/2011/12/21/first-post/"/>
+    <link href="http://www.highvariance.net/blog/2011/12/21/first-post/"/>
     <updated>2011-12-21T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2011/12/21/first-post</id>
+    <id>http://www.highvariance.net/blog/2011/12/21/first-post</id>
     <content type="html"><![CDATA[<p>I’m sure there are hundreds (if not thousands) of articles on the web
 about why one should (or shouldn’t) blog, but I think this is a very
 personal question.  For me, the first (but not the only) reason is that

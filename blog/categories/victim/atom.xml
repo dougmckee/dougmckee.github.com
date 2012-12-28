@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[victim | High Variance]]></title>
-  <link href="http://dougmckee.github.com/blog/categories/victim/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/blog/categories/victim/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Playing the Victim]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/13/playing-the-victim/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/13/playing-the-victim/"/>
     <updated>2012-12-13T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/13/playing-the-victim</id>
+    <id>http://www.highvariance.net/blog/2012/12/13/playing-the-victim</id>
     <content type="html"><![CDATA[<p>The eighties are not known as a time of soul bearing honesty (see
 <a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">Iran-Contra</a>), but
 eighties music is full of cheesy earnestness about love in its various

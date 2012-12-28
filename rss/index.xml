@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[High Variance]]></title>
-  <link href="http://dougmckee.github.com/atom.xml" rel="self"/>
-  <link href="http://dougmckee.github.com/"/>
-  <updated>2012-12-27T00:20:31-05:00</updated>
-  <id>http://dougmckee.github.com/</id>
+  <link href="http://www.highvariance.net/atom.xml" rel="self"/>
+  <link href="http://www.highvariance.net/"/>
+  <updated>2012-12-28T13:39:37-05:00</updated>
+  <id>http://www.highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Neighborhood Caroling]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/26/neighborhood-caroling/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/26/neighborhood-caroling/"/>
     <updated>2012-12-26T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/26/neighborhood-caroling</id>
+    <id>http://www.highvariance.net/blog/2012/12/26/neighborhood-caroling</id>
     <content type="html"><![CDATA[<p>Our neighborhood is so awesome. For the last three years (at least) on the evening before Halloween nearly all the kids gather for the Pumpkin Parade.  Everyone wears their costumes and brings their carved pumpkins in a wagon or a stroller and we all proceed to march around the block.  Afterward we have hot cider and cookies and catch up with our friends.</p>
 
 <p>This summer a new neighbor hosted the world’s greatest barbecue block party.  There was terrific turnout and highlights included a hammock filled with up to 10 little girls at any given moment, a sunshine piñata, and a giant cannoli.  The party gave birth to an email list which spawned a Facebook group which then led to last week’s first annual neighborhood Christmas caroling.  We are positively swimming in <a href="http://www.amazon.com/gp/aw/d/0743203046">social capital</a>!</p>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[Happy Blogoversary!]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/22/happy-blogoversary/"/>
     <updated>2012-12-22T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/22/happy-blogoversary</id>
+    <id>http://www.highvariance.net/blog/2012/12/22/happy-blogoversary</id>
     <content type="html"><![CDATA[<p>The first time I saw the World Wide Web, I was hunched over an 8 lb laptop using a <a href="http://en.wikipedia.org/wiki/Lynx_(web_browser)">text based browser</a> and a 56k modem. There wasn’t much to see and it didn’t seem like a big deal. Then about three month’s later <a href="http://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a> (the first graphical browser) was released and I “got it.” Within a week <a href="http://en.wikipedia.org/wiki/NaviSoft">we</a> redefined our product line and turned a generic set of “network publishing” tools into a web server and a web authoring tool.  Within a year we were purchased by America Online to show that they “got” the web too. My point is that I’ve been deeply embedded in the web for a long time.  </p>
 
 <p>And yet, not including my professional <a href="http://www.econ.yale.edu/~dm529">web-based resume/cv</a>, I didn’t have my own website until exactly a year ago when High Variance was <a href="http://highvariance.net/post/14573237390/first-post">born</a>. I’m not sure why it took me so long to get here, but after a year of any project, I think it’s important to step back and take stock to see if the original goals are being met. I had three:</p>
@@ -78,9 +78,9 @@
   
   <entry>
     <title type="html"><![CDATA[Conflict and Sharing]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/17/conflict-and-sharing/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/17/conflict-and-sharing/"/>
     <updated>2012-12-17T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/17/conflict-and-sharing</id>
+    <id>http://www.highvariance.net/blog/2012/12/17/conflict-and-sharing</id>
     <content type="html"><![CDATA[<p>I’ve been thinking a lot about conflict and sharing lately. First because we watch this Sesame Street video almost every night with the girls:</p>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/Gl3e-OUnavQ" frameborder="0" allowfullscreen=""></iframe>
@@ -110,9 +110,9 @@
   
   <entry>
     <title type="html"><![CDATA[Playing the Victim]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/13/playing-the-victim/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/13/playing-the-victim/"/>
     <updated>2012-12-13T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/13/playing-the-victim</id>
+    <id>http://www.highvariance.net/blog/2012/12/13/playing-the-victim</id>
     <content type="html"><![CDATA[<p>The eighties are not known as a time of soul bearing honesty (see
 <a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">Iran-Contra</a>), but
 eighties music is full of cheesy earnestness about love in its various
@@ -160,9 +160,9 @@ crumbcake I saw you with. Cause you dismissed!”</p>
   
   <entry>
     <title type="html"><![CDATA[A Few Thoughts on MOOC's]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/12/08/thoughts-on-moocs/"/>
+    <link href="http://www.highvariance.net/blog/2012/12/08/thoughts-on-moocs/"/>
     <updated>2012-12-08T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/12/08/thoughts-on-moocs</id>
+    <id>http://www.highvariance.net/blog/2012/12/08/thoughts-on-moocs</id>
     <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Mooc">MOOC</a> is an acroynm for Massive Open Online Course.  It’s a trendy name
 for packing up a course’s content (video lectures, problem sets, exams,
 a mechanism for peer interactions, etc.) and making it available to a large
@@ -229,9 +229,9 @@ thelast 10 years.<a href="#fnref:fn_dating" rel="reference">&#8617;</a></p>
   
   <entry>
     <title type="html"><![CDATA[Is it cruel to raise the retirement age?]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/11/19/raising-the-retirement-age/"/>
+    <link href="http://www.highvariance.net/blog/2012/11/19/raising-the-retirement-age/"/>
     <updated>2012-11-19T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/11/19/raising-the-retirement-age</id>
+    <id>http://www.highvariance.net/blog/2012/11/19/raising-the-retirement-age</id>
     <content type="html"><![CDATA[<p>I like Paul Krugman a lot–we’re both liberals and believe strongly in
 the value of big government and thougtful regulation.  Unfortunately, he
 sometimes has strong opinions about things he hasn’t thought through.
@@ -323,9 +323,9 @@ full retirement age will be going up to age 67 (details
   
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Halloween Edition]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/11/16/kid-book-review-halloween/"/>
+    <link href="http://www.highvariance.net/blog/2012/11/16/kid-book-review-halloween/"/>
     <updated>2012-11-16T00:00:00-05:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/11/16/kid-book-review-halloween</id>
+    <id>http://www.highvariance.net/blog/2012/11/16/kid-book-review-halloween</id>
     <content type="html"><![CDATA[<p>About a week before Halloween, R and I raided the library’s selection of
 Halloween-appropriate picture books.  I’ve felt
 <a href="http://highvariance.net/post/21370720836/kid-book-review-library-trip-report-2">guilty before</a>
@@ -383,9 +383,9 @@ illustrations.  This one is about a witch who learns about friendship.</p>
   
   <entry>
     <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/30/bathroom-fan-love-letters/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/30/bathroom-fan-love-letters/"/>
     <updated>2012-10-30T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/30/bathroom-fan-love-letters</id>
+    <id>http://www.highvariance.net/blog/2012/10/30/bathroom-fan-love-letters</id>
     <content type="html"><![CDATA[<p>Two of my favorite bloggers (<a href="http://www.marco.org">Marco Arment</a> and <a href="http://brooksreview.net">Ben Brooks</a>) recently
 published passionate <a href="http://www.marco.org/2012/05/06/bathroom-fan-timer-switches">love</a> <a href="http://brooksreview.net/2012/03/amazon-item/">letters</a> to the <a href="http://www.amazon.com/dp/B003TJAGPS">Panasonic WhisperCeiling</a> bathroom
 fan, and in Marco’s case, a <a href="http://www.amazon.com/dp/B00313JXB0">Leviton electronic timer switch</a>.  Since
@@ -432,9 +432,9 @@ let ourselves be blinded by the opinions of fan-bois.</p>
   
   <entry>
     <title type="html"><![CDATA[A few comments on Apple's Big October Event]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/25/apple-observations/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/25/apple-observations/"/>
     <updated>2012-10-25T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/25/apple-observations</id>
+    <id>http://www.highvariance.net/blog/2012/10/25/apple-observations</id>
     <content type="html"><![CDATA[<p>Apple’s big October product announcements are now behind us and I’ve
 read more blogger reactions than I care to admit.  Even I’m surprised
 that I still have a few somewhat original thoughts of my own to share.
@@ -500,9 +500,9 @@ their desks to do so.</p>
   
   <entry>
     <title type="html"><![CDATA[Mythical Creatures]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/13/mythical-creatures/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/13/mythical-creatures/"/>
     <updated>2012-10-13T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/13/mythical-creatures</id>
+    <id>http://www.highvariance.net/blog/2012/10/13/mythical-creatures</id>
     <content type="html"><![CDATA[<p><strong>Basilisk/Cockatrice</strong></p>
 
 <pre><code>Head and body of a cock,
@@ -557,9 +557,9 @@ one (the Phoenix) that is written specifically for two voices.</p>
   
   <entry>
     <title type="html"><![CDATA[Violence in Kids' Books]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/06/violence-in-kids-books/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/06/violence-in-kids-books/"/>
     <updated>2012-10-06T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/06/violence-in-kids-books</id>
+    <id>http://www.highvariance.net/blog/2012/10/06/violence-in-kids-books</id>
     <content type="html"><![CDATA[<p>My 3.5 year old daughter wants to be a minotaur for Halloween. She loves
 the idea of a person with a bull’s head. She knows that minotaurs live
 in labyrinths and eat humans.  For her costume, she wants to carry an
@@ -627,9 +627,9 @@ occasionally walk Cerberus around the block.</p>
   
   <entry>
     <title type="html"><![CDATA[My thoughts on the iPhone 5]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/10/02/iphone5-ios6-review/"/>
+    <link href="http://www.highvariance.net/blog/2012/10/02/iphone5-ios6-review/"/>
     <updated>2012-10-02T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/10/02/iphone5-ios6-review</id>
+    <id>http://www.highvariance.net/blog/2012/10/02/iphone5-ios6-review</id>
     <content type="html"><![CDATA[<p>So I got my iPhone 5 about a week ago (pre-ordered from AT&amp;T) and have
 barely been able to brag about it to anyone since most of my local
 friends aren’t nearly as nerdy as I am.  Then I remembered that I had a
@@ -731,9 +731,9 @@ how it works.  Truly revolutionary devices aren’t 5.0’s, they are
   
   <entry>
     <title type="html"><![CDATA[In the age of the internet, original ideas are hard to come by]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas/"/>
+    <link href="http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
     <updated>2012-06-03T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/06/03/unoriginal-ideas</id>
+    <id>http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
     <content type="html"><![CDATA[<p>I think of myself as a reasonably creative guy.  I’m not always coming
 up with particularly useful or imporant ideas, but I like to think
 they’re fairly unique.  Unique in a small town or among your friends is
@@ -805,9 +805,9 @@ According to Wikipedia, it’s been very successful since the beginning!</p>
   
   <entry>
     <title type="html"><![CDATA[Getting Things Done with Remember The Milk (i.e., GTD with RTM)]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm/"/>
     <updated>2012-05-27T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/27/gtd-with-rtm</id>
+    <id>http://www.highvariance.net/blog/2012/05/27/gtd-with-rtm</id>
     <content type="html"><![CDATA[<p>Every year or so I get cranky about my task management system and switch
 to something new.  This year it’s particularly bad because I’ve been
 hearing the Siren Song of <a href="http://www.omnigroup.com/products/omnifocus/">OmniFocus</a>.  I swear every nerd blogger I read
@@ -1044,9 +1044,9 @@ just need to get back to work!</p>
   
   <entry>
     <title type="html"><![CDATA[Got My Country On]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/20/country/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/20/country/"/>
     <updated>2012-05-20T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/20/country</id>
+    <id>http://www.highvariance.net/blog/2012/05/20/country</id>
     <content type="html"><![CDATA[<p>There have been times in my life when I’ve listened to whatever music I
 wanted whenever I wanted, but these days, I have a lot more constraints.
 At work, I’m pretty underslept and need all the concentration I can
@@ -1100,9 +1100,9 @@ cowboy boots by this time next year.  I’ll definitely pass on the <a href="htt
   
   <entry>
     <title type="html"><![CDATA[PDF Annotation on the iPad in 2012]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
     <updated>2012-05-16T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
+    <id>http://www.highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
     <content type="html"><![CDATA[<p>I’ve always wanted to live life efficiently.  When I was in third grade
 I made a list of all the chores I had to do every morning (like make the
 bed) and timed myself doing them. I even made my mom assign quality
@@ -1215,9 +1215,9 @@ I am.  And he also likes PDF Expert best.</p>
   
   <entry>
     <title type="html"><![CDATA[Carle vs. Lionni: No Accounting for Taste]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/05/10/carle-vs-lioni/"/>
+    <link href="http://www.highvariance.net/blog/2012/05/10/carle-vs-lioni/"/>
     <updated>2012-05-10T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/05/10/carle-vs-lioni</id>
+    <id>http://www.highvariance.net/blog/2012/05/10/carle-vs-lioni</id>
     <content type="html"><![CDATA[<p>Most grown-ups, even those without kids, have heard of Eric Carle—He is
 an extremely popular children’s book author who illustrates using
 collage.  In fact, his <a href="http://www.amazon.com/Brown-Bear-What-You-See/dp/0805047905">Brown Bear Brown Bear What Do See</a> and <a href="http://www.amazon.com/Very-Hungry-Caterpillar-Eric-Carle/dp/0399226907">The Very Hungry Caterpillar</a> have now supplanted Margaret Wise Brown’s
@@ -1289,9 +1289,9 @@ truth is, I think his work is pretty.  Just like Eric Carle’s.<a href="#fnref:
   
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Library Trip Report 2]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/04/28/kid-book-review-library-trip-report-2/"/>
+    <link href="http://www.highvariance.net/blog/2012/04/28/kid-book-review-library-trip-report-2/"/>
     <updated>2012-04-28T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/04/28/kid-book-review-library-trip-report-2</id>
+    <id>http://www.highvariance.net/blog/2012/04/28/kid-book-review-library-trip-report-2</id>
     <content type="html"><![CDATA[<p>The main goal of our biweekly trip to the New Haven Free Public Library is to
 pick 20 or so great picture books.  I’m looking for books with beautiful
 art, lovable (or at least memorable) characters, an original story, and
@@ -1416,9 +1416,9 @@ authors for trying!</p>
   
   <entry>
     <title type="html"><![CDATA[Social Science "Labs"]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/04/06/social-science-labs/"/>
+    <link href="http://www.highvariance.net/blog/2012/04/06/social-science-labs/"/>
     <updated>2012-04-06T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/04/06/social-science-labs</id>
+    <id>http://www.highvariance.net/blog/2012/04/06/social-science-labs</id>
     <content type="html"><![CDATA[<p>When most people think of labs, they imagine scientists in white coats
 staring into microscopes, carrying around beakers of bubbling chemicals, 
 and holding test tubes over Bunsen burners.  In social science, the
@@ -1491,9 +1491,9 @@ documentation is excellent and available online.</p>
   
   <entry>
     <title type="html"><![CDATA[Salamanders and Peepers]]></title>
-    <link href="http://dougmckee.github.com/blog/2012/04/02/salamanders-and-peepers/"/>
+    <link href="http://www.highvariance.net/blog/2012/04/02/salamanders-and-peepers/"/>
     <updated>2012-04-02T00:00:00-04:00</updated>
-    <id>http://dougmckee.github.com/blog/2012/04/02/salamanders-and-peepers</id>
+    <id>http://www.highvariance.net/blog/2012/04/02/salamanders-and-peepers</id>
     <content type="html"><![CDATA[<p>A few weeks ago the girls and I went to the
 <a href="http://peabody.yale.edu/">Peabody Natural History Musem</a> and learned that salamanders
 and newts are very common animals in Connecticut.  The reason you never
