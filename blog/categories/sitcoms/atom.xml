@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[sitcoms | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/sitcoms/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/sitcoms/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[In the age of the internet, original ideas are hard to come by]]></title>
-    <link href="http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
+    <link href="http://highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
     <updated>2012-06-03T00:00:00-04:00</updated>
-    <id>http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
+    <id>http://highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
     <content type="html"><![CDATA[<p>I think of myself as a reasonably creative guy.  I’m not always coming
 up with particularly useful or imporant ideas, but I like to think
 they’re fairly unique.  Unique in a small town or among your friends is

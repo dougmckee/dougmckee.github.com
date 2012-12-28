@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[politics | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/politics/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/politics/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Morality of Voting]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/20/the-morality-of-voting/"/>
+    <link href="http://highvariance.net/blog/2012/01/20/the-morality-of-voting/"/>
     <updated>2012-01-20T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/20/the-morality-of-voting</id>
+    <id>http://highvariance.net/blog/2012/01/20/the-morality-of-voting</id>
     <content type="html"><![CDATA[<p>My friend Julian is a pretty nice guy.  He’s generous with his time and
 tolerant of most social behavior.  He honors his commitments and is
 honest in his communication.  But at the same time, he chooses not to
@@ -79,9 +79,9 @@ situations are like that.</p>
   
   <entry>
     <title type="html"><![CDATA[Obama vs Romney 2012]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/01/obama-vs-romney-2012/"/>
+    <link href="http://highvariance.net/blog/2012/01/01/obama-vs-romney-2012/"/>
     <updated>2012-01-01T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/01/obama-vs-romney-2012</id>
+    <id>http://highvariance.net/blog/2012/01/01/obama-vs-romney-2012</id>
     <content type="html"><![CDATA[<p>An old friend of mine
 (<a href="http://blogs.law.harvard.edu/philg/">Philip Greenspun</a>) recently
 <a href="http://blogs.law.harvard.edu/philg/2011/12/31/election-prediction-barack-obama-wins-5149/">predicted</a> that Obama will win the 2012 presidency in a close election.

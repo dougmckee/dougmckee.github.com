@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[economics | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/economics/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/economics/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Is it cruel to raise the retirement age?]]></title>
-    <link href="http://www.highvariance.net/blog/2012/11/19/raising-the-retirement-age/"/>
+    <link href="http://highvariance.net/blog/2012/11/19/raising-the-retirement-age/"/>
     <updated>2012-11-19T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/11/19/raising-the-retirement-age</id>
+    <id>http://highvariance.net/blog/2012/11/19/raising-the-retirement-age</id>
     <content type="html"><![CDATA[<p>I like Paul Krugman a lot–we’re both liberals and believe strongly in
 the value of big government and thougtful regulation.  Unfortunately, he
 sometimes has strong opinions about things he hasn’t thought through.
@@ -109,9 +109,9 @@ full retirement age will be going up to age 67 (details
   
   <entry>
     <title type="html"><![CDATA[Time Preference Puzzles]]></title>
-    <link href="http://www.highvariance.net/blog/2012/02/17/time-preference-puzzles/"/>
+    <link href="http://highvariance.net/blog/2012/02/17/time-preference-puzzles/"/>
     <updated>2012-02-17T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/02/17/time-preference-puzzles</id>
+    <id>http://highvariance.net/blog/2012/02/17/time-preference-puzzles</id>
     <content type="html"><![CDATA[<p>Last week I saw
 <a href="http://louisville.edu/faculty/cjcour02">Charles Courtemanche</a> present
 <a href="http://www.nber.org/papers/w17483">an interesting paper</a> about how
@@ -205,9 +205,9 @@ knowledge of this area.</p>
   
   <entry>
     <title type="html"><![CDATA[The Morality of Voting]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/20/the-morality-of-voting/"/>
+    <link href="http://highvariance.net/blog/2012/01/20/the-morality-of-voting/"/>
     <updated>2012-01-20T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/20/the-morality-of-voting</id>
+    <id>http://highvariance.net/blog/2012/01/20/the-morality-of-voting</id>
     <content type="html"><![CDATA[<p>My friend Julian is a pretty nice guy.  He’s generous with his time and
 tolerant of most social behavior.  He honors his commitments and is
 honest in his communication.  But at the same time, he chooses not to
@@ -269,9 +269,9 @@ situations are like that.</p>
   
   <entry>
     <title type="html"><![CDATA[Mincer 1958]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/17/mincer-1958/"/>
+    <link href="http://highvariance.net/blog/2012/01/17/mincer-1958/"/>
     <updated>2012-01-17T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/17/mincer-1958</id>
+    <id>http://highvariance.net/blog/2012/01/17/mincer-1958</id>
     <content type="html"><![CDATA[<p>Jacob Mincer’s 1958 paper in the <em>Journal of Political Economy</em>,
 <a href="http://www.jstor.org/pss/1827422">“Investment in Human Capital and Personal Income Distribution”</a>,
 is one of the most well-cited in economics–304 times according to
@@ -325,9 +325,9 @@ always on the look out for more, and would welcome any suggestions.</p>
   
   <entry>
     <title type="html"><![CDATA[Pregnant Women and Ramadan]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/03/pregnant-women-and-ramadan/"/>
+    <link href="http://highvariance.net/blog/2012/01/03/pregnant-women-and-ramadan/"/>
     <updated>2012-01-03T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/03/pregnant-women-and-ramadan</id>
+    <id>http://highvariance.net/blog/2012/01/03/pregnant-women-and-ramadan</id>
     <content type="html"><![CDATA[<p>Doug Almond has turned out an impressive amount of work in recent years
 on how bad stuff that happens to fetuses early in pregnancy can cause
 long-lasting problems. His first paper on this

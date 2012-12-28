@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[music | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Playing the Victim]]></title>
-    <link href="http://www.highvariance.net/blog/2012/12/13/playing-the-victim/"/>
+    <link href="http://highvariance.net/blog/2012/12/13/playing-the-victim/"/>
     <updated>2012-12-13T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/12/13/playing-the-victim</id>
+    <id>http://highvariance.net/blog/2012/12/13/playing-the-victim</id>
     <content type="html"><![CDATA[<p>The eighties are not known as a time of soul bearing honesty (see
 <a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">Iran-Contra</a>), but
 eighties music is full of cheesy earnestness about love in its various
@@ -65,9 +65,9 @@ crumbcake I saw you with. Cause you dismissed!”</p>
   
   <entry>
     <title type="html"><![CDATA[In the age of the internet, original ideas are hard to come by]]></title>
-    <link href="http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
+    <link href="http://highvariance.net/blog/2012/06/03/unoriginal-ideas/"/>
     <updated>2012-06-03T00:00:00-04:00</updated>
-    <id>http://www.highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
+    <id>http://highvariance.net/blog/2012/06/03/unoriginal-ideas</id>
     <content type="html"><![CDATA[<p>I think of myself as a reasonably creative guy.  I’m not always coming
 up with particularly useful or imporant ideas, but I like to think
 they’re fairly unique.  Unique in a small town or among your friends is
@@ -139,9 +139,9 @@ According to Wikipedia, it’s been very successful since the beginning!</p>
   
   <entry>
     <title type="html"><![CDATA[Got My Country On]]></title>
-    <link href="http://www.highvariance.net/blog/2012/05/20/country/"/>
+    <link href="http://highvariance.net/blog/2012/05/20/country/"/>
     <updated>2012-05-20T00:00:00-04:00</updated>
-    <id>http://www.highvariance.net/blog/2012/05/20/country</id>
+    <id>http://highvariance.net/blog/2012/05/20/country</id>
     <content type="html"><![CDATA[<p>There have been times in my life when I’ve listened to whatever music I
 wanted whenever I wanted, but these days, I have a lot more constraints.
 At work, I’m pretty underslept and need all the concentration I can
@@ -195,9 +195,9 @@ cowboy boots by this time next year.  I’ll definitely pass on the <a href="htt
   
   <entry>
     <title type="html"><![CDATA[The Beatles' Strange Obsession with Serial Killers]]></title>
-    <link href="http://www.highvariance.net/blog/2012/03/05/the-beatles-strange-obsession/"/>
+    <link href="http://highvariance.net/blog/2012/03/05/the-beatles-strange-obsession/"/>
     <updated>2012-03-05T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/03/05/the-beatles-strange-obsession</id>
+    <id>http://highvariance.net/blog/2012/03/05/the-beatles-strange-obsession</id>
     <content type="html"><![CDATA[<p>The Beatles played mostly sugary upbeat pop songs.  They have <em>at least
 three</em> songs about good mornings<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. They sang that “All You Need is
 Love” and “Octopus’s Garden” and “Yellow Submarine”.  The whole band
@@ -270,9 +270,9 @@ and <em>Abbey Road</em>’s “Here Comes the Sun”.<a href="#fnref:1" rel="ref
   
   <entry>
     <title type="html"><![CDATA[Home Music Streaming]]></title>
-    <link href="http://www.highvariance.net/blog/2012/03/02/home-music-streaming/"/>
+    <link href="http://highvariance.net/blog/2012/03/02/home-music-streaming/"/>
     <updated>2012-03-02T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/03/02/home-music-streaming</id>
+    <id>http://highvariance.net/blog/2012/03/02/home-music-streaming</id>
     <content type="html"><![CDATA[<p>Sometimes I write because I’ve learned or created something interesting
 that I want to share. Sometimes I write because I’m so appalled by
 something I need to get it off my chest. But rarely is it both. About a

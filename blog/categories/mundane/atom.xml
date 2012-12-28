@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[mundane | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/mundane/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/mundane/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
-    <link href="http://www.highvariance.net/blog/2012/10/30/bathroom-fan-love-letters/"/>
+    <link href="http://highvariance.net/blog/2012/10/30/bathroom-fan-love-letters/"/>
     <updated>2012-10-30T00:00:00-04:00</updated>
-    <id>http://www.highvariance.net/blog/2012/10/30/bathroom-fan-love-letters</id>
+    <id>http://highvariance.net/blog/2012/10/30/bathroom-fan-love-letters</id>
     <content type="html"><![CDATA[<p>Two of my favorite bloggers (<a href="http://www.marco.org">Marco Arment</a> and <a href="http://brooksreview.net">Ben Brooks</a>) recently
 published passionate <a href="http://www.marco.org/2012/05/06/bathroom-fan-timer-switches">love</a> <a href="http://brooksreview.net/2012/03/amazon-item/">letters</a> to the <a href="http://www.amazon.com/dp/B003TJAGPS">Panasonic WhisperCeiling</a> bathroom
 fan, and in Marco’s case, a <a href="http://www.amazon.com/dp/B00313JXB0">Leviton electronic timer switch</a>.  Since
@@ -64,9 +64,9 @@ let ourselves be blinded by the opinions of fan-bois.</p>
   
   <entry>
     <title type="html"><![CDATA[Ode to My Messenger Bag]]></title>
-    <link href="http://www.highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag/"/>
+    <link href="http://highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag/"/>
     <updated>2012-02-02T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag</id>
+    <id>http://highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag</id>
     <content type="html"><![CDATA[<p>Messenger bags have been getting a lot of flack on
 <a href="http://brooksreview.net/2011/12/backpacks-my-bff/">Ben Brooks’ blog</a>
 lately as he has made the complete switch to a
@@ -106,9 +106,9 @@ same bag.  And it’ll still look great.</p>
   
   <entry>
     <title type="html"><![CDATA[Radiators, Thermostats, and Heat Momentum]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum/"/>
+    <link href="http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum/"/>
     <updated>2012-01-14T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum</id>
+    <id>http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum</id>
     <content type="html"><![CDATA[<p>We’re deep into our first winter in the new house and are just now
 figuring out how to properly control the indoor temperature.  On the
 plus side, we’ve got the ingredients of a fabulous heating system.  The
@@ -173,9 +173,9 @@ me it’s the former so I’m going with that.</p>
   
   <entry>
     <title type="html"><![CDATA[Humidifers]]></title>
-    <link href="http://www.highvariance.net/blog/2012/01/11/humidifiers/"/>
+    <link href="http://highvariance.net/blog/2012/01/11/humidifiers/"/>
     <updated>2012-01-11T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/01/11/humidifiers</id>
+    <id>http://highvariance.net/blog/2012/01/11/humidifiers</id>
     <content type="html"><![CDATA[<p>Having someone I respect validate a choice I’ve made always gives me a
 warm feeling inside.  In
 <a href="http://www.marco.org/2012/01/10/humidifiers">a recent post</a>,

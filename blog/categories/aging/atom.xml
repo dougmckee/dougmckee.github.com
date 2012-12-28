@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[aging | High Variance]]></title>
-  <link href="http://www.highvariance.net/blog/categories/aging/atom.xml" rel="self"/>
-  <link href="http://www.highvariance.net/"/>
-  <updated>2012-12-28T13:39:37-05:00</updated>
-  <id>http://www.highvariance.net/</id>
+  <link href="http://highvariance.net/blog/categories/aging/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2012-12-28T14:03:03-05:00</updated>
+  <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tire Talk]]></title>
-    <link href="http://www.highvariance.net/blog/2012/03/11/tire-talk/"/>
+    <link href="http://highvariance.net/blog/2012/03/11/tire-talk/"/>
     <updated>2012-03-11T00:00:00-05:00</updated>
-    <id>http://www.highvariance.net/blog/2012/03/11/tire-talk</id>
+    <id>http://highvariance.net/blog/2012/03/11/tire-talk</id>
     <content type="html"><![CDATA[<p>Last week I went to <a href="http://www.thedevilsgear.com/">a local shop</a> and
 bought new tires for the mountain bike I ride around town almost every
 day.  The angst I felt while deciding exactly what to buy took me by
