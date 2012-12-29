@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2012-12-28T14:52:16-05:00</updated>
+  <updated>2012-12-29T15:46:05-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Scratching my nerd itch with Octopress]]></title>
+    <link href="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/"/>
+    <updated>2012-12-29T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch</id>
+    <content type="html"><![CDATA[<p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
+
+<ul>
+  <li>Built-in search</li>
+  <li>Organization with tags so visitors could easily find articles by category</li>
+  <li>Easy integration with Disqus comments</li>
+  <li>Built-in <a href="http://www.usa.gov/Topics/Reference-Shelf/Libraries/RSS-Library/What-Is-RSS.shtml">RSS feed</a> for those who want to subscribe</li>
+  <li>Automatic announcement of new articles to Facebook</li>
+  <li>Easy integration with <a href="http://www.google.com/analytics/">Google Analytics</a> (for traffic statistics)</li>
+</ul>
+
+<p>Now, a year later, I have more of a vision for what I want to do with the site and I’m ready to tinker a bit. Unfortunately, while there’s some flexibility in how a Tumblr site looks, but they don’t give you any real control. Ever since high school I’ve spent regular chunks of time writing code and bending computers to my will. I’ve done this as a professional software developer, as a research economist, and often just messing around. The last year has been less geeky than usual as I’ve concentrated on teaching and less technical research projects.  It’s time to scratch my nerd itch.</p>
+
+<p>I’ve chosen to switch to a particularly nerdy blog platform (<a href="http://octopress.org">Octopress</a>) that requires using command-line tools, but it has the huge benefit of total control. Octopress is built on top of <a href="https://github.com/mojombo/jekyll#readme">Jekyll</a> which is written in <a href="http://www.ruby-lang.org/en/">Ruby</a> and I can tweek it as much as I’d like. I’ve always wanted to learn Ruby and reading and modifying other other people’s code is a great way to learn a language.</p>
+
+<p>In addition to Octopress/Jekyll/Ruby, this project gets me up to speed on several other modern nerdy technologies:</p>
+
+<ul>
+  <li><a href="http://mxcl.github.com/homebrew/">Homebrew</a> is a package manager for MacOS that lets you install all sorts of open source software including the latest version of Ruby.</li>
+  <li><a href="http://git-scm.com">git</a> is what version control will look like for years to come–it’s fast, collaborative, distributed, and flexible.</li>
+  <li><a href="https://github.com">Github</a> is where all the coolest open source projects live these days.  Any new software I write that I want to share will go here.    </li>
+  <li><a href="http://sass-lang.com">Sass</a> (Syntactically Awesome Style Sheets) is a powerful layer on top of CSS (Cascading Style Sheets) that allows for powerful adaptive layout of HTML pages.</li>
+</ul>
+
+<p>While Octopress is in part an excuse to fiddle with new tech, it also feels very comfortable as articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>–a very lightweight text-based markup language that I lately find myself using for almost everything.</p>
+
+<h2 id="whats-new">What’s New?</h2>
+
+<p>On the surface, the site shouldn’t look all that different, but beyond the engine being replaced, there are several subtle changes:</p>
+
+<ul>
+  <li>A real <a href="http://highvariance.net/about.html">About</a> page</li>
+  <li>Links up top for the main categories I tend to write about</li>
+  <li>A search bar near the top of every page</li>
+  <li>Quick links to my recent posts and my favorite posts.</li>
+  <li>Much better layout for mobile devices</li>
+  <li>Super-fast rendering since Octopress generates the whole site as static HTML which just sits on the server</li>
+</ul>
+
+<h2 id="was-it-easy-to-migrate-from-tumblr">Was it Easy to Migrate from Tumblr?</h2>
+
+<p>Two things helped a lot: The Octopress documentation is excellent and I already had all the articles on my local machine in Markdown. The only thing that was tricky was backwards compatibility as I wanted all my old URL’s to work and all my discussions to transfer over.  I used the <a href="https://github.com/tsmango/jekyll_alias_generator">alias-generator</a> plugin and a little elbow grease to make all my Tumblr URL’s redirect to my new URL’s.   </p>
+
+<p>Disqus (the service that keeps track of comments) says they will crawl your new site and use any redirects it provides to update their database.  Unfortunately, while <em>browsers</em> can understand the redirects that the alias-generator creates<sup id="fnref:fn_ag"><a href="#fn:fn_ag" rel="footnote">1</a></sup> just fine, the <em>disqus crawler</em> does not.  So I had to create a csv file that mapped all the old URL’s to the new ones and upload that.</p>
+
+<p>Announcements of new articles on Facebook are now handled by <a href="http://ifttt.com">IFTTT</a>.  It will likely take a little fine-tuning to get these right.</p>
+
+<h2 id="whats-on-the-horizon">What’s on the Horizon?</h2>
+
+<p>The primary emphasis of this site remains the text, but I do want to integrate a little more media–even just a few pictures here and there would be nice. I want the category pages to have their own looks. Beyond that, all I know is that I’ve now got the power to do anything.  Should be fun!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn_ag">
+      <p>Since the site is static, it can’t actually send HTTP
+301 permanent redirects. Instead, the alias-generator creates HTML stub files for all the old URL’s with http-equiv meta tags containing the new locations of the URLs.<a href="#fnref:fn_ag" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Blogoversary!]]></title>
@@ -447,121 +514,6 @@ Omnifocus wouldn’t be uniformly better.  I’m worried that it would
 try to force me into new ways of doing things that just don’t match my
 work flow.  Maybe instead I need to check out <a href="http://donaldjenkins.com/2012/02/why-i-switched-from-omnifocus-to-things/">Things</a>….  Or maybe I
 just need to get back to work!</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[PDF Annotation on the iPad in 2012]]></title>
-    <link href="http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/"/>
-    <updated>2012-05-16T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012</id>
-    <content type="html"><![CDATA[<p>I’ve always wanted to live life efficiently.  When I was in third grade
-I made a list of all the chores I had to do every morning (like make the
-bed) and timed myself doing them. I even made my mom assign quality
-grades to each task to make sure I wasn’t sacrificing on that margin for
-speed.</p>
-
-<p>I don’t make my bed anymore, but I do grade a lot of papers and I like
-to give copious feedback. The returns to optimizing this process are
-big. That’s why I recently decided to try out several iPad PDF
-annotation apps to find the one that best fits my workflow.</p>
-
-<p>My needs aren’t extreme. I mostly want to highlight, strike-through, and
-add colored text. Occasionally I want to underline, add a long note, or
-draw a shape. And since all my documents live on Dropbox, I want to
-easily sync whole folders. It turns out there are at least three apps
-that can do all of these things, but they have some important
-differences in how they get there.  Here’s what I’ve found:</p>
-
-<h2 id="goodreader-314"><a href="http://itunes.apple.com/us/app/pdf-expert-fill-forms-annotate/id393316844">GoodReader 3.14</a></h2>
-
-<p>GoodReader has been my go-to annotation app for the last six months, and
-it sets the bar high.  The only real annoyance is that you have to enter
-inline comments (i.e., use the typewriter tool) in a popup editing
-window before the app drops your words into the document.  Once
-there, it’s easy to grab the comment (by holding a finger on it) and
-move or resize the text box.  This is critical since you never know
-exactly where or how big the text box will be.  You don’t have any
-control over the font for these inline comments and the one it chooses
-is cheesy typewriter, but I don’t mind.</p>
-
-<p>Syncing folders with Dropbox is great although the sync button can get
-hidden way down in in the “Web Downloads” area are under a long list of
-“recent” downloads.  In fact, the whole document management interface is
-functional, but messy and unintuitive–i.e., once you know your way
-around, you don’t waste a lot of time, but it’s never pretty and there
-is a learning curve.</p>
-
-<p>One useful feature I haven’t found in the other apps is a Back button
-under the scroll bar that (obviously) puts you back where you were after
-you scroll somewhere else or move to a bookmark.  This is great when
-you’re flipping between text and tables.</p>
-
-<h2 id="iannotate-pdf-21"><a href="http://itunes.apple.com/us/app/iannotate-pdf/id363998953">iAnnotate PDF 2.1</a></h2>
-
-<p>iAnnotate PDF has a clunky name and a cartoony interface.  I think it’s
-been around the longest and it’s extremely configurable.  People who use
-it swear it does everything they want but it takes a little work up
-front to set it up.  I believe them.  And when you add inline text, you
-do it in the page itself which is much more natural than typing into GoodReader’s
-disembodied text box.</p>
-
-<p>On the downside, it’s been crashy for me.  I’ve been using an original
-iPad, so maybe it’s more stable on newer hardware.  It doesn’t have a
-scroll bar that lets you move directly to the end (or beginning) of your
-document.  It doesn’t always highlight the spaces between words and I
-can’t get it to autocorrect when using the typewriter tool.  But even if
-these things got fixed, I just find the ugly icons too distracting.</p>
-
-<h2 id="pdf-expert-40"><a href="http://itunes.apple.com/us/app/pdf-expert-fill-forms-annotate/id393316844">PDF Expert 4.0</a></h2>
-
-<p>Ah, we have a winner!  PDF Expert is a breath of fresh air.  It has
-everything I like about GoodReader (except the back button) in a package
-that’s just beautiful to look at.  The document management UI is
-super-clean, fast, and intuitive.  It even gives you thumbnails of the
-first page of each document.  The icons in the document annotation UI
-are simple and classy.  When browsing a pdf, the page turns are very
-fast.</p>
-
-<p>On top of this, I don’t know how I lived without PDF Expert’s  undo and
-redo commands.  They not only keep you from inadvertently junking up
-your document, it means the UI doesn’t ever ask “Are you really
-sure?” when you delete something because you can always roll back to the
-previous state.  </p>
-
-<p>What’s not to like?  Some people complain that it only opens one
-document at a time, but I find opening and closing to be fast
-enough that this isn’t a big deal.  My biggest complaint (and it’s
-minor) is that you only have 9 colors to choose from for markup and
-they’re kind of brash.  It’s like they were inspired by the available
-colors for Apple’s <a href="http://www.cultofmac.com/95875/which-smart-cover-to-get-get-a-polyurethane-one-heres-why/">cheap Smart Covers</a>.</p>
-
-<h2 id="honorable-mentions">Honorable Mentions</h2>
-
-<p><a href="http://itunes.apple.com/us/app/notability-take-notes-annotate/id360593530">PDFpen</a> has been around for quite a while on the Mac, and if Preview
-wasn’t as good as it was, I’d probably be using it there.  But on the
-iPad, it’s the new kid on the block.  None of the positive reviews on
-the app store compares it with the big three, and a few negative reviews
-say it’s crashy and has fewer features.  It will probably improve over
-time, but considering it costs the most ($15) and seemingly does the
-least, I’m skipping it for now.</p>
-
-<p><a href="http://itunes.apple.com/us/app/notability-take-notes-annotate/id360593530">Notability</a> is really a note-taking app that can also annotate PDF’s.
-When I’m in a meeting or seminar, I usually use Nebulous Notes and type
-right into a text file.  If I have a copy of the slides or the paper
-being presented, I now take my notes right on them with PDF Expert.
-Notability is particularly strong with drawing, but I find even with my
-Cosmonaut stylus, the lag between moving the pen and seeing my picture
-is just too unnatural to replace pen and paper.  </p>
-
-<h2 id="bottom-line">Bottom Line</h2>
-
-<p>PDF Expert is fantastic.  I’m so glad I went through this exercise and
-have graduated from GoodReader!  Of course, I could have just read Cynical
-Babblings’ <a href="http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/">recent review</a> of same apps.  I found it while I was
-in the middle of my evaluation process, and he’s much more thorough than
-I am.  And he also likes PDF Expert best.</p>
 
 ]]></content>
   </entry>

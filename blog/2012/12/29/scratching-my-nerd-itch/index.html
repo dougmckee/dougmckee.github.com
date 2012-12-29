@@ -1,0 +1,340 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Scratching my nerd itch with Octopress - High Variance</title>
+  <meta name="author" content="Doug McKee">
+
+  
+  <meta name="description" content="When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing. Tumblr &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/rss" rel="alternate" title="High Variance" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28036001-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">High Variance</a></h1>
+  
+    <h2>Musings on a wide variety of topics. Basically, I write about stuff I'm thinking about.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/rss" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:highvariance.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/blog/categories/kids/">Kids</a></li>
+  <li><a href="/blog/categories/education/">Education</a></li>
+  <li><a href="/blog/categories/music/">Music</a></li>
+  <li><a href="/blog/categories/tech/">Tech</a></li>
+  <li><a href="/blog/categories/economics/">Economics</a></li>
+  <li><a href="/blog/categories/other/">Other</a></li>
+  <li><a href="/blog/archives">All</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Scratching My Nerd Itch With Octopress</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-29T00:00:00-05:00" pubdate data-updated="true">Dec 29<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
+
+<ul>
+  <li>Built-in search</li>
+  <li>Organization with tags so visitors could easily find articles by category</li>
+  <li>Easy integration with Disqus comments</li>
+  <li>Built-in <a href="http://www.usa.gov/Topics/Reference-Shelf/Libraries/RSS-Library/What-Is-RSS.shtml">RSS feed</a> for those who want to subscribe</li>
+  <li>Automatic announcement of new articles to Facebook</li>
+  <li>Easy integration with <a href="http://www.google.com/analytics/">Google Analytics</a> (for traffic statistics)</li>
+</ul>
+
+<p>Now, a year later, I have more of a vision for what I want to do with the site and I’m ready to tinker a bit. Unfortunately, while there’s some flexibility in how a Tumblr site looks, but they don’t give you any real control. Ever since high school I’ve spent regular chunks of time writing code and bending computers to my will. I’ve done this as a professional software developer, as a research economist, and often just messing around. The last year has been less geeky than usual as I’ve concentrated on teaching and less technical research projects.  It’s time to scratch my nerd itch.</p>
+
+<p>I’ve chosen to switch to a particularly nerdy blog platform (<a href="http://octopress.org">Octopress</a>) that requires using command-line tools, but it has the huge benefit of total control. Octopress is built on top of <a href="https://github.com/mojombo/jekyll#readme">Jekyll</a> which is written in <a href="http://www.ruby-lang.org/en/">Ruby</a> and I can tweek it as much as I’d like. I’ve always wanted to learn Ruby and reading and modifying other other people’s code is a great way to learn a language.</p>
+
+<p>In addition to Octopress/Jekyll/Ruby, this project gets me up to speed on several other modern nerdy technologies:</p>
+
+<ul>
+  <li><a href="http://mxcl.github.com/homebrew/">Homebrew</a> is a package manager for MacOS that lets you install all sorts of open source software including the latest version of Ruby.</li>
+  <li><a href="http://git-scm.com">git</a> is what version control will look like for years to come–it’s fast, collaborative, distributed, and flexible.</li>
+  <li><a href="https://github.com">Github</a> is where all the coolest open source projects live these days.  Any new software I write that I want to share will go here.    </li>
+  <li><a href="http://sass-lang.com">Sass</a> (Syntactically Awesome Style Sheets) is a powerful layer on top of CSS (Cascading Style Sheets) that allows for powerful adaptive layout of HTML pages.</li>
+</ul>
+
+<p>While Octopress is in part an excuse to fiddle with new tech, it also feels very comfortable as articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>–a very lightweight text-based markup language that I lately find myself using for almost everything.</p>
+
+<h2 id="whats-new">What’s New?</h2>
+
+<p>On the surface, the site shouldn’t look all that different, but beyond the engine being replaced, there are several subtle changes:</p>
+
+<ul>
+  <li>A real <a href="http://highvariance.net/about.html">About</a> page</li>
+  <li>Links up top for the main categories I tend to write about</li>
+  <li>A search bar near the top of every page</li>
+  <li>Quick links to my recent posts and my favorite posts.</li>
+  <li>Much better layout for mobile devices</li>
+  <li>Super-fast rendering since Octopress generates the whole site as static HTML which just sits on the server</li>
+</ul>
+
+<h2 id="was-it-easy-to-migrate-from-tumblr">Was it Easy to Migrate from Tumblr?</h2>
+
+<p>Two things helped a lot: The Octopress documentation is excellent and I already had all the articles on my local machine in Markdown. The only thing that was tricky was backwards compatibility as I wanted all my old URL’s to work and all my discussions to transfer over.  I used the <a href="https://github.com/tsmango/jekyll_alias_generator">alias-generator</a> plugin and a little elbow grease to make all my Tumblr URL’s redirect to my new URL’s.   </p>
+
+<p>Disqus (the service that keeps track of comments) says they will crawl your new site and use any redirects it provides to update their database.  Unfortunately, while <em>browsers</em> can understand the redirects that the alias-generator creates<sup id="fnref:fn_ag"><a href="#fn:fn_ag" rel="footnote">1</a></sup> just fine, the <em>disqus crawler</em> does not.  So I had to create a csv file that mapped all the old URL’s to the new ones and upload that.</p>
+
+<p>Announcements of new articles on Facebook are now handled by <a href="http://ifttt.com">IFTTT</a>.  It will likely take a little fine-tuning to get these right.</p>
+
+<h2 id="whats-on-the-horizon">What’s on the Horizon?</h2>
+
+<p>The primary emphasis of this site remains the text, but I do want to integrate a little more media–even just a few pictures here and there would be nice. I want the category pages to have their own looks. Beyond that, all I know is that I’ve now got the power to do anything.  Should be fun!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn_ag">
+      <p>Since the site is static, it can’t actually send HTTP
+301 permanent redirects. Instead, the alias-generator creates HTML stub files for all the old URL’s with http-equiv meta tags containing the new locations of the URLs.<a href="#fnref:fn_ag" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Doug McKee</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-29T00:00:00-05:00" pubdate data-updated="true">Dec 29<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/blog/'>blog</a>, <a class='category' href='/blog/categories/tech/'>tech</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/" data-via="" data-counturl="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/12/26/neighborhood-caroling/" title="Previous Post: Neighborhood Caroling">&laquo; Neighborhood Caroling</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2012/12/29/scratching-my-nerd-itch/">Scratching my nerd itch with Octopress</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/26/neighborhood-caroling/">Neighborhood Caroling</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/22/happy-blogoversary/">Happy Blogoversary!</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/17/conflict-and-sharing/">Conflict and Sharing</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/13/playing-the-victim/">Playing the Victim</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Favorite Posts</h1>
+  <ul id="favorite_posts">
+    <li class="post">
+       <a href="/blog/2011/12/21/first-post/">First Post</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2011/12/23/home-for-christmas/">Home for Christmas</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/01/11/does-school-suck/">Does School Suck?</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/13/ebooks-and-kids/">E-books and Kids</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/22/not-dead-yet/">New Wave: Not
+  Dead Yet!</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">PDF Annotation on
+  the iPad in 2012</a>
+    </li>
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2012 - Doug McKee -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'highvariance';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/';
+        var disqus_url = 'http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
