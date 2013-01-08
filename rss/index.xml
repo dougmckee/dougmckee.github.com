@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-01-04T14:18:41-05:00</updated>
+  <updated>2013-01-08T15:56:45-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Homage to Chris Welty]]></title>
+    <link href="http://highvariance.net/blog/2013/01/08/an-homage-to-chris-welty/"/>
+    <updated>2013-01-08T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/01/08/an-homage-to-chris-welty</id>
+    <content type="html"><![CDATA[<p>According to the Internet, <a href="http://en.wikipedia.org/wiki/Chris_Welty">Chris Welty</a> is now a research scientist at IBM’s TJ Watson Research Center in upstate New York.  He works on knowledge representation and the semantic web and was one of the developers behind <a href="http://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>, the computer program that kicked ass on <a href="http://en.wikipedia.org/wiki/Jeopardy!q">Jeopardy!</a>  He also taught Intro to Artificial Intelligence at <a href="http://www.rpi.edu">Rensselaer</a> in the late 1980’s. As far as I know, he is alive and well. But life comes and goes and I really like the idea of writing this  while he is still around to read it. You don’t always get <a href="http://www.marco.org/2013/01/05/dr-bob-cupper">that chance</a>. </p>
+
+<p>I showed up at Rensselaer in 1986 extremely excited to learn how to turn computers into people.  I grew up on science fiction like Asimov’s <a href="http://en.wikipedia.org/wiki/I,_Robot">I Robot</a> and was certain we were on the threshold of true software-based intelligent beings.  I knew the average person wasn’t that smart–how hard could it possibly be to write code that could simulate their basic skills?<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> </p>
+
+<p>In the spring of my sophomore year I took Professor Welty’s Intro to AI class and it was everything I could have hoped for. Professor Welty was not quite as young as I was, but he was certainly as excited as any of us about the box full toys we got to play with.  Mini-max algorithms, backward-chaining, forward chaining, Lisp, semantic networks–I could go on and on. I put serious work into that class, but it was also a serious amount of fun.  This was the only class in college that actually inspired me to work all night on projects.</p>
+
+<p>You might think that with subject matter this good, anyone could have taught a great class, but you’d be wrong.  Now that I spend big chunks of my own time standing in the front of the classroom, I realize all the work he put in and the skills he had.  The problem sets were engaging. The in-class explanations of concepts were clear and polished and yet the classes were very conversational.  In Professor Welty’s class everyone felt comfortable raising their hand.</p>
+
+<p>I don’t do AI anymore, but I use what I learned in that class every day: Hold yourself to a high standard.  Be present. Share. Do what you love. Have fun.  Thanks Professor Welty!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>It turns out to be very hard, but it also took me many more years to figure that out.  <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Siracusa 2016]]></title>
@@ -1328,80 +1353,6 @@ Babblings’ <a href="http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editi
 in the middle of my evaluation process, and he’s much more thorough than
 I am.  And he also likes PDF Expert best.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Carle vs. Lionni: No Accounting for Taste]]></title>
-    <link href="http://highvariance.net/blog/2012/05/10/carle-vs-lioni/"/>
-    <updated>2012-05-10T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2012/05/10/carle-vs-lioni</id>
-    <content type="html"><![CDATA[<p>Most grown-ups, even those without kids, have heard of Eric Carle—He is
-an extremely popular children’s book author who illustrates using
-collage.  In fact, his <a href="http://www.amazon.com/Brown-Bear-What-You-See/dp/0805047905">Brown Bear Brown Bear What Do See</a> and <a href="http://www.amazon.com/Very-Hungry-Caterpillar-Eric-Carle/dp/0399226907">The Very Hungry Caterpillar</a> have now supplanted Margaret Wise Brown’s
-<a href="http://www.amazon.com/Goodnight-Moon-Margaret-Wise-Brown/dp/0694003611">Goodnight Moon</a> as the standard gift for newborn kids.</p>
-
-<p>Both my daughters celebrated Eric Carle week at school last month
-and it got me thinking (again) just how over-rated he is.  He’s
-either today’s <a href="http://en.wikipedia.org/wiki/Norman_Rockwell">Norman Rockwell</a> or the kids’ version of <a href="http://en.wikipedia.org/wiki/Thomas_Kinkade">Thomas Kinkade</a>
-(“Painter of Light”).<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  With a few exceptions (like <a href="http://www.amazon.com/Secret-Birthday-Message-Board-Book/dp/0694011487">The Secret Birthday Message</a>), his books couldn’t be more repetitive and formulaic.</p>
-
-<p>I’m not saying his books have no redeeming qualities—the pictures are
-pretty and they do appeal to the 1-2 year old crowd. But thats not
-exactly the most demanding audience and his collage style isn’t even
-unique. Leo Lionni started publishing picture books with collage back in
-1959 and Lois Ehlert won a Caldecott in 1989 for <a href="http://www.amazon.com/Color-Board-Book-Lois-Ehlert/dp/0694010677">Color Zoo</a>.</p>
-
-<p>Leo Lionni in particular deserves far more attention than he gets. The
-only good thing about many of his books being out of print is that it
-made it slightly easier to pick four Lionni books to send to my sister’s
-family for Christmas.</p>
-
-<p>Lionni was a late bloomer as a children’s book author as he had a full
-career as a “real” artist before writing
-<a href="http://www.amazon.com/Little-Blue-Yellow-Leo-Lionni/dp/0688132855">Little Blue and Little Yellow</a>. His stories are quirky and many push
-the envelope on what’s possible in a kids’ book.  And every one has a
-positive message.  For example in his first book, the characters are
-splotches of color who get mixed up and turn green.  Their parents don’t
-recognize them until they cry themselves apart, but then the parents recognize
-their mistake and learn not to be so judgmental.</p>
-
-<p>In <a href="http://www.amazon.com/Flea-Story-Leo-Lionni/dp/0905478266">A Flea Story</a>, you never even see the main characters. Instead you
-only hear a dialog that’s reminiscent of Herman Hesse’s odd couple
-<a href="http://www.amazon.com/Narcissus-Goldmund-Hermann-Hesse/dp/B003NQOS4M">Narcissus and Goldmund</a>. One flea just wants to stay home on their
-dog’s butt while the other longs for adventure. They travel together for
-a while and then split to follow their own paths. Stories that appeal to
-both adults and children are rare and those that do usually have two
-sets of jokes (<a href="http://en.wikipedia.org/wiki/The_Rocky_and_Bullwinkle_Show">Rocky and Bullwinkle</a> is the classic example). Lionni
-manages to make the same things funny to all ages.</p>
-
-<p>One of R’s favorite Lioni stories is <a href="http://www.amazon.com/Matthews-Dream-Leo-Lionni/dp/067987318X">Matthew’s Dream</a>. Matthew is a poor
-mouse who visits a museum with his school and is inspired to be an
-artist. He dreams fantastic versions of his mundane world and paints
-them into reality.  Often when R paints her own pictures she says “I’m
-Matthew!”</p>
-
-<p>In <a href="http://www.amazon.com/Alexander-Wind-Up-Mouse-Leo-Lionni/dp/0394829115">Alexander and the Wind-Up Mouse</a>, Alexander yearns to be a windup
-mouse who is loved by the family instead of hated and chased with a
-broom. He finds a magical lizard who will grant him his wish in exchange
-for a purple pebble.  By the time he acquires one, the world has changed
-and he learns to be careful what he wishes for.  R still looks for
-purple pebbles to give to the lizard.</p>
-
-<p>My one year old does like flipping through Eric Carle board books, but
-as soon as she will sit still and let us read to her, she’s graduating to
-Leo Lionni. The pictures are even more beautiful, the stories are
-awesome, and the whole family can enjoy the ride.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>My wife thinks it’s a cheap shot comparing Carle to Kinkade, but I
-never miss a chance to bring up my favorite abusive alcoholic
-religious nut-job artist, even if he did pass away recently.  And the
-truth is, I think his work is pretty.  Just like Eric Carle’s.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
