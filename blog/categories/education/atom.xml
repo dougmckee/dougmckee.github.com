@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-01-08T15:58:29-05:00</updated>
+  <updated>2013-01-14T00:09:02-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Who should own course materials?]]></title>
+    <link href="http://highvariance.net/blog/2013/01/13/course-materials/"/>
+    <updated>2013-01-13T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/01/13/course-materials</id>
+    <content type="html"><![CDATA[<p>Every spring university departments match their faculty to the courses that will be taught the next year.  Often, professors are assigned to courses they’ve never taught before.  This is almost always the case for new assistant professors who haven’t really taught anything before.  In the best case scenario, whoever taught the class the last time around has lunch with the new instructor, passes on a few pearls of wisdom, and hands over a subset of their course materials.  I’ve personally benefited immensely from this generosity since it’s much easier to prepare a course when starting with a stack of slides, problem sets, and old exams. It’s also quite common to have to start from scratch.  But there is a better way.</p>
+
+<p>First of all, a course is a lot more than slides, exams, and problem sets. Instructors say a lot of stuff that’s not on the slides–they do board work, ask students questions, and use their slides as a springboard for what they actually teach.  What the instructor says sometimes lives only in the instructor’s brain but often there exists a rough set of hand-written or quickly typed set of notes for each lecture. Some instructors will write up another set of notes about what worked and what didn’t after each class–I call these my post-mortem notes.  And then some instructors include various other fancy things in their classes like videos, online surveys and in-class exercises.</p>
+
+<p>When I was in college, all fraternities kept files of class exams.  Every time a brother took a test, it went into a folder which could be used as a resource for future brothers. Surely departments can get at least this organized.  I propose that they do even better and serve as a clearing house for the materials for  at least their core courses and maybe all of their courses. My dream scenario is that <strong>when a professor has to teach a new course they get access to a department-managed folder that has all the materials from previous years.</strong></p>
+
+<p>There are several potential issues here, but I believe they are all small relative to the potentially huge improvements in course quality and reductions in required teaching prep.</p>
+
+<p><em>How can this be fair to the first professor who prepares a course?</em> Yes, the first person does more work. The department should give them more credit–perhaps a course and a half is fair. Frankly, these professors should get extra credit no matter who owns the course materials.</p>
+
+<p><em>Shouldn’t courses be tailored to individual professors?</em> Yes, this is true too. That’s why the department shouldn’t just keep the previous year’s materials. Ideally, when someone takes over a course, they could peruse several years and find the best starting point for them.  And when they customize those materials, they are providing another potential starting point for the next instructor.</p>
+
+<p><em>Prepping a course is a lot of work–the instructor should own that!</em> I agree here too and all I’m arguing is that the department should share ownership. Instructors should certainly be able to take with them whatever they’ve used to teach the course when/if they leave the university</p>
+
+<p>Professors don’t generally make their materials public even to their departments because they don’t reap much (if any) personal benefit.  The sharing I’m talking about costs a small amount but yields big <a href="http://en.wikipedia.org/wiki/Positive_externality#Positive">positive external</a> benefits. Since the market isn’t solving this problem by itself, I think it only makes sense that economics departments should solve it by explicitly internalizing the externality.  That’s exactly what enforcing departmental ownership would do.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An Homage to Chris Welty]]></title>
@@ -240,124 +263,6 @@ your household that’s willing to do this.  (Thank you!)</p>
 <p>So is spring break vacation?  Kind of, but not really since we work almost
 every day.  It’s still nice change of pace.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Does School Suck?]]></title>
-    <link href="http://highvariance.net/blog/2012/01/11/does-school-suck/"/>
-    <updated>2012-01-11T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/01/11/does-school-suck</id>
-    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/5513063?portrait=0" width="600" height="337" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
-<p>The beginning of the semester has me thinking about
-<a href="http://vimeo.com/5513063">this 30 minute video</a> I saw about a year ago
-on teaching and schools by <a href="http://drtae.org">Dr. Tae</a>.  It’s
-provocative and if you care about teaching, especially at the university
-level, I encourage you to watch it.  I agree with most of what he’s
-saying and try to incorporate a lot of his ideas in my own classes.  But
-he’s just wrong about a few things.</p>
-
-<p>Dr. Tae is unhappy with the state of schools in America–he says
-they “suck” for a variety of reasons, but the main one is that they are
-full of big impersonal lecture classes where the teacher/professor
-stands at the front and pontificates while the students sit there
-and take notes (best case) or update their Facebook status (worst case).</p>
-
-<p>I don’t think lecture classes have to be all that bad–I had some very
-good ones when I was an undergrad science major at
-<a href="http://rpi.edu">Rensselaer</a> in the mid 1980’s.  At the time (and maybe
-still) the institution took a lot of pride in it’s teaching.  Big physics
-and chemistry lectures were full of very entertaining and illuminating
-experiments and I definitely learned in that environment.  The
-main problem with this set up is that it isn’t optimal–there are much
-better ways to teach when the professor and students are in close
-proximity.  I actually think the days of the big lecture are numbered as
-there are several places people can go to get free high quality
-impersonal video lectures on the internet.  You may have heard of
-<a href="http://www.khanacademy.org/">Kahn Academy</a>,
-<a href="http://www.apple.com/education/itunes-u/">iTunes U</a>, and
-<a href="http://ocw.mit.edu/index.htm">MIT’s Open Courseware</a>.  I was very happy
-to see one of Yale’s very best economics professors on the front page of
-<a href="http://www.academicearth.org/">Academic Earth</a> earlier this week.
-<a href="http://www.academicearth.org/courses/game-theory">Ben Polak’s game theory class</a>
-is legendary here, and now anyone on earth can experience it (as a
-non-interactive lecture) for free.  The point is that if you’re paying
-gobs of money for an in-person university education, you deserve better
-than that.</p>
-
-<p>Dr. Tae goes on to say that university teaching is bad because schools
-don’t hire great teachers–they hire and promote based on research. He’s
-exactly right about this.  Not only is teaching ability ignored
-during hiring, all the incentives for tenure track faculty are to spend
-as little time as possible on teaching.  You just have to keep your
-enrollments and student evaluations above pretty low thresholds.  I
-don’t see how universities can improve without changing these hiring
-practices and incentives.</p>
-
-<p>As an aside, he’s pretty critical of the certification process that’s
-required for getting most secondary school jobs.  In order to teach
-science at the high school level, I think you should not only know a lot
-about science, you should also know how to teach.  The certification
-process (flawed as it is) is supposed to make sure you do.  I bet
-Dr. Tae would be an amazing high school science teacher, but I’m not so
-sure about all of his Northwestern physics faculty colleagues.</p>
-
-<p>Dr. Tae hates grades; he calls them “coercive”–he feels that teachers
-make students think the way they want them to think by holding grades
-over their head.  I’ll concede that there are better ways to motivate
-students to work hard than grades, but at the end of the day, the grade
-is how someone who wasn’t in the classroom (like a prospective employer
-or admissions committee) can judge what you learned in that classroom.
-It provides information that’s just not readily apparent in an
-interview.  So I’m not ready to just throw out grades all together.</p>
-
-<p>Dr. Tae loves for kids (even adult kids) to ask questions and do
-experiments to answer them.  I agree this is a great way to learn and
-stay excited about science.  It’s also true that having a strong base of
-knowledge (be that facts or methods) is important and that means
-students have to read and listen to stuff they might think is boring in
-the moment.</p>
-
-<p>Dr. Tae is exactly right when he says the secret to learning is to “Work
-your ass off until you figure it out”.  Failure is far more common than
-success in science and learning.  So often I have students who come to
-me and say “I read the article for today and didn’t understand it.
-Something is terribly wrong!”  No it’s not.  Learning is hard.  Reading
-science, doing math, writing well, making an argument, they all take
-serious effort.  None of it is supposed to be like reading a newspaper
-article or watching tv.  It’s totally normal to have to read something
-several times to get it.</p>
-
-<p>Dr. Tae talks a bunch about how fundamentally broken our schools are
-with their bad teachers and semester-long courses and grades.  But then
-he says there are a lot of ways we can “polish the turd”.  He’s right about
-this too.  My students ask their own questions, work in small groups,
-and spend big chunks of time one-on-one with me.  I reward curiosity,
-creativity, and hard work in my grading.  Many of them continue research
-they started in my classes after the semester is over.  My bet is that
-all this is true of Dr. Tae’s classes when he teaches physics.</p>
-
-<p>Before you throw out schools as currently conceived, you have to be
-ready to replace them with something better.  Here’s where I think
-Dr. Tae’s train goes off the rails.  His ideas about “distributed
-teaching” are totally crazy.  He seems to think that we should all teach
-what we know part-time and all together, this will give people a better
-educational experience than they would get in college.  He gives
-Wikipedia as an example.  I love Wikipedia, but reading about a topic
-there is a far cry from taking a course on it with someone who has spent
-their life studying it.</p>
-
-<p>Like so many things, it all comes down to incentives.  Knowledge is a
-public good, but someone has to produce it and communicate it.  That’s
-not free.  A system that depends on people volunteering their time is a
-system that produces an extremely sub-optimal amount of knowledge.
-There’s probably a role for government in subsidizing this production,
-and I think this a great argument for not
-<a href="http://www.universityofcalifornia.edu/news/article/21271">dismantling our public universities</a>.
-But I do think there’s vast room for improvement to the education
-system.  In the meantime I’ll continue to polish turds in my own
-classes.</p>
 ]]></content>
   </entry>
   
