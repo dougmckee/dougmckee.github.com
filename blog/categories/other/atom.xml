@@ -4,7 +4,7 @@
   <title><![CDATA[other | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-01-14T00:09:02-05:00</updated>
+  <updated>2013-01-17T23:53:53-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Three Favorite Low Traffic Blogs]]></title>
+    <link href="http://highvariance.net/blog/2013/01/17/favorite-low-traffic-blogs/"/>
+    <updated>2013-01-17T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/01/17/favorite-low-traffic-blogs</id>
+    <content type="html"><![CDATA[<p>Last week a whole bunch of people wrote <a href="http://www.economist.com/blogs/babbage/2013/01/remembering-aaron-swartz">really</a> <a href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html">nice</a> <a href="http://blogs.law.harvard.edu/philg/2013/01/12/aaron-swartz/">things</a> about an <a href="http://en.wikipedia.org/wiki/Aaron_Swartz">amazing person</a> who is no longer around to read them. Continuing in my <a href="/blog/categories/thanks/">series of thanking people who can still appreciate it</a>, these are my three favorite low traffic blogs:</p>
+
+<h2 id="think-in-projectshttpwwwthinkinprojectscom"><a href="http://www.thinkinprojects.com">Think In Projects</a></h2>
+<!---
+(24 Google Reader subscribers)
+--->
+
+<p>I found out about Rafal’s blog when he commented on <a href="http://highvariance.net/blog/2012/05/27/gtd-with-rtm/">a post here</a>, but it’s quickly become my favorite source for thoughtful advice about improving personal productivity.  He reads widely and links to the best articles he finds on the topic. But the reason I keep coming back is his own writing.  For whatever reason, he and I run into very similar issues and he has practical ideas for making progress on those issues. Recently he’s written good stuff about <a href="http://www.thinkinprojects.com/productivity/celebrate-2/">the value in looking back at our accomplishments</a>, <a href="http://www.thinkinprojects.com/productivity/planning-2013/">long range planning</a>, and <a href="http://www.thinkinprojects.com/productivity/on-avoidance-of-stuff/">avoiding what’s important</a>.  He also happens to write extensively about <a href="http://www.rememberthemilk.com">Remember the Milk</a> and <a href="http://evernote.com">Evernote</a>–two tools I respect but don’t currently use.</p>
+
+<h2 id="its-not-a-problem-if-you-cant-solve-ithttpsillynomadtumblrcom"><a href="http://sillynomad.tumblr.com">It’s not a problem if you can’t solve it</a></h2>
+<!---
+(2 Google Reader subscribers)
+--->
+
+<p>This site is written by a former student of mine from Spain who has spent big chunks of this life in Africa and is now living in Japan.  He has a unique perspective on the world and through words and photos he communicates a great sense for both the ordinary and extraordinary in Japan.  Reading his blog I often feel like I’m watching a Japanese version of the Office. Alf also partakes in a tremendous number of extracurricular activities so I get to learn all about soccer leagues, concerts, themed restaurants, and video game arcades too. And seriously, how many people do you know that have taken a <a href="http://sillynomad.tumblr.com/day/2012/12/20">field trip to Hiroshima to play Dungeons and Dragons</a>?</p>
+
+<h2 id="byte-bakerhttpbytebakercom"><a href="http://bytebaker.com">Byte Baker</a></h2>
+<!---
+(118 Google Reader subscribers)
+--->
+<p>Shrutarshi Basu is a computer science grad student at Cornell, but I started reading his blog back when he was “just” a nerdy college kid. He writes about what he’s doing (hacking, figuring out life) and what he thinks is important (e.g., programming languages, reading, productivity). While it’s true that we do share some interests, my favorite quality of the site is Shrutarshi’s earnestness. He consciously tries to achieve excellence in whatever he does and he’s open about what’s working and what’s not.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
@@ -194,73 +224,6 @@ arctic conditions of last winter in Connecticut.</p>
 
 <p>The bottom line: Six years from now I’ll probably be using exactly the
 same bag.  And it’ll still look great.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Radiators, Thermostats, and Heat Momentum]]></title>
-    <link href="http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum/"/>
-    <updated>2012-01-14T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum</id>
-    <content type="html"><![CDATA[<p>We’re deep into our first winter in the new house and are just now
-figuring out how to properly control the indoor temperature.  On the
-plus side, we’ve got the ingredients of a fabulous heating system.  The
-brand-new
-<a href="http://www.buderus.us/products/gasheating/gasconventionalboilers/loganog234x.html">gas-fired boiler</a>
-is <em>so</em> much cheaper and cleaner than the oil-fueled relic that was here
-when we moved in.  The house was built in the 1920’s and has one
-or two huge radiators in every room.  We even have a
-programmable thermostat (a Lux TX500B which is nearly identical to the
-current <a href="http://www.luxproducts.com/thermostats/tx500e.php">Lux TX500E</a>)
-so we can lower the temperature during the day when we’re at work and at
-night when we’re in bed.</p>
-
-<p>For the last couple months, the thermostat would turn on the boiler at
-6:00 am and keep it on until the house reached 68 F.  The problem was
-that even though the boiler turned off, the radiators were still full of
-hot water and they would continue heating the house driving the
-temperature up to 71 or 72 and driving me kind of crazy.  The same thing
-would happen in the afternoon when we got home from work.</p>
-
-<p>My first thought was that there must be a setting on the thermostat to
-account for what I’m calling “radiator heat momentum”.  There isn’t.
-The closest you can get is to lower the minimum amount of time the
-boiler is on and that doesn’t actually help in most situations.  My
-second thought was that this was a great excuse to get a
-<a href="http://www.nest.com">Nest</a>–it’s the only thermostat anyone has ever
-described as sexy, but as far as I can tell, its AI smarts are all about
-saving you 10 minutes of programming.  This is especially true if you
-have a pretty rigid schedule.  And it has no special knowledge of
-radiators.  Oh well.</p>
-
-<p>The solution we’ve settled on is imperfect, but  good and easy to
-implement with some semi-creative thermostat programming.</p>
-
-<p>WEEKDAYS: In the morning, we simply set the thermostat to go to 66 and
-the temperature drifts up to where we want it after the boiler turns
-off.  During the day, the house goes down to 62 and at 4:30 pm, the
-thermostat goes back to 67.  The temperature drifts up a little higher
-than we’d like, but we don’t want it to drop below 67 before we go to
-bed and we can only have 4 different temperature settings per day. (Yes,
-I think this restriction is ridiculous.)</p>
-
-<p>WEEKENDS: At 6:00 am, the thermostat jumps to 66 and drifts up to about
-68 within the hour.  At 7:00 am, the thermostat goes to 68 and that
-keeps the house from getting too cold during the day when we are around.  We also set the
-Swing on the thermostat to 0.25 degrees; this means the boiler turns on
-fairly often for short periods of time but these little firings during the
-day don’t generate much momentum–it’s really just the big push in the
-morning and in the afternoon during the week that cause a problem.  It’s
-possible we could raise the Swing and be a little more efficient and
-still not generate much heat momentum.</p>
-
-<p>I’m don’t know why other folks aren’t complaining about this (since
-radiator heat isn’t <em>that</em> rare) and why the thermostats don’t handle it
-more transparently.  My best guess is that less than mammoth radiators
-don’t hold their heat as well and so it’s just not an issue in houses
-with average radiators.  Either that or the solution I’ve come up with
-is so obvious that no one feels the need to talk about it.  My ego tells
-me it’s the former so I’m going with that.</p>
 ]]></content>
   </entry>
   
