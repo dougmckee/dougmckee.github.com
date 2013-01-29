@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-01-24T12:49:04-05:00</updated>
+  <updated>2013-01-29T15:01:13-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
+    <link href="http://highvariance.net/blog/2013/01/29/lectures-2.0/"/>
+    <updated>2013-01-29T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/01/29/lectures-2.0</id>
+    <content type="html"><![CDATA[<p>The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. Sometimes he or she uses slides and sometimes he or she writes on a board.  And sometimes, he or she is informative and engaging, but it’s almost always a pretty one way affair with occasional questions posed to the class.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  The experience for students is a lot like watching a good documentary.  And that’s the best case scenario. The vast majority of the time, students sit back and absorb the flow or just check out. They don’t get <em>their</em> questions answered or engage constructively with the material. The average professor talks at their students for an hour and a half twice a week and it’s more like a late night infomercial than a documentary. </p>
+
+<p>Now let’s think about seminars. Students read articles and book chapters ahead of time and then gather in a small classroom to discuss the material with the professor and each other. Often there are in-class exercises or even smaller group activities. In general, students report they get more out of these classes. </p>
+
+<p>So why aren’t all classes structured as seminars? First of all, some material (especially introductory material) is more easily presented visually than textually–that’s one reason why <a href="http://www.khanacademy.org">Kahn Academy</a> is so successful. Seeing someone work through a problem is, for many students, a lot clearer than reading about it in a book. Lecturing allows for this kind of presentation and I believe it complements book learning. The second reason is purely economic: Seminars are expensive. If you have 33-34 students per seminar and you want to teach 100 students, you need three professors.  That’s triple what you’d need to teach a 100 person lecture.</p>
+
+<p>Wouldn’t it be great if we could take the best qualities of the lecture and the seminar and combine them in an economically feasible way?  We can. </p>
+
+<p>I was asked recently why I am excited to teach an online class this summer. Expanding the reach of my teaching was one reason, but it also gives me the opportunity to put together high quality online materials. This won’t simply be recordings of my hour and half lectures. Instead, it will be 3-5m chunks of <a href="https://www.udacity.com">Udacity</a>-style video interspersed with questions to make sure students are following along. The video will mostly be me drawing on slides, working through problems, and presenting new concepts.</p>
+
+<p>Here’s my vision: The 100 person class is divided into three separate groups of students. Each week, all students work their way through about 2 hours worth of online interactive video. At the end of the week, I meet with each group for an hour. I answer questions that they still have. I tie the “timeless” online material to current events. I have them work on problems in smaller groups and float between groups helping them as needed. </p>
+
+<p>I think the experience will be clearly better for students, but what about faculty and the administration? This won’t happen unless it’s a Pareto improvement.  That is, none of the parties involved can be worse off. </p>
+
+<p>Once the materials are in place, they can be re-used by different professors–this radically reduces the amount of prep time. The class itself should be a lot more fun to teach since the professor  can actually have conversations with students and get direct feedback on how well the class is going. If the online materials are high quality (and they should be), the professor doesn’t have to be fantastic to teach an excellent class. Most faculty are not naturally great lecturers, but the small classes give them an opportunity to share their raw intelligence and experience with the material–it’s a much better skill match.</p>
+
+<p>The administration is happy because the same 100 students are getting higher quality education for the same cost.  In fact, far more students get to benefit from close contact with big name professors–that makes the institution look good.</p>
+
+<p>What I’m describing is not a totally new idea–It’s a straight-forward application of <a href="http://en.wikipedia.org/wiki/Flip_teaching">flipping the classroom</a>. And it’s an idea that gets better and better every day as the education world learns  more about what works online and more high quality materials are made publicly available.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Some professors will use <a href="http://www.engaging-technologies.com/teaching-with-clickers.html">clickers</a> to get real-time multiple choice feedback from his or her audience.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Who should own course materials?]]></title>
@@ -202,67 +236,6 @@ programs (using those same commands) in an editor.  And the
 documentation is excellent and available online.</p>
 
 <p>I’ll let you know how it goes!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Top 10 Things Professors Do During Spring Break]]></title>
-    <link href="http://highvariance.net/blog/2012/03/04/professors-over-break/"/>
-    <updated>2012-03-04T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/03/04/professors-over-break</id>
-    <content type="html"><![CDATA[<p>It turns out there is a lot of confusion out there about what exactly
-professors do over spring break. My neighbors think I’m on my way to the
-beach and my students don’t know what to think. So let’s put this
-mystery to rest with a top 10 list:</p>
-
-<ol>
-  <li>
-    <p>Catch up on research. During the semester if you have a less than
-productive research day there are no short term consequences.  On the
-other hand, if you don’t prep you lecture for the next day you look
-pretty silly standing up in front of your class with nothing to
-say. That’s a recipe for falling behind on research.</p>
-  </li>
-  <li>
-    <p>Grade the exams students took the week before break and the
-papers students passed in right before they left for Daytona.</p>
-  </li>
-  <li>
-    <p>Write referee reports. Part of our job is to evaluate our peers’ work and
-either suggest improvements or make the case that the project is
-hopeless.</p>
-  </li>
-  <li>
-    <p>Attend conferences.  These are often conveniently scheduled when we
-don’t have to work around classes.</p>
-  </li>
-  <li>
-    <p>Collect data in the field. I don’t do much of this, but if I did,
-this is when I’d do it. Preferably someplace warm.</p>
-  </li>
-  <li>
-    <p>Recover some sleep. We don’t get enough during the semester either.</p>
-  </li>
-  <li>
-    <p>See family. These might be members in our own homes that we didn’t
-see enough or grandparents that live in another state.</p>
-  </li>
-  <li>
-    <p>Prep classes for after break. It’s always nice to start the second
-half with a few lectures in the bank.</p>
-  </li>
-  <li>
-    <p>File taxes. If you’re extremely lucky you have another professor in
-your household that’s willing to do this.  (Thank you!)</p>
-  </li>
-  <li>
-    <p>Blog a little more. We can always dream!</p>
-  </li>
-</ol>
-
-<p>So is spring break vacation?  Kind of, but not really since we work almost
-every day.  It’s still nice change of pace.</p>
-
 ]]></content>
   </entry>
   
