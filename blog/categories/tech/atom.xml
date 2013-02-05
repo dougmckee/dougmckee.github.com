@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-02T23:01:41-05:00</updated>
+  <updated>2013-02-05T07:15:22-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,70 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Crashed disks, imperfect backup strategies, and lessons learned]]></title>
+    <link href="http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons/"/>
+    <updated>2013-02-05T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons</id>
+    <content type="html"><![CDATA[<p>I work regularly with two computers. At home, I have an iMac with a big drive that is on all the time. At the office (and everywhere else) I use a MacBook Air. All my documents and data are stored on Dropbox and I use <a href="http://www.subsonic.org/pages/index.jsp">Subsonic</a> to stream my home music collection wherever I happen to be. If I watched movies, I could probably do the same with them. With this setup, I am equally productive on both machines and it doesn’t take that much work to keep apps and preferences in sync.</p>
+
+<p>I used to think I had the perfect backup system. At home, my iMac’s internal drive is backed up to an external disk with Time Machine and to the cloud with <a href="http://backblaze.com">BackBlaze</a>. Since all my documents and data live in Dropbox, they’re duplicated (along with old versions) in Dropbox’s cloud. My Macbook Air has almost nothing sacred outside Dropbox and until recently, I thought that if the disk failed, all I’d have to do is reinstall my apps (just a few minutes work with the App Store) and I’d be back in business.  I was wrong.</p>
+
+<p>About two weeks ago, it happened: my Air’s disk failed: The only thing that showed up on my screen was a blinking Folder icon with a question mark in the center. I quickly dropped off the machine at the local Apple store for service and muddled along for a few days with my old ThinkPad <a href="http://wiki.osx86project.org/wiki/index.php/Main_Page">Hackintosh</a>. When I finally picked up my repaired machine, it had a pristine installation of Lion and nothing else. I brought it home, installed Dropbox, and let <a href="https://www.dropbox.com/help/137/en">LAN Sync</a> work its magic over the local wifi and in a couple hours my documents and data were back. Then, with the press of a button I installed my 25 or so App Store apps.</p>
+
+<p>That’s when I realized just how many apps I rely on are NOT in the App Store.  They fall into four broad categories:</p>
+
+<h2 id="apps-that-break-apples-sandboxing-rules">1. Apps that break Apple’s sandboxing rules</h2>
+
+<p>Several really useful utilities want to insert themselves deeper into the operating system than Apple would like.</p>
+
+<p><a href="https://agilebits.com/onepassword">1Password</a>: Lets me use ridiculously long strings of unguessable gobbledy gook for passwords without having to remember them. Also securely holds all my account numbers, credit card numbers and plugs this stuff into web pages as needed.</p>
+
+<p><a href="http://www.alfredapp.com">Alfred</a>: After a simple Command-Space I can type short incantations to make amazing things happen. You really need to check out the web page to see how awesome and productivity-enhancing this is.</p>
+
+<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a>: I type short things like “;s” in any app and TextExpander fills in long snippets of text.</p>
+
+<p><a href="http://pqrs.org/macosx/keyremap4macbook/">KeyRemap4Macbook</a>: I use it to give me emacs key combinations pretty much anywhere, but the app can do lots more.</p>
+
+<p><a href="http://manytricks.com/moom/">Moom</a>: Makes it easy to move and resize windows to common places and sizes.</p>
+
+<p><a href="http://www.stclairsoft.com/DefaultFolderX/">DefaultFolderX</a>: It expands the File-&gt;Open Dialog to show bigger QuickLook previews and makes it easy to select commonly used paths. It’s super-useful if you have very hierarchical directory structures.</p>
+
+<h2 id="apps-from-companies-that-dont-want-to-give-apple-30">2. Apps from companies that don’t want to give Apple 30%</h2>
+
+<p><a href="http://office.microsoft.com/en-us/">Microsoft Office</a>: The cheese sandwich of software–it does its job competently, but it’s hard to get excited about it.</p>
+
+<p><a href="http://www.stata.com">Stata</a>: My go-to data analysis software. Fast, feature-filled, relatively shallow learning curve, and great documentation. What more do you want?</p>
+
+<p><a href="http://www.mekentosj.com/papers/">Papers</a>: Manages big collections of pdfs and simplifies search for academic literature.</p>
+
+<h2 id="apps-i-think-should-be-in-the-app-store">3. Apps I think should be in the App Store</h2>
+
+<p>These apps are free and frankly I have no idea why they’re not in the App Store:</p>
+
+<p><a href="http://www.skype.com">Skype</a> and <a href="https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>: If you are reading this on a computer screen, then you already know these two.</p>
+
+<p><a href="http://aquamacs.org">Aquamacs</a>: Puts Mac lipstick on an old pig of an editor. That said, I’ve been using emacs for 20 years and I love it.</p>
+
+<p><a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a>: I’ve been using nvAlt for about six months to manage all my miscellaneous notes. It’s super-easy to search and the data are accessible on all my devices.</p>
+
+<h2 id="apps-that-are-just-too-geeky-for-the-app-store">4. Apps that are just too geeky for the App Store</h2>
+
+<p>You’re going to be spending quality time at the command-line if you use <a href="http://mxcl.github.com/homebrew/">brew</a>, <a href="http://www.ruby-lang.org/en/">Ruby</a>, and <a href="http://octopress.org">Octopress</a>, so you may as well install them by hand.</p>
+
+<p>Once all I installed all these apps, I still had lots of little things to do.  I had to tweek the preferences for most of my apps. I had to set up the finicky network printer in the office. In order to access the secure university wifi network, I had to install the required certificate. I could go on, but this gives you the flavor–The whole process of getting back to where I started took far longer than I had envisioned and I don’t want to go through it again.  </p>
+
+<h2 id="the-solution">The Solution</h2>
+
+<p>The main requirement of any solution was that it back up what wasn’t already safe–i.e., everything outside my Dropbox folder. But any solution also had to need absolutely minimal human intervention. I am not to be trusted to manually mirror drives every week. I also wanted to do as much as possible with hardware I had lying around.</p>
+
+<p>Because we’re only talking about about 40 GB, I was able to repurpose an old 250GB external drive as a Time Machine disk that now lives at the office nestled into a book shelf. It’s plugged into a hub along with my phone charger, iPad charger and USB ethernet adapter. The first thing I always do upon arrival is plug the Air into it’s power adapter, the external display, and the hub. This procedure hasn’t had to change at all. When I leave, I pull the external display cable and close the lid on the Air. <a href="http://www.stclairsoft.com/Jettison/">Jettison</a> automatically waits for any ongoing Time Machine backups to finish and ejects the external disk before sleeping the Mac. As soon as I hear the disk stop, I unplug the hub and my power cable and I’m ready to go.</p>
+
+<p>The other day I took my favorite winter coat to a tailor to have the zipper fixed. The woman very graciously showed me that nothing was actually broken–I’d simply forgotten that it was a <a href="http://www.perfectex.com/two_way_zipper.jpg">two way zipper</a> and both parts needed to be at the bottom in order for it to work. It was embarrassing, but I was still happy since the “repair” was extremely fast and it cost nothing. I feel the same way about this adjustment to my backup system. It’s a little embarrassing that I didn’t recognize the weakness up front, but I’m also really happy that it was so easy to fix.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
@@ -154,33 +218,6 @@
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Blogoversary!]]></title>
-    <link href="http://highvariance.net/blog/2012/12/22/happy-blogoversary/"/>
-    <updated>2012-12-22T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/12/22/happy-blogoversary</id>
-    <content type="html"><![CDATA[<p>The first time I saw the World Wide Web, I was hunched over an 8 lb laptop using a <a href="http://en.wikipedia.org/wiki/Lynx_(web_browser)">text based browser</a> and a 56k modem. There wasn’t much to see and it didn’t seem like a big deal. Then about three month’s later <a href="http://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a> (the first graphical browser) was released and I “got it.” Within a week <a href="http://en.wikipedia.org/wiki/NaviSoft">we</a> redefined our product line and turned a generic set of “network publishing” tools into a web server and a web authoring tool.  Within a year we were purchased by America Online to show that they “got” the web too. My point is that I’ve been deeply embedded in the web for a long time.  </p>
-
-<p>And yet, not including my professional <a href="http://www.econ.yale.edu/~dm529">web-based resume/cv</a>, I didn’t have my own website until exactly a year ago when High Variance was <a href="http://highvariance.net/post/14573237390/first-post">born</a>. I’m not sure why it took me so long to get here, but after a year of any project, I think it’s important to step back and take stock to see if the original goals are being met. I had three:</p>
-
-<ol>
-  <li>
-    <p><strong>Create more:</strong>  As expected, the topics have been eclectic ranging from economic policy to kid book reviews to eighties pop music.  The rate of production has been similarly irregular with a burst of activity last January (17 posts) and a summer hiatus.  But the aggregate rate has been about one post per week.  I’m happy with this.</p>
-  </li>
-  <li>
-    <p><strong>Learn to write better and more comfortably:</strong> Perhaps my biggest surprise is how enjoyable the whole process has been. I don’t get anxious when I write here and my anxiety level when writing professionally has definitely decreased.  When my mind is spinning about a topic, writing about it actually gets me to calm down and figure out what I actually think about it.  As for the quality of the writing, I think I’m getting better, but it’s hard to tell.</p>
-  </li>
-  <li>
-    <p><strong>Provide entertaining, useful, and/or inspiring content:</strong> My audience will need to be the judge of this, but I know I’ve given at least a few chuckles, a few bits of helpful advice, and even tugged on a few heartstrings.  And in looking back on what I’ve written, much of the content seems to have aged well.</p>
-  </li>
-</ol>
-
-<p>I suppose I should also say something about my readership. According to Google Analytics, over the past year I’ve have 2,070 unique visitors (5.7 per day) and 4,000 page views (11 per day). Not much, but if you squint at the chart, it does look like traffic is trending slightly up.  There are even a few posts that get regular search engine traffic–<a href="http://highvariance.net/post/18591130112/why-are-zebras-so-mean-and-horses-so-nice">zebras</a>, <a href="http://highvariance.net/post/23166850855/pdf-annotation-on-the-ipad-in-2012">pdf annotation on the iPad</a>, and <a href="http://highvariance.net/post/16047390011/mincer-1958">Mincer 1958</a> are the top three.</p>
-
-<p>As I was about to blow out the candles on my birthday cake a few weeks ago I realized something very special: I didn’t have anything new to wish for.  I have a wonderful wife and two lovely children.  We’re all healthy and happy with our jobs and our house.  I just want what I already have.  That’s kind of true of this blog too.  So here’s to another fun and fulfilling year!</p>
 ]]></content>
   </entry>
   
