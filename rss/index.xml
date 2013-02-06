@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-05T07:15:22-05:00</updated>
+  <updated>2013-02-06T01:40:06-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Recycling Monsters]]></title>
+    <link href="http://highvariance.net/blog/2013/02/06/recycling-monsters/"/>
+    <updated>2013-02-06T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/06/recycling-monsters</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-monster-manual1.jpg" alt="The Monster Manual, First Edition--Sweet!" /></p>
+
+<p><a href="kids">Mommy blogs</a> are full of articles about how to reuse stuff you have lying around the house as toys for your kids, but for whatever reason, the trappings of my teens and twenties have not proven very entertaining for the girls. The awesome car stereo I had in my Honda CRX is long gone and it might be a while before the girls age into my dartboard and collection of heavy metal cd’s. Even my old volleyballs are not as fun as the purple and pink balls we picked up for 99 cents at the drug store. </p>
+
+<p>So I was thrilled the other day to find my four year old happily flipping through my First Edition <a href="http://en.wikipedia.org/wiki/Monster_Manual">Monster Manual</a>. If you didn’t spend big chunks of high school playing Dungeons and Dragons, you might not have heard of it. It’s basically an encyclopedia of monsters with illustrations that look a lot like what a high school student might doodle on their notebook. Check out this <a href="http://www.somethingawful.com/d/dungeons-and-dragons/wtf-monster-manual.php?page=1">review</a> at <a href="http://www.somethingawful.com">Something Awful</a> to get a flavor for it.</p>
+
+<p>The big question you’re probably asking yourself right now is “Good God! How is that appropriate for kids?” If you happen to have a <a href="http://highvariance.net/blog/2012/10/13/mythical-creatures/">kid that loves monsters</a>, the pictures won’t give her (or him) nightmares–they’re that cheesy.  The only real issue is the occasional topless demon or mermaid, but that’s not much different than the average clothing catalog. The only caveat is that you probably don’t want to read the monster descriptions out loud. I made this mistake with the <a href="http://en.wikipedia.org/wiki/Ochre_jelly">ochre jelly</a> and won’t make it again. </p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crashed disks, imperfect backup strategies, and lessons learned]]></title>
@@ -770,74 +786,6 @@ about remembering to turn off the fan when it’s done its job.  But I
 think there is a bigger lesson here: Some products that are perfect for
 some people (or bathrooms) are not perfect for others, and we shouldn’t
 let ourselves be blinded by the opinions of fan-bois.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A few comments on Apple's Big October Event]]></title>
-    <link href="http://highvariance.net/blog/2012/10/25/apple-observations/"/>
-    <updated>2012-10-25T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2012/10/25/apple-observations</id>
-    <content type="html"><![CDATA[<p>Apple’s big October product announcements are now behind us and I’ve
-read more blogger reactions than I care to admit.  Even I’m surprised
-that I still have a few somewhat original thoughts of my own to share.
-Instead of simply being an “iPad mini” event Apple announced a whole
-slew of products.  While some folks predicted some of the “extra”
-stuff, I don’t think anyone expected the sheer quantity we saw.  That
-said, I’m most excited about two products Apple did not announce:</p>
-
-<ol>
-  <li>
-    <p><strong>A new Thunderbolt display:</strong> The new iMac is beautiful and I can’t
-wait until they translate it into a stand-alone display.  Less glare and
-pixels closer to the glass will be terrific.  It will also give Apple a
-chance to add a few ports that they neglected on the first rev: USB 3
-and analog audio out.  And imagine how thin it will be when it doesn’t
-have to also house a whole computer?</p>
-  </li>
-  <li>
-    <p><strong>The Fusion Drive:</strong> I know, I know, they DID announce this as an
-option for the new iMac and Mac Mini, but I’m hoping they will sell it
-separately so I can stick one in my 2010 iMac.  I really like the idea
-of having the speed of an SSD and the size of a traditional HD without
-the hassle of managing the pair.  We’ll have to wait for the iFixit
-teardown to see if it has a new interface (and is thus incompatible) and
-something tells me even if it has standard wiring, Apple will want to
-reserve this feature as reason for folks to upgrade their old (but
-perfectly usable) iMacs.  I can still dream.</p>
-  </li>
-</ol>
-
-<p>There’s been a lot of talk about how Apple is making a mistake by
-pricing the iPad mini at $329 and leaving breathing room for the other
-cheaper small tablets in the market.  I think Apple priced the product
-as high as possible such that they will sell all the mini’s they can make
-before the holidays.  If they didn’t, they would simply be leaving money
-on the table.  When their supply chain gets up to speed some time in the
-spring, I predict they will drop the price below $300.</p>
-
-<p>I have very mixed feelings about the new iMac.  While it’s gorgeous and
-powerful, I’m not sure I agree with the sacrifices Apple had to make to
-achieve its super-model-thin curves.  Most iMac owners spend
-the bulk of their time in <em>front</em> of their iMac where they never even
-see the curves–my own is right up against a wall, and I’d have to lean
-over and around my desk to appreciate the sides and back.</p>
-
-<p>Apple loves to be first to cast old standards aside: Remember when the
-iMac dropped the floppy drive?  I think they were the first PC maker to
-stop using special keyboard and mouse ports and just rely on USB.  And
-just a month ago they said goodbye to the venerable Dock Connector.  Now
-they want to do the same thing to the optical drive.  For a notebook,
-this makes perfect sense: In the last year there was exactly one time
-when it would have been nice to mount a CD on my Air and that is
-certainly not enough to justify the added weight and bulk of a drive.
-At my desk, I do rip the occasional DVD or used CD.  And I’m certainly
-not throwing my iMac in my bag when I head out on the town.  But maybe
-Apple’s right.  Maybe folks should just keep an ugly old SuperDrive in a
-drawer for those rare occasions when they need it.  Then they can
-appreciate beautiful design every day.  Even if it means leaning over
-their desks to do so.</p>
-
 ]]></content>
   </entry>
   
