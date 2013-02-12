@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[cars | High Variance]]></title>
+  <link href="http://highvariance.net/blog/categories/cars/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2013-02-12T04:06:02-05:00</updated>
+  <id>http://highvariance.net/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
+    <link href="http://highvariance.net/blog/2013/02/12/neutral/"/>
+    <updated>2013-02-12T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/12/neutral</id>
+    <content type="html"><![CDATA[<p>I drive a 2002 Honda Civic. It’s an automatic and even though the interior is smeared with a thin layer of toys and crumbs, it hasn’t been vacuumed in months. It could not be less of a “driving machine” or more of a “people mover.” And yet, my favorite new podcast (<a href="http://neutral.fm">Neutral</a>) is all about cars and the tech behind them.</p>
+
+<p><a href="http://marco.org">Marco Arment</a>, <a href="http://hypercritical.co">John Siracusa</a>, and newcomer Casey Liss have teamed up to tell folks on the Internet what they drive, what they would like to drive, what everyone else should drive, and most importantly the reasons behind each in excruciating detail. In just four episodes, I’ve learned about dual clutch transmissions, the appeal of white cars, pricing of used Acura NSX’s, and how hard it is not to generalize from small samples even when we know it’s wrong.</p>
+
+<p>When I was in college, I read <em>Car and Driver</em> and <em>Road and Track</em> religiously. Even though I couldn’t afford a car at all, I could tell you the difference between the latest models of BMW, Audi, and Volvo. So it makes me really happy that a bunch of nerdy guys who now have a bit of money and who have been keeping up better than me can now own nice cars. (Actually, only Marco and Casey are in this situation–John still drives an Accord while he waits for his kids to finish elementary school and middle school and high school and college. It’s going to be a while for John.) </p>
+
+<p>I really only have the tiniest complaint about the show and it starts with a comment Marco made while defending his choice to pay (about) $500/month to lease a “nice” car instead of $250/month to lease an “adequate” car. He said that meant he must get twice as much value from the nice car to make it worthwhile. A reader graciously wrote in to correct his logic, but clearly it didn’t stick because Marco proceeded to wave his hands and say the argument was “semantics.”</p>
+
+<p>Price is not the same thing as value. People buy a thing when the price is <em>*less than or equal to</em> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
+
+<p>Part of being a nerd is sweating the details and getting stuff right. No one wants to ship buggy products and they shouldn’t ship buggy podcasts either. I’ll give them the benefit of the doubt since <em>Neutral</em> is still a 1.0.</p>
+]]></content>
+  </entry>
+  
+</feed>

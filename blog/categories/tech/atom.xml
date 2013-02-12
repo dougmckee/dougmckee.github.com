@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-06T01:40:06-05:00</updated>
+  <updated>2013-02-12T04:06:02-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
+    <link href="http://highvariance.net/blog/2013/02/12/neutral/"/>
+    <updated>2013-02-12T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/12/neutral</id>
+    <content type="html"><![CDATA[<p>I drive a 2002 Honda Civic. It’s an automatic and even though the interior is smeared with a thin layer of toys and crumbs, it hasn’t been vacuumed in months. It could not be less of a “driving machine” or more of a “people mover.” And yet, my favorite new podcast (<a href="http://neutral.fm">Neutral</a>) is all about cars and the tech behind them.</p>
+
+<p><a href="http://marco.org">Marco Arment</a>, <a href="http://hypercritical.co">John Siracusa</a>, and newcomer Casey Liss have teamed up to tell folks on the Internet what they drive, what they would like to drive, what everyone else should drive, and most importantly the reasons behind each in excruciating detail. In just four episodes, I’ve learned about dual clutch transmissions, the appeal of white cars, pricing of used Acura NSX’s, and how hard it is not to generalize from small samples even when we know it’s wrong.</p>
+
+<p>When I was in college, I read <em>Car and Driver</em> and <em>Road and Track</em> religiously. Even though I couldn’t afford a car at all, I could tell you the difference between the latest models of BMW, Audi, and Volvo. So it makes me really happy that a bunch of nerdy guys who now have a bit of money and who have been keeping up better than me can now own nice cars. (Actually, only Marco and Casey are in this situation–John still drives an Accord while he waits for his kids to finish elementary school and middle school and high school and college. It’s going to be a while for John.) </p>
+
+<p>I really only have the tiniest complaint about the show and it starts with a comment Marco made while defending his choice to pay (about) $500/month to lease a “nice” car instead of $250/month to lease an “adequate” car. He said that meant he must get twice as much value from the nice car to make it worthwhile. A reader graciously wrote in to correct his logic, but clearly it didn’t stick because Marco proceeded to wave his hands and say the argument was “semantics.”</p>
+
+<p>Price is not the same thing as value. People buy a thing when the price is <em>*less than or equal to</em> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
+
+<p>Part of being a nerd is sweating the details and getting stuff right. No one wants to ship buggy products and they shouldn’t ship buggy podcasts either. I’ll give them the benefit of the doubt since <em>Neutral</em> is still a 1.0.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crashed disks, imperfect backup strategies, and lessons learned]]></title>
@@ -148,73 +167,6 @@
     </li>
     <li id="fn:2">
       <p>My favorite example is his obsession with video game controllers which he demonstrates convincingly in episodes <a href="http://5by5.tv/hypercritical/49">49</a>, <a href="http://5by5.tv/hypercritical/50">50</a>, and <a href="http://5by5.tv/hypercritical/99">99</a> of Hypercritical.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Scratching my nerd itch with Octopress]]></title>
-    <link href="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/"/>
-    <updated>2012-12-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch</id>
-    <content type="html"><![CDATA[<p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
-
-<ul>
-  <li>Built-in search</li>
-  <li>Organization with tags so visitors could easily find articles by category</li>
-  <li>Easy integration with Disqus comments</li>
-  <li>Built-in <a href="http://www.usa.gov/Topics/Reference-Shelf/Libraries/RSS-Library/What-Is-RSS.shtml">RSS feed</a> for those who want to subscribe</li>
-  <li>Automatic announcement of new articles to Facebook</li>
-  <li>Easy integration with <a href="http://www.google.com/analytics/">Google Analytics</a> (for traffic statistics)</li>
-</ul>
-
-<p>Now, a year later, I have more of a vision for what I want to do with the site and I’m ready to tinker a bit. Unfortunately, while there’s some flexibility in how a Tumblr site looks, but they don’t give you any real control. Ever since high school I’ve spent regular chunks of time writing code and bending computers to my will. I’ve done this as a professional software developer, as a research economist, and often just messing around. The last year has been less geeky than usual as I’ve concentrated on teaching and less technical research projects.  It’s time to scratch my nerd itch.</p>
-
-<p>I’ve chosen to switch to a particularly nerdy blog platform (<a href="http://octopress.org">Octopress</a>) that requires using command-line tools, but it has the huge benefit of total control. Octopress is built on top of <a href="https://github.com/mojombo/jekyll#readme">Jekyll</a> which is written in <a href="http://www.ruby-lang.org/en/">Ruby</a> and I can tweek it as much as I’d like. I’ve always wanted to learn Ruby and reading and modifying other other people’s code is a great way to learn a language.</p>
-
-<p>In addition to Octopress/Jekyll/Ruby, this project gets me up to speed on several other modern nerdy technologies:</p>
-
-<ul>
-  <li><a href="http://mxcl.github.com/homebrew/">Homebrew</a> is a package manager for MacOS that lets you install all sorts of open source software including the latest version of Ruby.</li>
-  <li><a href="http://git-scm.com">git</a> is what version control will look like for years to come–it’s fast, collaborative, distributed, and flexible.</li>
-  <li><a href="https://github.com">Github</a> is where all the coolest open source projects live these days.  Any new software I write that I want to share will go here.    </li>
-  <li><a href="http://sass-lang.com">Sass</a> (Syntactically Awesome Style Sheets) is a powerful layer on top of CSS (Cascading Style Sheets) that allows for powerful adaptive layout of HTML pages.</li>
-</ul>
-
-<p>While Octopress is in part an excuse to fiddle with new tech, it also feels very comfortable as articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>–a very lightweight text-based markup language that I lately find myself using for almost everything.</p>
-
-<h2 id="whats-new">What’s New?</h2>
-
-<p>On the surface, the site shouldn’t look all that different, but beyond the engine being replaced, there are several subtle changes:</p>
-
-<ul>
-  <li>A real <a href="http://highvariance.net/about.html">About</a> page</li>
-  <li>Links up top for the main categories I tend to write about</li>
-  <li>A search bar near the top of every page</li>
-  <li>Quick links to my recent posts and my favorite posts.</li>
-  <li>Much better layout for mobile devices</li>
-  <li>Super-fast rendering since Octopress generates the whole site as static HTML which just sits on the server</li>
-</ul>
-
-<h2 id="was-it-easy-to-migrate-from-tumblr">Was it Easy to Migrate from Tumblr?</h2>
-
-<p>Two things helped a lot: The Octopress documentation is excellent and I already had all the articles on my local machine in Markdown. The only thing that was tricky was backwards compatibility as I wanted all my old URL’s to work and all my discussions to transfer over.  I used the <a href="https://github.com/tsmango/jekyll_alias_generator">alias-generator</a> plugin and a little elbow grease to make all my Tumblr URL’s redirect to my new URL’s.   </p>
-
-<p>Disqus (the service that keeps track of comments) says they will crawl your new site and use any redirects it provides to update their database.  Unfortunately, while <em>browsers</em> can understand the redirects that the alias-generator creates<sup id="fnref:fn_ag"><a href="#fn:fn_ag" rel="footnote">1</a></sup> just fine, the <em>disqus crawler</em> does not.  So I had to create a csv file that mapped all the old URL’s to the new ones and upload that.</p>
-
-<p>Announcements of new articles on Facebook are now handled by <a href="http://ifttt.com">IFTTT</a>.  It will likely take a little fine-tuning to get these right.</p>
-
-<h2 id="whats-on-the-horizon">What’s on the Horizon?</h2>
-
-<p>The primary emphasis of this site remains the text, but I do want to integrate a little more media–even just a few pictures here and there would be nice. I want the category pages to have their own looks. Beyond that, all I know is that I’ve now got the power to do anything.  Should be fun!</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:fn_ag">
-      <p>Since the site is static, it can’t actually send HTTP
-301 permanent redirects. Instead, the alias-generator creates HTML stub files for all the old URL’s with http-equiv meta tags containing the new locations of the URLs.<a href="#fnref:fn_ag" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
