@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-12T04:06:02-05:00</updated>
+  <updated>2013-02-16T14:55:15-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How our home music system got a little more complicated and a lot more awesome]]></title>
+    <link href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/"/>
+    <updated>2013-02-16T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/16/home-music-streaming-2</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-music-apps.png" alt="music apps" title="The music row of my iPhone home screen" /></p>
+
+<p>Our household is heavily invested in iTunes. We have a big collection on an iMac that never sleeps. We have an AppleTV in the living room and an Airport Express in the kitchen that serve as AirPlay destinations. With the iOS Remote app, we can stream whatever we want wherever we want. It doesn’t depend on Bluetooth or on keeping iPods synced up to date, and now that our wifi network is working well<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, <a href="http://highvariance.net/blog/2012/03/02/home-music-streaming/">it’s great</a>. But I wanted more. </p>
+
+<p>It turns out that our current 13,585 songs is not enough. Pretty often I’ll hear a new “artist”<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> on the radio and want to hear more from them. In the olden days I would carefully listen to 90 second samples in the iTMS and fret about <a href="http://highvariance.net/blog/2012/02/06/albums/">whether to invest in the whole album</a>. Now I can login to <a href="http://www.spotify.com">Spotify</a> on the desktop and listen to as much as I want over and over. If only there was a way to easily spread this goodness around the house. Of course there is.</p>
+
+<p>The key to the system is a piece of Mac software made by <a href="http://rogueamoeba.com">Rogue Amoeba</a> called <a href="http://rogueamoeba.com/airfoil/">AirFoil</a>. It costs $25 and it will push the audio output of any app to any Airplay destinations. The next piece of the puzzle is an iPhone app called <a href="https://itunes.apple.com/us/app/reemote-for-airfoil/id396381723">Reemote</a> ($4.99) that remotely controls AirFoil. Another iPhone app called <a href="https://itunes.apple.com/app/remoteless-for-spotify/id353392482">Remoteless</a> ($2.99) lets me control the desktop Spotify and do things like search for artists, albums, or songs to play.  Each app requires a free helper app that runs on the Mac. If you’re willing to put up with Spotify’s ads (so far I am), the service is free! </p>
+
+<p>Once Spotify, iTunes, and the two helper apps are up and running, here’s how it works. If I want to play music from my library, I bring up Reemote and make sure Airfoil streaming is turned off to my three destinations. Then I use Remote just as I used to. If I then want to play something with Spotify, I tell Remote to stream only to the computer and tell Reemote to stream to either the kitchen or the living room or both. Then I use Remoteless to get Spotify going. The process is pretty quick when all three apps are on your iPhone’s home screen. The system itself is a little finicky and does occasionally require me to restart Spotify on the desktop, but the extra power is so worth it.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>With one click of a checkbox in the Airport Utility, the kitchen Airport Express now does double duty as a network extender. Suddenly reception downstairs went from 1-2 bars at best to mostly 5 bars.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Are Carly Rae Jepson and Owl City artists? By my definition, absolutely!<a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
@@ -26,7 +53,7 @@
 
 <p>I really only have the tiniest complaint about the show and it starts with a comment Marco made while defending his choice to pay (about) $500/month to lease a “nice” car instead of $250/month to lease an “adequate” car. He said that meant he must get twice as much value from the nice car to make it worthwhile. A reader graciously wrote in to correct his logic, but clearly it didn’t stick because Marco proceeded to wave his hands and say the argument was “semantics.”</p>
 
-<p>Price is not the same thing as value. People buy a thing when the price is <em>*less than or equal to</em> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
+<p>Price is not the same thing as value. People buy a thing when the price is <strong>less than or equal to</strong> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
 
 <p>Part of being a nerd is sweating the details and getting stuff right. No one wants to ship buggy products and they shouldn’t ship buggy podcasts either. I’ll give them the benefit of the doubt since <em>Neutral</em> is still a 1.0.</p>
 ]]></content>
@@ -696,66 +723,6 @@ full retirement age will be going up to age 67 (details
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kid Book Review: Halloween Edition]]></title>
-    <link href="http://highvariance.net/blog/2012/11/16/kid-book-review-halloween/"/>
-    <updated>2012-11-16T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/11/16/kid-book-review-halloween</id>
-    <content type="html"><![CDATA[<p>About a week before Halloween, R and I raided the library’s selection of
-Halloween-appropriate picture books.  I’ve felt
-<a href="http://highvariance.net/post/21370720836/kid-book-review-library-trip-report-2">guilty before</a>
-about skimming the cream but hopefully sharing what we learned
-will balance out the karma.  Before I start, I know what you’re
-thinking: “It’s the middle of November!  Who cares about Halloween?  How about sharing something useful
-like the top 10 Thanksgiving picture books?”  Don’t worry, that’ll be
-here before Christmas.  In the meantime, bookmark this page and put a
-note on your calendar to check back on October 15, 2013 and then head to
-your local library.  On with the show!</p>
-
-<ul>
-  <li>
-    <p><a href="http://www.amazon.com/Franklins-Halloween-Paulette-Bourgeois/dp/0590693301">Franklin’s Halloween</a>
-(by Paulette Bourgeois, illustrated by Brenda Clark) Franklin is one
-of my favorite recurring lovable-yet-flawed characters.  He’s just a
-regular kid (turtle) who usually gets in some sort of minor trouble
-and learns from his mistakes.  He’s kind of
-<a href="http://www.amazon.com/Franklin-Messy-Paulette-Bourgeois/dp/0590486861">messy</a>,
-<a href="http://www.amazon.com/Franklin-Plays-Game-Paulette-Bourgeois/dp/0590226312">not very athletic</a>,
-and has even been known to <a href="http://www.amazon.com/Franklin-Fibs-Paulette-Bourgeois/dp/0590446479">tell a fib or two</a>.  In this book, he just
-has fun making his own Halloween costume and going to a party.
-There’s a great spooky twist at the end and he’s even generous to a
-sick friend.  Hurray for Franklin!</p>
-  </li>
-  <li>
-    <p><a href="http://www.amazon.com/Brooms-Are-Flying-Michael-Rex/dp/0312380151">Brooms Are for Flying</a> (by Michael Rex) and <a href="http://www.amazon.com/Humbug-Witch-Lorna-Balian/dp/159572009X">Humbug Witch</a> (by
-Lorna Bailin) Spoiler Alert!  These two books are simple and cute.
-One is about a witch who turns out to be a girl at the end and the
-other is about a girl who turns out to be a witch at the end!  </p>
-  </li>
-  <li>
-    <p><a href="http://www.amazon.com/WITCH-WHO-LIVES-DOWN-HALL/dp/B000J4MU7I">The Witch Who Lives Down the Hall</a> (by Donna Guthrie, illustrated
-by Amy Schwartz) The mostly black and white illustrations (with
-touches of orange) are a great complement to a story about a boy who
-lives down the hall from a “strange” lady and her black cat.  He’s
-convinced she’s a witch.  Clever and funny to both kids and adults.
-Reminded me a lot of <a href="http://highvariance.net/post/18359444436/kid-book-review-monster-edition">Mrs. Muffly’s Monster</a>.</p>
-  </li>
-  <li>
-    <p><a href="http://www.amazon.com/Terrible-Halloween-Night-James-Stevenson/dp/0688099327">That Terrible Halloween Night</a>
-  (by James Stevenson) This is about as scary as you can get and still
-  be appropriate for a three year-old. I loved it and R is still talking
-  about it.  Last night she told me our basement floor was covered with
-  frogs!  I liked the pen and pastel comic book layout too.</p>
-  </li>
-  <li>
-    <p><a href="http://www.amazon.com/Cake-Girl-David-Lucas/dp/B003NHR9OM">Cake Girl</a> (by David Lucas) <a href="http://www.amazon.com/David-Lucas/e/B001HMTVBY">David Lucas</a> is so good–all his books
-have such sweet characters, surreal stories, and pretty
-illustrations.  This one is about a witch who learns about friendship.</p>
-  </li>
-</ul>
 ]]></content>
   </entry>
   

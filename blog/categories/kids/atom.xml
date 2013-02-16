@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-12T04:06:02-05:00</updated>
+  <updated>2013-02-16T14:56:02-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -57,7 +57,7 @@
     <id>http://highvariance.net/blog/2013/01/20/couch-cushions-rule</id>
     <content type="html"><![CDATA[<p>I’m always looking for toys that will give the kids good exercise indoors for the winter.  Last Christmas, we bought <a href="http://www.magiccabin.com/Toys-and-Creative-Play/Wooden-Indoor-Climbing-Dome.htm">this climbing dome</a> (on sale) and it’s been awesome.  I can’t even count the number of rainy days, snowy days, even plain-old cold days when the girls have monkeyed around on it while I sort, fold, and hang laundry in our basement.  This year I spent a bunch of time trying to decide whether or not to buy <a href="http://www.amazon.com/Constructive-Playthings-Soft-Play-Forms/dp/B0010AN0JC">these fancy soft play forms</a>.  I’m so glad I didn’t, because I had something even better right under my nose (actually my butt) the whole time.</p>
 
-<p><img class="right" src="/images/hv-cushion-runway.jpg"></p>
+<p>{% img right /images/hv-cushion-runway.jpg %}</p>
 
 <p>Our couch has three bouncy seat cushions and three cushy back cushions.  It’s amazing how many cool things you can do with them.  Just today, we piled them all up to make a cushion mountain.  We surrounded it with pillows and tried jumping up and over the whole thing.  Then we slowed down and made a cushion fort where the cushions were the walls and blankets were the roof.  The finale was the cushion runway shown here.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-02-12T04:06:02-05:00</updated>
+  <updated>2013-02-16T14:56:02-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How our home music system got a little more complicated and a lot more awesome]]></title>
+    <link href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/"/>
+    <updated>2013-02-16T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/02/16/home-music-streaming-2</id>
+    <content type="html"><![CDATA[<p><img src="/images/hv-music-apps.png" alt="music apps" title="The music row of my iPhone home screen" /></p>
+
+<p>Our household is heavily invested in iTunes. We have a big collection on an iMac that never sleeps. We have an AppleTV in the living room and an Airport Express in the kitchen that serve as AirPlay destinations. With the iOS Remote app, we can stream whatever we want wherever we want. It doesn’t depend on Bluetooth or on keeping iPods synced up to date, and now that our wifi network is working well<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, <a href="/blog/2012/03/02/home-music-streaming/">it’s great</a>. But I wanted more. </p>
+
+<p>It turns out that our current 13,585 songs is not enough. Pretty often I’ll hear a new “artist”<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> on the radio and want to hear more from them. In the olden days I would carefully listen to 90 second samples in the iTMS and fret about <a href="/blog/2012/02/06/albums/">whether to invest in the whole album</a>. Now I can login to <a href="http://www.spotify.com">Spotify</a> on the desktop and listen to as much as I want over and over. If only there was a way to easily spread this goodness around the house. Of course there is.</p>
+
+<p>The key to the system is a piece of Mac software made by <a href="http://rogueamoeba.com">Rogue Amoeba</a> called <a href="http://rogueamoeba.com/airfoil/">AirFoil</a>. It costs $25 and it will push the audio output of any app to any Airplay destinations. The next piece of the puzzle is an iPhone app called <a href="https://itunes.apple.com/us/app/reemote-for-airfoil/id396381723">Reemote</a> ($4.99) that remotely controls AirFoil. Another iPhone app called <a href="https://itunes.apple.com/app/remoteless-for-spotify/id353392482">Remoteless</a> ($2.99) lets me control the desktop Spotify and do things like search for artists, albums, or songs to play.  Each app requires a free helper app that runs on the Mac. If you’re willing to put up with Spotify’s ads (so far I am), the service is free! </p>
+
+<p>Once Spotify, iTunes, and the two helper apps are up and running, here’s how it works. If I want to play music from my library, I bring up Reemote and make sure Airfoil streaming is turned off to my three destinations. Then I use Remote just as I used to. If I then want to play something with Spotify, I tell Remote to stream only to the computer and tell Reemote to stream to either the kitchen or the living room or both. Then I use Remoteless to get Spotify going. The process is surprisingly efficient when all three apps are on your iPhone’s home screen. The system itself is a little finicky and does occasionally require me to restart Spotify on the desktop, but the extra power is so worth it.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>With one click of a checkbox in the Airport Utility, the kitchen Airport Express now does double duty as a network extender. Suddenly reception downstairs went from 1-2 bars at best to mostly 5 bars.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Are Carly Rae Jepson and Owl City artists? By my definition, absolutely!<a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
@@ -26,7 +53,7 @@
 
 <p>I really only have the tiniest complaint about the show and it starts with a comment Marco made while defending his choice to pay (about) $500/month to lease a “nice” car instead of $250/month to lease an “adequate” car. He said that meant he must get twice as much value from the nice car to make it worthwhile. A reader graciously wrote in to correct his logic, but clearly it didn’t stick because Marco proceeded to wave his hands and say the argument was “semantics.”</p>
 
-<p>Price is not the same thing as value. People buy a thing when the price is <em>*less than or equal to</em> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
+<p>Price is not the same thing as value. People buy a thing when the price is <strong>less than or equal to</strong> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
 
 <p>Part of being a nerd is sweating the details and getting stuff right. No one wants to ship buggy products and they shouldn’t ship buggy podcasts either. I’ll give them the benefit of the doubt since <em>Neutral</em> is still a 1.0.</p>
 ]]></content>
@@ -138,38 +165,6 @@
     <content type="html"><![CDATA[<p>For the past few quarters, I’ve noticed a disturbing pattern. At some point near the end of the financial quarter, professional stock analysts predict Apple’s numbers (e.g., profit and revenue) to go up a lot. The market takes these predictions seriously and the stock price adjusts to take them into account. Then Apple does report good numbers (usually record-breaking) but not quite as good as the analysts predicted.  The stock goes down as the market adjusts using the new (factual) information about how well the company is doing.  This is all perfectly normal.  </p>
 
 <p>The disturbing part is that the Apple tech writer blogosphere then complains that it doesn’t make sense.  Their logic seems to be that because Apple just did really well, they should be rewarded for it and the stock should go up. They think the expectations shouldn’t matter.  They don’t seem to understand that stock prices are a function of currently held capital and <em>expectations</em> of future performance. Sigh. If these writers want to be mad about something, they should be mad that the analysts are doing a lousy job at predicting Apple’s performance. They shouldn’t be surprised by basic market behavior.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Siracusa 2016]]></title>
-    <link href="http://highvariance.net/blog/2013/01/04/siracusa-2016/"/>
-    <updated>2013-01-04T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/04/siracusa-2016</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-siracusa-2016.jpg" alt="Siracusa 2016" /></p>
-
-<p>Fellow Americans, our country has come a long way in the last 50 years. We have had our first <a href="http://en.wikipedia.org/wiki/John_F._Kennedy">Catholic president</a>, our first <a href="http://en.wikipedia.org/wiki/Barack_Obama">African-American president</a>, and almost our first <a href="http://en.wikipedia.org/wiki/Mitt_Romney">Mormon president</a>. In a few generations we will almost certainly have our first gay president. I say the time has come for our first geek president and John Siracusa is the perfect<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> person for the job.</p>
-
-<p>For those of you who have never heard of him, Mr. Siracusa is a software developer by day and an ace gamer, devoted father, loving husband, and nerd celebrity by night. He’s most known for his <a href="http://arstechnica.com/apple/2011/05/mac-os-x-revisited/">tour-de-force</a> reviews of (Mac) OS X and more recently for his wide-ranging soapbox podcast <a href="http://5by5.tv/hypercritical">Hypercritical</a>.  It is these venues where Mr. Siracusa has demonstrated he has the skills our country needs.</p>
-
-<p>He is the ultimate natural analyst, able to glance at anything and quickly identify its strengths and (especially) weaknesses. While he typically applies his super-power to tech products<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, it will be amazing to see him use it to intelligently dissect and choose among potential public policies.  </p>
-
-<p>Mr. Siracusa is also blessed with <a href="http://en.wikipedia.org/wiki/Vision_thing">big picture vision</a>, a critical requirement for a successful chief executive.  He can tell you about the future of <a href="http://5by5.tv/hypercritical/31">computing</a>, <a href="http://5by5.tv/hypercritical/63">software distribution</a>, <a href="http://5by5.tv/hypercritical/1">TV</a>, and even <a href="http://5by5.tv/hypercritical/18">toasters</a>. His ideas about using <a href="http://the-magazine.org/2/strange-game">artificial worlds as petri dishes for social policy</a> are exciting and promising (if not <a href="http://christakis.med.harvard.edu/pdf/publications/articles/126.pdf">completely original</a>). Once he throws off the corporation-imposed shackles banning political discourse that bound him on Hypercritical, I am certain we will see a beautiful clear vision for the future of America and indeed the planet. </p>
-
-<p>Mr. Siracusa has the <a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">integrity</a>, <a href="http://www.snopes.com/quotes/internet.asp">humility</a>, and <a href="http://en.wikipedia.org/wiki/Lewinsky_scandal">moral compass</a> that the American public wants in a president but is so often lacking. He has a warm heart and is unafraid to defend unpopular groups–nerds, cosplaying-wanna-be-nerds, homosexuals, and trans-sexuals are all welcome in <a href="http://5by5.tv/hypercritical/96">his big tent</a>.  He’s a humble every-man who is able to <a href="http://vimeo.com/46369728">make fun of himself</a> and his election season cameos on Saturaday Night Live will surely be hilarious. While a presidential campaign always brings out the muck rackers, I’d be shocked if they unearthed any Siracusa scandals.</p>
-
-<p>December 28, 2012 was a sad day as the <a href="http://5by5.tv/hypercritical/100">final Hypercritical episode</a> was recorded, but think about it this way: John Siracusa now has a big hole in his schedule to fill.  America needs him!</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>OK, he’s not <em>perfect</em>. I don’t know if he’s ever left the country so maybe he’d have to brush up on foreign policy.  And sure, he has no executive experience and eschews management jobs.  And he doesn’t like risk.  But <em>no one</em> is perfect.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>My favorite example is his obsession with video game controllers which he demonstrates convincingly in episodes <a href="http://5by5.tv/hypercritical/49">49</a>, <a href="http://5by5.tv/hypercritical/50">50</a>, and <a href="http://5by5.tv/hypercritical/99">99</a> of Hypercritical.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
