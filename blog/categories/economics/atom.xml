@@ -4,7 +4,7 @@
   <title><![CDATA[economics | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/economics/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-03-09T23:06:10-05:00</updated>
+  <updated>2013-03-19T01:00:47-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Helping Old Churches Connect with the Community]]></title>
+    <link href="http://highvariance.net/blog/2013/03/16/helping-old-churches/"/>
+    <updated>2013-03-16T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/03/16/helping-old-churches</id>
+    <content type="html"><![CDATA[<p><img src="/images/hv-trinity-church.jpg" alt="Trinity Church on the New Haven Green" title="Trinity Church on the New Haven Green" /></p>
+
+<p>Every morning we drop the kids off at day care and walk about 5 blocks to our offices. In those 10 minutes I walk by
+<a href="http://www.trinitylutherannh.org/">Trinity Lutheran Church</a>, <a href="http://trinity-baptist.org/">Trinity Baptist Church</a>, and
+<a href="http://www.stmarys-priory.com/">St. Mary’s Church</a> (Catholic).  Just a block off our route are the
+three big churches on the New Haven Green: <a href="http://www.trinitynewhaven.org/">Trinity Church</a>,
+<a href="http://www.newhavencenterchurch.org/">Center Church</a>, and <a href="http://www.newlights.org/">United Church</a>.  All these old churches are
+pretty much empty during the day and even on Sundays they don’t get nearly the traffic they used to.</p>
+
+<p>Even with all the excitement about the new Pope, the Catholic Church in particular seems to be in decline.  While membership has held steady at about 25% of the US population since the 1950’s (largely due to the influx of Latino immigrants), the fraction of members attending mass every Sunday has dropped from 80% to less than 25% over the same period.  This has led to huge numbers of parishes closing and lots of hand-wringing on the part of priests and bishops.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>How has this happened?  The economist in me says a big part of the
+answer is competition from newer more exciting denominations and
+religions.  Fundamentalist churches are doing well.  The Mormon church is growing like crazy.  Around the world Pentecostal and Baha’i faiths are siphoning off members.  It also seems that more and more Americans have issues with some of the conservative stances of the Catholic church on birth control, homosexuality, and evolution/creation.  Of course, many of the popular new mega-churches are also quite conservative and liberal views haven’t helped the more progressive older denominations.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>The financial cost of losing active members is larger for some
+denominations<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, but I believe the major concern within most
+denominations is a loss of relevance in the community.  I also think most churches don’t want to adapt their principles to gain larger market share.  Instead, they’d like new ways to reach out to the community and let them know what churches have to offer.  And while I personally am not interested in joining a parish, I do like the idea of other people going somewhere once a week where they are reminded to be nice. </p>
+
+<p>I believe these churches should reach out to their communities by renting out their buildings as office space during the week. They would do it in such a way that it could be converted back and forth in a few hours and so have no effect on weekend services.  Imagine office partitions and pews on wheels.  If big arenas can have basketball games during the day and hockey at night, this kind of conversion must be easy.</p>
+
+<p>While these churches are beautiful on the outside, the interiors are often breath-taking and always unique. This would induce serious corporate demand. Bigger companies could rent the whole space and break it up into cubicles that could  slide in on Monday morning and out on Friday afternoon. Another option would be to turn the <a href="http://www.kencollins.com/glossary/architecture.htm">sanctuary</a> into an espresso stand and substitute tables and comfy chairs for the pews in the <a href="http://www.kencollins.com/glossary/architecture.htm">nave</a>. Who wouldn’t rather work there than a cookie-cutter Starbucks or Starbucks-imitator?</p>
+
+<p>This would work out great for the churches too. They would give up almost nothing and get a captive audience for subtle evangelization. The stained glass alone would be a great advertisement for returning on Sunday. The cash infusion to the church would pay for the required capital investment and probably put a fair bit more into the coffers.</p>
+
+<p>In economics there is a concept called a Pareto improvement. This is transaction or change or reallocation of resources that makes at least one person better off without making anyone worse off. It might sound like sacriledge to even talk about turning holy spaces into coffee bars, but it sure seems like a Pareto improvement to me.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Msgr. Charles Pope at the the Archdiocese of Washington has a couple terrific blog posts about this subject <a href="http://blog.adw.org/2010/12/is-the-bottom-really-falling-out-of-catholic-mass-attendance-a-recent-cara-survey-ponders-the-question/">here</a> and <a href="http://blog.adw.org/2010/11/more-church-closings-so-what-is-god-teaching-us-and-how-will-we-respond/">here</a>.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Unitarian Universalists have been holding steady at around half a million since the 1960’s though there was a bump right after the Unitarians merged with the Universalists. (<a href="http://en.wikipedia.org/wiki/Unitarian_Universalism#Number_of_members">wiki</a>)<a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>The Catholic Church can handle declines in contributions better than most since, <a href="http://www.time.com/time/magazine/article/0,9171,833509,00.html">according to Time Magazine</a>, the Vatican is worth between 10 and 15 billion dollars.<a href="#fnref:3" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
@@ -229,70 +276,6 @@ estimate of β.  If it was very close to 0.28, I’d feel better about
 the theory of hyperbolic discounting.  Perhaps these experiments have
 already been done in the lab?  We’ve now reached the limits of my
 knowledge of this area.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Morality of Voting]]></title>
-    <link href="http://highvariance.net/blog/2012/01/20/the-morality-of-voting/"/>
-    <updated>2012-01-20T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/01/20/the-morality-of-voting</id>
-    <content type="html"><![CDATA[<p>My friend Julian is a pretty nice guy.  He’s generous with his time and
-tolerant of most social behavior.  He honors his commitments and is
-honest in his communication.  But at the same time, he chooses not to
-participate in the US democratic government by voting.  For those of us
-who see voting as a moral obligation, this is somewhat disturbing.
-Julian recently posted a
-<a href="http://tunesforbears.com/2012/01/19/no-really-i-dont-vote/">clear statement of why</a>
-on <a href="http://tunesforbears.com">his blog</a> (which makes for a good read in general
-BTW).  Since he is economic theorist by training, he makes his argument
-by laying out a fairly standard economic model of voting and pointing
-out how it is perfectly rational for him to vote and many other people
-not to.</p>
-
-<p>In Julian’s model, people benefit from voting in two ways: the (slight)
-chance they will personally influence the election and the “warm glow”
-(WG) they get from the experience.  If the sum of these outweigh the
-costs of missing work and traveling to the polling place, then people
-will vote.  Julian justifies his personal decision by saying that most
-other people must get a warmer feeling inside when they vote since the
-chance of any one person changing the election is tiny.  As
-models go, this one is pretty empty (as Julian admits) since so much of
-the action happens in WG and it says nothing about where WG comes from.</p>
-
-<p>I think utilitarian models are great for describing behavior, but lousy
-for defining what behavior is right or wrong.  Just because someone
-might find stealing to be individually rational if their chances of
-being caught are low, that doesn’t make it right.  Before I go on, I
-want to be perfectly clear that I don’t know anything about
-philosophy–I couldn’t even make much sense of this
-<a href="http://www.amazon.com/Philosophy-Beginners-Writers-Readers-Documentary/dp/086316157X">comic book guide to philosphy</a>
-when I read it a few years ago.  That said, Julian’s description of
-Kant’s categorical imperative really spoke to me.  In his (Julian’s)
-words, “citizens are morally obligated to vote if they prefer a world in
-which others do”.  I translate this to mean “it’s immoral to free-ride
-on other people’s voting behavior”.  This is a statement <em>outside</em> the
-model about behavior that may or may not be rational <em>inside</em> the model.
-Julian justifies his own action in this context by saying he wants
-everyone to act as he would act <em>conditional on the WG they happen to
-feel</em>.</p>
-
-<p>If Kant were here, I think he would say that WG is BS and that people
-don’t decide whether or not to vote in order to maximize their
-utility–they decide between right and wrong.  I vote because I want
-to live in a world where everyone (or at least the informed folks vote),
-not because it makes me feel warmer than it does Julian.  To be more
-precise, I think WG is almost homogeneously distributed and some people
-are moral and some are immoral free-riders.</p>
-
-<p>Of course, my statement about Julian being an upstanding moral guy in
-the rest of his life still holds.  :) I just think he’s putting too much
-faith in
-<a href="http://en.wikipedia.org/wiki/Fundamental_theorems_of_welfare_economics">the first theorem of welfare economics</a>.
-Just because there are some (many?) situations where individually
-rational behavior leads to a socially optimal outcome doesn’t mean all
-situations are like that.</p>
 
 ]]></content>
   </entry>

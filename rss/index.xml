@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-03-09T23:06:10-05:00</updated>
+  <updated>2013-03-19T01:00:47-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Helping Old Churches Connect with the Community]]></title>
+    <link href="http://highvariance.net/blog/2013/03/16/helping-old-churches/"/>
+    <updated>2013-03-16T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/03/16/helping-old-churches</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-trinity-church.jpg" alt="Trinity Church on the New Haven Green" title="Trinity Church on the New Haven Green" /></p>
+
+<p>Every morning we drop the kids off at day care and walk about 5 blocks to our offices. In those 10 minutes I walk by
+<a href="http://www.trinitylutherannh.org/">Trinity Lutheran Church</a>, <a href="http://trinity-baptist.org/">Trinity Baptist Church</a>, and
+<a href="http://www.stmarys-priory.com/">St. Mary’s Church</a> (Catholic).  Just a block off our route are the
+three big churches on the New Haven Green: <a href="http://www.trinitynewhaven.org/">Trinity Church</a>,
+<a href="http://www.newhavencenterchurch.org/">Center Church</a>, and <a href="http://www.newlights.org/">United Church</a>.  All these old churches are
+pretty much empty during the day and even on Sundays they don’t get nearly the traffic they used to.</p>
+
+<p>Even with all the excitement about the new Pope, the Catholic Church in particular seems to be in decline.  While membership has held steady at about 25% of the US population since the 1950’s (largely due to the influx of Latino immigrants), the fraction of members attending mass every Sunday has dropped from 80% to less than 25% over the same period.  This has led to huge numbers of parishes closing and lots of hand-wringing on the part of priests and bishops.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>How has this happened?  The economist in me says a big part of the
+answer is competition from newer more exciting denominations and
+religions.  Fundamentalist churches are doing well.  The Mormon church is growing like crazy.  Around the world Pentecostal and Baha’i faiths are siphoning off members.  It also seems that more and more Americans have issues with some of the conservative stances of the Catholic church on birth control, homosexuality, and evolution/creation.  Of course, many of the popular new mega-churches are also quite conservative and liberal views haven’t helped the more progressive older denominations.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>The financial cost of losing active members is larger for some
+denominations<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, but I believe the major concern within most
+denominations is a loss of relevance in the community.  I also think most churches don’t want to adapt their principles to gain larger market share.  Instead, they’d like new ways to reach out to the community and let them know what churches have to offer.  And while I personally am not interested in joining a parish, I do like the idea of other people going somewhere once a week where they are reminded to be nice. </p>
+
+<p>I believe these churches should reach out to their communities by renting out their buildings as office space during the week. They would do it in such a way that it could be converted back and forth in a few hours and so have no effect on weekend services.  Imagine office partitions and pews on wheels.  If big arenas can have basketball games during the day and hockey at night, this kind of conversion must be easy.</p>
+
+<p>While these churches are beautiful on the outside, the interiors are often breath-taking and always unique. This would induce serious corporate demand. Bigger companies could rent the whole space and break it up into cubicles that could  slide in on Monday morning and out on Friday afternoon. Another option would be to turn the <a href="http://www.kencollins.com/glossary/architecture.htm">sanctuary</a> into an espresso stand and substitute tables and comfy chairs for the pews in the <a href="http://www.kencollins.com/glossary/architecture.htm">nave</a>. Who wouldn’t rather work there than a cookie-cutter Starbucks or Starbucks-imitator?</p>
+
+<p>This would work out great for the churches too. They would give up almost nothing and get a captive audience for subtle evangelization. The stained glass alone would be a great advertisement for returning on Sunday. The cash infusion to the church would pay for the required capital investment and probably put a fair bit more into the coffers.</p>
+
+<p>In economics there is a concept called a Pareto improvement. This is transaction or change or reallocation of resources that makes at least one person better off without making anyone worse off. It might sound like sacriledge to even talk about turning holy spaces into coffee bars, but it sure seems like a Pareto improvement to me.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Msgr. Charles Pope at the the Archdiocese of Washington has a couple terrific blog posts about this subject <a href="http://blog.adw.org/2010/12/is-the-bottom-really-falling-out-of-catholic-mass-attendance-a-recent-cara-survey-ponders-the-question/">here</a> and <a href="http://blog.adw.org/2010/11/more-church-closings-so-what-is-god-teaching-us-and-how-will-we-respond/">here</a>.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Unitarian Universalists have been holding steady at around half a million since the 1960’s though there was a bump right after the Unitarians merged with the Universalists. (<a href="http://en.wikipedia.org/wiki/Unitarian_Universalism#Number_of_members">wiki</a>)<a href="#fnref:2" rel="reference">&#8617;</a></p>
+    </li>
+    <li id="fn:3">
+      <p>The Catholic Church can handle declines in contributions better than most since, <a href="http://www.time.com/time/magazine/article/0,9171,833509,00.html">according to Time Magazine</a>, the Vatican is worth between 10 and 15 billion dollars.<a href="#fnref:3" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Expanding the Market for Limited Edition Dishes]]></title>
@@ -698,38 +745,6 @@
 <p>I suppose I should also say something about my readership. According to Google Analytics, over the past year I’ve have 2,070 unique visitors (5.7 per day) and 4,000 page views (11 per day). Not much, but if you squint at the chart, it does look like traffic is trending slightly up.  There are even a few posts that get regular search engine traffic–<a href="http://highvariance.net/post/18591130112/why-are-zebras-so-mean-and-horses-so-nice">zebras</a>, <a href="http://highvariance.net/post/23166850855/pdf-annotation-on-the-ipad-in-2012">pdf annotation on the iPad</a>, and <a href="http://highvariance.net/post/16047390011/mincer-1958">Mincer 1958</a> are the top three.</p>
 
 <p>As I was about to blow out the candles on my birthday cake a few weeks ago I realized something very special: I didn’t have anything new to wish for.  I have a wonderful wife and two lovely children.  We’re all healthy and happy with our jobs and our house.  I just want what I already have.  That’s kind of true of this blog too.  So here’s to another fun and fulfilling year!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Conflict and Sharing]]></title>
-    <link href="http://highvariance.net/blog/2012/12/17/conflict-and-sharing/"/>
-    <updated>2012-12-17T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/12/17/conflict-and-sharing</id>
-    <content type="html"><![CDATA[<p>I’ve been thinking a lot about conflict and sharing lately. First because we watch this Sesame Street video almost every night with the girls:</p>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Gl3e-OUnavQ" frameborder="0" allowfullscreen=""></iframe>
-
-<p>In case you’re video-averse and don’t want to watch the whole hilarious two minutes and seven seconds, Robin Williams and the two-headed monster “introduce” children to the word <em>conflict</em>. I put “introduce” in quotes because this is a concept with which every child older than 6 months is already intimately familiar. Some kids might use different terms–“fighting!” is quite popular in our house–but the concept is clear. The video also shows the two-headed monster doing something that’s a little less natural for kids: sharing. </p>
-
-<p>Second, my blog-friend<sup id="fnref:fn_blogfriend"><a href="#fn:fn_blogfriend" rel="footnote">1</a></sup> Chris Blattman <a href="http://chrisblattman.com/2012/12/13/where-property-rights-really-come-from/">wrote</a> recently about how they handle sharing at his daughter’s daycare. In a nutshell, they don’t push it and instead focus on developing a child’s sense of ownership.  The idea is that when kids realize that their stuff won’t be rudely ripped away when friends express interest, they will start sharing voluntarily. </p>
-
-<p>but mostly interact with through their blog. It makes for awkward conversations as you always feel closer to them than they feel to you.</p>
-
-<p>Of course, the biggest reason I’ve been thinking about this subject is the conflict and relatively smaller amount of sharing that happens at home with the girls (4 yrs and ~18 months).  We have developed our own fairly complex tri-partite system of communal rights, partial rights, and exclusive rights.  Most of the toys are communal property–there is no “mine” for these. When one kid is playing with a toy in this category and the other kid wants in, we try to get them to say “Can I have a turn?” and then enforce a reasonably short time limit. </p>
-
-<p>A smaller group of toys have owners (e.g., birthday presents) but still must be shared. These often come in groups (like fairies or ponies) where it’s fun to play with the whole group, but neither kid owns the whole group. Dividing ownership in this way provides incentives to play together–if you share your own stuff, you get access to your sibling’s stuff too. This arrangement is also designed to break down R’s hoarding tendencies.</p>
-
-<p>The last category is the smallest: pure property rights.  R has a plush pony and a <a href="http://www.amazon.com/Manhattan-Toy-Amelia-Groovy-Girl/dp/B0077LGIEM">groovy girl</a> in this group and her sister has a set of <a href="http://www.amazon.com/Melissa-Doug-Monster-Plush-Bowling/dp/B000GL1DTA">6 small plush monsters</a>.  The girls are certainly allowed to share these (R rarely does) but sharing is never required. Occasionally one girl will pick up the other’s toy, but when owner notices and demands it back, it’s always given up immediately.</p>
-
-<p>Our system isn’t perfect and may in fact be more complicated than the girls’ little brains can handle. My bet is that if we reduced the number of categories, we would also reduce the amount of conflict. But I’m not sure what category(ies) would go. I don’t want to assign an owner to every toy–that would be miserable to keep track of and wouldn’t promote a cooperative spirit.  I like that they maintain some ownership of presents that they’ve received individually.  And the most extreme group is where we see the least amount of conflict–the last thing I want is <em>more</em> fighting!  So we’re going to keep the system we’ve got and hope that the kids are learning about both property rights and cooperation.  Check back in twenty years to see if it worked.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:fn_blogfriend">
-      <p>A blog-friend is someone you know in real life<a href="#fnref:fn_blogfriend" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
