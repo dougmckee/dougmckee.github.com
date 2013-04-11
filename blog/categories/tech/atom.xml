@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-03-29T13:11:21-04:00</updated>
+  <updated>2013-04-11T10:53:53-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Another Step on My Way to Paperless Nirvana: The Fujitsu ScanSnap iX500]]></title>
     <link href="http://highvariance.net/blog/2013/03/07/scansnap/"/>
-    <updated>2013-03-07T00:00:00-05:00</updated>
+    <updated>2013-03-07T00:00:00-06:00</updated>
     <id>http://highvariance.net/blog/2013/03/07/scansnap</id>
     <content type="html"><![CDATA[<p><img src="/images/hv-paper-folders.jpg" alt="My old paper folder stand" />
 <img src="/images/hv-scansnap.jpg" alt="My snazzy new ScanSnap ix500" /></p>
@@ -59,7 +59,7 @@
   <entry>
     <title type="html"><![CDATA[How our home music system got a little more complicated and a lot more awesome]]></title>
     <link href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/"/>
-    <updated>2013-02-16T00:00:00-05:00</updated>
+    <updated>2013-02-16T00:00:00-06:00</updated>
     <id>http://highvariance.net/blog/2013/02/16/home-music-streaming-2</id>
     <content type="html"><![CDATA[<p><img src="/images/hv-music-apps.png" alt="music apps" title="The music row of my iPhone home screen" /></p>
 
@@ -86,7 +86,7 @@
   <entry>
     <title type="html"><![CDATA[The Neutral Podcast: A for Entertainment, B for Effort, and C for Economics]]></title>
     <link href="http://highvariance.net/blog/2013/02/12/neutral/"/>
-    <updated>2013-02-12T00:00:00-05:00</updated>
+    <updated>2013-02-12T00:00:00-06:00</updated>
     <id>http://highvariance.net/blog/2013/02/12/neutral</id>
     <content type="html"><![CDATA[<p>I drive a 2002 Honda Civic. It’s an automatic and even though the interior is smeared with a thin layer of toys and crumbs, it hasn’t been vacuumed in months. It could not be less of a “driving machine” or more of a “people mover.” And yet, my favorite new podcast (<a href="http://neutral.fm">Neutral</a>) is all about cars and the tech behind them.</p>
 
@@ -105,7 +105,7 @@
   <entry>
     <title type="html"><![CDATA[Crashed disks, imperfect backup strategies, and lessons learned]]></title>
     <link href="http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons/"/>
-    <updated>2013-02-05T00:00:00-05:00</updated>
+    <updated>2013-02-05T00:00:00-06:00</updated>
     <id>http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons</id>
     <content type="html"><![CDATA[<p>I work regularly with two computers. At home, I have an iMac with a big drive that is on all the time. At the office (and everywhere else) I use a MacBook Air. All my documents and data are stored on Dropbox and I use <a href="http://www.subsonic.org/pages/index.jsp">Subsonic</a> to stream my home music collection wherever I happen to be. If I watched movies, I could probably do the same with them. With this setup, I am equally productive on both machines and it doesn’t take that much work to keep apps and preferences in sync.</p>
 
@@ -169,7 +169,7 @@
   <entry>
     <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
     <link href="http://highvariance.net/blog/2013/01/29/lectures-2.0/"/>
-    <updated>2013-01-29T00:00:00-05:00</updated>
+    <updated>2013-01-29T00:00:00-06:00</updated>
     <id>http://highvariance.net/blog/2013/01/29/lectures-2.0</id>
     <content type="html"><![CDATA[<p>The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. Sometimes he or she uses slides and sometimes he or she writes on a board.  And sometimes, he or she is informative and engaging, but it’s almost always a pretty one way affair with occasional questions posed to the class.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  The experience for students is a lot like watching a good documentary.  And that’s the best case scenario. The vast majority of the time, students sit back and absorb the flow or just check out. They don’t get <em>their</em> questions answered or engage constructively with the material. The average professor talks at their students for an hour and a half twice a week and it’s more like a late night infomercial than a documentary. </p>
 
