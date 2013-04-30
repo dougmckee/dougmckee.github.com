@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-04-25T12:27:20-04:00</updated>
+  <updated>2013-04-30T16:24:24-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Photo Management Quest, Part 1: Adobe Revel and Everpix]]></title>
+    <link href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix/"/>
+    <updated>2013-04-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix</id>
+    <content type="html"><![CDATA[<p>I am frustrated and I know I’m not the only one. I want
+want a photo management system that requires minimum maintenance and gives me maximum flexibility. I’ve complained about this <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">before</a>, but I’m tired of waiting for Apple to hand me a gift-wrapped solution.  They didn’t last summer in iOS 6 and I have no faith that they will in iOS 7.</p>
+
+<p>In my household, we take most of our photos with our phones, but we also have a big digital SLR which we break out for big events (if we remember to). Ideally, all our pictures would be automatically whisked away into a shared database in the cloud as soon as they are taken. From there we should be able to browse, organize, edit, and share them from any of our device, be they Macs, PC’s, iPads, or iPhones. In 2013, I don’t think that’s unreasonable to ask for.</p>
+
+<p>In the next few weeks, I’ll be looking at several products and hopefully finding answers.  Today the journey starts with two separate app/service combos.  One is Adobe Revel and the other is Everpix.</p>
+
+<h2 id="adobe-revelhttpwwwadoberevelcom"><a href="http://www.adoberevel.com">Adobe Revel</a></h2>
+
+<p><img class="right" src="/images/hv-adobe-revel.png"></p>
+
+<p>I was super-excited when I heard about Adobe Revel.  The service stores all your pictures in the cloud, and they give you free iOS and Mac apps to edit and manage them. Pictures are streamed to your iOS devices as needed freeing up a whole lot of space.  The apps are (supposedly) built on top of the same editing/browsing engine powering LightRoom and they are (actually) very well done.  The service is expensive ($5.99/month) but it promises a lot.</p>
+
+<p>Unfortunately, it’s missing some important features.  First, it won’t store video clips and that means I need an entirely different workflow for them.  With two little kids, we take lots of these “long photos” and I like having them mixed in with the traditional photos. Second, my wife lives in a Windows world and Revel doesn’t provide a Windows app or even a web app. That means she can only browse our library on her phone and that’s a show stopper.</p>
+
+<h2 id="everpixhttpwwweverpixcom"><a href="http://www.everpix.com">Everpix</a></h2>
+
+<p><img class="right" src="/images/hv-everpix.png"></p>
+
+<p>After my experience with Revel, I was cautiously optimistic about Everpix. It also stores all your photos in the cloud and has terrific iOS apps for browsing your collection, but it differentiates itself in three ways:</p>
+
+<ol>
+  <li>They automatically import photos from lots of places you might care about including your photo roll, Facebook, Instagram, and Flickr. That’s nice, but not terribly useful for me since I’m not exactly tied into the social network world.</li>
+  <li>They have a terrific web app that works well on Mac and Windows.</li>
+  <li>They don’t allow you to create albums or tag photos but instead rely on “science” to organize your photos for you.  Since I always plan to do more manual organization than I actually do, it’s nice that this is done for me. I tend to take several pictures of the same thing but never delete the bad ones–Everpix does a decent job picking the good ones and showing you those first.  In fact, I have Everpix configured to email me “random” “reminder” pictures from my collection everyday and it’s a lot of fun.</li>
+</ol>
+
+<p>The package is expensive ($4.99/month) if you want them to store more than the previous year’s worth of photos, and I’d be happy to pay if it weren’t for the downsides:</p>
+
+<ol>
+  <li>They don’t store video clips.</li>
+  <li>You can’t edit pictures within the apps.</li>
+  <li>They don’t store original images. Instead, Everpix stores compressed versions. I’m no photo snob, but I also don’t like losing information.</li>
+  <li>You can’t easily export pictures. Once your pictures are inside, you can only get them out piece meal. I hate <a href="http://en.wikipedia.org/wiki/Vendor_lock-in">lock-in</a>.</li>
+</ol>
+
+<p>I’m keeping an eye on Everpix because except for the editing, these issues seem eminently fixable and I’d consider using an external editor if I had to.</p>
+
+<p>The quest continues.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Step on My Way to Paperless Nirvana: The Fujitsu ScanSnap iX500]]></title>
@@ -163,40 +210,6 @@
 
 <p>The other day I took my favorite winter coat to a tailor to have the zipper fixed. The woman very graciously showed me that nothing was actually broken–I’d simply forgotten that it was a <a href="http://www.perfectex.com/two_way_zipper.jpg">two way zipper</a> and both parts needed to be at the bottom in order for it to work. It was embarrassing, but I was still happy since the “repair” was extremely fast and it cost nothing. I feel the same way about this adjustment to my backup system. It’s a little embarrassing that I didn’t recognize the weakness up front, but I’m also really happy that it was so easy to fix.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
-    <link href="http://highvariance.net/blog/2013/01/29/lectures-2.0/"/>
-    <updated>2013-01-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/29/lectures-2.0</id>
-    <content type="html"><![CDATA[<p>The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. Sometimes he or she uses slides and sometimes he or she writes on a board.  And sometimes, he or she is informative and engaging, but it’s almost always a pretty one way affair with occasional questions posed to the class.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  The experience for students is a lot like watching a good documentary.  And that’s the best case scenario. The vast majority of the time, students sit back and absorb the flow or just check out. They don’t get <em>their</em> questions answered or engage constructively with the material. The average professor talks at their students for an hour and a half twice a week and it’s more like a late night infomercial than a documentary. </p>
-
-<p>Now let’s think about seminars. Students read articles and book chapters ahead of time and then gather in a small classroom to discuss the material with the professor and each other. Often there are in-class exercises or even smaller group activities. In general, students report they get more out of these classes. </p>
-
-<p>So why aren’t all classes structured as seminars? First of all, some material (especially introductory material) is more easily presented visually than textually–that’s one reason why <a href="http://www.khanacademy.org">Kahn Academy</a> is so successful. Seeing someone work through a problem is, for many students, a lot clearer than reading about it in a book. Lecturing allows for this kind of presentation and I believe it complements book learning. The second reason is purely economic: Seminars are expensive. If you have 33-34 students per seminar and you want to teach 100 students, you need three professors.  That’s triple what you’d need to teach a 100 person lecture.</p>
-
-<p>Wouldn’t it be great if we could take the best qualities of the lecture and the seminar and combine them in an economically feasible way?  We can. </p>
-
-<p>I was asked recently why I am excited to teach an online class this summer. Expanding the reach of my teaching was one reason, but it also gives me the opportunity to put together high quality online materials. This won’t simply be recordings of my hour and half lectures. Instead, it will be 3-5m chunks of <a href="https://www.udacity.com">Udacity</a>-style video interspersed with questions to make sure students are following along. The video will mostly be me drawing on slides, working through problems, and presenting new concepts.</p>
-
-<p>Here’s my vision: The 100 person class is divided into three separate groups of students. Each week, all students work their way through about 2 hours worth of online interactive video. At the end of the week, I meet with each group for an hour. I answer questions that they still have. I tie the “timeless” online material to current events. I have them work on problems in smaller groups and float between groups helping them as needed. </p>
-
-<p>I think the experience will be clearly better for students, but what about faculty and the administration? This won’t happen unless it’s a Pareto improvement.  That is, none of the parties involved can be worse off. </p>
-
-<p>Once the materials are in place, they can be re-used by different professors–this radically reduces the amount of prep time. The class itself should be a lot more fun to teach since the professor  can actually have conversations with students and get direct feedback on how well the class is going. If the online materials are high quality (and they should be), the professor doesn’t have to be fantastic to teach an excellent class. Most faculty are not naturally great lecturers, but the small classes give them an opportunity to share their raw intelligence and experience with the material–it’s a much better skill match.</p>
-
-<p>The administration is happy because the same 100 students are getting higher quality education for the same cost.  In fact, far more students get to benefit from close contact with big name professors–that makes the institution look good.</p>
-
-<p>What I’m describing is not a totally new idea–It’s a straight-forward application of <a href="http://en.wikipedia.org/wiki/Flip_teaching">flipping the classroom</a>. And it’s an idea that gets better and better every day as the education world learns  more about what works online and more high quality materials are made publicly available.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Some professors will use <a href="http://www.engaging-technologies.com/teaching-with-clickers.html">clickers</a> to get real-time multiple choice feedback from his or her audience.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   

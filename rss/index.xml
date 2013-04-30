@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-04-25T12:27:20-04:00</updated>
+  <updated>2013-04-30T16:24:24-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Photo Management Quest, Part 1: Adobe Revel and Everpix]]></title>
+    <link href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix/"/>
+    <updated>2013-04-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix</id>
+    <content type="html"><![CDATA[<p>I am frustrated and I know I’m not the only one. I want
+want a photo management system that requires minimum maintenance and gives me maximum flexibility. I’ve complained about this <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">before</a>, but I’m tired of waiting for Apple to hand me a gift-wrapped solution.  They didn’t last summer in iOS 6 and I have no faith that they will in iOS 7.</p>
+
+<p>In my household, we take most of our photos with our phones, but we also have a big digital SLR which we break out for big events (if we remember to). Ideally, all our pictures would be automatically whisked away into a shared database in the cloud as soon as they are taken. From there we should be able to browse, organize, edit, and share them from any of our device, be they Macs, PC’s, iPads, or iPhones. In 2013, I don’t think that’s unreasonable to ask for.</p>
+
+<p>In the next few weeks, I’ll be looking at several products and hopefully finding answers.  Today the journey starts with two separate app/service combos.  One is Adobe Revel and the other is Everpix.</p>
+
+<h2 id="adobe-revelhttpwwwadoberevelcom"><a href="http://www.adoberevel.com">Adobe Revel</a></h2>
+
+<p><img class="right" src="http://highvariance.net/images/hv-adobe-revel.png" /></p>
+
+<p>I was super-excited when I heard about Adobe Revel.  The service stores all your pictures in the cloud, and they give you free iOS and Mac apps to edit and manage them. Pictures are streamed to your iOS devices as needed freeing up a whole lot of space.  The apps are (supposedly) built on top of the same editing/browsing engine powering LightRoom and they are (actually) very well done.  The service is expensive ($5.99/month) but it promises a lot.</p>
+
+<p>Unfortunately, it’s missing some important features.  First, it won’t store video clips and that means I need an entirely different workflow for them.  With two little kids, we take lots of these “long photos” and I like having them mixed in with the traditional photos. Second, my wife lives in a Windows world and Revel doesn’t provide a Windows app or even a web app. That means she can only browse our library on her phone and that’s a show stopper.</p>
+
+<h2 id="everpixhttpwwweverpixcom"><a href="http://www.everpix.com">Everpix</a></h2>
+
+<p><img class="right" src="http://highvariance.net/images/hv-everpix.png" /></p>
+
+<p>After my experience with Revel, I was cautiously optimistic about Everpix. It also stores all your photos in the cloud and has terrific iOS apps for browsing your collection, but it differentiates itself in three ways:</p>
+
+<ol>
+  <li>They automatically import photos from lots of places you might care about including your photo roll, Facebook, Instagram, and Flickr. That’s nice, but not terribly useful for me since I’m not exactly tied into the social network world.</li>
+  <li>They have a terrific web app that works well on Mac and Windows.</li>
+  <li>They don’t allow you to create albums or tag photos but instead rely on “science” to organize your photos for you.  Since I always plan to do more manual organization than I actually do, it’s nice that this is done for me. I tend to take several pictures of the same thing but never delete the bad ones–Everpix does a decent job picking the good ones and showing you those first.  In fact, I have Everpix configured to email me “random” “reminder” pictures from my collection everyday and it’s a lot of fun.</li>
+</ol>
+
+<p>The package is expensive ($4.99/month) if you want them to store more than the previous year’s worth of photos, and I’d be happy to pay if it weren’t for the downsides:</p>
+
+<ol>
+  <li>They don’t store video clips.</li>
+  <li>You can’t edit pictures within the apps.</li>
+  <li>They don’t store original images. Instead, Everpix stores compressed versions. I’m no photo snob, but I also don’t like losing information.</li>
+  <li>You can’t easily export pictures. Once your pictures are inside, you can only get them out piece meal. I hate <a href="http://en.wikipedia.org/wiki/Vendor_lock-in">lock-in</a>.</li>
+</ol>
+
+<p>I’m keeping an eye on Everpix because except for the editing, these issues seem eminently fixable and I’d consider using an external editor if I had to.</p>
+
+<p>The quest continues.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Feeling Negative]]></title>
@@ -736,25 +783,6 @@ denominations is a loss of relevance in the community.  I also think most church
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Toy Trains for Little Kids]]></title>
-    <link href="http://highvariance.net/blog/2012/12/29/toy-trains-for-little-kids/"/>
-    <updated>2012-12-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/12/29/toy-trains-for-little-kids</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-trains.jpg" alt="Fisher-Price Geotrax…and a few fairies…OK, a lot of fairies" /></p>
-
-<p>When I was a kid, a big part of the Christmas season was visiting my grandmother and immediately racing down to her basement to run the trains around the track.  I loved the big styrofoam mountain, the rumbling of the engine on the metal tracks, and the feeling of industrial omnipotence when holding the controls in my hand.  </p>
-
-<p>Now that I have my own kids, I want them to have fun with trains during the holidays too.  But my kids are little and a big <a href="http://www.amazon.com/Lionel-Pennsylvania-Flyer-Freight-Train/dp/B004L3IKQI">Lionel rig</a> isn’t good match yet.  Traditional train sets are expensive, delicate, and a ton of work to set up.  And I don’t feel good about having toddlers poking around in the miles of requisite electric wiring.</p>
-
-<p>Last year my brother and sister-in-law sent us their old <a href="http://www.fisher-price.com/en_US/brands/geotrax/index.html">Fisher Price Geotrax</a> and it’s absolutely perfect for kids under six years old.  The exact set we inherited is no longer for sale, but the <a href="http://www.amazon.com/Fisher-Price-GeoTrax-Control-Timbertown-Railway/dp/B001W1YG56">Timbertown Railway</a> is pretty close.  Ours is made up of a whole bunch of snap-and-go plastic tracks and includes bridges, a windmill, and even a station that will load packages onto your train.  The engine is battery-operated and makes a pleasant chug-chug noise, while the remote control is big, wireless, and easy for small hands to operate.  It looks good, is super-easy to put together,  and happily chugs around our tree.    We have enough track to try out several configurations and <a href="http://www.amazon.com/Fisher-Price-GeoTrax-Train-Rail/dp/B000NW2D4Q">expansion packs</a> are just an Amazon one-click away.</p>
-
-<p>Another great thing about the set is that it’s seemingly  indestructible.  It’s been stepped on, kicked, and disassembled (by kids and adults) numerous times and nothing’s ever actually broken.  You can’t even forget to turn it off and run down the batteries because it stops automatically after ten minutes of non-interaction.</p>
-
-<p>Bottom line: We all love it!</p>
 ]]></content>
   </entry>
   
