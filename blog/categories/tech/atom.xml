@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-06-09T23:57:15-04:00</updated>
+  <updated>2013-06-30T23:15:07-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Google Reader Replacement: The Nerderati Have Spoken]]></title>
+    <link href="http://highvariance.net/blog/2013/06/30/a-google-reader-replacement-the-nerderati-have-spoken/"/>
+    <updated>2013-06-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/06/30/a-google-reader-replacement-the-nerderati-have-spoken</id>
+    <content type="html"><![CDATA[<p>For those readers who didn’t know why it was a big deal,
+<a href="http://reader.google.com">Google Reader</a> was two really cool but
+distinct things. First, it was a web site where you could specify a
+large number of other web sites (aka “feeds”) that publish articles you
+might want to read. It would then present those articles all together in
+a neat list.  It would keep track of what was new, what you hadn’t read
+yet, and what you’d already read. And it was far far more efficient than
+going from site to site hitting refresh like a rat pressing a lever for
+another hit of crack. This is especially true for people (like me) that
+read a lot of sites that don’t publish very often or can go through long
+dry spells.</p>
+
+<p>I found the Google Reader web site kind of clunky and ugly, but you didn’t
+actually have to ever visit it to experience the benefits. Google Reader
+also provided a service so that third party apps could access the same
+data and keep your subscriptions in sync if you used apps on different
+PC’S or post-PC devices. This is what I used to do, and it was
+fantastic. I would use the beautiful/fast/powerful
+<a href="http://reederapp.com">Reeder</a> app on my phone, Mac, and iPad to browse
+my feeds wherever I was. I even used the Google Reader website
+occasionally.</p>
+
+<p>And then Google announced they were shutting it all down on July 1.
+Panic ensued, but the nerderati told us to be patient–they promised
+even better alternatives would quickly blossom to take its place.  It
+took a few months, but they were right. Unfortunately, I’ve had a busy
+spring and summer and haven’t had the time to try them all to find the
+best one.  Luckily, lots of other folks have invested their time
+and I think there’s a decent consensus for a winner.</p>
+
+<p>David Sparks at
+<a href="http://macsparky.com/blog/2013/6/my-rss-setup">MacSparky</a>, Federico
+Vittici at
+<a href="http://www.macstories.net/news/readkit-and-slow-feeds-updated-with-feed-wrangler-support/">MacStories</a>,
+<a href="http://shawnblanc.net/2013/06/feed-wrangler-smart-streams/">Shawn
+Blanc</a>,
+<a href="http://www.marco.org/2013/06/28/drang-feeds">Marco Arment</a>, and
+<a href="http://www.leancrew.com/all-this/2013/06/feedle-dee-dee/">Dr. Drang</a>
+have all settled on Feed Wrangler.  It’s a service that offers all the
+features Google Reader did.  It costs $19.99 per year, but that’s a
+small price to pay for stability.  With paying customers, they won’t
+have nearly the temptation to just turn it off if they don’t feel like
+running it anymore.  They won’t be shoving ads down our throat either
+which I always felt was just around the corner with Google Reader.</p>
+
+<p>Feed Wrangler has a web site for reading and also provides free client
+apps for the iPhone and iPad.  The iPhone client has some serious
+flaws. It’s definitely slower to sync new stuff than Reeder was. It
+doesn’t support gestures to mark things read or unread.  And worst of
+all, the default (unchangeable) font size is too small for me to read
+unless I’m wearing my reading glasses. Thank goodness my old standby
+Reeder will be supporting Feed Wrangler soon.  I don’t read much on my
+iPad, but Mr. Reader already supports the Feed Wrangler service.</p>
+
+<p>Perhaps the best part about Feed Wrangler is the two things it does that
+Google Reader never did.  Smart Streams let you define “collections” of
+articles based on keywords and sources.  It’s much more powerful than a
+folder and will let me sip from the high volume feeds that I would normally
+stay away from. Filters are the opposite–you can define key words that
+will cause an article to be automatically considered read and thus
+ignored.  This way I can subscribe to the ESPN feed and never have to
+read another story about hockey or NASCAR.  Bill Simmons’ <a href="http://sports.espn.go.com/espn/page2/story?page=simmonsnfl2010/101105">ESPN
+Outsider</a>
+has arrived!</p>
+
+<p>Google Reader is dead, but it was stagnant for years.  I’m legitimately excited about
+a new era of innovation. Feed Wrangler has just won round one.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Photo Management Quest, Part 1: Adobe Revel and Everpix]]></title>
@@ -146,70 +221,6 @@ want a photo management system that requires minimum maintenance and gives me ma
 <p>Price is not the same thing as value. People buy a thing when the price is <strong>less than or equal to</strong> the value they get from that thing. This value (or benefit) is often much higher than the price. The difference between the value and the price is called the consumer surplus. When deciding between purchasing two things (like a nice car and an adequate car), what matters is which one has the higher consumer surplus. In Marco’s case, that means he needs to get at least $250 additional value from the nice car–that’s almost certainly much less than double the value he would get from the adequate car.</p>
 
 <p>Part of being a nerd is sweating the details and getting stuff right. No one wants to ship buggy products and they shouldn’t ship buggy podcasts either. I’ll give them the benefit of the doubt since <em>Neutral</em> is still a 1.0.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Crashed disks, imperfect backup strategies, and lessons learned]]></title>
-    <link href="http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons/"/>
-    <updated>2013-02-05T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/02/05/crashes-backups-and-lessons</id>
-    <content type="html"><![CDATA[<p>I work regularly with two computers. At home, I have an iMac with a big drive that is on all the time. At the office (and everywhere else) I use a MacBook Air. All my documents and data are stored on Dropbox and I use <a href="http://www.subsonic.org/pages/index.jsp">Subsonic</a> to stream my home music collection wherever I happen to be. If I watched movies, I could probably do the same with them. With this setup, I am equally productive on both machines and it doesn’t take that much work to keep apps and preferences in sync.</p>
-
-<p>I used to think I had the perfect backup system. At home, my iMac’s internal drive is backed up to an external disk with Time Machine and to the cloud with <a href="http://backblaze.com">BackBlaze</a>. Since all my documents and data live in Dropbox, they’re duplicated (along with old versions) in Dropbox’s cloud. My Macbook Air has almost nothing sacred outside Dropbox and until recently, I thought that if the disk failed, all I’d have to do is reinstall my apps (just a few minutes work with the App Store) and I’d be back in business.  I was wrong.</p>
-
-<p>About two weeks ago, it happened: my Air’s disk failed: The only thing that showed up on my screen was a blinking Folder icon with a question mark in the center. I quickly dropped off the machine at the local Apple store for service and muddled along for a few days with my old ThinkPad <a href="http://wiki.osx86project.org/wiki/index.php/Main_Page">Hackintosh</a>. When I finally picked up my repaired machine, it had a pristine installation of Lion and nothing else. I brought it home, installed Dropbox, and let <a href="https://www.dropbox.com/help/137/en">LAN Sync</a> work its magic over the local wifi and in a couple hours my documents and data were back. Then, with the press of a button I installed my 25 or so App Store apps.</p>
-
-<p>That’s when I realized just how many apps I rely on are NOT in the App Store.  They fall into four broad categories:</p>
-
-<h2 id="apps-that-break-apples-sandboxing-rules">1. Apps that break Apple’s sandboxing rules</h2>
-
-<p>Several really useful utilities want to insert themselves deeper into the operating system than Apple would like.</p>
-
-<p><a href="https://agilebits.com/onepassword">1Password</a>: Lets me use ridiculously long strings of unguessable gobbledy gook for passwords without having to remember them. Also securely holds all my account numbers, credit card numbers and plugs this stuff into web pages as needed.</p>
-
-<p><a href="http://www.alfredapp.com">Alfred</a>: After a simple Command-Space I can type short incantations to make amazing things happen. You really need to check out the web page to see how awesome and productivity-enhancing this is.</p>
-
-<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a>: I type short things like “;s” in any app and TextExpander fills in long snippets of text.</p>
-
-<p><a href="http://pqrs.org/macosx/keyremap4macbook/">KeyRemap4Macbook</a>: I use it to give me emacs key combinations pretty much anywhere, but the app can do lots more.</p>
-
-<p><a href="http://manytricks.com/moom/">Moom</a>: Makes it easy to move and resize windows to common places and sizes.</p>
-
-<p><a href="http://www.stclairsoft.com/DefaultFolderX/">DefaultFolderX</a>: It expands the File-&gt;Open Dialog to show bigger QuickLook previews and makes it easy to select commonly used paths. It’s super-useful if you have very hierarchical directory structures.</p>
-
-<h2 id="apps-from-companies-that-dont-want-to-give-apple-30">2. Apps from companies that don’t want to give Apple 30%</h2>
-
-<p><a href="http://office.microsoft.com/en-us/">Microsoft Office</a>: The cheese sandwich of software–it does its job competently, but it’s hard to get excited about it.</p>
-
-<p><a href="http://www.stata.com">Stata</a>: My go-to data analysis software. Fast, feature-filled, relatively shallow learning curve, and great documentation. What more do you want?</p>
-
-<p><a href="http://www.mekentosj.com/papers/">Papers</a>: Manages big collections of pdfs and simplifies search for academic literature.</p>
-
-<h2 id="apps-i-think-should-be-in-the-app-store">3. Apps I think should be in the App Store</h2>
-
-<p>These apps are free and frankly I have no idea why they’re not in the App Store:</p>
-
-<p><a href="http://www.skype.com">Skype</a> and <a href="https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>: If you are reading this on a computer screen, then you already know these two.</p>
-
-<p><a href="http://aquamacs.org">Aquamacs</a>: Puts Mac lipstick on an old pig of an editor. That said, I’ve been using emacs for 20 years and I love it.</p>
-
-<p><a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a>: I’ve been using nvAlt for about six months to manage all my miscellaneous notes. It’s super-easy to search and the data are accessible on all my devices.</p>
-
-<h2 id="apps-that-are-just-too-geeky-for-the-app-store">4. Apps that are just too geeky for the App Store</h2>
-
-<p>You’re going to be spending quality time at the command-line if you use <a href="http://mxcl.github.com/homebrew/">brew</a>, <a href="http://www.ruby-lang.org/en/">Ruby</a>, and <a href="http://octopress.org">Octopress</a>, so you may as well install them by hand.</p>
-
-<p>Once all I installed all these apps, I still had lots of little things to do.  I had to tweek the preferences for most of my apps. I had to set up the finicky network printer in the office. In order to access the secure university wifi network, I had to install the required certificate. I could go on, but this gives you the flavor–The whole process of getting back to where I started took far longer than I had envisioned and I don’t want to go through it again.  </p>
-
-<h2 id="the-solution">The Solution</h2>
-
-<p>The main requirement of any solution was that it back up what wasn’t already safe–i.e., everything outside my Dropbox folder. But any solution also had to need absolutely minimal human intervention. I am not to be trusted to manually mirror drives every week. I also wanted to do as much as possible with hardware I had lying around.</p>
-
-<p>Because we’re only talking about about 40 GB, I was able to repurpose an old 250GB external drive as a Time Machine disk that now lives at the office nestled into a book shelf. It’s plugged into a hub along with my phone charger, iPad charger and USB ethernet adapter. The first thing I always do upon arrival is plug the Air into it’s power adapter, the external display, and the hub. This procedure hasn’t had to change at all. When I leave, I pull the external display cable and close the lid on the Air. <a href="http://www.stclairsoft.com/Jettison/">Jettison</a> automatically waits for any ongoing Time Machine backups to finish and ejects the external disk before sleeping the Mac. As soon as I hear the disk stop, I unplug the hub and my power cable and I’m ready to go.</p>
-
-<p>The other day I took my favorite winter coat to a tailor to have the zipper fixed. The woman very graciously showed me that nothing was actually broken–I’d simply forgotten that it was a <a href="http://www.perfectex.com/two_way_zipper.jpg">two way zipper</a> and both parts needed to be at the bottom in order for it to work. It was embarrassing, but I was still happy since the “repair” was extremely fast and it cost nothing. I feel the same way about this adjustment to my backup system. It’s a little embarrassing that I didn’t recognize the weakness up front, but I’m also really happy that it was so easy to fix.</p>
-
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-06-09T23:57:15-04:00</updated>
+  <updated>2013-06-30T23:15:07-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Google Reader Replacement: The Nerderati Have Spoken]]></title>
+    <link href="http://highvariance.net/blog/2013/06/30/a-google-reader-replacement-the-nerderati-have-spoken/"/>
+    <updated>2013-06-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/06/30/a-google-reader-replacement-the-nerderati-have-spoken</id>
+    <content type="html"><![CDATA[<p>For those readers who didn’t know why it was a big deal,
+<a href="http://reader.google.com">Google Reader</a> was two really cool but
+distinct things. First, it was a web site where you could specify a
+large number of other web sites (aka “feeds”) that publish articles you
+might want to read. It would then present those articles all together in
+a neat list.  It would keep track of what was new, what you hadn’t read
+yet, and what you’d already read. And it was far far more efficient than
+going from site to site hitting refresh like a rat pressing a lever for
+another hit of crack. This is especially true for people (like me) that
+read a lot of sites that don’t publish very often or can go through long
+dry spells.</p>
+
+<p>I found the Google Reader web site kind of clunky and ugly, but you didn’t
+actually have to ever visit it to experience the benefits. Google Reader
+also provided a service so that third party apps could access the same
+data and keep your subscriptions in sync if you used apps on different
+PC’S or post-PC devices. This is what I used to do, and it was
+fantastic. I would use the beautiful/fast/powerful
+<a href="http://reederapp.com">Reeder</a> app on my phone, Mac, and iPad to browse
+my feeds wherever I was. I even used the Google Reader website
+occasionally.</p>
+
+<p>And then Google announced they were shutting it all down on July 1.
+Panic ensued, but the nerderati told us to be patient–they promised
+even better alternatives would quickly blossom to take its place.  It
+took a few months, but they were right. Unfortunately, I’ve had a busy
+spring and summer and haven’t had the time to try them all to find the
+best one.  Luckily, lots of other folks have invested their time
+and I think there’s a decent consensus for a winner.</p>
+
+<p>David Sparks at
+<a href="http://macsparky.com/blog/2013/6/my-rss-setup">MacSparky</a>, Federico
+Vittici at
+<a href="http://www.macstories.net/news/readkit-and-slow-feeds-updated-with-feed-wrangler-support/">MacStories</a>,
+<a href="http://shawnblanc.net/2013/06/feed-wrangler-smart-streams/">Shawn
+Blanc</a>,
+<a href="http://www.marco.org/2013/06/28/drang-feeds">Marco Arment</a>, and
+<a href="http://www.leancrew.com/all-this/2013/06/feedle-dee-dee/">Dr. Drang</a>
+have all settled on Feed Wrangler.  It’s a service that offers all the
+features Google Reader did.  It costs $19.99 per year, but that’s a
+small price to pay for stability.  With paying customers, they won’t
+have nearly the temptation to just turn it off if they don’t feel like
+running it anymore.  They won’t be shoving ads down our throat either
+which I always felt was just around the corner with Google Reader.</p>
+
+<p>Feed Wrangler has a web site for reading and also provides free client
+apps for the iPhone and iPad.  The iPhone client has some serious
+flaws. It’s definitely slower to sync new stuff than Reeder was. It
+doesn’t support gestures to mark things read or unread.  And worst of
+all, the default (unchangeable) font size is too small for me to read
+unless I’m wearing my reading glasses. Thank goodness my old standby
+Reeder will be supporting Feed Wrangler soon.  I don’t read much on my
+iPad, but Mr. Reader already supports the Feed Wrangler service.</p>
+
+<p>Perhaps the best part about Feed Wrangler is the two things it does that
+Google Reader never did.  Smart Streams let you define “collections” of
+articles based on keywords and sources.  It’s much more powerful than a
+folder and will let me sip from the high volume feeds that I would normally
+stay away from. Filters are the opposite–you can define key words that
+will cause an article to be automatically considered read and thus
+ignored.  This way I can subscribe to the ESPN feed and never have to
+read another story about hockey or NASCAR.  Bill Simmons’ <a href="http://sports.espn.go.com/espn/page2/story?page=simmonsnfl2010/101105">ESPN
+Outsider</a>
+has arrived!</p>
+
+<p>Google Reader is dead, but it was stagnant for years.  I’m legitimately excited about
+a new era of innovation. Feed Wrangler has just won round one.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Too Soon?]]></title>
@@ -798,44 +873,6 @@ denominations is a loss of relevance in the community.  I also think most church
 <p>Not only are couch cushions a ton of fun for all ages, the price is right and they don’t require any storage.  Hurray!</p>
 
 <p>Update: <a href="http://highvariance.net/blog/2013/01/22/couch-cushions-update/">Here</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Three Favorite Low Traffic Blogs]]></title>
-    <link href="http://highvariance.net/blog/2013/01/17/favorite-low-traffic-blogs/"/>
-    <updated>2013-01-17T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/17/favorite-low-traffic-blogs</id>
-    <content type="html"><![CDATA[<p>Last week a whole bunch of people wrote <a href="http://www.economist.com/blogs/babbage/2013/01/remembering-aaron-swartz">really</a> <a href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html">nice</a> <a href="http://blogs.law.harvard.edu/philg/2013/01/12/aaron-swartz/">things</a> about an <a href="http://en.wikipedia.org/wiki/Aaron_Swartz">amazing person</a> who is no longer around to read them. Continuing in my <a href="http://highvariance.net/blog/categories/thanks/">series of thanking people who can still appreciate it</a>, these are my three favorite low traffic blogs:</p>
-
-<h2 id="think-in-projectshttpwwwthinkinprojectscom"><a href="http://www.thinkinprojects.com">Think In Projects</a></h2>
-<!---
-(24 Google Reader subscribers)
---->
-
-<p>I found out about Rafal’s blog when he commented on <a href="http://highvariance.net/blog/2012/05/27/gtd-with-rtm/">a post here</a>, but it’s quickly become my favorite source for thoughtful advice about improving personal productivity.  He reads widely and links to the best articles he finds on the topic. But the reason I keep coming back is his own writing.  For whatever reason, he and I run into very similar issues and he has practical ideas for making progress on those issues. Recently he’s written good stuff about <a href="http://www.thinkinprojects.com/productivity/celebrate-2/">the value in looking back at our accomplishments</a>, <a href="http://www.thinkinprojects.com/productivity/planning-2013/">long range planning</a>, and <a href="http://www.thinkinprojects.com/productivity/on-avoidance-of-stuff/">avoiding what’s important</a>.  He also happens to write extensively about <a href="http://www.rememberthemilk.com">Remember the Milk</a> and <a href="http://evernote.com">Evernote</a>–two tools I respect but don’t currently use.</p>
-
-<p><strong>Update:</strong> Think in Projects is now <a href="http://creatingpersonalflow.com/">Creating Personal Flow</a>. I love the new layout and you can find the content referenced above on the new site here:</p>
-
-<ul>
-  <li><a href="http://creatingpersonalflow.com/productivity/celebrate-2/">Celebrate</a></li>
-  <li><a href="http://creatingpersonalflow.com/productivity/on-avoidance-of-stuff/">On avoidance of stuff</a></li>
-  <li><a href="http://creatingpersonalflow.com/productivity/planning-2013/">Planning 2013</a></li>
-</ul>
-
-<h2 id="its-not-a-problem-if-you-cant-solve-ithttpsillynomadtumblrcom"><a href="http://sillynomad.tumblr.com">It’s not a problem if you can’t solve it</a></h2>
-<!---
-(2 Google Reader subscribers)
---->
-
-<p>This site is written by a former student of mine from Spain who has spent big chunks of this life in Africa and is now living in Japan.  He has a unique perspective on the world and through words and photos he communicates a great sense for both the ordinary and extraordinary in Japan.  Reading his blog I often feel like I’m watching a Japanese version of the Office. Alf also partakes in a tremendous number of extracurricular activities so I get to learn all about soccer leagues, concerts, themed restaurants, and video game arcades too. And seriously, how many people do you know that have taken a <a href="http://sillynomad.tumblr.com/day/2012/12/20">field trip to Hiroshima to play Dungeons and Dragons</a>?</p>
-
-<h2 id="byte-bakerhttpbytebakercom"><a href="http://bytebaker.com">Byte Baker</a></h2>
-<!---
-(118 Google Reader subscribers)
---->
-<p>Shrutarshi Basu is a computer science grad student at Cornell, but I started reading his blog back when he was “just” a nerdy college kid. He writes about what he’s doing (hacking, figuring out life) and what he thinks is important (e.g., programming languages, reading, productivity). While it’s true that we do share some interests, my favorite quality of the site is Shrutarshi’s earnestness. He consciously tries to achieve excellence in whatever he does and he’s open about what’s working and what’s not.</p>
-
 ]]></content>
   </entry>
   
