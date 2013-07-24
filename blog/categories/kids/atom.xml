@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-06-30T23:15:07-04:00</updated>
+  <updated>2013-07-24T11:35:52-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -52,7 +52,7 @@
     <id>http://highvariance.net/blog/2013/04/25/feeling-negative</id>
     <content type="html"><![CDATA[<p>I spend a lot of time on this blog raving about <a href="http://highvariance.net/blog/2013/04/11/kid-book-review-library-trip-report-3/">great kid books</a>, <a href="http://highvariance.net/blog/2012/02/22/not-dead-yet/">great music</a>, <a href="http://highvariance.net/blog/2012/01/17/mincer-1958/">great writing for grown ups</a>, and even <a href="http://highvariance.net/blog/2013/01/08/an-homage-to-chris-welty/">great teaching</a>, but don’t get the idea that I think everything is all sunshine and roses. There are plenty of things I don’t appreciate. Here are just three:</p>
 
-<p><img class="right" src="/images/hv-grateful-dead.jpg" title="[title “Maybe the Ugliest Shirt of All-Time”]" ></p>
+<p>{% img right /images/hv-grateful-dead.jpg [title “Maybe the Ugliest Shirt of All-Time”] %}</p>
 
 <h2 id="the-grateful-dead">1. The Grateful Dead</h2>
 
@@ -60,13 +60,13 @@
 
 <h2 id="ezra-jack-keats">2. Ezra Jack Keats</h2>
 
-<p><img class="left" src="/images/hv-willie.jpg" title="[title “Whistle for Willie”]" ></p>
+<p>{% img left /images/hv-willie.jpg [title “Whistle for Willie”] %}</p>
 
 <p>This is <a href="http://en.wikipedia.org/wiki/Ezra_Jack_Keats">Ezra Jack Keats</a> week at my girls’ preschool and besides <a href="http://highvariance.net/blog/2012/05/10/carle-vs-lioni/">Eric Carle</a>, there isn’t a more over-rated children’s book author/illustator.  I’m not an expert on Jack Keats, but I have read <a href="http://www.amazon.com/The-Snowy-Day-Board-Book/dp/0670867330">The Snowy Day</a> and <a href="http://www.amazon.com/Whistle-Willie-Board-Book-Keats/dp/0670880469">Whistle for Willie</a> and thus feel perfectly justified generalizing to his whole body of work. I like that he his stories take place in cities. I like that he’s got African-American characters. And I’m not arguing he wasn’t an important trail blazer–he was. I’m just arguing that the books themselves are uninspired and boring.  In the last forty years lots of authors have taken the torch and done a better job with it. My favorites are <a href="http://www.amazon.com/Rain-Stomper-Addie-Boswell/dp/0761453938">The Rain Stomper</a> (by Boswell Addie, illustrated by Eric Velasquez), <a href="http://www.amazon.com/Corduroy-Don-Freeman/dp/0140501738">Corduroy</a> (by Don Freeman), and <a href="http://www.amazon.com/Bear-Bike-Stella-Blackstone/dp/1905236980">Bear on a Bike</a> (by Stella Blackstone, illustrated by Debbie Harter)</p>
 
 <h2 id="new-orleans">3. New Orleans</h2>
 
-<p><img class="right" src="/images/hv-voodoo.jpg" title="[title “VOODOO”]" ></p>
+<p>{% img right /images/hv-voodoo.jpg [title “VOODOO”] %}</p>
 
 <p>For some people, New Orleans is a great city. It’s got world class sea food and its own brand of jazz. It’s got a casino downtown and a <a href="http://en.wikipedia.org/wiki/Bourbon_Street">whole street</a> full of daiquiris and debauchery. But for a vegetarian who doesn’t drink, doesn’t gamble, and whose musical tastes are a little less hip, New Orleans doesn’t have much to offer. I used to think the best thing about the city was voodoo and while that sounds all cool and mysterious, when you take a closer look, it’s not. Chicken blood, bits of hair, and stabbing little dolls to hurt real people is just creepy. Of course, there is <a href="http://www.auduboninstitute.org/visit/insectarium">the Insectarium</a> which is also a little creepy, but was a lot of fun with the girls when we visited a couple weeks ago. </p>
 
@@ -85,7 +85,7 @@
 
 <h2 id="keepers">Keepers:</h2>
 
-<p><img class="right" src="/images/hv-cowboy-and-octopus.jpg" title="[title “Cowboy and Octopus”]" ></p>
+<p>{% img right /images/hv-cowboy-and-octopus.jpg [title “Cowboy and Octopus”] %}</p>
 
 <ul>
   <li>
@@ -110,7 +110,7 @@
 
 <h2 id="honorable-mentions">Honorable mentions:</h2>
 
-<p><img class="right" src="/images/hv-jims-lion.jpg" title="[title “Jim’s Lion”]" ></p>
+<p>{% img right /images/hv-jims-lion.jpg [title “Jim’s Lion”] %}</p>
 
 <ul>
   <li>
@@ -129,7 +129,7 @@
 
 <h2 id="dishonorable-mentions">Dishonorable mentions:</h2>
 
-<p><img class="right" src="/images/hv-big-elephant.jpg" title="[title “The Big Elephant in the Room”]" ></p>
+<p>{% img right /images/hv-big-elephant.jpg [title “The Big Elephant in the Room”] %}</p>
 
 <ul>
   <li>
@@ -148,7 +148,7 @@
     <link href="http://highvariance.net/blog/2013/03/25/my-little-pony/"/>
     <updated>2013-03-25T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2013/03/25/my-little-pony</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-mlp-ts-tfad.png" title="[title “Twilight Sparkle: Teacher for a Day”]" ></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-mlp-ts-tfad.png [title “Twilight Sparkle: Teacher for a Day”] %}</p>
 
 <p>My first introduction to <a href="http://en.wikipedia.org/wiki/My_Little_Pony">My Little Pony</a> wasn’t terribly positive. I was about eight years old and this “girl stuff” was advertised relentlessly on Saturday morning cartoons. I was far more interested in being a pawn of the corporations that marketed branded soldiers, spaceships, and robots to boys.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
@@ -156,7 +156,7 @@
 
 <p>And now, it seems that the third time is the charm. The girls have been in a serious MLP phase the last few weeks and our collection now includes 12 little Little Ponies, each with its own colors, personality, and <a href="http://mlp.wikia.com/wiki/Cutie_mark">cutie mark</a>. <a href="http://mlp.wikia.com/wiki/Applejack">Apple Jack</a> is the hard working farmer with the southern drawl while <a href="http://mlp.wikia.com/wiki/Rainbow_Dash">Rainbow Dash</a> is the adventurous one with the mischievous streak. You might have guessed we’ve also watched a couple <a href="http://mlp.wikia.com/wiki/My_Little_Pony_Friendship_is_Magic">tv episodes</a>.</p>
 
-<p><img class="right" src="/images/hv-mlp-in-app-purchases.png" title="[title “What a Scam”]" ></p>
+<p>{% img right /images/hv-mlp-in-app-purchases.png [title “What a Scam”] %}</p>
 
 <p>On our last long distance trip we expanded our collection to include a couple iOS apps. The first was Gameloft’s <a href="https://itunes.apple.com/nz/app/my-little-pony-friendship/id533173905?mt=8">My Little Pony - Friendship is Magic</a> and it is an awful scam. You create a magical pony land by buying gems for real money–your parents’ real money to be specific. And if you don’t invest, you can’t actually do anything fun.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-06-30T23:15:07-04:00</updated>
+  <updated>2013-07-24T11:35:52-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -102,7 +102,7 @@ want a photo management system that requires minimum maintenance and gives me ma
 
 <h2 id="adobe-revelhttpwwwadoberevelcom"><a href="http://www.adoberevel.com">Adobe Revel</a></h2>
 
-<p><img class="right" src="/images/hv-adobe-revel.png"></p>
+<p>{% img right /images/hv-adobe-revel.png %}</p>
 
 <p>I was super-excited when I heard about Adobe Revel.  The service stores all your pictures in the cloud, and they give you free iOS and Mac apps to edit and manage them. Pictures are streamed to your iOS devices as needed freeing up a whole lot of space.  The apps are (supposedly) built on top of the same editing/browsing engine powering LightRoom and they are (actually) very well done.  The service is expensive ($5.99/month) but it promises a lot.</p>
 
@@ -110,7 +110,7 @@ want a photo management system that requires minimum maintenance and gives me ma
 
 <h2 id="everpixhttpwwweverpixcom"><a href="http://www.everpix.com">Everpix</a></h2>
 
-<p><img class="right" src="/images/hv-everpix.png"></p>
+<p>{% img right /images/hv-everpix.png %}</p>
 
 <p>After my experience with Revel, I was cautiously optimistic about Everpix. It also stores all your photos in the cloud and has terrific iOS apps for browsing your collection, but it differentiates itself in three ways:</p>
 
