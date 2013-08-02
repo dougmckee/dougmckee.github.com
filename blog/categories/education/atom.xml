@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-07-24T11:35:52-04:00</updated>
+  <updated>2013-08-02T00:04:38-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Opposite of a MOOC]]></title>
+    <link href="http://highvariance.net/blog/2013/07/24/opposite-of-a-mooc/"/>
+    <updated>2013-07-24T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/07/24/opposite-of-a-mooc</id>
+    <content type="html"><![CDATA[<p>MOOC’s are Massive Open Online Courses and they are what everyone in higher education is talking about. These classes  are usually free, have huge enrollments, and per student are pretty cheap to run relative to a typical college class. The quality can be decent and MOOC’s open up access to higher education to literally billions of people around the world. MOOC’s also have the potential to decrease the cost of education for the millions of people that would normally attend a traditional in person college.</p>
+
+<p>Yale currently allows anyone on the Internet to watch record lectures from many of its best classes through <a href="http://oyc.yale.edu">Yale Open Courses</a>, but with zero interactivity, the user experience is quite different from taking a “real” course.  Yale has also recently entered a relationship with Coursera, the leading MOOC provider, and plans to dip its foot in the MOOC pool this year with a few classes.</p>
+
+<p>At the same time, Yale has been breaking new ground through its Summer Session online classes which aim to let students experience as close to an in-person class as you can get without being on campus. These classes mix recorded video lectures with the usual outside-class reading and problem sets and a live interactive video session with the professor and rest of the class.</p>
+
+<p>It’s these live sessions that are really innovative for online learning.  When a student logs in, they see everyone else in the class including the professor in a virtual classroom.  Imagine a Google Hangout with up to 25 participants.  It requires everyone to have a decent internet connection, but when it works, it’s kind of amazing. </p>
+
+<p>It would be impossible to scale up this type of course to “massive” numbers of students, but the idea is to maximize quality, not minimize price.  I call it a Small Closed Online Course, and while Yale started offering these online classes two summers ago, I’m in the middle of teaching my first one now.  It’s “Econometrics and Data Analysis” and it’s been a real learning experience for everyone so far.</p>
+
+<p>Students can take the class from almost anywhere.  I have students logging in three times a week from China, Singapore, Madrid, Kentucky, Alberta, California, and even a couple from downtown New Haven, CT. They can watch the video lectures when it is convenient for them and they have the power to pause and replay parts that are not clear the first time through.</p>
+
+<p>The live experience is a work in progress. I use it to do three substantive things.  First, I answer questions about the recorded material and the reading.  It seems clear that my students are not taking notes and writing down questions they cannot ask in the moment (as they would in an in-person class) because most days they don’t have any questions. It’s hard to know how if they are really engaging with the recorded lectures or if they have them on while they’re doing something else. For the past couple classes I’ve been asking them basic questions about the material to get a sense for how much is sinking in. I am thinking about requiring them to email questions before the live session begins.</p>
+
+<p>The main thing I do in the live sessions is have my students work through problems together.  The software we are using (<a href="http://watchitoo.com">Watchitoo</a>) allows me to divide the class into groups and send them to sub-classrooms.  I visit each of the groups in turn and push them along when they get stuck. It’s classic <a href="http://en.wikipedia.org/wiki/Flipped_classroom">flipped classroom</a> stuff and it works well.</p>
+
+<p>The third thing we do is discuss the material. I haven’t done much of this so far, but I have some future classes planned where we go over new applications of methods and talk in depth about specific points.  Most of Yale’s online classes thus far have been discussion-oriented (e.g., psychology or philosophy), but econometrics is much closer to a math class and thus not as good a match for discussions.</p>
+
+<p>The technology has mostly worked well but has some real rough edges. Some students just don’t have strong enough internet connections and drop in and out during the live sessions. Moving between the sub-classrooms and the full classroom takes several more mouse clicks and time than I’d like. The whiteboard built into the live session software is too buggy to use, but we’ve had great success with a free HTML-based shared whiteboard (<a href="http://awwapp.com">awwapp.com</a>) I have the live session in one window on my laptop and my whiteboard in another window on my Wacom external monitor.  This lets me write with a real stylus and still see all my students.</p>
+
+<p>One of the most successful parts of the class is my office hours.  I hold them in the same virtual classroom and use the same virtual whiteboard.  It’s almost identical to my in-person office hours.  Realtime access to an expert is the biggest difference between this class and a MOOC.</p>
+
+<p>I’m getting a fair bit of feedback on how much they’re learning from their problem sets and the live sessions, but I miss being able to look into their eyes while I’m lecturing. We have our first exam this week, and I honestly don’t know how they are going to do.  My fingers are crossed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[What I've learned about teaching advanced undergraduate seminars]]></title>
@@ -170,75 +201,6 @@
   <ol>
     <li id="fn:1">
       <p>It turns out to be very hard, but it also took me many more years to figure that out.  <a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few Thoughts on MOOC's]]></title>
-    <link href="http://highvariance.net/blog/2012/12/08/thoughts-on-moocs/"/>
-    <updated>2012-12-08T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/12/08/thoughts-on-moocs</id>
-    <content type="html"><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Mooc">MOOC</a> is an acroynm for Massive Open Online Course.  It’s a trendy name
-for packing up a course’s content (video lectures, problem sets, exams,
-a mechanism for peer interactions, etc.) and making it available to a large
-number of students over the internet without requiring significant live instructor input.
-It’s that last part that allows the system to scale and separates the
-idea from simple distance learning or a traditional online course.</p>
-
-<p>The most exciting thing about MOOC’s is the expansion in availability of
-university-level content.  At least three groups of top-tier
-universities in the US (<a href="http://www.edx.org">edX</a>, <a href="http://www.coursera.org">Coursera</a>, and <a href="http://www.udacity.org">Udacity</a>) are
-actively producing these kinds of online courses and making them
-available for free to anyone.  It means that kids and
-adults from rural China to urban Brazil can watch and learn from the
-some of the best professors in the world and interact with each other
-about the material.</p>
-
-<p>A second exciting thing about MOOC’s is that they promise to be a major
-disruptive innovation for existing institutions of higher education.
-Think about what happens in an average traditional college course.  The
-professor stands up and gives a lecture taking occasional questions from
-the class. He/she assigns reading and homework and gives exams. They are
-somewhat available to answer questions in office hours or by email. A
-MOOC isn’t better on every dimension, but I believe they’ve recently crossed a
-line and the overall experience is actually better than the average
-college course.  </p>
-
-<p>As students become aware of MOOC’s, I think a few will decide to forego
-college and instead learn what they want to learn more cheaply and on
-their own schedule.  Most students (and their future employers) however
-will want a credential (degree) that “proves” they have mastered a set
-of material.  It’s only a matter of time before the big three (or
-someone new) comes along and is able to provide this.  Online degrees
-exist today and I predict they will become more and more
-mainstream.<sup id="fnref:fn_dating"><a href="#fn:fn_dating" rel="footnote">1</a></sup>  That said, the current college experience is more than
-courses and I think the market for that won’t be going away soon.  </p>
-
-<p>Students will also start demanding more of classes at existing
-universities and attending colleges that raise their game and start
-providing higher quality in-class experiences.  That means colleges will
-have to leverage what they have that the MOOC’s will never have: live
-instructors/experts that are able to spend time either one-on-one or in
-small groups with students answering questions and having real time
-conversations. This is possible online, but it doesn’t scale up to
-massive numbers of students per instructor.  Some faculty will start
-building on MOOC content–that is, they will replace their own lectures
-with those of the MOOC’s and add their own interactivity.  And I’m happy
-to say that the he big live lecture will go the way of the horse and
-buggy–average professors just won’t be able to compete with the top
-professors in the world and their video lectures.</p>
-
-<p>I was going to title this post “The Revolution’s Coming” but the
-revolution is already here.</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:fn_dating">
-      <p>This is exactly what happened with online dating over
-thelast 10 years.<a href="#fnref:fn_dating" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
