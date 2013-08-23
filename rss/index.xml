@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-08-02T00:04:38-04:00</updated>
+  <updated>2013-08-23T00:38:51-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exams and Online Classes]]></title>
+    <link href="http://highvariance.net/blog/2013/08/23/exams-and-online-classes/"/>
+    <updated>2013-08-23T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/08/23/exams-and-online-classes</id>
+    <content type="html"><![CDATA[<p>With just a few exceptions, no one likes exams.  Students don’t like the stress of taking the exams, instructors have to write the exams, and someone usually has to grade them. In-class exams don’t give enough time for testing very much material, and if the test is too long, it punishes students who know their stuff but are just a little slow. Take-home exams can cover more content, but it can be very tempting for students to cheat by getting help from friends or the Internet. Unfortunately, we need objective assessments of how much each student has mastered the course material, and right now exams are the best tool we have.</p>
+
+<p>In an online class, exams are even trickier.  In my econometrics class this summer, we held our midterm and final exams in the virtual classroom.  At exam time, I emailed them a PDF with all the questions and my students wrote their answers on paper while my teaching assistant and I watched them through their webcams. We used pencil and paper because answering the questions required doing a fair amount of math and I wanted to see their work.  I didn’t want them to use valuable time slowly typing in symbols and equations. After two hours, they scanned their written answers (mostly with their phone cameras) and emailed them to me.  When I confirmed receipt and readability, the students were free to go.  </p>
+
+<p>The process was easy and convenient, but had one major flaw: it would have been pretty easy to cheat. I say this believing in my heart that none of my students cheated and having absolutely no evidence to even make me suspicious.  Even so, any one of them could have forwarded the exam PDF to a friend (or professional) and had them email back their answers.  The incentives for doing so are actually quite strong: Yale classes are not cheap and they get real Yale credit for my online class. Not to mention the fact that most elite college students care a lot about their GPA.</p>
+
+<p>A second problem we ran into was that students’ Internet connections were not always reliable.  When these connections dropped, some students didn’t even notice for a while and others had trouble reconnecting.  It wouldn’t have been fair to just disqualify those students, but again, it was a pretty huge opportunity to cheat. </p>
+
+<p>We considered three alternative testing procedures, but I think only one would be a clear improvement over what we did.  First, we thought about requiring students to have a separate webcam that would let us view their computer screen.  In this scenario, they couldn’t use their computer for evil, but I still think it would be relatively easy for them to cheat with an alternative device outside the frame of view.  Second, we investigated using an online service that locks down their computer for only exam taking purposes. <a href="https://webassessor.com">Webassessor</a> provides this service along with online proctors, but it would also require good webcam placement.  And both of these alternatives are still reliant on continuous connection to the Internet.</p>
+
+<p>The solution I like best is to use an in-person testing service where students go to a controlled physical location to take their exam.  <a href="https://www.prometric.com">Prometric</a> has more than 10,000 test taking centers all over the world–that means a huge fraction of the world’s population is within two hours drive of a center so it’s not all that inconvenient to travel to one one or two times during a course.</p>
+
+<p>Timing is an issue for all these solutions–that is, you’d like all your students to take the exam simultaneously so the early students can’t share information with those that take the exam later.  If your students are scattered around the globe, at least some of them will have to take their exam in the middle of the night and that doesn’t seem fair.  My students in the far east had to take their exams at either 10pm or 11pm.  One way around this problem would be to have two versions of the exam–one for each half of the planet.</p>
+
+<p>Next time I teach an online class where the stakes are high, I’m going to try to use a service like Prometric.  I’ll let you know how it goes.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Dumber Dumb and Dumber]]></title>
@@ -869,17 +892,6 @@ denominations is a loss of relevance in the community.  I also think most church
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stock prices are not grades for last quarter]]></title>
-    <link href="http://highvariance.net/blog/2013/01/24/stock-prices-are-not-grades/"/>
-    <updated>2013-01-24T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/24/stock-prices-are-not-grades</id>
-    <content type="html"><![CDATA[<p>For the past few quarters, I’ve noticed a disturbing pattern. At some point near the end of the financial quarter, professional stock analysts predict Apple’s numbers (e.g., profit and revenue) to go up a lot. The market takes these predictions seriously and the stock price adjusts to take them into account. Then Apple does report good numbers (usually record-breaking) but not quite as good as the analysts predicted.  The stock goes down as the market adjusts using the new (factual) information about how well the company is doing.  This is all perfectly normal.  </p>
-
-<p>The disturbing part is that the Apple tech writer blogosphere then complains that it doesn’t make sense.  Their logic seems to be that because Apple just did really well, they should be rewarded for it and the stock should go up. They think the expectations shouldn’t matter.  They don’t seem to understand that stock prices are a function of currently held capital and <em>expectations</em> of future performance. Sigh. If these writers want to be mad about something, they should be mad that the analysts are doing a lousy job at predicting Apple’s performance. They shouldn’t be surprised by basic market behavior.</p>
 ]]></content>
   </entry>
   
