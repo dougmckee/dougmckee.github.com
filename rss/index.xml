@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-08-23T00:38:51-04:00</updated>
+  <updated>2013-08-30T22:21:05-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown and Me]]></title>
+    <link href="http://highvariance.net/blog/2013/08/30/markdown-and-me/"/>
+    <updated>2013-08-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/08/30/markdown-and-me</id>
+    <content type="html"><![CDATA[<p>I spend a lot of my time creating and editing plain text files. It isn’t the prettiest or most powerful format for documents, but I still love it.  Plain text is trivial to copy and paste between applications, and the files are human readable.  Unlike .doc files, PDF files, or even RTF files, there are a gazillion apps that will show and edit text. And the format has staying power–it’s <a href="http://en.wikipedia.org/wiki/Ascii">been around since the 1960’s</a> and I’m willing to bet it will be easy to work with in 20 years and maybe even 50 years. </p>
+
+<p>Markdown is an extremely simple but incredibly powerful way to add a bit of formatting to plain text without losing any of plain text’s benefits.  When I write with Markdown, I can still use my favorite editing applications. At the same time, I can have section headings, bold, italic, lists, links, and more.  Markdown does a lot of what HTML was originally designed to do but is much easier to write and much easier to read. It’s also easy to translate Markdown into any of these other formats when you need them. </p>
+
+<p>My favorite thing about Markdown is that there is almost no learning curve–most people already use pieces of it without realizing it. If you want to <em>emphasize</em> a few <strong>words</strong>, you put <code>*one*</code> or <code>**two**</code> stars around them. If you want to make a bulleted list, you use stars for that too.  </p>
+
+<p>This:</p>
+
+<pre><code>* apples
+* bananas
+* pears
+</code></pre>
+
+<p>turns into this:</p>
+
+<ul>
+  <li>apples</li>
+  <li>bananas</li>
+  <li>pears</li>
+</ul>
+
+<p>You nest lists by indenting them:</p>
+
+<pre><code>* apples
+	* Fuji
+	* Braeburn
+	* McIntosh
+* bananas
+* pears
+</code></pre>
+
+<p>to create this:</p>
+
+<ul>
+  <li>apples
+    <ul>
+      <li>Fuji</li>
+      <li>Braeburn</li>
+      <li>McIntosh</li>
+    </ul>
+  </li>
+  <li>bananas</li>
+  <li>pears</li>
+</ul>
+
+<p>Other stuff like marking headings with hashmarks or embedding links is straight-forward too. John Gruber invented Markdown in 2004 and the <a href="http://daringfireball.net/projects/markdown/syntax">original spec</a> is still a great description of the language.</p>
+
+<p>I use Markdown for tons of stuff.  This includes the notes that go along with every one of my lectures and presentations.  I can write them quickly and then have them display nicely on my iPad while I talk and walk around the room. I also take all my meeting notes in Markdown and sometimes share them with other meeting attendees. I write all my blog posts in Markdown and let Octopress/Jekyll automatically turn them into pretty HTML.</p>
+
+<p>I don’t (yet) use Markdown for everything.  My research articles are mostly written in Latex which does a much better job with mathematical equations and big structured documents.  I use MS Word when I am collaborating with someone who is more comfortable in that environment. My class syllabi are still in Latex, but even though I could probably switch, it might be more trouble than it’s worth.  And while I often draft my slide content in Markdown, it almost always ends up in a set of PowerPoint slides where I have much greater control over the layout.</p>
+
+<p>On the Mac, I use <a href="http://aquamacs.org/">emacs</a>  and <a href="http://www.foldingtext.com/">FoldingText</a> to edit standalone Markdown files like blog posts and lecture notes.  I like emacs because I’ve been using it for 20 years and it’s really an extension of my brain at this point. It’s also what I use for editing code.  On the other hand, it’s kind of ugly.  FoldingText lets me hide/show sections of my document easily and makes my documents look pretty while I edit them by doing things like bolding text surrounded by double stars and hiding the actual double stars unless my cursor is on the bolded words.  It does the same sort of thing for links.</p>
+
+<p>I use <a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a> on my Mac to edit and manage all my meeting notes and miscellaneous notes. When editing, it just shows the raw text, but I can always hold down the control key to see the pretty version of the text.  nvAlt is super-easy to search and it stores all the notes as separate files on dropbox so I can easily migrate to some other app if the mood strikes.</p>
+
+<p>On my iPhone, I use <a href="http://writeup.prasannag.com">WriteUp</a> to edit standalone files like this blog post right now since it syncs so easily with Dropbox.  <a href="https://itunes.apple.com/us/app/notesy-for-dropbox/id386095500?mt=8">Notesy</a> syncs perfectly with nvAlt on the Mac.  On the iPad, Writeup displays my lecture notes beautifully and gives me the option to make last minute edits.</p>
+
+<p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Exams and Online Classes]]></title>
@@ -858,40 +925,6 @@ denominations is a loss of relevance in the community.  I also think most church
 
 <p>The other day I took my favorite winter coat to a tailor to have the zipper fixed. The woman very graciously showed me that nothing was actually broken–I’d simply forgotten that it was a <a href="http://www.perfectex.com/two_way_zipper.jpg">two way zipper</a> and both parts needed to be at the bottom in order for it to work. It was embarrassing, but I was still happy since the “repair” was extremely fast and it cost nothing. I feel the same way about this adjustment to my backup system. It’s a little embarrassing that I didn’t recognize the weakness up front, but I’m also really happy that it was so easy to fix.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
-    <link href="http://highvariance.net/blog/2013/01/29/lectures-2.0/"/>
-    <updated>2013-01-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/29/lectures-2.0</id>
-    <content type="html"><![CDATA[<p>The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. Sometimes he or she uses slides and sometimes he or she writes on a board.  And sometimes, he or she is informative and engaging, but it’s almost always a pretty one way affair with occasional questions posed to the class.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  The experience for students is a lot like watching a good documentary.  And that’s the best case scenario. The vast majority of the time, students sit back and absorb the flow or just check out. They don’t get <em>their</em> questions answered or engage constructively with the material. The average professor talks at their students for an hour and a half twice a week and it’s more like a late night infomercial than a documentary. </p>
-
-<p>Now let’s think about seminars. Students read articles and book chapters ahead of time and then gather in a small classroom to discuss the material with the professor and each other. Often there are in-class exercises or even smaller group activities. In general, students report they get more out of these classes. </p>
-
-<p>So why aren’t all classes structured as seminars? First of all, some material (especially introductory material) is more easily presented visually than textually–that’s one reason why <a href="http://www.khanacademy.org">Kahn Academy</a> is so successful. Seeing someone work through a problem is, for many students, a lot clearer than reading about it in a book. Lecturing allows for this kind of presentation and I believe it complements book learning. The second reason is purely economic: Seminars are expensive. If you have 33-34 students per seminar and you want to teach 100 students, you need three professors.  That’s triple what you’d need to teach a 100 person lecture.</p>
-
-<p>Wouldn’t it be great if we could take the best qualities of the lecture and the seminar and combine them in an economically feasible way?  We can. </p>
-
-<p>I was asked recently why I am excited to teach an online class this summer. Expanding the reach of my teaching was one reason, but it also gives me the opportunity to put together high quality online materials. This won’t simply be recordings of my hour and half lectures. Instead, it will be 3-5m chunks of <a href="https://www.udacity.com">Udacity</a>-style video interspersed with questions to make sure students are following along. The video will mostly be me drawing on slides, working through problems, and presenting new concepts.</p>
-
-<p>Here’s my vision: The 100 person class is divided into three separate groups of students. Each week, all students work their way through about 2 hours worth of online interactive video. At the end of the week, I meet with each group for an hour. I answer questions that they still have. I tie the “timeless” online material to current events. I have them work on problems in smaller groups and float between groups helping them as needed. </p>
-
-<p>I think the experience will be clearly better for students, but what about faculty and the administration? This won’t happen unless it’s a Pareto improvement.  That is, none of the parties involved can be worse off. </p>
-
-<p>Once the materials are in place, they can be re-used by different professors–this radically reduces the amount of prep time. The class itself should be a lot more fun to teach since the professor  can actually have conversations with students and get direct feedback on how well the class is going. If the online materials are high quality (and they should be), the professor doesn’t have to be fantastic to teach an excellent class. Most faculty are not naturally great lecturers, but the small classes give them an opportunity to share their raw intelligence and experience with the material–it’s a much better skill match.</p>
-
-<p>The administration is happy because the same 100 students are getting higher quality education for the same cost.  In fact, far more students get to benefit from close contact with big name professors–that makes the institution look good.</p>
-
-<p>What I’m describing is not a totally new idea–It’s a straight-forward application of <a href="http://en.wikipedia.org/wiki/Flip_teaching">flipping the classroom</a>. And it’s an idea that gets better and better every day as the education world learns  more about what works online and more high quality materials are made publicly available.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Some professors will use <a href="http://www.engaging-technologies.com/teaching-with-clickers.html">clickers</a> to get real-time multiple choice feedback from his or her audience.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   

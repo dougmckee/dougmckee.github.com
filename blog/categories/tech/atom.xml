@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-08-23T00:38:51-04:00</updated>
+  <updated>2013-08-30T22:21:05-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown and Me]]></title>
+    <link href="http://highvariance.net/blog/2013/08/30/markdown-and-me/"/>
+    <updated>2013-08-30T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/08/30/markdown-and-me</id>
+    <content type="html"><![CDATA[<p>I spend a lot of my time creating and editing plain text files. It isn’t the prettiest or most powerful format for documents, but I still love it.  Plain text is trivial to copy and paste between applications, and the files are human readable.  Unlike .doc files, PDF files, or even RTF files, there are a gazillion apps that will show and edit text. And the format has staying power–it’s <a href="http://en.wikipedia.org/wiki/Ascii">been around since the 1960’s</a> and I’m willing to bet it will be easy to work with in 20 years and maybe even 50 years. </p>
+
+<p>Markdown is an extremely simple but incredibly powerful way to add a bit of formatting to plain text without losing any of plain text’s benefits.  When I write with Markdown, I can still use my favorite editing applications. At the same time, I can have section headings, bold, italic, lists, links, and more.  Markdown does a lot of what HTML was originally designed to do but is much easier to write and much easier to read. It’s also easy to translate Markdown into any of these other formats when you need them. </p>
+
+<p>My favorite thing about Markdown is that there is almost no learning curve–most people already use pieces of it without realizing it. If you want to <em>emphasize</em> a few <strong>words</strong>, you put <code>*one*</code> or <code>**two**</code> stars around them. If you want to make a bulleted list, you use stars for that too.  </p>
+
+<p>This:</p>
+
+<pre><code>* apples
+* bananas
+* pears
+</code></pre>
+
+<p>turns into this:</p>
+
+<ul>
+  <li>apples</li>
+  <li>bananas</li>
+  <li>pears</li>
+</ul>
+
+<p>You nest lists by indenting them:</p>
+
+<pre><code>* apples
+	* Fuji
+	* Braeburn
+	* McIntosh
+* bananas
+* pears
+</code></pre>
+
+<p>to create this:</p>
+
+<ul>
+  <li>apples
+    <ul>
+      <li>Fuji</li>
+      <li>Braeburn</li>
+      <li>McIntosh</li>
+    </ul>
+  </li>
+  <li>bananas</li>
+  <li>pears</li>
+</ul>
+
+<p>Other stuff like marking headings with hashmarks or embedding links is straight-forward too. John Gruber invented Markdown in 2004 and the <a href="http://daringfireball.net/projects/markdown/syntax">original spec</a> is still a great description of the language.</p>
+
+<p>I use Markdown for tons of stuff.  This includes the notes that go along with every one of my lectures and presentations.  I can write them quickly and then have them display nicely on my iPad while I talk and walk around the room. I also take all my meeting notes in Markdown and sometimes share them with other meeting attendees. I write all my blog posts in Markdown and let Octopress/Jekyll automatically turn them into pretty HTML.</p>
+
+<p>I don’t (yet) use Markdown for everything.  My research articles are mostly written in Latex which does a much better job with mathematical equations and big structured documents.  I use MS Word when I am collaborating with someone who is more comfortable in that environment. My class syllabi are still in Latex, but even though I could probably switch, it might be more trouble than it’s worth.  And while I often draft my slide content in Markdown, it almost always ends up in a set of PowerPoint slides where I have much greater control over the layout.</p>
+
+<p>On the Mac, I use <a href="http://aquamacs.org/">emacs</a>  and <a href="http://www.foldingtext.com/">FoldingText</a> to edit standalone Markdown files like blog posts and lecture notes.  I like emacs because I’ve been using it for 20 years and it’s really an extension of my brain at this point. It’s also what I use for editing code.  On the other hand, it’s kind of ugly.  FoldingText lets me hide/show sections of my document easily and makes my documents look pretty while I edit them by doing things like bolding text surrounded by double stars and hiding the actual double stars unless my cursor is on the bolded words.  It does the same sort of thing for links.</p>
+
+<p>I use <a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a> on my Mac to edit and manage all my meeting notes and miscellaneous notes. When editing, it just shows the raw text, but I can always hold down the control key to see the pretty version of the text.  nvAlt is super-easy to search and it stores all the notes as separate files on dropbox so I can easily migrate to some other app if the mood strikes.</p>
+
+<p>On my iPhone, I use <a href="http://writeup.prasannag.com">WriteUp</a> to edit standalone files like this blog post right now since it syncs so easily with Dropbox.  <a href="https://itunes.apple.com/us/app/notesy-for-dropbox/id386095500?mt=8">Notesy</a> syncs perfectly with nvAlt on the Mac.  On the iPad, Writeup displays my lecture notes beautifully and gives me the option to make last minute edits.</p>
+
+<p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Exams and Online Classes]]></title>
@@ -186,49 +253,6 @@ want a photo management system that requires minimum maintenance and gives me ma
 <p>I’m keeping an eye on Everpix because except for the editing, these issues seem eminently fixable and I’d consider using an external editor if I had to.</p>
 
 <p>The quest continues.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Step on My Way to Paperless Nirvana: The Fujitsu ScanSnap iX500]]></title>
-    <link href="http://highvariance.net/blog/2013/03/07/scansnap/"/>
-    <updated>2013-03-07T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/03/07/scansnap</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-paper-folders.jpg" alt="My old paper folder stand" />
-<img src="/images/hv-scansnap.jpg" alt="My snazzy new ScanSnap ix500" /></p>
-
-<p>I first heard about how great document scanners are from David Sparks and Katie Floyd on the <a href="http://macpowerusers.com">Mac Power Users Podcast</a>. A little while later I read David’s ebook <a href="http://macsparky.com/paperless/">Paperless</a> where he describes many more ways to use a document scanner and raved particularly about Fujitsu’s line of ScanSnaps. Then just a few weeks ago I read a <a href="http://macsparky.com/blog/2013/1/the-fujitsu-scansnap-ix500">mini review/announcement</a> of the <a href="http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/scansnap-iX500.html">ScanSnap iX500</a> on David’s blog (<a href="http://macsparky.com">Mac Sparky</a>). You may be noticing a pattern here. If ScanSnap owners are a cult, then David Sparks must surely be a high priest.</p>
-
-<p>My current workflow doesn’t generate a whole lot of paper, but that doesn’t mean I don’t have file cabinets full of paper. Most of it just sits there, but occasionally I want to look at an old bill or a marked up article.  In the best case sceneario it takes me a while to find it and more often I’m not even in the office where it resides. I’ve always wanted instant searchable secure access to this stuff from anywhere. This was especially true for the slow steady stream of paper that arrives in the mail and would eventually find a home in a physical folder in one of these cabinets.</p>
-
-<p>After reading David’s review, I pulled the trigger and ordered a Fujitsu ScanSnap iX500.  I liked that it could be plugged into a Mac or a Windows PC or even nothing at all since it could talk to a wifi network.  Alas, David was right that this stuff didn’t matter since at the end of the day it’s just plugged into my Mac and sits next to it on my desk. That said, it’s been great.  I just plop an article on it and press a button. It scans both sides of pages simultaneously and recognizes when one side is blank. When the pages have print on them, it’s smart enough to rotate them right side up. It’s been very robust to some very crinkly drocuments. And it can gobble up 25 pages per minute.</p>
-
-<p>I’ve been using it for three distinct tasks so far:</p>
-
-<ol>
-  <li>
-    <p>When prepping classes or doing brainstorming for a research project, I sometimes use pen and paper.  When I’m done, I just feed it to the ScanSnap and drop the resulting pdf into my carefully engineered hierarchy of documents. The actual paper disappears into the recycling bin. I do the same thing with articles that I’ve printed and marked up in the past. It’s unnecessary with recent articles since I now <a href="http://highvariance.net/blog/2012/03/30/progress-toward-paperless/">do all my markup digitally</a>.</p>
-  </li>
-  <li>
-    <p>I keep a folder of pdf’s that I want to read and when something paper comes my way that I want to save for later, I just scan it and drop it into this folder.</p>
-  </li>
-  <li>
-    <p>My favorite things to scan are bills, reference manuals, receipts, and miscellaneous records that usually (but not always) arrive in the mail. I make the Scanner OCR the documents as it reads them in and just drop them into my “reference” folder. Usually I give them descriptive filenames, but I don’t need to since Spotlight indexes all the OCR’ed text making them remarkably easy to find when I need them. And since the folder is on Dropbox, I can search it on any Mac that shares the folder.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> We still have our file cabinets of paper at home and I’ve still got 5 drawers full of it at work, but very little new paper is entering those drawers and I’m even removing stuff as needed.</p>
-  </li>
-</ol>
-
-<p><img src="/images/hv-printer.jpg" alt="My old HP printer" />
-<img src="/images/hv-plant.jpg" alt="My beautiful new palm tree!" /></p>
-
-<p>The scanner hasn’t been my only recent step on the path to paperless. I’ve also evicted my office printer and replaced it with a palm tree. It’s so much prettier and never smells bad. It sequesters carbon and doesn’t use electricity. And watering a plant feels so much better than replacing toner cartridges. Both the scanner and the tree are highly recommended!</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Dropbox will propogate the metadata that stores the OCR’ed text, but won’t search it from their web interface. Someday maybe they will.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
