@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-09-18T10:56:37-04:00</updated>
+  <updated>2013-11-07T16:09:44-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Few Thoughts on Grade Inflation]]></title>
+    <link href="http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation/"/>
+    <updated>2013-11-07T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation</id>
+    <content type="html"><![CDATA[<p><a href="http://www.yalealumnimagazine.com/articles/3735">Grade inflation at Yale</a> is a sensitive topic–The administration doesn’t even like to call the issue grade inflation but instead refers to the problem as grade <em>compression</em>. The feeling is not that grades are (necessarily) too high, but that with so many A’s and A-‘a being handed out, it’s very hard to distinguish the good students and the great students. Is this really true? And is grade inflation itself a real problem? And if there is a problem with grade distributions, how should we fix it? I don’t have answers, but I do have opinions.</p>
+
+<p>First off, many people complaining about grade inflation seem to believe students today don’t “deserve” so many A’s. I think that’s dumb.  The main purpose of class grades is to help employers and graduate schools distinguish between students graduating at the same time from the same university. Even with Yale’s high mean grades right now, I believe there is still enough variation in the distribution to be able to do this. Grade inflation is a problem if <em>everyone</em> is getting A’s, but as long as you have three grade categories (e.g., A, A-, and B+) you can distinguish the excellent from the good and the good from the poor in a single graduating class.</p>
+
+<p>As fun as it would be to be able to use grades to compare students from different generations, it’s not terribly useful.  By the time you are five years out of college, employers have far better direct information on workplace performance than your GPA. To put this in baseball terms, debating whether Miguel Cabrera is better than Joe Dimaggio is entertaining, but knowing the answer won’t help the Tigers compete for the World Series next year.  They need to assess performance of players available today.</p>
+
+<p>Grades shouldn’t be used to compare individuals across universities either–institutional standards have been different for a long time.  <a href="http://www.rpi.edu">My alma mater</a> held grades to a B- average when I was in college and that was a lot lower than its peers.  It wasn’t a problem because employers knew this and took it into account when hiring new college graduates.  Plenty of my friends with seemingly low GPA’s had little trouble finding jobs.</p>
+
+<p>Unfortunately, there is a fair bit of <a href="http://www.bostonglobe.com/ideas/2013/08/31/the-trouble-with-grade-inflation-works/tL6am7MEz56f3PA2MD7I3I/story.html">evidence</a> that employers and graduate schools <em>do</em> compare GPA’s across universities without taking proper account of the institutions’ different grade distributions. This argues that grade inflation at Yale is actually a <em>good</em> thing for its own undergraduates. Of course, if we want to live in a more meritocratic society (where the best students get the best jobs), it’s not fair that students at grade-inflated universities get the best jobs.</p>
+
+<p>Implementing a solution is going to be difficult, because we’re stuck in a <a href="http://en.wikipedia.org/wiki/Prisoners_dilemma">prisoner’s dilemma</a>–all the elite universities have an incentive to ignore their own grade inflation because it benefits them individually.  There needs to be collective action (cooperation!) between schools on an issue that is prickly enough at the individual university level.</p>
+
+<p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Markdown and Me]]></title>
@@ -209,40 +231,6 @@
     </li>
     <li id="fn:2">
       <p>It’s also a great way to encourage them to skip the reading.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lectures 2.0: Using online materials to improve off-line courses]]></title>
-    <link href="http://highvariance.net/blog/2013/01/29/lectures-2.0/"/>
-    <updated>2013-01-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/01/29/lectures-2.0</id>
-    <content type="html"><![CDATA[<p>The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. Sometimes he or she uses slides and sometimes he or she writes on a board.  And sometimes, he or she is informative and engaging, but it’s almost always a pretty one way affair with occasional questions posed to the class.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  The experience for students is a lot like watching a good documentary.  And that’s the best case scenario. The vast majority of the time, students sit back and absorb the flow or just check out. They don’t get <em>their</em> questions answered or engage constructively with the material. The average professor talks at their students for an hour and a half twice a week and it’s more like a late night infomercial than a documentary. </p>
-
-<p>Now let’s think about seminars. Students read articles and book chapters ahead of time and then gather in a small classroom to discuss the material with the professor and each other. Often there are in-class exercises or even smaller group activities. In general, students report they get more out of these classes. </p>
-
-<p>So why aren’t all classes structured as seminars? First of all, some material (especially introductory material) is more easily presented visually than textually–that’s one reason why <a href="http://www.khanacademy.org">Kahn Academy</a> is so successful. Seeing someone work through a problem is, for many students, a lot clearer than reading about it in a book. Lecturing allows for this kind of presentation and I believe it complements book learning. The second reason is purely economic: Seminars are expensive. If you have 33-34 students per seminar and you want to teach 100 students, you need three professors.  That’s triple what you’d need to teach a 100 person lecture.</p>
-
-<p>Wouldn’t it be great if we could take the best qualities of the lecture and the seminar and combine them in an economically feasible way?  We can. </p>
-
-<p>I was asked recently why I am excited to teach an online class this summer. Expanding the reach of my teaching was one reason, but it also gives me the opportunity to put together high quality online materials. This won’t simply be recordings of my hour and half lectures. Instead, it will be 3-5m chunks of <a href="https://www.udacity.com">Udacity</a>-style video interspersed with questions to make sure students are following along. The video will mostly be me drawing on slides, working through problems, and presenting new concepts.</p>
-
-<p>Here’s my vision: The 100 person class is divided into three separate groups of students. Each week, all students work their way through about 2 hours worth of online interactive video. At the end of the week, I meet with each group for an hour. I answer questions that they still have. I tie the “timeless” online material to current events. I have them work on problems in smaller groups and float between groups helping them as needed. </p>
-
-<p>I think the experience will be clearly better for students, but what about faculty and the administration? This won’t happen unless it’s a Pareto improvement.  That is, none of the parties involved can be worse off. </p>
-
-<p>Once the materials are in place, they can be re-used by different professors–this radically reduces the amount of prep time. The class itself should be a lot more fun to teach since the professor  can actually have conversations with students and get direct feedback on how well the class is going. If the online materials are high quality (and they should be), the professor doesn’t have to be fantastic to teach an excellent class. Most faculty are not naturally great lecturers, but the small classes give them an opportunity to share their raw intelligence and experience with the material–it’s a much better skill match.</p>
-
-<p>The administration is happy because the same 100 students are getting higher quality education for the same cost.  In fact, far more students get to benefit from close contact with big name professors–that makes the institution look good.</p>
-
-<p>What I’m describing is not a totally new idea–It’s a straight-forward application of <a href="http://en.wikipedia.org/wiki/Flip_teaching">flipping the classroom</a>. And it’s an idea that gets better and better every day as the education world learns  more about what works online and more high quality materials are made publicly available.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Some professors will use <a href="http://www.engaging-technologies.com/teaching-with-clickers.html">clickers</a> to get real-time multiple choice feedback from his or her audience.<a href="#fnref:1" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
