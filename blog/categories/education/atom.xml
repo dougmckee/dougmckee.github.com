@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-07T16:09:44-05:00</updated>
+  <updated>2013-11-12T11:18:50-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
+    <link href="http://highvariance.net/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation/"/>
+    <updated>2013-11-12T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation</id>
+    <content type="html"><![CDATA[<p>Last week I gave three reasons why <a href="2013-11-07-a-few-thoughts-on-grade-inflation">Yale shouldn’t worry so much about grade inflation</a>:</p>
+
+<ol>
+  <li>There is still enough room at the top of the grade distribution to separate students into Excellent (A), Good (A-), and Good enough (B+).</li>
+  <li>It doesn’t matter that you can’t reasonably compare today’s students to students from more than five years ago.</li>
+  <li>It’s actually a good thing for Yale undergraduates because employers and graduate schools like high grades.</li>
+</ol>
+
+<p>This doesn’t mean we should wash our hands and walk away–There are still some issues with grades that should be addressed.  First, grade distributions are still rising and we could end up in a place where there isn’t enough room at the top to distinguish great students. That wouldn’t be fair to those students because they are the ones who should get into the best graduate schools and get the best jobs. It would be nice to put the brakes on grade inflation even if we don’t need to reverse it. The economics department has had some success holding grade distributions steady since we started suggesting grade guidelines to our faculty before the end of every semester. They aren’t requirements, but the faculty do seem to take them seriously.</p>
+
+<p>The second issue is that grade distributions at Yale vary across departments. In general, grades are higher (and more compressed) in courses that judge students based on essays, papers, and class participation where it’s just hard to assign a numeric grade. It’s easier to do so in courses that have more exams and problem sets where it’s much clearer what’s right and wrong, and these classes tend to have more “traditional” grade distributions. This means students who care about grades shy away from classes and majors that are more likely to lower their GPA even if those classes might be more interesting or beneficial in the long-term. I’ve had students who want to go to law school but feel like they won’t get into a top program because they took too much science and math.</p>
+
+<p>I don’t think it makes sense to force or even suggest that all classes follow the same grade distribution.  Even in my department, the guidelines are different for the more quantitative/analytical core classes than the more creative/applied advanced classes. I think the best way to head off potential future grade inflation is for departments to have their own suggested grading guidelines that may depend on the type of course.</p>
+
+<p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
+
+<p>NOTE: It should be glaringly obvious from a brief perusal of this site that I do not speak on behalf of Yale.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Few Thoughts on Grade Inflation]]></title>
@@ -32,6 +57,7 @@
 
 <p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
 
+<p>Update: <a href="2013-11-12-two-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a></p>
 ]]></content>
   </entry>
   
@@ -153,87 +179,6 @@
 <p>One of the most successful parts of the class is my office hours.  I hold them in the same virtual classroom and use the same virtual whiteboard.  It’s almost identical to my in-person office hours.  Realtime access to an expert is the biggest difference between this class and a MOOC.</p>
 
 <p>I’m getting a fair bit of feedback on how much they’re learning from their problem sets and the live sessions, but I miss being able to look into their eyes while I’m lecturing. We have our first exam this week, and I honestly don’t know how they are going to do.  My fingers are crossed.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What I've learned about teaching advanced undergraduate seminars]]></title>
-    <link href="http://highvariance.net/blog/2013/05/20/seminars/"/>
-    <updated>2013-05-20T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/05/20/seminars</id>
-    <content type="html"><![CDATA[<p>At Yale, economics majors are required to take two “senior seminars” before they graduate.  These classes usually have 10-20 students and revolve around reading and discussing contemporary research in a specific area. After three years of mostly big lecture classes on theory and methods, seniors finally get a chance to apply what they’ve learned to a substantive topic.<sup id="fnref:3"><a href="#fn:3" rel="footnote">1</a></sup> I just finished my fourth year of teaching two of these seminars, and while that might not seem like very long, I have learned a lot about what works and what doesn’t work.  </p>
-
-<h2 id="big-goals">Big Goals</h2>
-
-<p>Every seminar should have both a substantive theme and a methodological theme.  In the fall I teach the Economics of Aging. We read papers on retirement, saving, elder care, and inheritance–if it’s economics and it affects older people, the topic is fair game. Most of the papers we read use structural microeconometric methods. The theory and estimation methods are serious–I still remember the shocked look a senior faculty member gave me when I told him we were reading <a href="http://gemini.econ.umd.edu/jrust/crest_lectures/rust_phelan.pdf">Rust and Phelan’s 1997 paper on Social Security, Medicare, and Retirement</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">2</a></sup>. In the spring, I teach the Economics of Human Capital in Latin America. The papers are mostly about the determinants of health and schooling in the region and most use reduced form program evaluation techniques. I teach just enough about difference-in-differences, matching, regression discontinuity, and instrumental variables so that my students can understand why an author chose a particular method and can interpret the results. By the end of the semester, my students can read a big chunk of the research literature that was previously inaccessible.</p>
-
-<h2 id="reading">Reading</h2>
-
-<p>I require my students to read two or three dense articles each week. I tell them they are hard and not to expect to understand everything immediately–these aren’t fluffy beach novels.  I encourage them to work at it and tell them I wouldn’t have assigned the articles if I didn’t they they were smart enough to figure them out.  To help them focus, students must fill out and submit a worksheet for each paper before we discuss it in class. Some articles (like surveys or policy reports) get special worksheets, but most worksheets contain these seven questions:</p>
-
-<ol>
-  <li>What is the research question? There may be more than one, but usually one is most important.</li>
-  <li>What is the answer to the research question?</li>
-  <li>Why is this paper important</li>
-  <li>If there is an economic model, what is the behavior or process being modeled? What are the key characteristics of the model?</li>
-  <li>What is the empirical approach?</li>
-  <li>What data does the paper use?</li>
-  <li>What didn’t you understand?</li>
-</ol>
-
-<p>The worksheets keep students thinking critically and constructively. The last question is most important to me as it tells me what I need to cover well during class time. The syllabus also suggests optional papers for most weeks in case students are particularly interested in a topic.</p>
-
-<h2 id="student-presentations">Student Presentations</h2>
-
-<p>Each week two or three students help me teach the class. They read the papers ahead of time and we meet to make sure they understand them well. These meetings are a pretty efficient way for me to review the week’s material and get to know my students. We usually plan short presentations on the papers that cover the basics quickly and some of the important technical parts that the rest of the class might have missed when they read the papers. Often the presentations contain new stuff from related or more recent papers to spur discussion. An easy way to put a class to sleep is to tell them things they already know.<sup id="fnref:2"><a href="#fn:2" rel="footnote">3</a></sup> The students then draft slides which I review the night before class. Again, it’s a great way for me to prepare and it means there is never a bad presentation.</p>
-
-<p>During class, I interrupt the speakers often to offer alternative explanations of difficult points and ask the rest of the students questions. I try to do it in a constructive/respectful way–the goal is for everyone to be engaged and at least following along.</p>
-
-<h2 id="discussion">Discussion</h2>
-
-<p>After the presentations, I usually divide the class into small groups of 4-5 students each and give each group a job. Sometimes they will design a conditional cash transfer program for a particular context. Sometimes they will prepare for a debate on alternatives to social security. Sometimes they will make a list of the three most important questions in an area that remain unanswered. The key is that the students never know exactly what’s going to happen when they walk into the classroom. After the groups work for 15-20 minutes, we all talk about what they’ve come with as a big group.</p>
-
-<p>Sometimes we don’t have time for any discussion because I’ve given a mini lecture about an econometric method that they need to know in order to do the reading for the next week. I’ll have a few questions for the class prepared, but mostly we proceed organically with an eye on the clock. </p>
-
-<h2 id="papersprojects">Papers/Projects</h2>
-
-<p>Most seminars require some sort of paper, but it’s often not well-defined and the instructor sees it for the first time when it’s passed in at the end of the semester.  That is very different from how it works in my seminars.  Each student works throughout the semester on a research proposal and gets lots of feedback from their peers and me during the process.  </p>
-
-<p>At about week 3, they pass in a one page summary of their research idea. Before this, I try and give an overview of the topics we’ll cover during the semester. I also describe three or four successful proposals from earlier semesters. Their one-pagers are ungraded but I do tell them if I think they’re on the right track, give them ideas on how to refine their ideas, and point them to relevant literature.</p>
-
-<p>They draft the front-end of the proposal in the middle of the semester. This builds on the research question and contains a literature review, a hypothesis, and an economic model. They’ve seen several models in papers and other classes by this point, but constructing one of your own to explain how a process works is a difficult but rewarding experience. I don’t expect them to formally prove any theorems based on their models–they can do that if they go to grad school.</p>
-
-<p>Before they pass in their mid-term proposal, I spend a little class time explaining what I expect in the literature review and walk through the process of constructing an example model. I also hold three or four “work groups” outside class where 5-6 students and I talk through each student’s project. It’s more time-efficient than having one-on-one meetings and incredibly useful for the students to hear about and contribute to each other’s work.</p>
-
-<p>I spend a fair bit of time giving constructive feedback on the midterm proposal. I give comparatively much less feedback on the final papers as most students don’t read those comments and even fewer will act on those comments. I expect every student to incorporate my mid-term feedback into their final paper.</p>
-
-<p>We have another round of work group meetings near the end of the semester to talk about the last pieces of the final proposal: the empirical approach and the data. Here’s where they have to decide how to actually answer the question they posed at the beginning of the semester. The whole process exercises the creative part of their brain that is vastly under-used in most classes. </p>
-
-<p>The important thing is not that the paper is a research proposal, though that works well for me. The key is that students actually work on it throughout the semester and get feedback along the way. </p>
-
-<h2 id="miscellaneous-advice">Miscellaneous Advice</h2>
-
-<p>I believe one of the most valuable services I provide is just being available. Elite college professors are not typically great teachers. They are selected for their research skills and knowledge of the field. They should use this comparative advantage in their teaching by answering questions and talking about the state-of-the-art.  These classes are small–I am never overwhelmed answering questions after class or during office hours.  We aren’t talking about 300 person lectures where you could spend your life answering student email.  The bottom line is that most students really appreciate human contact.</p>
-
-<p>I try to have a very open mind about improving the class and talk to other instructors about what works and doesn’t work for them.  I also take the last 15-20 minutes of the last class every semester getting direct feedback about what worked and what didn’t. Formal student evaluations are valuable, but they don’t allow for a conversation. I can throw out ideas and see what they think.  I can ask follow-up questions. Some students’ ideas spawn other students’ ideas. And every year, I learn new things that improve my class.</p>
-
-<p>I refresh my classes at least a little bit every time I teach. I’ll dump the worst week. I’ll add papers I’ve come across over the last year that are interesting and relevant. I’ll try new exercises in class. And I’ll change what I expect from student presentations. It’s a lot easier to keep students excited when I’m excited.</p>
-
-<p><strong>Footnotes:</strong></p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:3">
-      <p>Juniors can take these classes if they meet the pre-requisites (at least two of intermediate micro, intermediate macro, and econometrics), but seniors get priority and the most popular seminars are full by the time juniors can register. It’s a shame, really, since these seminars can be great training for writing a senior essay.<a href="#fnref:3" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:1">
-      <p>His exact words were “You can’t teach that paper to undergraduates!” He was wrong–the motivation and descriptive sections of the paper are very well-written and approachable. The model of retirement presented is tough, but straight-forward. And the results are easy to understand once you understand the model. We skip the heavy duty derivation of estimation method.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>It’s also a great way to encourage them to skip the reading.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
