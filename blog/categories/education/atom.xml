@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-21T22:54:46-05:00</updated>
+  <updated>2013-11-21T23:12:39-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -60,29 +60,6 @@
 <p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
 
 <p>NOTE: It should be glaringly obvious from a brief perusal of this site that I do not speak on behalf of Yale.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few Thoughts on Grade Inflation]]></title>
-    <link href="http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation+%28zidane%27s+conflicted+copy+2013-11-12%29/"/>
-    <updated>2013-11-07T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation (zidane's conflicted copy 2013-11-12)</id>
-    <content type="html"><![CDATA[<p><a href="http://www.yalealumnimagazine.com/articles/3735">Grade inflation at Yale</a> is a sensitive topic–The administration doesn’t even like to call the issue grade inflation but instead refers to the problem as grade <em>compression</em>. The feeling is not that grades are (necessarily) too high, but that with so many A’s and A-‘a being handed out, it’s very hard to distinguish the good students and the great students. Is this really true? And is grade inflation itself a real problem? And if there is a problem with grade distributions, how should we fix it? I don’t have answers, but I do have opinions.</p>
-
-<p>First off, many people complaining about grade inflation seem to believe students today don’t “deserve” so many A’s. I think that’s dumb.  The main purpose of class grades is to help employers and graduate schools distinguish between students graduating at the same time from the same university. Even with Yale’s high mean grades right now, I believe there is still enough variation in the distribution to be able to do this. Grade inflation is a problem if <em>everyone</em> is getting A’s, but as long as you have three grade categories (e.g., A, A-, and B+) you can distinguish the excellent from the good and the good from the poor in a single graduating class.</p>
-
-<p>As fun as it would be to be able to use grades to compare students from different generations, it’s not terribly useful.  By the time you are five years out of college, employers have far better direct information on workplace performance than your GPA. To put this in baseball terms, debating whether Miguel Cabrera is better than Joe Dimaggio is entertaining, but knowing the answer won’t help the Tigers compete for the World Series next year.  They need to assess performance of players available today.</p>
-
-<p>Grades shouldn’t be used to compare individuals across universities either–institutional standards have been different for a long time.  <a href="http://www.rpi.edu">My alma mater</a> held grades to a B- average when I was in college and that was a lot lower than its peers.  It wasn’t a problem because employers knew this and took it into account when hiring new college graduates.  Plenty of my friends with seemingly low GPA’s had little trouble finding jobs.</p>
-
-<p>Unfortunately, there is a fair bit of <a href="http://www.bostonglobe.com/ideas/2013/08/31/the-trouble-with-grade-inflation-works/tL6am7MEz56f3PA2MD7I3I/story.html">evidence</a> that employers and graduate schools <em>do</em> compare GPA’s across universities without taking proper account of the institutions’ different grade distributions. This argues that grade inflation at Yale is actually a <em>good</em> thing for its own undergraduates. Of course, if we want to live in a more meritocratic society (where the best students get the best jobs), it’s not fair that students at grade-inflated universities get the best jobs.</p>
-
-<p>Implementing a solution is going to be difficult, because we’re stuck in a <a href="http://en.wikipedia.org/wiki/Prisoners_dilemma">prisoner’s dilemma</a>–all the elite universities have an incentive to ignore their own grade inflation because it benefits them individually.  There needs to be collective action (cooperation!) between schools on an issue that is prickly enough at the individual university level.</p>
-
-<p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
-
-<p>Update: <a href="2013-11-12-two-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a></p>
 ]]></content>
   </entry>
   
@@ -173,6 +150,29 @@
 
 <p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Exams and Online Classes]]></title>
+    <link href="http://highvariance.net/blog/2013/08/23/exams-and-online-classes/"/>
+    <updated>2013-08-23T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/08/23/exams-and-online-classes</id>
+    <content type="html"><![CDATA[<p>With just a few exceptions, no one likes exams.  Students don’t like the stress of taking the exams, instructors have to write the exams, and someone usually has to grade them. In-class exams don’t give enough time for testing very much material, and if the test is too long, it punishes students who know their stuff but are just a little slow. Take-home exams can cover more content, but it can be very tempting for students to cheat by getting help from friends or the Internet. Unfortunately, we need objective assessments of how much each student has mastered the course material, and right now exams are the best tool we have.</p>
+
+<p>In an online class, exams are even trickier.  In my econometrics class this summer, we held our midterm and final exams in the virtual classroom.  At exam time, I emailed them a PDF with all the questions and my students wrote their answers on paper while my teaching assistant and I watched them through their webcams. We used pencil and paper because answering the questions required doing a fair amount of math and I wanted to see their work.  I didn’t want them to use valuable time slowly typing in symbols and equations. After two hours, they scanned their written answers (mostly with their phone cameras) and emailed them to me.  When I confirmed receipt and readability, the students were free to go.  </p>
+
+<p>The process was easy and convenient, but had one major flaw: it would have been pretty easy to cheat. I say this believing in my heart that none of my students cheated and having absolutely no evidence to even make me suspicious.  Even so, any one of them could have forwarded the exam PDF to a friend (or professional) and had them email back their answers.  The incentives for doing so are actually quite strong: Yale classes are not cheap and they get real Yale credit for my online class. Not to mention the fact that most elite college students care a lot about their GPA.</p>
+
+<p>A second problem we ran into was that students’ Internet connections were not always reliable.  When these connections dropped, some students didn’t even notice for a while and others had trouble reconnecting.  It wouldn’t have been fair to just disqualify those students, but again, it was a pretty huge opportunity to cheat. </p>
+
+<p>We considered three alternative testing procedures, but I think only one would be a clear improvement over what we did.  First, we thought about requiring students to have a separate webcam that would let us view their computer screen.  In this scenario, they couldn’t use their computer for evil, but I still think it would be relatively easy for them to cheat with an alternative device outside the frame of view.  Second, we investigated using an online service that locks down their computer for only exam taking purposes. <a href="https://webassessor.com">Webassessor</a> provides this service along with online proctors, but it would also require good webcam placement.  And both of these alternatives are still reliant on continuous connection to the Internet.</p>
+
+<p>The solution I like best is to use an in-person testing service where students go to a controlled physical location to take their exam.  <a href="https://www.prometric.com">Prometric</a> has more than 10,000 test taking centers all over the world–that means a huge fraction of the world’s population is within two hours drive of a center so it’s not all that inconvenient to travel to one one or two times during a course.</p>
+
+<p>Timing is an issue for all these solutions–that is, you’d like all your students to take the exam simultaneously so the early students can’t share information with those that take the exam later.  If your students are scattered around the globe, at least some of them will have to take their exam in the middle of the night and that doesn’t seem fair.  My students in the far east had to take their exams at either 10pm or 11pm.  One way around this problem would be to have two versions of the exam–one for each half of the planet.</p>
+
+<p>Next time I teach an online class where the stakes are high, I’m going to try to use a service like Prometric.  I’ll let you know how it goes.</p>
 ]]></content>
   </entry>
   
