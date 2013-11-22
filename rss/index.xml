@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-12T11:24:28-05:00</updated>
+  <updated>2013-11-21T22:54:46-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,201 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nonviolent Dungeons and Dragons for Kids]]></title>
+    <link href="http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids/"/>
+    <updated>2013-11-21T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-d-and-d-fun.jpg" /></p>
+
+<p>My daughter R spends half of her life in a fantasy world pretending she is either a pony, a cat, a princess, a fairy, or some combination of these. She also loves reading about fantastical adventures like <a href="http://www.amazon.com/Wonderful-Wizard-Oz-Anniversary-Wonder/dp/0060293233">The Wizard of Oz</a>, <a href="http://www.amazon.com/Comet-Moominland-Tove-Jansson/dp/0312608888">Comet in Moominland</a>, or <a href="http://www.amazon.com/The-Bravest-Knight-Mercer-Mayer/dp/0803732066">The Bravest Knight</a>. So when a friend sent me <a href="http://gygaxmagazine.com/2013/08/09/dming-for-your-toddler/">Cory Doctorow&rsquo;s account</a> of how he plays <a href="http://en.wikipedia.org/wiki/Dungeons_and_dragons">Dungeons and Dragons</a> (D&amp;D) with his four year old daughter, I got very excited. A game that has players pretending they are characters exploring mythical lands and fighting fabulous monsters seemed like an almost perfect match. Cory simplified the rules to fit into a little kid attention span, but there was still a problem: We run a nonviolent household and a game that revolves around bloodshed is a nonstarter.</p>
+
+<p>In middle school, I played a lot of D&amp;D. Sometimes I&rsquo;d play with friends who were all about the monsters, the combat, and the treasure.  Sometimes I played with friends who set up a vivid land, an intricate plot, and complex characters. These games revolved around solving mysteries, working together, and the occasional backstabbing. We stepped into another world when we played and while combat happened, it was just a small piece of the puzzle. This was the experience I wanted to share with R.</p>
+
+<p>After some experimentation, I think we&rsquo;ve come up with a decent set of rules and R is still talking about our last adventure (&ldquo;The Haunted Castle&rdquo;). I&rsquo;ve written up our rules and a description of that adventure here so we don&rsquo;t forget them and also for anyone else who might want to take the plunge. The biggest innovation is the replacement of the combat system with an &ldquo;interaction&rdquo; system.  Instead of fighting monsters, we try to befriend them or avoid them. And while the monsters might try to scare players or even imprison them, no one can actually hurt anyone.</p>
+
+<h2 id="creating-characters">Creating Characters</h2>
+
+<p><img class="right" src="http://highvariance.net/images/nvdndfk/character-sheet.png" /></p>
+
+<p>Cory Doctorow wanted get his daughter adventuring as quickly as possible, and so had her make up a bare bones character up front, fleshing her out as needed during the game. We found that creating a character was one of the most riveting parts of the game. I pre-printed some character sheets (<a href="http://highvariance.net/images/nvdndfk/character-sheet.docx">.docx</a>, <a href="http://highvariance.net/images/nvdndfk/character-sheet.pdf">.pdf</a>) and R enjoyed rolling dice, writing down numbers, and drawing her character&rsquo;s picture. We started by choosing the character&rsquo;s name, race, and job.  Races include:</p>
+
+<ul>
+  <li>human,</li>
+  <li>fairy (can fly),</li>
+  <li>elf (good at hiding and finding), </li>
+  <li>dwarf (can sniff out gems), and </li>
+  <li>hobbit (can squeeze into small spaces). </li>
+</ul>
+
+<p>Possible jobs are: </p>
+
+<ul>
+  <li>princess (good at horseback riding), </li>
+  <li>knight (also good on horses), and </li>
+  <li>wizard (casting spells). </li>
+</ul>
+
+<p>There are no functional differences between knights and princesses just in case we end up playing with boys some time in the future. I didn&rsquo;t think thieves or clerics were kid-appropriate.</p>
+
+<p>Each character has three attributes: </p>
+
+<ul>
+  <li>strength, </li>
+  <li>intelligence, and</li>
+  <li>dexterity.</li>
+</ul>
+
+<p>These affect the characters&rsquo; chances of doing things like finding traps, climbing obstacles, jumping over things, or pushing/lifting things.  I had R roll three six-sided dice (aka 3d6) three times and each time decide which attribute she wanted that roll to be. I also let her roll again if she got a really low number.</p>
+
+<p>I&rsquo;m sure we&rsquo;ll be adding new races, jobs and attributes as we play more. </p>
+
+<h2 id="magic">Magic</h2>
+
+<p>Wizards start off with one spell, but anyone can find and use scrolls with spells.  Possible spells currently include:</p>
+
+<ul>
+  <li>Rainbow (can impress or distract monsters)</li>
+  <li>Sleep (can put monsters to sleep for 10 minutes)</li>
+  <li>Universal language (allows character to speak to any animate creature)</li>
+  <li>Smoke cloud (good for creating diversions)</li>
+  <li>Invisibility (lasts one hour)</li>
+  <li>Flight (lasts one hour)</li>
+  <li>Super strength (lasts one hour)</li>
+</ul>
+
+<h2 id="magic-items">Magic Items</h2>
+
+<p>The sky is the limit on magical items that can be found in the course of the adventure.  R already has a Wand of Stone (that turns living creatures to stone) and a Bracelet of Teleportation (that works once per day).</p>
+
+<h2 id="basic-game-play">Basic Game Play</h2>
+
+<p>Every adventure has a big goal.  The player(s) have to do something like rescue someone, find something, or stop someone. In our first adventure, the party had to rescue a princess that had been kidnapped by a giant frog army and brought to a volcano.  Our second involved helping the frog army (now our friends) get back to their home pond through a magic tunnel. The players always start somewhere specific and get a short description of what&rsquo;s going on.  Then I say &ldquo;What do you do now?&rdquo;</p>
+
+<p>Cory&rsquo;s fairly improvisational method can work well if you have a great imagination and a library of &ldquo;situations&rdquo; you can bring to bear.  I&rsquo;ve found I do better with a little bit of preparation&ndash; not nearly as much as you would need to run a game with older kids or adults, but more than none. Our third adventure (&ldquo;The Haunted Castle&rdquo;) is described below. Be inspired by books (yours and his/hers) and movies. These are great sources for monsters, characters, situations, and plots.</p>
+
+<p>Some sort of board or map is very useful in anchoring the action.  We used a <a href="http://www.amazon.com/Large-Neat-Oh-Dinosaur-Dinosauria-Figures/dp/B0080IUTN2">dinosaur landscape</a> first and then just a hand-drawn map of a castle. If you have a big pad of paper (like <a href="http://www.amazon.com/Melissa-Doug-Easel-Paper-Pad/dp/B00365OLU6">Melissa and Doug&rsquo;s Easel Pad</a>), you can quickly draw anything you want.</p>
+
+<p>As the action unfolds, we do a lot of ad hoc dice rolling. This definitely adds an element of excitement. If you don&rsquo;t have dice, I highly recommend the <a href="http://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS">Chessex Pound of Dice</a>.</p>
+
+<p>We&rsquo;ve been keeping track of who we befriend during each adventure and counting them up.  This might eventually be a decent analog of experience points (traditionally acquiring by killing monsters) but we haven&rsquo;t used these numbers for anything yet.</p>
+
+<h2 id="the-interaction-system">The Interaction System</h2>
+
+<p>When a player comes into contact with a creature, they can do anything except attack.  Possible actions include (but are not limited to):</p>
+
+<ul>
+  <li>Greet the creature</li>
+  <li>Give a present</li>
+  <li>Smile</li>
+  <li>Tell a joke</li>
+  <li>Sing a friendship song</li>
+  <li>Run away</li>
+  <li>Use a spell</li>
+</ul>
+
+<p>If the player decides to tell a joke or sing, they must actually do so. The joke or song must also be relevant to the situation at hand. If the player&rsquo;s action is friendly, they roll a die. The size depends on the quality of the action&ndash;e.g., a good joke gets a greater die. The creature also rolls a die equal to his/her &ldquo;friendship resistance points.&rdquo; More ornery creatures roll bigger dice. The highest number wins.  If the monster wins, s/he stays ornery and doesn&rsquo;t cooperate.  If the player wins, the monster becomes a friend.  No one ever gets hurt.  If friends are helping, they can roll dice too.</p>
+
+<h2 id="the-haunted-castle">The Haunted Castle</h2>
+
+<p>All descriptions and scenarios in this adventure benefit from extemperaneous elaboration&ndash;think of everything below as a jumping off point. The main goals are exploration and escape, and the only way out of the castle is to find and use the Bracelet of Teleportation.</p>
+
+<p><img class="right" src="http://highvariance.net/images/nvdndfk/the-haunted-castle-map.png" /></p>
+
+<p><strong>Props:</strong></p>
+
+<p>You don&rsquo;t actually need any props, but in general, with little kids, the more props the better.  This set worked well for us:</p>
+
+<ul>
+  <li>a big hand-drawn copy of <a href="http://highvariance.net/images/the-haunted-castle-map.pdf">the castle map</a> (you can also use a real doll house)</li>
+  <li>a way to dim the lights</li>
+  <li>spooky music and sound effects (the <a href="https://itunes.apple.com/us/app/dj-halloween/id337499264">DJ Halloween iPhone app</a> is awesome)</li>
+  <li>a fancy box (doubles as jewelry box and treasure chest)</li>
+  <li>a bracelet</li>
+  <li>a key</li>
+</ul>
+
+<p><strong>Introduction:</strong></p>
+
+<blockquote>
+  <p>One day you were out exploring the Tangled Forest and there arose a terrible storm in the late afternoon. In the heavy rain, you couldn&rsquo;t see much, but then there was a flash of lightning and it illuminated a castle to your left on a hill. It looks dark and foreboding but you need shelter. </p>
+</blockquote>
+
+<blockquote>
+  <p>What do you do?</p>
+</blockquote>
+
+<p>As the player moves closer to the castle they see flickering lights in the windows. The castle is made of heavy gray stone and is surrounded by a moat. Strange dangerous creatures seem to be swimming in the moat. On the right side of the castle rises a tall tower. A drawbridge slowly lowers.</p>
+
+<p><strong>The five rooms of the castle (<a href="http://highvariance.net/images/nvdndfk/the-haunted-castle-map.pdf">.pdf map</a>):</strong></p>
+
+<p><strong>3. The Great Room</strong></p>
+
+<p>Once inside the castle, the drawbridge slams closed and three skeletons (FR points = 1d6 each) appear and laugh.  They tell the player she is trapped. The room is dark but has torches on the left and right walls.  On each side of the room are two doors. R made friends with these skeletons right away, but they aren&rsquo;t very helpful.</p>
+
+<p><strong>1. The Kitchen</strong></p>
+
+<p>Three witches are huddled in a corner around a big bubbling cauldron with their backs to the door.  They are completely engrossed in cackling and stirring, and won&rsquo;t notice a player until the player talks to them. Until they are befriended (FR points = 1d6 each), they will threaten to turn the player into a rat even though they won&rsquo;t actually do it. They also won&rsquo;t chase the player out of the room.</p>
+
+<p>Once befriended, they can&rsquo;t answer any questions, but they will refer the player to the rats in the dining room and offer up a universal language scroll so the player can talk to them.</p>
+
+<p><strong>2. The Dining Room</strong> </p>
+
+<p>The room is dominated by a huge table covered with rotting food on beautiful plates and big bowls of boiling stews. It smells terrible and there are rats sneaking around in the corners. As the rats get comfortable, they will hop on the table to steal food and drinks.</p>
+
+<p>The rats here know a lot, and they can answer direct questions, but they usually run away after they answer them. Of course, you need the universal language spell to talk to them.</p>
+
+<ul>
+  <li>Q: How can I escape? A: You need the magic bracelet&ndash;it can transport you anywhere in an instant.</li>
+  <li>Q: Where is the bracelet? A: In the dungeon&ndash;but don&rsquo;t open the wrong chest!</li>
+  <li>Q: Where is the key to the chest? A: In the tower&ndash;but don&rsquo;t wake up the vampire!</li>
+</ul>
+
+<p><strong>4. The Dungeon</strong></p>
+
+<p>The dungeon is dark&ndash;the player must bring a torch from upstairs or she won&rsquo;t be able to see a thing.  The stairs are long and the dungeon is deep underground. The ceilings are low. The dungeon itself is filled with rubble, broken furniture, and loads of cob webs.  It&rsquo;s more like a messy basement than a true dungeon, but it&rsquo;s still scary.</p>
+
+<p>In the far corner lie two large ornate chests. They look much fancier after the dust has been blown or brushed off.  One is unlocked and inside is a mummy (FR=1d12). He moves slowly and just says &ldquo;Leave me alone! Leave my dungeon&rdquo; over and over.</p>
+
+<p>The second chest is locked and can only be opened with the key from the tower.  It contains gold coins, gems, and the Bracelet of Teleportation which will take the player home.</p>
+
+<p><strong>5. The Tower</strong></p>
+
+<p>The stairs to the top of the tower are long and they lead to a heavy unlocked wooden door. The player must roll 3d6 lower than their strength to push it open. Entering the room, the player sees an old decrepit bedroom. The bed is wrought iron with chipped paint and dirty white silk canopy. Sleeping on his back with his arms crossed over his chest is a vampire. He has pale white skin and two sharp canines protruding from his mouth.</p>
+
+<p>As the player walks around the room, she makes noise stepping on broken glass and knocking things off dressers. These noises wake up the vampire if she rolls a 6 on a d6.  Otherwise the vampire simply moves and groans. In a jewelry box on a table next to the bed is the key that opens the locked dungeon chest.</p>
+
+<p>If the vampire wakes up, he is very angry and has 1d20 friendship resistance points. At this point, the player should notice the jewelry box. If she still doesn&rsquo;t grab it, the vampire should throw it at her, miss, and have it smash on the stairs revealing the key. The vampire will chase them down the stairs, but not into the dungeon. </p>
+
+<p>Happy adventuring!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
+    <link href="http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation/"/>
+    <updated>2013-11-12T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation</id>
+    <content type="html"><![CDATA[<p>Last week I gave three reasons why <a href="2013-11-07-a-few-thoughts-on-grade-inflation">Yale shouldn’t worry so much about grade inflation</a>:</p>
+
+<ol>
+  <li>There is still enough room at the top of the grade distribution to separate students into Excellent (A), Good (A-), and Good enough (B+).</li>
+  <li>It doesn’t matter that you can’t reasonably compare today’s students to students from more than five years ago.</li>
+  <li>It’s actually a good thing for Yale undergraduates because employers and graduate schools like high grades.</li>
+</ol>
+
+<p>This doesn’t mean we should wash our hands and walk away–There are still some issues with grades that should be addressed.  First, grade distributions are still rising and we could end up in a place where there isn’t enough room at the top to distinguish great students. That wouldn’t be fair to those students because they are the ones who should get into the best graduate schools and get the best jobs. It would be nice to put the brakes on grade inflation even if we don’t need to reverse it.</p>
+
+<p>The economics department has had some success holding grade distributions steady since we started suggesting grade guidelines to our faculty before the end of every semester. They aren’t requirements, but the faculty do seem to take them seriously.</p>
+
+<p>The second issue is grade distributions at Yale vary across departments. In general, grades are higher (and more compressed) in courses that judge students based on essays, papers, and class participation where it’s just hard to assign a numeric grade. Courses that have more exams and problem sets where it’s much clearer what’s right and wrong tend to have more “traditional” grade distributions. This means students who care about grades shy away from classes and majors that are more likely to lower their GPA even if those classes might be more interesting or even beneficial in the long-term. I’ve had students who want to go to law school but feel like they won’t get into a top program because they took too much science and math.</p>
+
+<p>I don’t think it makes sense to force or even suggest that all classes follow the same grade distribution.  Even in my department, the guidelines are different for the more quantitative/analytical core classes than the more creative/applied advanced classes. I think the best way to head off potential future grade inflation is for departments to have their own suggested grading guidelines that may depend on the type of course.</p>
+
+<p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
@@ -35,6 +230,29 @@
 <p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
 
 <p>NOTE: It should be glaringly obvious from a brief perusal of this site that I do not speak on behalf of Yale.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Few Thoughts on Grade Inflation]]></title>
+    <link href="http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation+%28zidane%27s+conflicted+copy+2013-11-12%29/"/>
+    <updated>2013-11-07T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation (zidane&#8217;s conflicted copy 2013-11-12)</id>
+    <content type="html"><![CDATA[<p><a href="http://www.yalealumnimagazine.com/articles/3735">Grade inflation at Yale</a> is a sensitive topic–The administration doesn’t even like to call the issue grade inflation but instead refers to the problem as grade <em>compression</em>. The feeling is not that grades are (necessarily) too high, but that with so many A’s and A-‘a being handed out, it’s very hard to distinguish the good students and the great students. Is this really true? And is grade inflation itself a real problem? And if there is a problem with grade distributions, how should we fix it? I don’t have answers, but I do have opinions.</p>
+
+<p>First off, many people complaining about grade inflation seem to believe students today don’t “deserve” so many A’s. I think that’s dumb.  The main purpose of class grades is to help employers and graduate schools distinguish between students graduating at the same time from the same university. Even with Yale’s high mean grades right now, I believe there is still enough variation in the distribution to be able to do this. Grade inflation is a problem if <em>everyone</em> is getting A’s, but as long as you have three grade categories (e.g., A, A-, and B+) you can distinguish the excellent from the good and the good from the poor in a single graduating class.</p>
+
+<p>As fun as it would be to be able to use grades to compare students from different generations, it’s not terribly useful.  By the time you are five years out of college, employers have far better direct information on workplace performance than your GPA. To put this in baseball terms, debating whether Miguel Cabrera is better than Joe Dimaggio is entertaining, but knowing the answer won’t help the Tigers compete for the World Series next year.  They need to assess performance of players available today.</p>
+
+<p>Grades shouldn’t be used to compare individuals across universities either–institutional standards have been different for a long time.  <a href="http://www.rpi.edu">My alma mater</a> held grades to a B- average when I was in college and that was a lot lower than its peers.  It wasn’t a problem because employers knew this and took it into account when hiring new college graduates.  Plenty of my friends with seemingly low GPA’s had little trouble finding jobs.</p>
+
+<p>Unfortunately, there is a fair bit of <a href="http://www.bostonglobe.com/ideas/2013/08/31/the-trouble-with-grade-inflation-works/tL6am7MEz56f3PA2MD7I3I/story.html">evidence</a> that employers and graduate schools <em>do</em> compare GPA’s across universities without taking proper account of the institutions’ different grade distributions. This argues that grade inflation at Yale is actually a <em>good</em> thing for its own undergraduates. Of course, if we want to live in a more meritocratic society (where the best students get the best jobs), it’s not fair that students at grade-inflated universities get the best jobs.</p>
+
+<p>Implementing a solution is going to be difficult, because we’re stuck in a <a href="http://en.wikipedia.org/wiki/Prisoners_dilemma">prisoner’s dilemma</a>–all the elite universities have an incentive to ignore their own grade inflation because it benefits them individually.  There needs to be collective action (cooperation!) between schools on an issue that is prickly enough at the individual university level.</p>
+
+<p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
+
+<p>Update: <a href="2013-11-12-two-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a></p>
 ]]></content>
   </entry>
   
@@ -734,114 +952,6 @@ want a photo management system that requires minimum maintenance and gives me ma
     </li>
     <li id="fn:2">
       <p>We saw a brony in the wild on the plane back from Los Angeles&ndash;he was sporting a full beard, a Hawaiian shirt, and was having an awesome time laughing and carrying on while feeding his laptop a steady stream of MLP dvds. I thought it was great and am kicking myself I didn&rsquo;t get a picture to capture the moment.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Helping Old Churches Connect with the Community]]></title>
-    <link href="http://highvariance.net/blog/2013/03/16/helping-old-churches/"/>
-    <updated>2013-03-16T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/03/16/helping-old-churches</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-trinity-church.jpg" alt="Trinity Church on the New Haven Green" title="Trinity Church on the New Haven Green" /></p>
-
-<p>Every morning we drop the kids off at day care and walk about 5 blocks to our offices. In those 10 minutes I walk by
-<a href="http://www.trinitylutherannh.org/">Trinity Lutheran Church</a>, <a href="http://trinity-baptist.org/">Trinity Baptist Church</a>, and
-<a href="http://www.stmarys-priory.com/">St. Mary’s Church</a> (Catholic).  Just a block off our route are the
-three big churches on the New Haven Green: <a href="http://www.trinitynewhaven.org/">Trinity Church</a>,
-<a href="http://www.newhavencenterchurch.org/">Center Church</a>, and <a href="http://www.newlights.org/">United Church</a>.  All these old churches are
-pretty much empty during the day and even on Sundays they don’t get nearly the traffic they used to.</p>
-
-<p>Even with all the excitement about the new Pope, the Catholic Church in particular seems to be in decline.  While membership has held steady at about 25% of the US population since the 1950’s (largely due to the influx of Latino immigrants), the fraction of members attending mass every Sunday has dropped from 80% to less than 25% over the same period.  This has led to huge numbers of parishes closing and lots of hand-wringing on the part of priests and bishops.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
-
-<p>How has this happened?  The economist in me says a big part of the
-answer is competition from newer more exciting denominations and
-religions.  Fundamentalist churches are doing well.  The Mormon church is growing like crazy.  Around the world Pentecostal and Baha’i faiths are siphoning off members.  It also seems that more and more Americans have issues with some of the conservative stances of the Catholic church on birth control, homosexuality, and evolution/creation.  Of course, many of the popular new mega-churches are also quite conservative and liberal views haven’t helped the more progressive older denominations.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
-
-<p>The financial cost of losing active members is larger for some
-denominations<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>, but I believe the major concern within most
-denominations is a loss of relevance in the community.  I also think most churches don’t want to adapt their principles to gain larger market share.  Instead, they’d like new ways to reach out to the community and let them know what churches have to offer.  And while I personally am not interested in joining a parish, I do like the idea of other people going somewhere once a week where they are reminded to be nice. </p>
-
-<p>I believe these churches should reach out to their communities by renting out their buildings as office space during the week. They would do it in such a way that it could be converted back and forth in a few hours and so have no effect on weekend services.  Imagine office partitions and pews on wheels.  If big arenas can have basketball games during the day and hockey at night, this kind of conversion must be easy.</p>
-
-<p>While these churches are beautiful on the outside, the interiors are often breath-taking and always unique. This would induce serious corporate demand. Bigger companies could rent the whole space and break it up into cubicles that could  slide in on Monday morning and out on Friday afternoon. Another option would be to turn the <a href="http://www.kencollins.com/glossary/architecture.htm">sanctuary</a> into an espresso stand and substitute tables and comfy chairs for the pews in the <a href="http://www.kencollins.com/glossary/architecture.htm">nave</a>. Who wouldn’t rather work there than a cookie-cutter Starbucks or Starbucks-imitator?</p>
-
-<p>This would work out great for the churches too. They would give up almost nothing and get a captive audience for subtle evangelization. The stained glass alone would be a great advertisement for returning on Sunday. The cash infusion to the church would pay for the required capital investment and probably put a fair bit more into the coffers.</p>
-
-<p>In economics there is a concept called a Pareto improvement. This is transaction or change or reallocation of resources that makes at least one person better off without making anyone worse off. It might sound like sacriledge to even talk about turning holy spaces into coffee bars, but it sure seems like a Pareto improvement to me.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Msgr. Charles Pope at the the Archdiocese of Washington has a couple terrific blog posts about this subject <a href="http://blog.adw.org/2010/12/is-the-bottom-really-falling-out-of-catholic-mass-attendance-a-recent-cara-survey-ponders-the-question/">here</a> and <a href="http://blog.adw.org/2010/11/more-church-closings-so-what-is-god-teaching-us-and-how-will-we-respond/">here</a>.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>Unitarian Universalists have been holding steady at around half a million since the 1960’s though there was a bump right after the Unitarians merged with the Universalists. (<a href="http://en.wikipedia.org/wiki/Unitarian_Universalism#Number_of_members">wiki</a>)<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>The Catholic Church can handle declines in contributions better than most since, <a href="http://www.time.com/time/magazine/article/0,9171,833509,00.html">according to Time Magazine</a>, the Vatican is worth between 10 and 15 billion dollars.<a href="#fnref:3" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Expanding the Market for Limited Edition Dishes]]></title>
-    <link href="http://highvariance.net/blog/2013/03/09/dishes/"/>
-    <updated>2013-03-09T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/03/09/dishes</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/conan-dishes/yorkies.jpg" alt="Yorkies!" /></p>
-
-<p>Limited edition dishes have a very limited market for two main reasons. First, they feature a very limited selection of art. Cute dogs, American flags, flowers, and Russian folk tales only appeal to so many people.  These plates are basically baseball cards for grandmas. Second, most of these dishes are designed solely for display and could actually kill you if you ate off them–this is crazy since the last time I checked normal people used dishes for serving food, not decorating their walls.  These companies need to expand their stables of artists and use nontoxic paints. </p>
-
-<p>To get things started concretely, I propose the following set of four limited edition dinner plates by Frank Frazetta.  Imagine the look of wonder on your guests’ faces as they clear their plates and reveal the raw ferocity and masculinity of Conan the Barbarian. I know I would buy them. Click through to see them in their full resolution glory!</p>
-
-<p><a href="http://highvariance.net/images/conan-dishes/d1.jpg"><img src="http://highvariance.net/images/conan-dishes/d1-small.jpg" alt="Conan!" /></a>
-<a href="http://highvariance.net/images/conan-dishes/d2.jpg"><img src="http://highvariance.net/images/conan-dishes/d2-small.jpg" alt="Conan!" /></a>
-<a href="http://highvariance.net/images/conan-dishes/d3.jpg"><img src="http://highvariance.net/images/conan-dishes/d3-small.jpg" alt="Conan!" /></a>
-<a href="http://highvariance.net/images/conan-dishes/d4.jpg"><img src="http://highvariance.net/images/conan-dishes/d4-small.jpg" alt="Conan!" /></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Step on My Way to Paperless Nirvana: The Fujitsu ScanSnap iX500]]></title>
-    <link href="http://highvariance.net/blog/2013/03/07/scansnap/"/>
-    <updated>2013-03-07T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/03/07/scansnap</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-paper-folders.jpg" alt="My old paper folder stand" />
-<img src="http://highvariance.net/images/hv-scansnap.jpg" alt="My snazzy new ScanSnap ix500" /></p>
-
-<p>I first heard about how great document scanners are from David Sparks and Katie Floyd on the <a href="http://macpowerusers.com">Mac Power Users Podcast</a>. A little while later I read David’s ebook <a href="http://macsparky.com/paperless/">Paperless</a> where he describes many more ways to use a document scanner and raved particularly about Fujitsu’s line of ScanSnaps. Then just a few weeks ago I read a <a href="http://macsparky.com/blog/2013/1/the-fujitsu-scansnap-ix500">mini review/announcement</a> of the <a href="http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/scansnap-iX500.html">ScanSnap iX500</a> on David’s blog (<a href="http://macsparky.com">Mac Sparky</a>). You may be noticing a pattern here. If ScanSnap owners are a cult, then David Sparks must surely be a high priest.</p>
-
-<p>My current workflow doesn’t generate a whole lot of paper, but that doesn’t mean I don’t have file cabinets full of paper. Most of it just sits there, but occasionally I want to look at an old bill or a marked up article.  In the best case sceneario it takes me a while to find it and more often I’m not even in the office where it resides. I’ve always wanted instant searchable secure access to this stuff from anywhere. This was especially true for the slow steady stream of paper that arrives in the mail and would eventually find a home in a physical folder in one of these cabinets.</p>
-
-<p>After reading David’s review, I pulled the trigger and ordered a Fujitsu ScanSnap iX500.  I liked that it could be plugged into a Mac or a Windows PC or even nothing at all since it could talk to a wifi network.  Alas, David was right that this stuff didn’t matter since at the end of the day it’s just plugged into my Mac and sits next to it on my desk. That said, it’s been great.  I just plop an article on it and press a button. It scans both sides of pages simultaneously and recognizes when one side is blank. When the pages have print on them, it’s smart enough to rotate them right side up. It’s been very robust to some very crinkly drocuments. And it can gobble up 25 pages per minute.</p>
-
-<p>I’ve been using it for three distinct tasks so far:</p>
-
-<ol>
-  <li>
-    <p>When prepping classes or doing brainstorming for a research project, I sometimes use pen and paper.  When I’m done, I just feed it to the ScanSnap and drop the resulting pdf into my carefully engineered hierarchy of documents. The actual paper disappears into the recycling bin. I do the same thing with articles that I’ve printed and marked up in the past. It’s unnecessary with recent articles since I now <a href="http://highvariance.net/blog/2012/03/30/progress-toward-paperless/">do all my markup digitally</a>.</p>
-  </li>
-  <li>
-    <p>I keep a folder of pdf’s that I want to read and when something paper comes my way that I want to save for later, I just scan it and drop it into this folder.</p>
-  </li>
-  <li>
-    <p>My favorite things to scan are bills, reference manuals, receipts, and miscellaneous records that usually (but not always) arrive in the mail. I make the Scanner OCR the documents as it reads them in and just drop them into my “reference” folder. Usually I give them descriptive filenames, but I don’t need to since Spotlight indexes all the OCR’ed text making them remarkably easy to find when I need them. And since the folder is on Dropbox, I can search it on any Mac that shares the folder.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> We still have our file cabinets of paper at home and I’ve still got 5 drawers full of it at work, but very little new paper is entering those drawers and I’m even removing stuff as needed.</p>
-  </li>
-</ol>
-
-<p><img src="http://highvariance.net/images/hv-printer.jpg" alt="My old HP printer" />
-<img src="http://highvariance.net/images/hv-plant.jpg" alt="My beautiful new palm tree!" /></p>
-
-<p>The scanner hasn’t been my only recent step on the path to paperless. I’ve also evicted my office printer and replaced it with a palm tree. It’s so much prettier and never smells bad. It sequesters carbon and doesn’t use electricity. And watering a plant feels so much better than replacing toner cartridges. Both the scanner and the tree are highly recommended!</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Dropbox will propogate the metadata that stores the OCR’ed text, but won’t search it from their web interface. Someday maybe they will.<a href="#fnref:1" rel="reference">&#8617;</a></p>
     </li>
   </ol>
 </div>
