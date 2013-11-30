@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-26T23:26:52-05:00</updated>
+  <updated>2013-11-29T22:44:34-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Photo Management Quest, Part 2: Loom]]></title>
+    <link href="http://highvariance.net/blog/2013/11/29/pq2-loom/"/>
+    <updated>2013-11-29T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/29/pq2-loom</id>
+    <content type="html"><![CDATA[<p>(Note: You might want to read <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">my first photo management rant</a> and <a href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix">Part 1</a> for context.)</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-loom.png" /></p>
+
+<p>Ever since
+<a href="http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup">Everpix went belly up</a>,
+photo management has been a common topic on the blogs I read and the
+podcasts I listen to. The current
+<a href="http://thesweetsetup.com/apps/our-favorite-photo-stream-alternative/">consensus favorite</a>
+is <a href="http://www.loom.com">Loom</a> and when I read their feature list I was
+pretty excited. They seemlessly sync your iOS Camera Roll and your Mac’s
+iPhoto Library with the cloud. Unlike Everpix, they store original files
+instead of lossy compressed versions. Unlike Everpix and Adobe Revel,
+they store photos AND videos. Their web app lets you browse your photo
+collection from anywhere. I loved that you could create and manage
+albums of photos from anywhere. Even their pricing ($40/yr for 50GB and
+$99/yr for 255GB) was reasonable.</p>
+
+<p>I signed up for the service, and while it took longer than I thought it
+should, the iOS app eventually pushed my 300 photo Camera Roll up to the
+cloud.  After enjoyably browsing this little collection on my phone,
+iPad, and Mac (using the web app), I decided to pony up for a month of 255GB
+of storage and try uploading my whole iPhoto library.  I won’t bore you
+with the details, but after six days of synchronization hangs, duplicate
+photos, and unanswered support email, I gave up.</p>
+
+<p>It’s possible that the problem was just me as I haven’t found anyone
+else complaining about Loom synchronization on the web.  My internet
+connection’s upload speed is not that great–just 1.5 Mbps–but this is
+the first time I’ve had a product give me trouble. Dropbox has been
+successfully syncing more than 50 GB of files for about three years now
+and I have used BackBlaze to successfully replicate about a terabyte of data.</p>
+
+<p>I found the whole experience rather depressing. The service even on paper
+wasn’t perfect. They don’t remove duplicate photos. They don’t offer
+even rudimentary editing tools. They won’t stream videos through any of
+their apps. They won’t synchronize folders on Windows machines with the
+cloud. That said, their feature set was above my bar and they seemed
+like they were moving in the right direction.  This time software
+quality was the show stopper. </p>
+
+<p>Sigh. The quest continues.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Scepter and the Crown]]></title>
@@ -971,40 +1021,6 @@ want a photo management system that requires minimum maintenance and gives me ma
   </li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[App Review: My Little Pony: Twilight Sparkle: Teacher for a Day]]></title>
-    <link href="http://highvariance.net/blog/2013/03/25/my-little-pony/"/>
-    <updated>2013-03-25T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/03/25/my-little-pony</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-mlp-ts-tfad.png" title="[title &#34;Twilight Sparkle: Teacher for a Day&#34;]" alt="[title &#34;Twilight Sparkle: Teacher for a Day&#34;]" /></p>
-
-<p>My first introduction to <a href="http://en.wikipedia.org/wiki/My_Little_Pony">My Little Pony</a> wasn&rsquo;t terribly positive. I was about eight years old and this &ldquo;girl stuff&rdquo; was advertised relentlessly on Saturday morning cartoons. I was far more interested in being a pawn of the corporations that marketed branded soldiers, spaceships, and robots to boys.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
-
-<p>Then in my early twenties, I ran across this <a href="http://brunching.com/pornorpony.html">Internet quiz</a> that gives you names like &ldquo;Daisy Sweet&rdquo; and &ldquo;Misty Rain&rdquo; and asks you to identify each as either a My Little Pony or a porn star. I failed miserably and while I was horrified at the quiz&rsquo;s difficulty, I was also a little relieved that I was not an expert on either topic.</p>
-
-<p>And now, it seems that the third time is the charm. The girls have been in a serious MLP phase the last few weeks and our collection now includes 12 little Little Ponies, each with its own colors, personality, and <a href="http://mlp.wikia.com/wiki/Cutie_mark">cutie mark</a>. <a href="http://mlp.wikia.com/wiki/Applejack">Apple Jack</a> is the hard working farmer with the southern drawl while <a href="http://mlp.wikia.com/wiki/Rainbow_Dash">Rainbow Dash</a> is the adventurous one with the mischievous streak. You might have guessed we&rsquo;ve also watched a couple <a href="http://mlp.wikia.com/wiki/My_Little_Pony_Friendship_is_Magic">tv episodes</a>.</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-mlp-in-app-purchases.png" title="[title &#34;What a Scam&#34;]" alt="[title &#34;What a Scam&#34;]" /></p>
-
-<p>On our last long distance trip we expanded our collection to include a couple iOS apps. The first was Gameloft&rsquo;s <a href="https://itunes.apple.com/nz/app/my-little-pony-friendship/id533173905?mt=8">My Little Pony - Friendship is Magic</a> and it is an awful scam. You create a magical pony land by buying gems for real money&ndash;your parents&rsquo; real money to be specific. And if you don&rsquo;t invest, you can&rsquo;t actually do anything fun.</p>
-
-<p>The second app (<a href="https://itunes.apple.com/us/app/my-little-pony-twilight-sparkle/id465213808?mt=8">Twilight Sparkle: Teacher for a Day</a>) gets pretty mixed reviews on iTunes but frankly is pretty cute and has no crazy-making in-app purchases. It&rsquo;s a 40 page appified book that you can read with your kid or will read itself. It has a few built-in animations and four mini-games. Two of the games are simple tilt the iPad to negotiate a maze and two are point-out-the-difference between two picture games. R likes all of them though she sometimes accidentally hits the home button when tilting the iPad and that starts the whole thing over. The story itself filled in some history of the pony&rsquo;s homeland and could have been titled MLP: Origin of Equestria.  Did you know the unicorn ponies, pegasus ponies and earth ponies started out with cold hearts? And of course, there is a positive message about friendship since (as everyone knows) friendship is magic! R&rsquo;s favorite part of the app is the set of pony bios that includes pictures and descriptions.</p>
-
-<p>There are three distinct groups of MLP fans. First, little girls, second, parents of little girls, and third, the <a href="http://www.guardian.co.uk/commentisfree/2012/oct/01/my-little-pony-bronies-rebels">bronies</a>. That third group is mostly adult men who self-identify as straight and just love the MLP stories, characters, and positive messages.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> For all these fans, I think this app will be a lot of fun.  I doubt it will appeal much to a broader audience, but I&rsquo;m also glad that we live in a world that&rsquo;s big enough for that to be OK.</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p><a href="http://en.wikipedia.org/wiki/Micronauts">Micronauts</a> totally ruled.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>We saw a brony in the wild on the plane back from Los Angeles&ndash;he was sporting a full beard, a Hawaiian shirt, and was having an awesome time laughing and carrying on while feeding his laptop a steady stream of MLP dvds. I thought it was great and am kicking myself I didn&rsquo;t get a picture to capture the moment.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   

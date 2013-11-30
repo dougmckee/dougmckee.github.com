@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-26T23:26:52-05:00</updated>
+  <updated>2013-11-29T22:44:34-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Photo Management Quest, Part 2: Loom]]></title>
+    <link href="http://highvariance.net/blog/2013/11/29/pq2-loom/"/>
+    <updated>2013-11-29T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/11/29/pq2-loom</id>
+    <content type="html"><![CDATA[<p>(Note: You might want to read <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">my first photo management rant</a> and <a href="/blog/2013/04/30/pq1-adobe-revel-and-everpix">Part 1</a> for context.)</p>
+
+<p><img class="right" src="/images/hv-loom.png"></p>
+
+<p>Ever since
+<a href="http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup">Everpix went belly up</a>,
+photo management has been a common topic on the blogs I read and the
+podcasts I listen to. The current
+<a href="http://thesweetsetup.com/apps/our-favorite-photo-stream-alternative/">consensus favorite</a>
+is <a href="http://www.loom.com">Loom</a> and when I read their feature list I was
+pretty excited. They seemlessly sync your iOS Camera Roll and your Mac’s
+iPhoto Library with the cloud. Unlike Everpix, they store original files
+instead of lossy compressed versions. Unlike Everpix and Adobe Revel,
+they store photos AND videos. Their web app lets you browse your photo
+collection from anywhere. I loved that you could create and manage
+albums of photos from anywhere. Even their pricing ($40/yr for 50GB and
+$99/yr for 255GB) was reasonable.</p>
+
+<p>I signed up for the service, and while it took longer than I thought it
+should, the iOS app eventually pushed my 300 photo Camera Roll up to the
+cloud.  After enjoyably browsing this little collection on my phone,
+iPad, and Mac (using the web app), I decided to pony up for a month of 255GB
+of storage and try uploading my whole iPhoto library.  I won’t bore you
+with the details, but after six days of synchronization hangs, duplicate
+photos, and unanswered support email, I gave up.</p>
+
+<p>It’s possible that the problem was just me as I haven’t found anyone
+else complaining about Loom synchronization on the web.  My internet
+connection’s upload speed is not that great–just 1.5 Mbps–but this is
+the first time I’ve had a product give me trouble. Dropbox has been
+successfully syncing more than 50 GB of files for about three years now
+and I have used BackBlaze to successfully replicate about a terabyte of data.</p>
+
+<p>I found the whole experience rather depressing. The service even on paper
+wasn’t perfect. They don’t remove duplicate photos. They don’t offer
+even rudimentary editing tools. They won’t stream videos through any of
+their apps. They won’t synchronize folders on Windows machines with the
+cloud. That said, their feature set was above my bar and they seemed
+like they were moving in the right direction.  This time software
+quality was the show stopper. </p>
+
+<p>Sigh. The quest continues.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Markdown and Me]]></title>
@@ -206,53 +256,6 @@ has arrived!</p>
 
 <p>Google Reader is dead, but it was stagnant for years.  I’m legitimately excited about
 a new era of innovation. Feed Wrangler has just won round one.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Photo Management Quest, Part 1: Adobe Revel and Everpix]]></title>
-    <link href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix/"/>
-    <updated>2013-04-30T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix</id>
-    <content type="html"><![CDATA[<p>I am frustrated and I know I’m not the only one. I want
-want a photo management system that requires minimum maintenance and gives me maximum flexibility. I’ve complained about this <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">before</a>, but I’m tired of waiting for Apple to hand me a gift-wrapped solution.  They didn’t last summer in iOS 6 and I have no faith that they will in iOS 7.</p>
-
-<p>In my household, we take most of our photos with our phones, but we also have a big digital SLR which we break out for big events (if we remember to). Ideally, all our pictures would be automatically whisked away into a shared database in the cloud as soon as they are taken. From there we should be able to browse, organize, edit, and share them from any of our device, be they Macs, PC’s, iPads, or iPhones. In 2013, I don’t think that’s unreasonable to ask for.</p>
-
-<p>In the next few weeks, I’ll be looking at several products and hopefully finding answers.  Today the journey starts with two separate app/service combos.  One is Adobe Revel and the other is Everpix.</p>
-
-<h2 id="adobe-revelhttpwwwadoberevelcom"><a href="http://www.adoberevel.com">Adobe Revel</a></h2>
-
-<p><img class="right" src="/images/hv-adobe-revel.png"></p>
-
-<p>I was super-excited when I heard about Adobe Revel.  The service stores all your pictures in the cloud, and they give you free iOS and Mac apps to edit and manage them. Pictures are streamed to your iOS devices as needed freeing up a whole lot of space.  The apps are (supposedly) built on top of the same editing/browsing engine powering LightRoom and they are (actually) very well done.  The service is expensive ($5.99/month) but it promises a lot.</p>
-
-<p>Unfortunately, it’s missing some important features.  First, it won’t store video clips and that means I need an entirely different workflow for them.  With two little kids, we take lots of these “long photos” and I like having them mixed in with the traditional photos. Second, my wife lives in a Windows world and Revel doesn’t provide a Windows app or even a web app. That means she can only browse our library on her phone and that’s a show stopper.</p>
-
-<h2 id="everpixhttpwwweverpixcom"><a href="http://www.everpix.com">Everpix</a></h2>
-
-<p><img class="right" src="/images/hv-everpix.png"></p>
-
-<p>After my experience with Revel, I was cautiously optimistic about Everpix. It also stores all your photos in the cloud and has terrific iOS apps for browsing your collection, but it differentiates itself in three ways:</p>
-
-<ol>
-  <li>They automatically import photos from lots of places you might care about including your photo roll, Facebook, Instagram, and Flickr. That’s nice, but not terribly useful for me since I’m not exactly tied into the social network world.</li>
-  <li>They have a terrific web app that works well on Mac and Windows.</li>
-  <li>They don’t allow you to create albums or tag photos but instead rely on “science” to organize your photos for you.  Since I always plan to do more manual organization than I actually do, it’s nice that this is done for me. I tend to take several pictures of the same thing but never delete the bad ones–Everpix does a decent job picking the good ones and showing you those first.  In fact, I have Everpix configured to email me “random” “reminder” pictures from my collection everyday and it’s a lot of fun.</li>
-</ol>
-
-<p>The package is expensive ($4.99/month) if you want them to store more than the previous year’s worth of photos, and I’d be happy to pay if it weren’t for the downsides:</p>
-
-<ol>
-  <li>They don’t store video clips.</li>
-  <li>You can’t edit pictures within the apps.</li>
-  <li>They don’t store original images. Instead, Everpix stores compressed versions. I’m no photo snob, but I also don’t like losing information.</li>
-  <li>You can’t easily export pictures. Once your pictures are inside, you can only get them out piece meal. I hate <a href="http://en.wikipedia.org/wiki/Vendor_lock-in">lock-in</a>.</li>
-</ol>
-
-<p>I’m keeping an eye on Everpix because except for the editing, these issues seem eminently fixable and I’d consider using an external editor if I had to.</p>
-
-<p>The quest continues.</p>
 ]]></content>
   </entry>
   
