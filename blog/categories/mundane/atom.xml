@@ -4,7 +4,7 @@
   <title><![CDATA[mundane | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/mundane/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-11-29T22:44:34-05:00</updated>
+  <updated>2013-12-04T12:22:19-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Three Great Product Features]]></title>
+    <link href="http://highvariance.net/blog/2013/12/04/three-great-product-features/"/>
+    <updated>2013-12-04T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/04/three-great-product-features</id>
+    <content type="html"><![CDATA[<p>Great products get reviewed and talked about, but great features of good products often fly under the radar. They can seem obvious in hindsight or just have a niche group that really appreciates them. Here are three of my favorites that deserve more notice.</p>
+
+<p>{% img right /images/hv-control-center.png %}</p>
+
+<p><strong>1. Control Center</strong></p>
+
+<p>Hands down my favorite new feature of iOS 7, the Control Center removes lots of little dead moments from my life. Every night I lock my phone into portrait mode when I get in bed. I use the flashlight at least twice a day. I select an Airplay destination or use the music controls about twice a day. And in the morning I free up the phone’s orientation again. Since I don’t even have to unlock the phone to do any of this, it saves me at least five seconds each time. That adds up to a minimum of 30 seconds a day and three whole hours a year.</p>
+
+<p>{% img left /images/hv-whispersync.jpg %}</p>
+
+<p><strong>2. Whispersync</strong></p>
+
+<p>After the kids go to sleep and I’m cleaning the kitchen or putting toys away, I like to listen to audiobooks. When it’s particularly gripping, I continue to read the book on my phone in bed using the Kindle app. Whispersync means I automatically pick up right where I left off on the audio. The next night when I start listening again, the Audible app jumps to where I was in the e-book. I can’t imagine too many people take advantage of this, but I love it. </p>
+
+<p>{% img right /images/hv-sneeze-shield.jpg %}</p>
+
+<p><strong>3. Sneeze Shield</strong></p>
+
+<p>Maybe our bedroom is dusty. Maybe I have allergies. Maybe I get a lot of low-grade colds. I don’t know why I sneeze a few times almost every morning when I wake up, but I do. And with two little kids, we all get our share of normal-grade colds. This means we go through a lot of tissues. Sneeze Shield means the tissue doesn’t fall apart when a grown up blows into it. I don’t miss handfuls of wet snot at all.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
