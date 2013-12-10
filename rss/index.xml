@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-04T12:21:11-05:00</updated>
+  <updated>2013-12-10T10:06:41-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Online tech in an in-person seminar: An experiment]]></title>
+    <link href="http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar/"/>
+    <updated>2013-12-10T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar</id>
+    <content type="html"><![CDATA[<p>I’ve written about <a href="http://highvariance.net/blog/2013/05/20/seminars/">how I like to run seminar classes</a> before and you may have noticed that my approach is decidedly low tech. My students read the week’s articles before class and fill out a “worksheet” for each one. Before this semester, the most important question on the worksheet was “What didn’t you understand?” I would look over their answers to identify weak spots that we would  cover in class.</p>
+
+<p>This semester I tried something new: I took “What didn’t you understand?” off the worksheet and asked my students to post questions they had about the reading on a <a href="http://piazza.com">Piazza</a> online discussion forum. If two (or more) students have the same question, only the first has to post it–the others could just mark it as a “good question.” They could also answer each other’s questions and I could “approve” answers or provide my own. I had high hopes for the new system. I thought it would be easier for the students, and would make it easier for me to see what the hot button issues were and even provide some feedback before class. </p>
+
+<p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
+
+<p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Three Great Product Features]]></title>
@@ -951,35 +966,6 @@ want a photo management system that requires minimum maintenance and gives me ma
 <p>I’m keeping an eye on Everpix because except for the editing, these issues seem eminently fixable and I’d consider using an external editor if I had to.</p>
 
 <p>The quest continues.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Feeling Negative]]></title>
-    <link href="http://highvariance.net/blog/2013/04/25/feeling-negative/"/>
-    <updated>2013-04-25T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/04/25/feeling-negative</id>
-    <content type="html"><![CDATA[<p>I spend a lot of time on this blog raving about <a href="http://highvariance.net/blog/2013/04/11/kid-book-review-library-trip-report-3/">great kid books</a>, <a href="http://highvariance.net/blog/2012/02/22/not-dead-yet/">great music</a>, <a href="http://highvariance.net/blog/2012/01/17/mincer-1958/">great writing for grown ups</a>, and even <a href="http://highvariance.net/blog/2013/01/08/an-homage-to-chris-welty/">great teaching</a>, but don’t get the idea that I think everything is all sunshine and roses. There are plenty of things I don’t appreciate. Here are just three:</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-grateful-dead.jpg" title="[title &#34;Maybe the Ugliest Shirt of All-Time&#34;]" alt="[title &#34;Maybe the Ugliest Shirt of All-Time&#34;]" /></p>
-
-<h2 id="the-grateful-dead">1. The Grateful Dead</h2>
-
-<p>When I think of the Dead, the first things that come to mind are dirty feet, ugly tie-dyed shirts, drugs, and silly annoying songs that just go on and on and on.  If you’re into that sort of thing, then I’m really sorry you can’t follow them around anymore.  At least you’ve got Phish.</p>
-
-<h2 id="ezra-jack-keats">2. Ezra Jack Keats</h2>
-
-<p><img class="left" src="http://highvariance.net/images/hv-willie.jpg" title="[title &#34;Whistle for Willie&#34;]" alt="[title &#34;Whistle for Willie&#34;]" /></p>
-
-<p>This is <a href="http://en.wikipedia.org/wiki/Ezra_Jack_Keats">Ezra Jack Keats</a> week at my girls’ preschool and besides <a href="http://highvariance.net/blog/2012/05/10/carle-vs-lioni/">Eric Carle</a>, there isn’t a more over-rated children’s book author/illustator.  I’m not an expert on Jack Keats, but I have read <a href="http://www.amazon.com/The-Snowy-Day-Board-Book/dp/0670867330">The Snowy Day</a> and <a href="http://www.amazon.com/Whistle-Willie-Board-Book-Keats/dp/0670880469">Whistle for Willie</a> and thus feel perfectly justified generalizing to his whole body of work. I like that he his stories take place in cities. I like that he’s got African-American characters. And I’m not arguing he wasn’t an important trail blazer–he was. I’m just arguing that the books themselves are uninspired and boring.  In the last forty years lots of authors have taken the torch and done a better job with it. My favorites are <a href="http://www.amazon.com/Rain-Stomper-Addie-Boswell/dp/0761453938">The Rain Stomper</a> (by Boswell Addie, illustrated by Eric Velasquez), <a href="http://www.amazon.com/Corduroy-Don-Freeman/dp/0140501738">Corduroy</a> (by Don Freeman), and <a href="http://www.amazon.com/Bear-Bike-Stella-Blackstone/dp/1905236980">Bear on a Bike</a> (by Stella Blackstone, illustrated by Debbie Harter)</p>
-
-<h2 id="new-orleans">3. New Orleans</h2>
-
-<p><img class="right" src="http://highvariance.net/images/hv-voodoo.jpg" title="[title &#34;VOODOO&#34;]" alt="[title &#34;VOODOO&#34;]" /></p>
-
-<p>For some people, New Orleans is a great city. It’s got world class sea food and its own brand of jazz. It’s got a casino downtown and a <a href="http://en.wikipedia.org/wiki/Bourbon_Street">whole street</a> full of daiquiris and debauchery. But for a vegetarian who doesn’t drink, doesn’t gamble, and whose musical tastes are a little less hip, New Orleans doesn’t have much to offer. I used to think the best thing about the city was voodoo and while that sounds all cool and mysterious, when you take a closer look, it’s not. Chicken blood, bits of hair, and stabbing little dolls to hurt real people is just creepy. Of course, there is <a href="http://www.auduboninstitute.org/visit/insectarium">the Insectarium</a> which is also a little creepy, but was a lot of fun with the girls when we visited a couple weeks ago. </p>
-
-<p>OK, I’ll admit it: I’m not usually such a Debby Downer, but  accumulated sleep debt from a busy winter and spring has taken a toll on my normally sunny disposition. Hopefully the end of the semester will take care of this I’ll soon be back to being a Cheerful Charlie!</p>
 ]]></content>
   </entry>
   
