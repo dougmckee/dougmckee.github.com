@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-10T10:07:33-05:00</updated>
+  <updated>2013-12-13T22:37:38-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2013/11/26/scepter-and-crown/"/>
     <updated>2013-11-26T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/11/26/scepter-and-crown</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-scepter-and-crown.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-scepter-and-crown.jpg"></p>
 
 <p>R turned five this weekend and we celebrated with a party, some amazing cupcakes, a trip to the carousel, and a brand new <a href="/blog/11/21/non-violent-dungeons-and-dragons-for-kids/">Nonviolent Dungeons and Dragons for Kids</a> adventure. This one was more puzzle-based and less monster-focused than The Haunted Castle. It was also a little longer and more open to different routes through it.</p>
 
@@ -91,7 +91,7 @@
     <link href="http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids/"/>
     <updated>2013-11-21T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-d-and-d-fun.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-d-and-d-fun.jpg"></p>
 
 <p>My daughter R spends half of her life in a fantasy world pretending she is either a pony, a cat, a princess, a fairy, or some combination of these. She also loves reading about fantastical adventures like <a href="http://www.amazon.com/Wonderful-Wizard-Oz-Anniversary-Wonder/dp/0060293233">The Wizard of Oz</a>, <a href="http://www.amazon.com/Comet-Moominland-Tove-Jansson/dp/0312608888">Comet in Moominland</a>, or <a href="http://www.amazon.com/The-Bravest-Knight-Mercer-Mayer/dp/0803732066">The Bravest Knight</a>. So when a friend sent me <a href="http://gygaxmagazine.com/2013/08/09/dming-for-your-toddler/">Cory Doctorow’s account</a> of how he plays <a href="http://en.wikipedia.org/wiki/Dungeons_and_dragons">Dungeons and Dragons</a> (D&amp;D) with his four year old daughter, I got very excited. A game that has players pretending they are characters exploring mythical lands and fighting fabulous monsters seemed like an almost perfect match. Cory simplified the rules to fit into a little kid attention span, but there was still a problem: We run a nonviolent household and a game that revolves around bloodshed is a nonstarter.</p>
 
@@ -101,7 +101,7 @@
 
 <h2 id="creating-characters">Creating Characters</h2>
 
-<p>{% img right /images/nvdndfk/character-sheet.png %}</p>
+<p><img class="right" src="/images/nvdndfk/character-sheet.png"></p>
 
 <p>Cory Doctorow wanted get his daughter adventuring as quickly as possible, and so had her make up a bare bones character up front, fleshing her out as needed during the game. We found that creating a character was one of the most riveting parts of the game. I pre-printed some character sheets (<a href="/images/nvdndfk/character-sheet.docx">.docx</a>, <a href="/images/nvdndfk/character-sheet.pdf">.pdf</a>) and R enjoyed rolling dice, writing down numbers, and drawing her character’s picture. We started by choosing the character’s name, race, and job.  Races include:</p>
 
@@ -185,7 +185,7 @@
 
 <p>All descriptions and scenarios in this adventure benefit from extemperaneous elaboration–think of everything below as a jumping off point. The main goals are exploration and escape, and the only way out of the castle is to find and use the Bracelet of Teleportation.</p>
 
-<p>{% img right /images/nvdndfk/the-haunted-castle-map.png %}</p>
+<p><img class="right" src="/images/nvdndfk/the-haunted-castle-map.png"></p>
 
 <p><strong>Props:</strong></p>
 
@@ -261,7 +261,7 @@
     <link href="http://highvariance.net/blog/2013/09/05/the-stars-align/"/>
     <updated>2013-09-05T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2013/09/05/the-stars-align</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-bike-and-shoes.jpg [title “R’s bike and my shoes”] %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-bike-and-shoes.jpg" title="[title “R’s bike and my shoes”]" ></p>
 
 <p>Several years ago my wife and I spent a week in Costa Rica during the rainy season. As expected, it rained most of our trip but was warm and fun nonetheless. And those brief windows when the sun came out were magical. I think raising kids is a little like this–mostly great, but some periods when all the stars align that are truly amazing. </p>
 
@@ -316,7 +316,7 @@
     <id>http://highvariance.net/blog/2013/04/25/feeling-negative</id>
     <content type="html"><![CDATA[<p>I spend a lot of time on this blog raving about <a href="http://highvariance.net/blog/2013/04/11/kid-book-review-library-trip-report-3/">great kid books</a>, <a href="http://highvariance.net/blog/2012/02/22/not-dead-yet/">great music</a>, <a href="http://highvariance.net/blog/2012/01/17/mincer-1958/">great writing for grown ups</a>, and even <a href="http://highvariance.net/blog/2013/01/08/an-homage-to-chris-welty/">great teaching</a>, but don’t get the idea that I think everything is all sunshine and roses. There are plenty of things I don’t appreciate. Here are just three:</p>
 
-<p>{% img right /images/hv-grateful-dead.jpg [title “Maybe the Ugliest Shirt of All-Time”] %}</p>
+<p><img class="right" src="/images/hv-grateful-dead.jpg" title="[title “Maybe the Ugliest Shirt of All-Time”]" ></p>
 
 <h2 id="the-grateful-dead">1. The Grateful Dead</h2>
 
@@ -324,13 +324,13 @@
 
 <h2 id="ezra-jack-keats">2. Ezra Jack Keats</h2>
 
-<p>{% img left /images/hv-willie.jpg [title “Whistle for Willie”] %}</p>
+<p><img class="left" src="/images/hv-willie.jpg" title="[title “Whistle for Willie”]" ></p>
 
 <p>This is <a href="http://en.wikipedia.org/wiki/Ezra_Jack_Keats">Ezra Jack Keats</a> week at my girls’ preschool and besides <a href="http://highvariance.net/blog/2012/05/10/carle-vs-lioni/">Eric Carle</a>, there isn’t a more over-rated children’s book author/illustator.  I’m not an expert on Jack Keats, but I have read <a href="http://www.amazon.com/The-Snowy-Day-Board-Book/dp/0670867330">The Snowy Day</a> and <a href="http://www.amazon.com/Whistle-Willie-Board-Book-Keats/dp/0670880469">Whistle for Willie</a> and thus feel perfectly justified generalizing to his whole body of work. I like that he his stories take place in cities. I like that he’s got African-American characters. And I’m not arguing he wasn’t an important trail blazer–he was. I’m just arguing that the books themselves are uninspired and boring.  In the last forty years lots of authors have taken the torch and done a better job with it. My favorites are <a href="http://www.amazon.com/Rain-Stomper-Addie-Boswell/dp/0761453938">The Rain Stomper</a> (by Boswell Addie, illustrated by Eric Velasquez), <a href="http://www.amazon.com/Corduroy-Don-Freeman/dp/0140501738">Corduroy</a> (by Don Freeman), and <a href="http://www.amazon.com/Bear-Bike-Stella-Blackstone/dp/1905236980">Bear on a Bike</a> (by Stella Blackstone, illustrated by Debbie Harter)</p>
 
 <h2 id="new-orleans">3. New Orleans</h2>
 
-<p>{% img right /images/hv-voodoo.jpg [title “VOODOO”] %}</p>
+<p><img class="right" src="/images/hv-voodoo.jpg" title="[title “VOODOO”]" ></p>
 
 <p>For some people, New Orleans is a great city. It’s got world class sea food and its own brand of jazz. It’s got a casino downtown and a <a href="http://en.wikipedia.org/wiki/Bourbon_Street">whole street</a> full of daiquiris and debauchery. But for a vegetarian who doesn’t drink, doesn’t gamble, and whose musical tastes are a little less hip, New Orleans doesn’t have much to offer. I used to think the best thing about the city was voodoo and while that sounds all cool and mysterious, when you take a closer look, it’s not. Chicken blood, bits of hair, and stabbing little dolls to hurt real people is just creepy. Of course, there is <a href="http://www.auduboninstitute.org/visit/insectarium">the Insectarium</a> which is also a little creepy, but was a lot of fun with the girls when we visited a couple weeks ago. </p>
 

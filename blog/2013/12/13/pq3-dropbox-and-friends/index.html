@@ -1,0 +1,328 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>My Photo Management Quest, Part 3: Dropbox and Friends - High Variance</title>
+  <meta name="author" content="Doug McKee">
+
+  
+  <meta name="description" content="(Note: You might want to read my other posts about photo management for context first.) I am extremely happy to report some actual forward progress &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/rss" rel="alternate" title="High Variance" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28036001-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">High Variance</a></h1>
+  
+    <h2>I just write about stuff I'm thinking about.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/rss" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:highvariance.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/blog/categories/kids/">Kids</a></li>
+  <li><a href="/blog/categories/education/">Education</a></li>
+  <li><a href="/blog/categories/music/">Music</a></li>
+  <li><a href="/blog/categories/tech/">Tech</a></li>
+  <li><a href="/blog/categories/economics/">Economics</a></li>
+  <li><a href="/blog/categories/other/">Other</a></li>
+  <li><a href="/blog/archives">All</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">My Photo Management Quest, Part 3: Dropbox and Friends</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-13T00:00:00-05:00" pubdate data-updated="true">Dec 13<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
+
+<p><img class="right" src="/images/hv-dropbox.jpg" /></p>
+
+<p>I am extremely happy to report some actual forward progress in this episode of My Photo Management Quest.  The short story is that all my photos now live on Dropbox in a nice hieararchical folder structure where I can browse and share them from any of my computers or iOS devices. My new system isn’t perfect, but it’s pretty good and I think it’s a solid foundation for the future.</p>
+
+<h2 id="moving-from-iphoto-to-dropbox">Moving from iPhoto to Dropbox</h2>
+
+<p>iPhoto is fundamentally an application for doing light editing and organization of photos on a single computer. Any new system that involves access from multiple different devices is going to require getting your photos out of iPhoto’s black box. My first step was to do <a href="http://www.macstories.net/tutorials/moving-from-iphoto-to-dropbox/">what Federico Vittici at MacStories did</a> through a combination of <a href="http://code.google.com/p/phoshare/">PhoShare</a> and <a href="http://www.noodlesoft.com/hazel.php">Hazel</a>.  The process created a set of year folders, and in each of those, a set of month folders that contain all my photos named and sorted by date. I also followed his lead and created a Hazel rule to move files from the Camera Uploads folder (where Dropbox puts my just-taken photos and videos) into my new Photos hierarchy. That means I need do absolutely nothing after I click my iPhone’s shutter button for my photos to be organized and accessible (by me) forever in the cloud. What a breath of fresh air compared to Apple’s Photo Stream!</p>
+
+<p>My photos currently take up about 20GB, and Dropbox charges $99 per 100GB. Give how rock solid Dropbox is and how many iOS apps support it, I think that’s a great deal. </p>
+
+<h2 id="further-organization-and-editing-on-the-mac">Further Organization and Editing on the Mac</h2>
+
+<p>I’ve been manually adding a bit more organization in two ways. First, I’ve split some months into separate events. For example, I created a “2013-10-halloween” folder (inside the “2013” folder) that contains the requisite costume and pumpkin photos. These photos no longer live in the generic “2013-10” folder. I’ve also created a few special folders (e.g., “yummy-things”) outside the date-based hierarchy that have <em>copies</em> of some pictures in the date-based hierarchy.  That way I can find those pictures by date or subject. I can also easily share these folders (read-only) with friends and family using Dropbox shared links. </p>
+
+<p>The best way I’ve found so far to actually create these new folders is Coverflow view in Finder. It’s <a href="https://discussions.apple.com/message/23562534#23562534">buggy in Mavericks</a> and it doesn’t let me see enough at the same time, but it works. I’m sure there are better ways (maybe <a href="http://unboundformac.com">Unbound for Mac</a> when it’s more stable, maybe <a href="http://www.arcsoft.com/photoplus/">Photo+ by Arcsoft</a>, maybe <a href="http://www.lynapp.com">Lyn</a>) but I haven’t settled on one yet.</p>
+
+<p>One of the biggest advantages of having my photos live in the file system is that I’m not locked into iPhoto for editing–I can now use whatever app I want. <a href="http://www.pixelmator.com">Pixelmator</a> is nice and I’m sure I’ll eventually settle on an even lighter weight app for easy stuff (e.g., cropping/red-eye reduction/brightness adjustment).</p>
+
+<h2 id="browsing-on-ios">Browsing on iOS</h2>
+
+<p>Now that my photos live in Dropbox, I have at least three choices of iOS apps to browse them.  The <a href="https://www.dropbox.com/iphoneapp">Dropbox app</a>’s photo tab lets me scroll through thumbnails of all my photos sorted by date and download full resolution versions as needed. I can also browse the folder structure through the standard file browing UI and grab photos, though I don’t get a pretty set of big thumbnails.  Playing videos and sharing links to files and folders is easy.</p>
+
+<p><img class="left" src="/images/hv-heliog.png" /></p>
+
+<p><a href="http://www.heliogapp.com">Heliog</a> is fast and pretty–it preserves my folder hierarchy and shows nice screens of thumbnails. I can share folders or sets of photos and easily move photos between folders. The downsides are that it doesn’t play video and I can’t delete photos from the photo view (have to be in the album view). These both seem easily fixable.</p>
+
+<p><img class="right" src="/images/hv-unbound.jpg" /></p>
+
+<p>Right now, I think <a href="http://unboundapp.com">Unbound</a> is the best of the bunch.  Unlike Heliog, it plays videos and let’s me delete photos from the photo view. Like Heliog, sharing Dropbox links is easy and browsing is fast–you can even make the app cache folders for quicker (or offline) access. Unbound will show you all the photo’s EXIF data and even show where a photo was taken on a map. Moving pictures between folders is easy, but I don’t think it’s possible to copy pictures to other albums. It shows me all my folders, but flattens the hierarchy–i.e., my month folders are no longer grouped by year. The ordering is correct, so this isn’t actually so bad.</p>
+
+<h2 id="the-future">The Future</h2>
+
+<p>The next step for my photo management system is to integrate the rest of our family photos. Right now they’re scattered across several computers, folders and hard drives with tons of duplicates. Dropping these photos into my Camera Uploads folder will immediately sort them into my master folder structure, but it won’t remove duplicates. There are lots of apps out there that promise to remove duplicates, but I’m scared to death that they’ll remove too much and the one app I tried (<a href="http://www.duplicatephotofixer.com/PhotoCleaner.aspx">Photos Duplicate Cleaner</a>) didn’t come close to catching everything. </p>
+
+<p>In the early days of the internet, companies like Yahoo tried organizing the web by manually creating big hiearchical lists of sites. Now we just Google for what we want and leave it to racks of servers and fancy algorithms to index it. The same thing has happened to mail. I used to carefully file all my mail into topic-specific folders, but now I just dump it all into one archive folder and rely on search when I need to find something. Photos will eventually be handled the same way. People won’t have to spend gobs of time dividing stacks of photos into events or tagging photos with their friends’ names–that’s what EXIF data and face recognition are for.  Everpix (may they rest in peace) was moving in this direction and I’ve heard <a href="http://www.wired.com/gadgetlab/2013/12/honan-photography/">great things about what Google+ is doing with pictures</a>. </p>
+
+<p>I am very excited to try some more cutting edge services as they roll out. With our photos safely backed up and accessible on Dropbox, I won’t have to worry about being locked into a deadend or that the service will mess up my photos.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> I’ll have the best of both worlds.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>For the record, Everpix did both: they made export very difficult and compressed photos, losing detail that I might eventually want. <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Doug McKee</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-12-13T00:00:00-05:00" pubdate data-updated="true">Dec 13<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/photo/'>photo</a>, <a class='category' href='/blog/categories/tech/'>tech</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/" data-via="" data-counturl="http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/12/10/online-tech-in-an-in-person-seminar/" title="Previous Post: Online tech in an in-person seminar: An experiment">&laquo; Online tech in an in-person seminar: An experiment</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/12/13/pq3-dropbox-and-friends/">My Photo Management Quest, Part 3: Dropbox and Friends</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/12/10/online-tech-in-an-in-person-seminar/">Online tech in an in-person seminar: An experiment</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/12/04/three-great-product-features/">Three Great Product Features</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/11/29/pq2-loom/">My Photo Management Quest, Part 2: Loom</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/11/26/scepter-and-crown/">The Scepter and the Crown</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Favorite Posts</h1>
+  <ul id="favorite_posts">
+    <li class="post">
+       <a href="/blog/2011/12/21/first-post/">First Post</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2011/12/23/home-for-christmas/">Home for Christmas</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/01/11/does-school-suck/">Does School Suck?</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/13/ebooks-and-kids/">E-books and Kids</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/22/not-dead-yet/">New Wave: Not
+  Dead Yet!</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">PDF Annotation on
+  the iPad in 2012</a>
+    </li>
+  </ul>
+</section>
+
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Doug McKee -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'highvariance';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/';
+        var disqus_url = 'http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
