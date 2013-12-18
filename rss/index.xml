@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-16T15:24:29-05:00</updated>
+  <updated>2013-12-18T00:54:12-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Our Favorite Board Game: Sequence for Kids]]></title>
+    <link href="http://highvariance.net/blog/2013/12/17/sequence-for-kids/"/>
+    <updated>2013-12-17T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/17/sequence-for-kids</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://highvariance.net/images/hv-sequence-for-kids.jpg" /></p>
+
+<p>With the holidays upon us it seems like every geek blogger I read has been recommending family-friendly board games. <a href="http://macsparky.com/blog/2013boardgames">MacSparky</a> sent me to <a href="http://fannypackmafia.com/blog/2013/12/8/my-favorite-board-games-from-2013-part-one">Fanny Pack Mafia</a>, <a href="http://www.marco.org/2013/12/12/gift-guide-actually-used-for-a-year">Marco</a> says <a href="http://www.amazon.com/gp/product/B0007YDBLE/?tag=marcoorg-20">Power Grid</a> is really good, and <a href="http://kottke.org/13/11/how-to-quickly-get-good-at-chess">Kottke</a> is sending me to <a href="http://www.gautamnarula.com/how-to-get-good-at-chess-fast/">Gautam Narula</a> to improve my chess game. This is all well and good, but these games are a bit much for my 2.5 and 5 year old kids.  Maybe that&rsquo;s why our favorite game hasn&rsquo;t been on any of these lists.</p>
+
+<p>The rules for <a href="http://www.amazon.com/Jax-8001-Sequence-for-Kids/dp/B00005UM9P">Sequence for Kids</a> are simple. The game starts with each player getting three cards and a pile of their own colored chips. The cards have animals on them as does the board which is a 6x7 square grid. A turn consists of playing a card and putting one of your chips on a square that has the same animal that was on the card. Players replenish their hand by picking another card from the deck at the end of their turn. The goal is to get four chips in a row. There are two &ldquo;magical&rdquo; animals: The Unicorn card lets a player put their chip on any square while the Dragon card lets a player remove any chip from the board.</p>
+
+<p>Many games for little kids are designed simply to teach rule following and maybe some hand-eye coordination as the player spins a spinner or picks a card and moves their token along a track. Chutes and Ladders and Candyland are the canonical examples of a genre that rots adult brains. Sequence includes enough strategy that kids are challenged, and enough randomness that they have a chance to win against adults.</p>
+
+<p>The set of skills kids can learn (or practice) while playing is surprisingly rich:</p>
+
+<ul>
+  <li><strong>Forward thinking:</strong> Players need to make sequences of two before they can make three and then four to win. They need to recognize when their opponent is about to win, and then block them if possible. </li>
+  <li><strong>Patience:</strong> Players should save their special cards for when they need them for defense or offense.</li>
+  <li><strong>Reasoning about uncertainty:</strong> I wonder if my opponent has a Lion in their hand and could win next turn?  I wonder if I could pick a Lion from the deck for my next turn? Maybe two Lions have already been played and none are left!</li>
+  <li><strong>Pattern recognition:</strong> Where are my winning opportunities? Four in a row wins whether it is across, down or diagonal.</li>
+  <li><strong>Creativity:</strong> R thinks the magic animals are the best part of the game and we often make up our own rules to create more. Sometimes the Kangaroo card lets you put down a chip on a Kangaroo and another square next to it. Sometimes the Shark can eat another animal and let you put your own chip in its place. The possibilities are endless.</li>
+  <li><strong>Reading:</strong> The game even promotes reading in a subtle way. The cards have pictures of the animals for non-readers, words for the animal  (e.g. &ldquo;Penguin&rdquo;) for learning readers, and even a fun name for the animal (e.g., &ldquo;Percy&rdquo;) for actual readers. </li>
+</ul>
+
+<p>Perhaps the best part of the game is that it&rsquo;s easy to modify the game for players of any age. We often play with cards face up.  This makes reasoning about your opponent&rsquo;s next move a little clearer and has two other big advantages: Little uncoordinated hands don&rsquo;t have to try to hold three cards at once, and it&rsquo;s a lot easier to teach strategy when you can see what cards your kid is holding.  I&rsquo;ve also played a fairly rule-free version of the game with one and two year-olds where we just deal out cards and place chips on the board. These kids love the animals and the bright colors of the chips and even like matching the animals to the squares on the board. </p>
+
+<p>Sequence for Kids really is fun for the whole family!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Second Time Around]]></title>
@@ -919,87 +949,6 @@ a new era of innovation. Feed Wrangler has just won round one.</p>
 
 <p>I strongly believe the “right” answer about when to start school depends on the kid (and the school). R was born in late November and will be starting kindergarten next year (before she turns 5). We will be watching her closely. The academic part of school will be no problem. She’s already got great reading and math skills and she loves to learn. On the social/emotional side, she acts her age. That might be hard when most of her friends are older. We are definitely open to having her repeat kindergarten at a new school. We’re also open to her moving on to first grade. We’re not open to doing something just because everyone else is doing it. We’ll make the decision based on her.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What I've learned about teaching advanced undergraduate seminars]]></title>
-    <link href="http://highvariance.net/blog/2013/05/20/seminars/"/>
-    <updated>2013-05-20T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/05/20/seminars</id>
-    <content type="html"><![CDATA[<p>At Yale, economics majors are required to take two “senior seminars” before they graduate.  These classes usually have 10-20 students and revolve around reading and discussing contemporary research in a specific area. After three years of mostly big lecture classes on theory and methods, seniors finally get a chance to apply what they’ve learned to a substantive topic.<sup id="fnref:3"><a href="#fn:3" rel="footnote">1</a></sup> I just finished my fourth year of teaching two of these seminars, and while that might not seem like very long, I have learned a lot about what works and what doesn’t work.  </p>
-
-<h2 id="big-goals">Big Goals</h2>
-
-<p>Every seminar should have both a substantive theme and a methodological theme.  In the fall I teach the Economics of Aging. We read papers on retirement, saving, elder care, and inheritance–if it’s economics and it affects older people, the topic is fair game. Most of the papers we read use structural microeconometric methods. The theory and estimation methods are serious–I still remember the shocked look a senior faculty member gave me when I told him we were reading <a href="http://gemini.econ.umd.edu/jrust/crest_lectures/rust_phelan.pdf">Rust and Phelan’s 1997 paper on Social Security, Medicare, and Retirement</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">2</a></sup>. In the spring, I teach the Economics of Human Capital in Latin America. The papers are mostly about the determinants of health and schooling in the region and most use reduced form program evaluation techniques. I teach just enough about difference-in-differences, matching, regression discontinuity, and instrumental variables so that my students can understand why an author chose a particular method and can interpret the results. By the end of the semester, my students can read a big chunk of the research literature that was previously inaccessible.</p>
-
-<h2 id="reading">Reading</h2>
-
-<p>I require my students to read two or three dense articles each week. I tell them they are hard and not to expect to understand everything immediately–these aren’t fluffy beach novels.  I encourage them to work at it and tell them I wouldn’t have assigned the articles if I didn’t they they were smart enough to figure them out.  To help them focus, students must fill out and submit a worksheet for each paper before we discuss it in class. Some articles (like surveys or policy reports) get special worksheets, but most worksheets contain these seven questions:</p>
-
-<ol>
-  <li>What is the research question? There may be more than one, but usually one is most important.</li>
-  <li>What is the answer to the research question?</li>
-  <li>Why is this paper important</li>
-  <li>If there is an economic model, what is the behavior or process being modeled? What are the key characteristics of the model?</li>
-  <li>What is the empirical approach?</li>
-  <li>What data does the paper use?</li>
-  <li>What didn’t you understand?</li>
-</ol>
-
-<p>The worksheets keep students thinking critically and constructively. The last question is most important to me as it tells me what I need to cover well during class time. The syllabus also suggests optional papers for most weeks in case students are particularly interested in a topic.</p>
-
-<h2 id="student-presentations">Student Presentations</h2>
-
-<p>Each week two or three students help me teach the class. They read the papers ahead of time and we meet to make sure they understand them well. These meetings are a pretty efficient way for me to review the week’s material and get to know my students. We usually plan short presentations on the papers that cover the basics quickly and some of the important technical parts that the rest of the class might have missed when they read the papers. Often the presentations contain new stuff from related or more recent papers to spur discussion. An easy way to put a class to sleep is to tell them things they already know.<sup id="fnref:2"><a href="#fn:2" rel="footnote">3</a></sup> The students then draft slides which I review the night before class. Again, it’s a great way for me to prepare and it means there is never a bad presentation.</p>
-
-<p>During class, I interrupt the speakers often to offer alternative explanations of difficult points and ask the rest of the students questions. I try to do it in a constructive/respectful way–the goal is for everyone to be engaged and at least following along.</p>
-
-<h2 id="discussion">Discussion</h2>
-
-<p>After the presentations, I usually divide the class into small groups of 4-5 students each and give each group a job. Sometimes they will design a conditional cash transfer program for a particular context. Sometimes they will prepare for a debate on alternatives to social security. Sometimes they will make a list of the three most important questions in an area that remain unanswered. The key is that the students never know exactly what’s going to happen when they walk into the classroom. After the groups work for 15-20 minutes, we all talk about what they’ve come with as a big group.</p>
-
-<p>Sometimes we don’t have time for any discussion because I’ve given a mini lecture about an econometric method that they need to know in order to do the reading for the next week. I’ll have a few questions for the class prepared, but mostly we proceed organically with an eye on the clock. </p>
-
-<h2 id="papersprojects">Papers/Projects</h2>
-
-<p>Most seminars require some sort of paper, but it’s often not well-defined and the instructor sees it for the first time when it’s passed in at the end of the semester.  That is very different from how it works in my seminars.  Each student works throughout the semester on a research proposal and gets lots of feedback from their peers and me during the process.  </p>
-
-<p>At about week 3, they pass in a one page summary of their research idea. Before this, I try and give an overview of the topics we’ll cover during the semester. I also describe three or four successful proposals from earlier semesters. Their one-pagers are ungraded but I do tell them if I think they’re on the right track, give them ideas on how to refine their ideas, and point them to relevant literature.</p>
-
-<p>They draft the front-end of the proposal in the middle of the semester. This builds on the research question and contains a literature review, a hypothesis, and an economic model. They’ve seen several models in papers and other classes by this point, but constructing one of your own to explain how a process works is a difficult but rewarding experience. I don’t expect them to formally prove any theorems based on their models–they can do that if they go to grad school.</p>
-
-<p>Before they pass in their mid-term proposal, I spend a little class time explaining what I expect in the literature review and walk through the process of constructing an example model. I also hold three or four “work groups” outside class where 5-6 students and I talk through each student’s project. It’s more time-efficient than having one-on-one meetings and incredibly useful for the students to hear about and contribute to each other’s work.</p>
-
-<p>I spend a fair bit of time giving constructive feedback on the midterm proposal. I give comparatively much less feedback on the final papers as most students don’t read those comments and even fewer will act on those comments. I expect every student to incorporate my mid-term feedback into their final paper.</p>
-
-<p>We have another round of work group meetings near the end of the semester to talk about the last pieces of the final proposal: the empirical approach and the data. Here’s where they have to decide how to actually answer the question they posed at the beginning of the semester. The whole process exercises the creative part of their brain that is vastly under-used in most classes. </p>
-
-<p>The important thing is not that the paper is a research proposal, though that works well for me. The key is that students actually work on it throughout the semester and get feedback along the way. </p>
-
-<h2 id="miscellaneous-advice">Miscellaneous Advice</h2>
-
-<p>I believe one of the most valuable services I provide is just being available. Elite college professors are not typically great teachers. They are selected for their research skills and knowledge of the field. They should use this comparative advantage in their teaching by answering questions and talking about the state-of-the-art.  These classes are small–I am never overwhelmed answering questions after class or during office hours.  We aren’t talking about 300 person lectures where you could spend your life answering student email.  The bottom line is that most students really appreciate human contact.</p>
-
-<p>I try to have a very open mind about improving the class and talk to other instructors about what works and doesn’t work for them.  I also take the last 15-20 minutes of the last class every semester getting direct feedback about what worked and what didn’t. Formal student evaluations are valuable, but they don’t allow for a conversation. I can throw out ideas and see what they think.  I can ask follow-up questions. Some students’ ideas spawn other students’ ideas. And every year, I learn new things that improve my class.</p>
-
-<p>I refresh my classes at least a little bit every time I teach. I’ll dump the worst week. I’ll add papers I’ve come across over the last year that are interesting and relevant. I’ll try new exercises in class. And I’ll change what I expect from student presentations. It’s a lot easier to keep students excited when I’m excited.</p>
-
-<p><strong>Footnotes:</strong></p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:3">
-      <p>Juniors can take these classes if they meet the pre-requisites (at least two of intermediate micro, intermediate macro, and econometrics), but seniors get priority and the most popular seminars are full by the time juniors can register. It’s a shame, really, since these seminars can be great training for writing a senior essay.<a href="#fnref:3" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:1">
-      <p>His exact words were “You can’t teach that paper to undergraduates!” He was wrong–the motivation and descriptive sections of the paper are very well-written and approachable. The model of retirement presented is tough, but straight-forward. And the results are easy to understand once you understand the model. We skip the heavy duty derivation of estimation method.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>It’s also a great way to encourage them to skip the reading.<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
