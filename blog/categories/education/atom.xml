@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-27T01:17:19-05:00</updated>
+  <updated>2013-12-30T23:39:56-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -25,31 +25,6 @@
 <p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
 
 <p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
-    <link href="http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation/"/>
-    <updated>2013-11-12T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation</id>
-    <content type="html"><![CDATA[<p>Last week I gave three reasons why <a href="2013-11-07-a-few-thoughts-on-grade-inflation">Yale shouldn’t worry so much about grade inflation</a>:</p>
-
-<ol>
-  <li>There is still enough room at the top of the grade distribution to separate students into Excellent (A), Good (A-), and Good enough (B+).</li>
-  <li>It doesn’t matter that you can’t reasonably compare today’s students to students from more than five years ago.</li>
-  <li>It’s actually a good thing for Yale undergraduates because employers and graduate schools like high grades.</li>
-</ol>
-
-<p>This doesn’t mean we should wash our hands and walk away–There are still some issues with grades that should be addressed.  First, grade distributions are still rising and we could end up in a place where there isn’t enough room at the top to distinguish great students. That wouldn’t be fair to those students because they are the ones who should get into the best graduate schools and get the best jobs. It would be nice to put the brakes on grade inflation even if we don’t need to reverse it.</p>
-
-<p>The economics department has had some success holding grade distributions steady since we started suggesting grade guidelines to our faculty before the end of every semester. They aren’t requirements, but the faculty do seem to take them seriously.</p>
-
-<p>The second issue is grade distributions at Yale vary across departments. In general, grades are higher (and more compressed) in courses that judge students based on essays, papers, and class participation where it’s just hard to assign a numeric grade. Courses that have more exams and problem sets where it’s much clearer what’s right and wrong tend to have more “traditional” grade distributions. This means students who care about grades shy away from classes and majors that are more likely to lower their GPA even if those classes might be more interesting or even beneficial in the long-term. I’ve had students who want to go to law school but feel like they won’t get into a top program because they took too much science and math.</p>
-
-<p>I don’t think it makes sense to force or even suggest that all classes follow the same grade distribution.  Even in my department, the guidelines are different for the more quantitative/analytical core classes than the more creative/applied advanced classes. I think the best way to head off potential future grade inflation is for departments to have their own suggested grading guidelines that may depend on the type of course.</p>
-
-<p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
 ]]></content>
   </entry>
   
@@ -165,6 +140,29 @@
 
 <p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Exams and Online Classes]]></title>
+    <link href="http://highvariance.net/blog/2013/08/23/exams-and-online-classes/"/>
+    <updated>2013-08-23T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2013/08/23/exams-and-online-classes</id>
+    <content type="html"><![CDATA[<p>With just a few exceptions, no one likes exams.  Students don’t like the stress of taking the exams, instructors have to write the exams, and someone usually has to grade them. In-class exams don’t give enough time for testing very much material, and if the test is too long, it punishes students who know their stuff but are just a little slow. Take-home exams can cover more content, but it can be very tempting for students to cheat by getting help from friends or the Internet. Unfortunately, we need objective assessments of how much each student has mastered the course material, and right now exams are the best tool we have.</p>
+
+<p>In an online class, exams are even trickier.  In my econometrics class this summer, we held our midterm and final exams in the virtual classroom.  At exam time, I emailed them a PDF with all the questions and my students wrote their answers on paper while my teaching assistant and I watched them through their webcams. We used pencil and paper because answering the questions required doing a fair amount of math and I wanted to see their work.  I didn’t want them to use valuable time slowly typing in symbols and equations. After two hours, they scanned their written answers (mostly with their phone cameras) and emailed them to me.  When I confirmed receipt and readability, the students were free to go.  </p>
+
+<p>The process was easy and convenient, but had one major flaw: it would have been pretty easy to cheat. I say this believing in my heart that none of my students cheated and having absolutely no evidence to even make me suspicious.  Even so, any one of them could have forwarded the exam PDF to a friend (or professional) and had them email back their answers.  The incentives for doing so are actually quite strong: Yale classes are not cheap and they get real Yale credit for my online class. Not to mention the fact that most elite college students care a lot about their GPA.</p>
+
+<p>A second problem we ran into was that students’ Internet connections were not always reliable.  When these connections dropped, some students didn’t even notice for a while and others had trouble reconnecting.  It wouldn’t have been fair to just disqualify those students, but again, it was a pretty huge opportunity to cheat. </p>
+
+<p>We considered three alternative testing procedures, but I think only one would be a clear improvement over what we did.  First, we thought about requiring students to have a separate webcam that would let us view their computer screen.  In this scenario, they couldn’t use their computer for evil, but I still think it would be relatively easy for them to cheat with an alternative device outside the frame of view.  Second, we investigated using an online service that locks down their computer for only exam taking purposes. <a href="https://webassessor.com">Webassessor</a> provides this service along with online proctors, but it would also require good webcam placement.  And both of these alternatives are still reliant on continuous connection to the Internet.</p>
+
+<p>The solution I like best is to use an in-person testing service where students go to a controlled physical location to take their exam.  <a href="https://www.prometric.com">Prometric</a> has more than 10,000 test taking centers all over the world–that means a huge fraction of the world’s population is within two hours drive of a center so it’s not all that inconvenient to travel to one one or two times during a course.</p>
+
+<p>Timing is an issue for all these solutions–that is, you’d like all your students to take the exam simultaneously so the early students can’t share information with those that take the exam later.  If your students are scattered around the globe, at least some of them will have to take their exam in the middle of the night and that doesn’t seem fair.  My students in the far east had to take their exams at either 10pm or 11pm.  One way around this problem would be to have two versions of the exam–one for each half of the planet.</p>
+
+<p>Next time I teach an online class where the stakes are high, I’m going to try to use a service like Prometric.  I’ll let you know how it goes.</p>
 ]]></content>
   </entry>
   

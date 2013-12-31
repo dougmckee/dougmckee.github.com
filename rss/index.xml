@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-27T01:17:19-05:00</updated>
+  <updated>2013-12-30T23:39:56-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[PDF Expert 5.0]]></title>
+    <link href="http://highvariance.net/blog/2013/12/30/pdf-expert-5/"/>
+    <updated>2013-12-30T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/30/pdf-expert-5</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://highvariance.net/images/hv-pdf-expert-5.jpeg" /></p>
+
+<p>More than a year ago I wrote <a href="http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">a quick review</a> of what I thought were the three best PDF annotation apps on the iPad. The clear winner for my needs was <a href="https://itunes.apple.com/app/id743974925?mt=8&amp;ign-mpt=uo%3D4">PDF Expert</a>. Things haven&rsquo;t changed much since then. <a href="http://brooksreview.net">Ben Brooks</a> just did a <a href="http://thesweetsetup.com/apps/best-pdf-manager-editor-ipad/">super-comprehensive review</a> over at <a href="http://thesweetsetup.com">The Sweet Setup</a>, and the latest version of PDF Expert (5.0) floated to the top. I just upgraded and worked it through its paces grading twenty 15-20 page papers. </p>
+
+<p>All the features PDF Expert had before are still there, and now they all work just a little better. The new annotation toolbar sits on the side taking up very little room. You can have multiple documents open simultaneously in separate tabs. I flipped back and forth between each student&rsquo;s final paper and their graded midterm draft so I could see if how they incorporated my earlier feedback. The synchronization with Dropbox is more reliable than it was&ndash;I used to get the occasional failed sync and 5.0 has been rock solid.</p>
+
+<p>There are lots of new features I haven&rsquo;t even tried yet. The most intriguing is a review mode that let&rsquo;s you edit the text and then transforms those edits into MS Word Track Changes style annotations. If I&rsquo;m working on a document with someone, I would <em>much</em> rather see their changes in a source format (like MS Word) where I can choose to accept or reject the changes. On the other hand, if I&rsquo;m giving heavy-handed feedback to a student on a draft, this might be just the ticket.</p>
+
+<p>My only complaint about 5.0 is ridiculously minor: when I backspace delete in a text box, the text flickers. That&rsquo;s it&ndash;everything else works great. </p>
+
+<p>For the last several months I&rsquo;ve done most of my PDF annotation on the Mac. A big screen and a real keyboard are advantages that are hard to beat. PDF Expert 5.0 has brought me back to the iPad. In portrait mode, I can thumb-type fast enough and the new toolbar is very efficient. With my reading glasses and a 12 point font, my iPad&rsquo;s screen size is fine. It&rsquo;s nice to be able to spend some productive time on my couch again.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Conan the Snowman]]></title>
@@ -64,7 +84,8 @@ I&rsquo;ll be back again some day.&rdquo;</p>
 
 <p>With the holidays upon us it seems like every geek blogger I read has been recommending family-friendly board games. <a href="http://macsparky.com/blog/2013boardgames">MacSparky</a> sent me to <a href="http://fannypackmafia.com/blog/2013/12/8/my-favorite-board-games-from-2013-part-one">Fanny Pack Mafia</a>, <a href="http://www.marco.org/2013/12/12/gift-guide-actually-used-for-a-year">Marco</a> says <a href="http://www.amazon.com/gp/product/B0007YDBLE/?tag=marcoorg-20">Power Grid</a> is really good, and <a href="http://kottke.org/13/11/how-to-quickly-get-good-at-chess">Kottke</a> is sending me to <a href="http://www.gautamnarula.com/how-to-get-good-at-chess-fast/">Gautam Narula</a> to improve my chess game. This is all well and good, but these games are a bit much for my 2.5 and 5 year old kids.  Maybe that&rsquo;s why our favorite game hasn&rsquo;t been on any of these lists.</p>
 
-<p>The rules for <a href="http://www.amazon.com/Jax-8001-Sequence-for-Kids/dp/B00005UM9P">Sequence for Kids</a> are simple. The game starts with each player getting three cards and a pile of their own colored chips. The cards have animals on them as does the board which is a 6x7 square grid. A turn consists of playing a card and putting one of your chips on a square that has the same animal that was on the card. Players replenish their hand by picking another card from the deck at the end of their turn. The goal is to get four chips in a row. There are two &ldquo;magical&rdquo; animals: The Unicorn card lets a player put their chip on any square while the Dragon card lets a player remove any chip from the board.</p>
+<p>The rules for <a href="http://www.amazon.com/gp/product/B00005UM9P/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00005UM9P&amp;linkCode=as2&amp;tag=highvari-20">Sequence for Kids</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=highvari-20&amp;l=as2&amp;o=1&amp;a=B00005UM9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+are simple. The game starts with each player getting three cards and a pile of their own colored chips. The cards have animals on them as does the board which is a 6x7 square grid. A turn consists of playing a card and putting one of your chips on a square that has the same animal that was on the card. Players replenish their hand by picking another card from the deck at the end of their turn. The goal is to get four chips in a row. There are two &ldquo;magical&rdquo; animals: The Unicorn card lets a player put their chip on any square while the Dragon card lets a player remove any chip from the board.</p>
 
 <p>Many games for little kids are designed simply to teach rule following and maybe some hand-eye coordination as the player spins a spinner or picks a card and moves their token along a track. Chutes and Ladders and Candyland are the canonical examples of a genre that rots adult brains. Sequence includes enough strategy that kids are challenged, and enough randomness that they have a chance to win against adults.</p>
 
@@ -519,31 +540,6 @@ quality was the show stopper. </p>
 <p>If the vampire wakes up, he is very angry and has 1d20 friendship resistance points. At this point, the player should notice the jewelry box. If she still doesn&rsquo;t grab it, the vampire should throw it at her, miss, and have it smash on the stairs revealing the key. The vampire will chase them down the stairs, but not into the dungeon. </p>
 
 <p>Happy adventuring!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
-    <link href="http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation/"/>
-    <updated>2013-11-12T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/12/two-more-thoughts-on-grade-inflation</id>
-    <content type="html"><![CDATA[<p>Last week I gave three reasons why <a href="2013-11-07-a-few-thoughts-on-grade-inflation">Yale shouldn’t worry so much about grade inflation</a>:</p>
-
-<ol>
-  <li>There is still enough room at the top of the grade distribution to separate students into Excellent (A), Good (A-), and Good enough (B+).</li>
-  <li>It doesn’t matter that you can’t reasonably compare today’s students to students from more than five years ago.</li>
-  <li>It’s actually a good thing for Yale undergraduates because employers and graduate schools like high grades.</li>
-</ol>
-
-<p>This doesn’t mean we should wash our hands and walk away–There are still some issues with grades that should be addressed.  First, grade distributions are still rising and we could end up in a place where there isn’t enough room at the top to distinguish great students. That wouldn’t be fair to those students because they are the ones who should get into the best graduate schools and get the best jobs. It would be nice to put the brakes on grade inflation even if we don’t need to reverse it.</p>
-
-<p>The economics department has had some success holding grade distributions steady since we started suggesting grade guidelines to our faculty before the end of every semester. They aren’t requirements, but the faculty do seem to take them seriously.</p>
-
-<p>The second issue is grade distributions at Yale vary across departments. In general, grades are higher (and more compressed) in courses that judge students based on essays, papers, and class participation where it’s just hard to assign a numeric grade. Courses that have more exams and problem sets where it’s much clearer what’s right and wrong tend to have more “traditional” grade distributions. This means students who care about grades shy away from classes and majors that are more likely to lower their GPA even if those classes might be more interesting or even beneficial in the long-term. I’ve had students who want to go to law school but feel like they won’t get into a top program because they took too much science and math.</p>
-
-<p>I don’t think it makes sense to force or even suggest that all classes follow the same grade distribution.  Even in my department, the guidelines are different for the more quantitative/analytical core classes than the more creative/applied advanced classes. I think the best way to head off potential future grade inflation is for departments to have their own suggested grading guidelines that may depend on the type of course.</p>
-
-<p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
 ]]></content>
   </entry>
   
