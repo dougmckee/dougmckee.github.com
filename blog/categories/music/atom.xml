@@ -4,7 +4,7 @@
   <title><![CDATA[music | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2013-12-30T23:54:14-05:00</updated>
+  <updated>2014-01-01T00:04:12-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Home Music System 3.0]]></title>
+    <link href="http://highvariance.net/blog/2013/12/31/home-music-streaming-3/"/>
+    <updated>2013-12-31T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/31/home-music-streaming-3</id>
+    <content type="html"><![CDATA[<p><a href="http://daringfireball.net/2013/12/the_year_in_apple_and_technology">John Gruber</a> loves to talk about how technology improves primarily through a series of small steps and the occasional big jump. While the first iPhone was revolutionary, the iPhone 5s is a far better product due to several incremental improvements, none of which got much attention along the way. In the last year, three small things changed in my home music system that make it better than <a href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/">the last time I wrote about it</a> and a <strong>lot</strong> better than when I <a href="http://highvariance.net/blog/2012/03/02/home-music-streaming/">first wrote about it</a>.</p>
+
+<p><img class="right" src="/images/hv-itunes-radio.jpeg"></p>
+
+<h2 id="itunes-radio">1. iTunes Radio</h2>
+
+<p>Right after releasing iOS 7, Apple updated it’s Remote app to 4.0. This is the app that lets you control iTunes on your computer from your phone. The main changes to the app were to the user interface–it became “lighter,” with thin fonts and textual buttons, and allowed you to move backwards by grabbing the left side of the screen and swiping. Feature-wise, it wasn’t much different from the previous version. This drove me crazy because iTunes Radio had just been launched and the new Remote app had not yet added support for it.</p>
+
+<p>When iTunes Radio was just a rumor, I wasn’t very interested as it seemed like it would be a simple clone of Pandora. The strange thing is that it <strong>did</strong> turn out to be a straight-forward clone of <a href="http://www.pandora.com">Pandora</a>, but I listened to it much more than I ever listened to Pandora. The integration with the iTunes Store is really nice. iTunes Radio keeps track of all the songs I’ve ever listened to, and with one click I can see a song in the iTunes Store, check out the whole album, and <a href="http://highvariance.net/blog/2012/02/06/albums/">maybe even buy it</a>. I also like the stations that are built in–tween pop is pretty good (for the kids, of course) and pop country is well curated too. </p>
+
+<p>Like Pandora, I can pick any artist and iTunes will create a custom radio station for them. Since there’s no Metalcore station built-in, I made a station out of <a href="http://en.wikipedia.org/wiki/Killswitch_Engage">Killswitch Engage</a>, the prototypical metalcore band. Unlike Pandora (as far as I can tell), iTunes Radio lets me “tune” the station to play more or less popular tracks by related artists by choosing “Hits,” “Variety,” or “Discovery” mode. And the pretty uncluttered UI in the iOS app is just what you would expect from Apple–definitely nicer than Pandora’s.</p>
+
+<p>In early December, Apple released Remote 4.1 with support for iTunes Radio and now I can stream it all over the house. Remote won’t show my Radio listening history and it’s laggier than I’d like, but I still use it all the time.</p>
+
+<p><img class="right" src="/images/hv-pioneer-a4.jpeg"></p>
+
+<h2 id="my-new-pioneer-a4">2. My new Pioneer A4</h2>
+
+<p>Lots of folks are perfectly happy playing music on their iPhone and sending it to a nearby speaker with either Bluetooth or a dock. My Airplay-from-a-server set up has several advantages that in my mind outweigh the small amount of added complexity and expense.  Since my phone is only controlling the music and not playing it, it doesn’t use up any power or need to be close by when the music is playing. That means I can wander to the other side of the house with my phone in my pocket and the music doesn’t come crashing to a halt. The sound quality over Airplay is better than over Bluetooth, and I don’t have to store any big music files on my phone–my whole library just sits on the Mac in my office. </p>
+
+<p>My favorite feature of the set up is being able to stream simultaneously to several speakers around the house, and this just got even better as I’ve added a <a href="http://www.amazon.com/Pioneer-XW-SMA4-K-Speaker-featuring-Wireless/dp/B00903HKXI">Pioneer A4 Airplay speaker</a> in the basement. The A4 got an amazingly <a href="http://thewirecutter.com/reviews/the-best-airplay-speaker/">positive review</a> in <a href="http://thewirecutter.com">the Wirecutter</a>, and was just $200, even though it sounds like it should cost much more. The set up instructions are horrific, but the set up itself was not so bad. I’m a little perplexed about why Pioneer would discontinue it without an obvious replacement product, but they did. If you have one or manage to get your hands on one, I highly recommend holding the input button down for 3 seconds to turn on Quick Start Mode. This changes the start up time from 35 seconds to under 5 seconds, and while they don’t tell you how much extra power it burns standing by, it’s definitely worth it.</p>
+
+<p><img class="right" src="/images/hv-airfoil.jpeg"></p>
+
+<h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
+
+<p><a href="http://www.rogueamoeba.com/airfoil/">Airfoil</a> is the application on my Mac that grabs output from <a href="https://www.spotify.com/us/">Spotify</a> and sends it to any Airplay destination(s) I choose in the house. When Apple released <a href="http://arstechnica.com/apple/2013/10/os-x-10-9/">Mavericks</a>, the new power management features broke Airfoil. The latest version of Airfoil works around this and also bakes in support for remote control, so I don’t need to run a separate Airfoil helper application anymore. <a href="http://remoteless.no">Remoteless</a>, the iOS app for controlling Spotify on the Mac also released an update recently that supports Airfoil directly, so I no longer need a separate Airfoil remote app on my phone.  The only software programs I need now to play almost any album anywhere in the house are Spotify and Airfoil running on the Mac, and Remoteless on iOS.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[So Embarrassing]]></title>
@@ -334,33 +369,6 @@ Chorus
 
 <p>All that said, my girls do put up with it in small doses and I certainly enjoy it!</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How our home music system got a little more complicated and a lot more awesome]]></title>
-    <link href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/"/>
-    <updated>2013-02-16T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/02/16/home-music-streaming-2</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-music-apps.png" alt="music apps" title="The music row of my iPhone home screen" /></p>
-
-<p>Our household is heavily invested in iTunes. We have a big collection on an iMac that never sleeps. We have an AppleTV in the living room and an Airport Express in the kitchen that serve as AirPlay destinations. With the iOS Remote app, we can stream whatever we want wherever we want. It doesn’t depend on Bluetooth or on keeping iPods synced up to date, and now that our wifi network is working well<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, <a href="/blog/2012/03/02/home-music-streaming/">it’s great</a>. But I wanted more. </p>
-
-<p>It turns out that our current 13,585 songs is not enough. Pretty often I’ll hear a new “artist”<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> on the radio and want to hear more from them. In the olden days I would carefully listen to 90 second samples in the iTMS and fret about <a href="/blog/2012/02/06/albums/">whether to invest in the whole album</a>. Now I can login to <a href="http://www.spotify.com">Spotify</a> on the desktop and listen to as much as I want over and over. If only there was a way to easily spread this goodness around the house. Of course there is.</p>
-
-<p>The key to the system is a piece of Mac software made by <a href="http://rogueamoeba.com">Rogue Amoeba</a> called <a href="http://rogueamoeba.com/airfoil/">AirFoil</a>. It costs $25 and it will push the audio output of any app to any Airplay destinations. The next piece of the puzzle is an iPhone app called <a href="https://itunes.apple.com/us/app/reemote-for-airfoil/id396381723">Reemote</a> ($4.99) that remotely controls AirFoil. Another iPhone app called <a href="https://itunes.apple.com/app/remoteless-for-spotify/id353392482">Remoteless</a> ($2.99) lets me control the desktop Spotify and do things like search for artists, albums, or songs to play.  Each app requires a free helper app that runs on the Mac. If you’re willing to put up with Spotify’s ads (so far I am), the service is free! </p>
-
-<p>Once Spotify, iTunes, and the two helper apps are up and running, here’s how it works. If I want to play music from my library, I bring up Reemote and make sure Airfoil streaming is turned off to my three destinations. Then I use Remote just as I used to. If I then want to play something with Spotify, I tell Remote to stream only to the computer and tell Reemote to stream to either the kitchen or the living room or both. Then I use Remoteless to get Spotify going. The process is surprisingly efficient when all three apps are on your iPhone’s home screen. The system itself is a little finicky and does occasionally require me to restart Spotify on the desktop, but the extra power is so worth it.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>With one click of a checkbox in the Airport Utility, the kitchen Airport Express now does double duty as a network extender. Suddenly reception downstairs went from 1-2 bars at best to mostly 5 bars.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-    <li id="fn:2">
-      <p>Are Carly Rae Jepson and Owl City artists? By my definition, absolutely!<a href="#fnref:2" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
