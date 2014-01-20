@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-01-01T00:04:12-05:00</updated>
+  <updated>2014-01-19T23:56:42-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -85,7 +85,7 @@
 
 <p>Markdown is an extremely simple but incredibly powerful way to add a bit of formatting to plain text without losing any of plain text’s benefits.  When I write with Markdown, I can still use my favorite editing applications. At the same time, I can have section headings, bold, italic, lists, links, and more.  Markdown does a lot of what HTML was originally designed to do but is much easier to write and much easier to read. It’s also easy to translate Markdown into any of these other formats when you need them. </p>
 
-<p>My favorite thing about Markdown is that there is almost no learning curve–most people already use pieces of it without realizing it. If you want to <em>emphasize</em> a few <strong>words</strong>, you put <code>*one*</code> or <code>**two**</code> stars around them. If you want to make a bulleted list, you use stars for that too.  </p>
+<p>My favorite thing about Markdown is that there is almost no learning curve–most people already use pieces of it without realizing it. If you want to <em>emphasize</em> a few <strong>words</strong>, you put one or two stars around them. If you want to make a bulleted list, you use stars for that too.  </p>
 
 <p>This:</p>
 
