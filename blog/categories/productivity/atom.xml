@@ -4,7 +4,7 @@
   <title><![CDATA[productivity | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/productivity/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-01-19T23:56:42-05:00</updated>
+  <updated>2014-01-30T22:06:03-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exploiting Irrationality]]></title>
+    <link href="http://highvariance.net/blog/2014/01/30/exploiting-irrationality/"/>
+    <updated>2014-01-30T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/01/30/exploiting-irrationality</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-floss.png"></p>
+
+<p>When I was growing up, none of the several clocks in the house told the correct time. My mother would set them all between 5 and 30 minutes fast in an effort to fool herself into leaving the house when she was supposed to. I thought this was completely insane. Why not just wake up early enough to do what you needed to do, and then do that? Why play these games with yourself when pure rationality would suffice?</p>
+
+<p>The answer (of course) is that my mother is far from completely rational, and this system worked for her in a way that my proposed system just didn’t. And while I like to think that I’m not as crazy as my mother, I’m not an automaton either. It’s taken me a long time to give in to that and start exploiting some of my foibles for good.</p>
+
+<p>A few weeks ago, I read <a href="http://www.macworld.com/article/2085007/the-iphone-habit-apps-that-help-you-keep-your-new-years-resolutions.html">an article</a> by my productivity sensei (<a href="http://macsparky.com">David Sparks</a>) where he recommended an iPhone app called <a href="http://habitlist.com">Habit List</a> for folks trying to kickstart good habits. There’s <a href="http://en.wikipedia.org/wiki/Habit">some scientific research</a> that says if you can somehow get yourself to do something regularly for a few weeks, it becomes a lot easier to continue doing it. There’s also some <a href="http://en.wikipedia.org/wiki/Candy_Crush">evidence</a> that games can be addictive. In a nutshell, Habit List makes doing mundane things into a game. By the time you’re bored with the game, the habit has been formed.</p>
+
+<p>Since I installed Habit List, I’ve managed to floss every day except one (thanks stomach flu!). My exercise program has been less successful, but that’s more the fault of the cold weather and that same stomach flu than a failure of the app. You can bet that I’ll be plugging in some more easy-to-ignore-but-good-for-me chores soon.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Step on My Way to Paperless Nirvana: The Fujitsu ScanSnap iX500]]></title>

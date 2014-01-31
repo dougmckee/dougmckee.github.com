@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-01-19T23:56:42-05:00</updated>
+  <updated>2014-01-30T22:06:03-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exploiting Irrationality]]></title>
+    <link href="http://highvariance.net/blog/2014/01/30/exploiting-irrationality/"/>
+    <updated>2014-01-30T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/01/30/exploiting-irrationality</id>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-floss.png"></p>
+
+<p>When I was growing up, none of the several clocks in the house told the correct time. My mother would set them all between 5 and 30 minutes fast in an effort to fool herself into leaving the house when she was supposed to. I thought this was completely insane. Why not just wake up early enough to do what you needed to do, and then do that? Why play these games with yourself when pure rationality would suffice?</p>
+
+<p>The answer (of course) is that my mother is far from completely rational, and this system worked for her in a way that my proposed system just didn’t. And while I like to think that I’m not as crazy as my mother, I’m not an automaton either. It’s taken me a long time to give in to that and start exploiting some of my foibles for good.</p>
+
+<p>A few weeks ago, I read <a href="http://www.macworld.com/article/2085007/the-iphone-habit-apps-that-help-you-keep-your-new-years-resolutions.html">an article</a> by my productivity sensei (<a href="http://macsparky.com">David Sparks</a>) where he recommended an iPhone app called <a href="http://habitlist.com">Habit List</a> for folks trying to kickstart good habits. There’s <a href="http://en.wikipedia.org/wiki/Habit">some scientific research</a> that says if you can somehow get yourself to do something regularly for a few weeks, it becomes a lot easier to continue doing it. There’s also some <a href="http://en.wikipedia.org/wiki/Candy_Crush">evidence</a> that games can be addictive. In a nutshell, Habit List makes doing mundane things into a game. By the time you’re bored with the game, the habit has been formed.</p>
+
+<p>Since I installed Habit List, I’ve managed to floss every day except one (thanks stomach flu!). My exercise program has been less successful, but that’s more the fault of the cold weather and that same stomach flu than a failure of the app. You can bet that I’ll be plugging in some more easy-to-ignore-but-good-for-me chores soon.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Home Music System 3.0]]></title>
@@ -135,34 +153,6 @@
 <p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
 
 <p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Three Great Product Features]]></title>
-    <link href="http://highvariance.net/blog/2013/12/04/three-great-product-features/"/>
-    <updated>2013-12-04T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/12/04/three-great-product-features</id>
-    <content type="html"><![CDATA[<p>Great products get reviewed and talked about, but great features of good products often fly under the radar. They can seem obvious in hindsight or just have a niche group that really appreciates them. Here are three of my favorites that deserve more notice.</p>
-
-<p><img class="right" src="/images/hv-control-center.png"></p>
-
-<p><strong>1. Control Center</strong></p>
-
-<p>Hands down my favorite new feature of iOS 7, the Control Center removes lots of little dead moments from my life. Every night I lock my phone into portrait mode when I get in bed. I use the flashlight at least twice a day. I select an Airplay destination or use the music controls about twice a day. And in the morning I free up the phone’s orientation again. Since I don’t even have to unlock the phone to do any of this, it saves me at least five seconds each time. That adds up to a minimum of 30 seconds a day and three whole hours a year.</p>
-
-<p><img class="left" src="/images/hv-whispersync.jpg"></p>
-
-<p><strong>2. Whispersync</strong></p>
-
-<p>After the kids go to sleep and I’m cleaning the kitchen or putting toys away, I like to listen to audiobooks. When it’s particularly gripping, I continue to read the book on my phone in bed using the Kindle app. Whispersync means I automatically pick up right where I left off on the audio. The next night when I start listening again, the Audible app jumps to where I was in the e-book. I can’t imagine too many people take advantage of this, but I love it. </p>
-
-<p><img class="right" src="/images/hv-sneeze-shield.jpg"></p>
-
-<p><strong>3. Sneeze Shield</strong></p>
-
-<p>Maybe our bedroom is dusty. Maybe I have allergies. Maybe I get a lot of low-grade colds. I don’t know why I sneeze a few times almost every morning when I wake up, but I do. And with two little kids, we all get our share of normal-grade colds. This means we go through a lot of tissues. Sneeze Shield means the tissue doesn’t fall apart when a grown up blows into it. I don’t miss handfuls of wet snot at all.</p>
-
 ]]></content>
   </entry>
   
