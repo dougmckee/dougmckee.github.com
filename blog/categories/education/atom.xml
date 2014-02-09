@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-01-30T22:06:03-05:00</updated>
+  <updated>2014-02-08T21:48:29-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Teaching Philosophy]]></title>
+    <link href="http://highvariance.net/blog/2014/02/08/my-teaching-philosophy/"/>
+    <updated>2014-02-08T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/02/08/my-teaching-philosophy</id>
+    <content type="html"><![CDATA[<p>In the past five years, I have done a lot of teaching. In total, I’ve taught 25 classes covering many different formats for several different disciplines ranging from economics to public health to medicine. Reflecting on these experiences, I would characterize my approach to teaching as having three core parts. First, students must actively engage in the learning process inside and outside the classroom. Second, there is incredible value in building a high level of trust with students. Third, in addition to teaching facts and knowledge, I teach and nurture creativity.</p>
+
+<p>I find that students learn and retain far more when they are actively involved in the process. I encourage this engagement by teaching classes that are a series of short  (15-20 minute) lectures, discussions, and group activities. I motivate topics with questions that the students care about personally, intellectually, and socially, and I try to build connections between what they already know and the new material I teach. In this way, I make teaching personal so that each student feels individually invested in the class. I make learning active by creating opportunities for individuals to express their opinions and concerns. In seminars, I often have students work in small groups. In lectures I work hard to find examples that my students will find interesting and intersperse many “practice breaks” in which students work on practicing the skills I have just taught while I walk around and engage with individuals. </p>
+
+<p>One of the best ways to come up with questions and topics that students care about is to get to know students as people. Building a level of trust with my students pays off in many ways. It allows me to recover from the inevitable mistakes all teachers make in front of the class. It means students stay engaged even if they don’t understand a new idea right away, and it means they will tell me when they don’t understand instead of simply tuning out. To build this level of trust, I try to learn their names quickly, talk to students after class and in office hours, and find out what motivates them individually. I treat my undergraduates as adults, and I give them honest constructive feedback on their work. I expect them to work hard, and in return I work hard.</p>
+
+<p>In addition to teaching the substantive content of a course, I work hard to teach creativity. Many students come to my classes eager to learn facts and methods, but I try to show them how to ask smart questions and think creatively about how to answer these questions. While most economics classes show and analyze formal economic models, I require my students to write down new models that formalize their own ideas. I try to inspire them to be intellectually ambitious and reward this ambition by investing extra time to guide it or bring order to their thoughts. </p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Online tech in an in-person seminar: An experiment]]></title>
@@ -140,29 +155,6 @@
 
 <p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Exams and Online Classes]]></title>
-    <link href="http://highvariance.net/blog/2013/08/23/exams-and-online-classes/"/>
-    <updated>2013-08-23T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/08/23/exams-and-online-classes</id>
-    <content type="html"><![CDATA[<p>With just a few exceptions, no one likes exams.  Students don’t like the stress of taking the exams, instructors have to write the exams, and someone usually has to grade them. In-class exams don’t give enough time for testing very much material, and if the test is too long, it punishes students who know their stuff but are just a little slow. Take-home exams can cover more content, but it can be very tempting for students to cheat by getting help from friends or the Internet. Unfortunately, we need objective assessments of how much each student has mastered the course material, and right now exams are the best tool we have.</p>
-
-<p>In an online class, exams are even trickier.  In my econometrics class this summer, we held our midterm and final exams in the virtual classroom.  At exam time, I emailed them a PDF with all the questions and my students wrote their answers on paper while my teaching assistant and I watched them through their webcams. We used pencil and paper because answering the questions required doing a fair amount of math and I wanted to see their work.  I didn’t want them to use valuable time slowly typing in symbols and equations. After two hours, they scanned their written answers (mostly with their phone cameras) and emailed them to me.  When I confirmed receipt and readability, the students were free to go.  </p>
-
-<p>The process was easy and convenient, but had one major flaw: it would have been pretty easy to cheat. I say this believing in my heart that none of my students cheated and having absolutely no evidence to even make me suspicious.  Even so, any one of them could have forwarded the exam PDF to a friend (or professional) and had them email back their answers.  The incentives for doing so are actually quite strong: Yale classes are not cheap and they get real Yale credit for my online class. Not to mention the fact that most elite college students care a lot about their GPA.</p>
-
-<p>A second problem we ran into was that students’ Internet connections were not always reliable.  When these connections dropped, some students didn’t even notice for a while and others had trouble reconnecting.  It wouldn’t have been fair to just disqualify those students, but again, it was a pretty huge opportunity to cheat. </p>
-
-<p>We considered three alternative testing procedures, but I think only one would be a clear improvement over what we did.  First, we thought about requiring students to have a separate webcam that would let us view their computer screen.  In this scenario, they couldn’t use their computer for evil, but I still think it would be relatively easy for them to cheat with an alternative device outside the frame of view.  Second, we investigated using an online service that locks down their computer for only exam taking purposes. <a href="https://webassessor.com">Webassessor</a> provides this service along with online proctors, but it would also require good webcam placement.  And both of these alternatives are still reliant on continuous connection to the Internet.</p>
-
-<p>The solution I like best is to use an in-person testing service where students go to a controlled physical location to take their exam.  <a href="https://www.prometric.com">Prometric</a> has more than 10,000 test taking centers all over the world–that means a huge fraction of the world’s population is within two hours drive of a center so it’s not all that inconvenient to travel to one one or two times during a course.</p>
-
-<p>Timing is an issue for all these solutions–that is, you’d like all your students to take the exam simultaneously so the early students can’t share information with those that take the exam later.  If your students are scattered around the globe, at least some of them will have to take their exam in the middle of the night and that doesn’t seem fair.  My students in the far east had to take their exams at either 10pm or 11pm.  One way around this problem would be to have two versions of the exam–one for each half of the planet.</p>
-
-<p>Next time I teach an online class where the stakes are high, I’m going to try to use a service like Prometric.  I’ll let you know how it goes.</p>
 ]]></content>
   </entry>
   
