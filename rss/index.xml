@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-02-09T07:26:50-05:00</updated>
+  <updated>2014-02-13T22:57:53-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Second Blogoversary]]></title>
+    <link href="http://highvariance.net/blog/2014/02/13/my-second-blogoversary/"/>
+    <updated>2014-02-13T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/02/13/my-second-blogoversary</id>
+    <content type="html"><![CDATA[<p>In the past few weeks this blog has achieved two big milestones: December 21 marked the second anniversary of <a href="http://highvariance.net/blog/2011/12/21/first-post/">my first post</a>, and on December 30, I published my 100th article. To mark the occasion, I thought it would be fun to reflect on the past two years quantitatively.</p>
+
+<p>In <a href="http://highvariance.net/blog/2012/12/22/happy-blogoversary/">2012</a>, I published 54 articles with 29,699 words, and in 2013, I posted 44 articles with 27,938 words–a decline, but not a major one. The average length of an article went up (550 words vs. 635 words) as did the standard deviation of the word count per article (296 words vs. 394 words). The increasing variance on this dimension can be seen visually in these two overlaid histograms:</p>
+
+<p><img src="http://highvariance.net/images/analyze-2014-02-09/wchist.png" /></p>
+
+<p>So is this blog high variance in article length? That’s hard to say without scraping a bunch of other blogs and analyzing the data. <a href="http://mattgemmell.com/how-i-write/">Matt Gemmell</a> says the distribution of his article lengths is bimodal:</p>
+
+<blockquote>
+  <p>When I’m not writing to a count, I have two natural lengths of piece:</p>
+
+  <ul>
+    <li>700 to 1,000 words for a compact exposition on a topic. This is also an ideal bite-sized chunk of text for the reader, and fits well on a single page. It’s no coincidence that the majority of commissioned magazine pieces fall into this band.</li>
+    <li>2,000 to 3,500 words for a more detailed exploration or discussion.</li>
+  </ul>
+
+  <p>The zone between the two is a death march.</p>
+</blockquote>
+
+<p>I seem to have one natural length, but its range is a bit broader than Matt’s shorter pieces, as only half my articles fall within 369 and 724 words. If you include Matt’s longer pieces, he clearly wears the higher variance crown.</p>
+
+<p>The yearly numbers mask an interesting monthly pattern. While I wrote a little less in 2013, I was more consistent in my output during the year. In both years I started strong, gradually slowed down, and then picked up the pace again in the fall:</p>
+
+<p><img src="http://highvariance.net/images/analyze-2014-02-09/ac.png" />
+<img src="http://highvariance.net/images/analyze-2014-02-09/wc.png" /></p>
+
+<p>Most article content seems to have settled into a small set of categories (<a href="http://localhost:4000/blog/categories/tech/">tech</a>, <a href="http://localhost:4000/blog/categories/kids/">kids</a>, <a href="http://localhost:4000/blog/categories/education/">education</a>, and <a href="http://localhost:4000/blog/categories/music/">music</a>. You could even make an argument that you’re reading a mixture of four distinct extremely low-traffic blogs with the occasional off-the-wall post thrown in. The below picture shows article counts by tag for each year for each tag that had more than one article. Many articles are tagged more than one way and every article I’ve published had at least one of the tags shown below. I wrote a bit more about education and Conan in 2013 and a bit less about music, but I’m not sure those trends will continue in 2014.</p>
+
+<p><img src="http://highvariance.net/images/analyze-2014-02-09/tags.png" /></p>
+
+<p>On the demand side, High Variance had 8,504 unique visitors in 2013 (up from 2,017) and 13,809 page views (up from 4,000). Chris Blattmann <a href="http://chrisblattman.com/2013/04/18/links-i-liked-220/">pointed his firehose my way</a> in mid-April, but even if I ignore that week (961 unique visitors and 1,578 page views), readership is still way up for the year.</p>
+
+<p><img src="http://highvariance.net/images/analyze-2014-02-09/traffic-2013.png" /></p>
+
+<p>To celebrate, I’ve made a few minor tweeks to the site. First, I’ve added an <a href="http://ifttt.com">IFTTT</a> rule that tweets every time I post something new. You can follow me at <a href="https://twitter.com/intent/follow?screen_name=HighVarianceNet">HighVarianceNet</a>. Second, I’ve made it easier to share content on the site by adding links for tweeting articles and sharing them on Facebook. Third, I’ve signed up as an <a href="https://affiliate-program.amazon.com/gp/associates/join/landing/main.html">Amazon associate</a>. That means if you follow a link from this site to Amazon and then buy the product, you’ll pay the same price but I’ll get a few cents. Maybe by the end of next year I’ll be able to celebrate with a free cup of coffee.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Exploiting Irrationality]]></title>
@@ -884,29 +928,6 @@ Chorus
 
 <p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Exams and Online Classes]]></title>
-    <link href="http://highvariance.net/blog/2013/08/23/exams-and-online-classes/"/>
-    <updated>2013-08-23T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/08/23/exams-and-online-classes</id>
-    <content type="html"><![CDATA[<p>With just a few exceptions, no one likes exams.  Students don’t like the stress of taking the exams, instructors have to write the exams, and someone usually has to grade them. In-class exams don’t give enough time for testing very much material, and if the test is too long, it punishes students who know their stuff but are just a little slow. Take-home exams can cover more content, but it can be very tempting for students to cheat by getting help from friends or the Internet. Unfortunately, we need objective assessments of how much each student has mastered the course material, and right now exams are the best tool we have.</p>
-
-<p>In an online class, exams are even trickier.  In my econometrics class this summer, we held our midterm and final exams in the virtual classroom.  At exam time, I emailed them a PDF with all the questions and my students wrote their answers on paper while my teaching assistant and I watched them through their webcams. We used pencil and paper because answering the questions required doing a fair amount of math and I wanted to see their work.  I didn’t want them to use valuable time slowly typing in symbols and equations. After two hours, they scanned their written answers (mostly with their phone cameras) and emailed them to me.  When I confirmed receipt and readability, the students were free to go.  </p>
-
-<p>The process was easy and convenient, but had one major flaw: it would have been pretty easy to cheat. I say this believing in my heart that none of my students cheated and having absolutely no evidence to even make me suspicious.  Even so, any one of them could have forwarded the exam PDF to a friend (or professional) and had them email back their answers.  The incentives for doing so are actually quite strong: Yale classes are not cheap and they get real Yale credit for my online class. Not to mention the fact that most elite college students care a lot about their GPA.</p>
-
-<p>A second problem we ran into was that students’ Internet connections were not always reliable.  When these connections dropped, some students didn’t even notice for a while and others had trouble reconnecting.  It wouldn’t have been fair to just disqualify those students, but again, it was a pretty huge opportunity to cheat. </p>
-
-<p>We considered three alternative testing procedures, but I think only one would be a clear improvement over what we did.  First, we thought about requiring students to have a separate webcam that would let us view their computer screen.  In this scenario, they couldn’t use their computer for evil, but I still think it would be relatively easy for them to cheat with an alternative device outside the frame of view.  Second, we investigated using an online service that locks down their computer for only exam taking purposes. <a href="https://webassessor.com">Webassessor</a> provides this service along with online proctors, but it would also require good webcam placement.  And both of these alternatives are still reliant on continuous connection to the Internet.</p>
-
-<p>The solution I like best is to use an in-person testing service where students go to a controlled physical location to take their exam.  <a href="https://www.prometric.com">Prometric</a> has more than 10,000 test taking centers all over the world–that means a huge fraction of the world’s population is within two hours drive of a center so it’s not all that inconvenient to travel to one one or two times during a course.</p>
-
-<p>Timing is an issue for all these solutions–that is, you’d like all your students to take the exam simultaneously so the early students can’t share information with those that take the exam later.  If your students are scattered around the globe, at least some of them will have to take their exam in the middle of the night and that doesn’t seem fair.  My students in the far east had to take their exams at either 10pm or 11pm.  One way around this problem would be to have two versions of the exam–one for each half of the planet.</p>
-
-<p>Next time I teach an online class where the stakes are high, I’m going to try to use a service like Prometric.  I’ll let you know how it goes.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[blog | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-02-09T07:26:50-05:00</updated>
+  <updated>2014-02-13T22:57:53-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Second Blogoversary]]></title>
+    <link href="http://highvariance.net/blog/2014/02/13/my-second-blogoversary/"/>
+    <updated>2014-02-13T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/02/13/my-second-blogoversary</id>
+    <content type="html"><![CDATA[<p>In the past few weeks this blog has achieved two big milestones: December 21 marked the second anniversary of <a href="http://highvariance.net/blog/2011/12/21/first-post/">my first post</a>, and on December 30, I published my 100th article. To mark the occasion, I thought it would be fun to reflect on the past two years quantitatively.</p>
+
+<p>In <a href="http://highvariance.net/blog/2012/12/22/happy-blogoversary/">2012</a>, I published 54 articles with 29,699 words, and in 2013, I posted 44 articles with 27,938 words–a decline, but not a major one. The average length of an article went up (550 words vs. 635 words) as did the standard deviation of the word count per article (296 words vs. 394 words). The increasing variance on this dimension can be seen visually in these two overlaid histograms:</p>
+
+<p><img src="/images/analyze-2014-02-09/wchist.png"></p>
+
+<p>So is this blog high variance in article length? That’s hard to say without scraping a bunch of other blogs and analyzing the data. <a href="http://mattgemmell.com/how-i-write/">Matt Gemmell</a> says the distribution of his article lengths is bimodal:</p>
+
+<blockquote>
+  <p>When I’m not writing to a count, I have two natural lengths of piece:</p>
+
+  <ul>
+    <li>700 to 1,000 words for a compact exposition on a topic. This is also an ideal bite-sized chunk of text for the reader, and fits well on a single page. It’s no coincidence that the majority of commissioned magazine pieces fall into this band.</li>
+    <li>2,000 to 3,500 words for a more detailed exploration or discussion.</li>
+  </ul>
+
+  <p>The zone between the two is a death march.</p>
+</blockquote>
+
+<p>I seem to have one natural length, but its range is a bit broader than Matt’s shorter pieces, as only half my articles fall within 369 and 724 words. If you include Matt’s longer pieces, he clearly wears the higher variance crown.</p>
+
+<p>The yearly numbers mask an interesting monthly pattern. While I wrote a little less in 2013, I was more consistent in my output during the year. In both years I started strong, gradually slowed down, and then picked up the pace again in the fall:</p>
+
+<p><img src="/images/analyze-2014-02-09/ac.png">
+<img src="/images/analyze-2014-02-09/wc.png"></p>
+
+<p>Most article content seems to have settled into a small set of categories (<a href="http://localhost:4000/blog/categories/tech/">tech</a>, <a href="http://localhost:4000/blog/categories/kids/">kids</a>, <a href="http://localhost:4000/blog/categories/education/">education</a>, and <a href="http://localhost:4000/blog/categories/music/">music</a>. You could even make an argument that you’re reading a mixture of four distinct extremely low-traffic blogs with the occasional off-the-wall post thrown in. The below picture shows article counts by tag for each year for each tag that had more than one article. Many articles are tagged more than one way and every article I’ve published had at least one of the tags shown below. I wrote a bit more about education and Conan in 2013 and a bit less about music, but I’m not sure those trends will continue in 2014.</p>
+
+<p><img src="/images/analyze-2014-02-09/tags.png"></p>
+
+<p>On the demand side, High Variance had 8,504 unique visitors in 2013 (up from 2,017) and 13,809 page views (up from 4,000). Chris Blattmann <a href="http://chrisblattman.com/2013/04/18/links-i-liked-220/">pointed his firehose my way</a> in mid-April, but even if I ignore that week (961 unique visitors and 1,578 page views), readership is still way up for the year.</p>
+
+<p><img src="/images/analyze-2014-02-09/traffic-2013.png"></p>
+
+<p>To celebrate, I’ve made a few minor tweeks to the site. First, I’ve added an <a href="http://ifttt.com">IFTTT</a> rule that tweets every time I post something new. You can follow me at <a href="https://twitter.com/intent/follow?screen_name=HighVarianceNet">HighVarianceNet</a>. Second, I’ve made it easier to share content on the site by adding links for tweeting articles and sharing them on Facebook. Third, I’ve signed up as an <a href="https://affiliate-program.amazon.com/gp/associates/join/landing/main.html">Amazon associate</a>. That means if you follow a link from this site to Amazon and then buy the product, you’ll pay the same price but I’ll get a few cents. Maybe by the end of next year I’ll be able to celebrate with a free cup of coffee.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scratching my nerd itch with Octopress]]></title>
@@ -190,44 +234,6 @@ forum-spam, but I have a feeling that’s going to be a while.  Until
 then, comments will stay turned on.</p>
 
 <p><a href="http://highvariance.net/post/15402930759/update-comments-on-blogs">UPDATE HERE</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://highvariance.net/blog/2011/12/21/first-post/"/>
-    <updated>2011-12-21T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2011/12/21/first-post</id>
-    <content type="html"><![CDATA[<p>I’m sure there are hundreds (if not thousands) of articles on the web
-about why one should (or shouldn’t) blog, but I think this is a very
-personal question.  For me, the first (but not the only) reason is that
-I want to consume less and create more.  Of course, blogging is
-something I’ve thought about for a long time and
-<a href="http://www.quora.com/Chris-Wake/Hidden-habits-of-ineffective-people">this article</a> was the straw that filled the camel’s stomach.</p>
-
-<p>I also feel the only way to write better and more comfortably is to
-write, and blogging is a natural and fun form of writing.  I think it
-lends itself to the 15-30 minute chunks that I’m planning to invest.  I
-tried Twitter a few months ago as way to scratch my blogging itch and
-the experience confirmed for me that tweeting isn’t writing. Even my
-tiny attention span is too long for Twitter.</p>
-
-<p>But these two goals could have been accomplished with a personal
-journal.  That didn’t feel right either, because I also aspire to
-providing entertaining, useful, and inspiring content, though achieving
-just one or two of these at a time is probably a more achievable goal.
-Having an audience also has perks: It’s a great incentive to not put out
-junk.  You don’t even need an audience to get this benefit–just a
-potential audience.  I’m also looking forward to hearing occasional
-feedback on stuff I write.</p>
-
-<p>So what’s on the horizon?  To be honest, this might be one of those
-projects I start that fizzles almost immediately.  I almost named this
-Ghost Blog in honor of that possibility.  But instead, I went with a
-more optimistically descriptive title because I have eclectic plans for
-this space.  And while this is most definitely not a purely professional
-blog, I don’t plan to write anything that will prevent me from holding
-elected office.</p>
 ]]></content>
   </entry>
   
