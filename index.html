@@ -9,7 +9,7 @@
   <meta name="author" content="Doug McKee">
 
   
-  <meta name="description" content="In the past few weeks this blog has achieved two big milestones: December 21 marked the second anniversary of my first post, and on December 30, I &hellip;">
+  <meta name="description" content="I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -28,6 +28,22 @@
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre',
+      'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
   
   <script type="text/javascript">
@@ -82,6 +98,71 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2014/02/14/stat-nerd-trivia/">Three Pieces of Stat Nerd Trivia</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-14T00:00:00-05:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
+
+<p><strong>1. Where does the word “logit” come from?</strong></p>
+
+<p>One of the earliest probablistic models of a binary process is the <a href="http://en.wikipedia.org/wiki/Probit">probit</a>. It was developed by Chester Bliss in 1934, and in this paper he coined the term as a shortening of the phrase “probability unit”. The idea is that a one unit increase in an independent variable changes the probability of the outcome occurring by a constant number of probability units. Probits can be translated into actual probabilities using a particular non-linear transformation: the cumulative distribution function of the standard normal. That is, we have:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \Phi(\beta_0 + \beta_1 x_i)
+</script>
+
+<p>In 1944, Joseph Berkson developed a similar model that also mapped the real line to the (0,1) interval, this time using the logistic function:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \frac{\exp(\beta_0 + \beta_1 x_i)}{1 + \exp(\beta_0 + \beta_1 x_i)}
+</script>
+
+<p>By analogy, this model was given the name logit.</p>
+
+<p><strong>2. Why does Stata store dates as the number of days since January 1, 1960?</strong></p>
+
+<p><a href="https://www.dur.ac.uk/geography/staff/geogstaffhidden/?id=335">Nick Cox</a> knows a lot about <a href="http://www.stata.com">Stata</a>, and even he does not know exactly why this date was chosen as the origin for internal dates. His <a href="http://www.stata.com/statalist/archive/2003-08/msg00379.html">best guess</a> is that it was copied from “some data base or spreadsheet program”. My guess is that Stata copied SAS which uses the same date as the date-time origin. </p>
+
+<p>This led me to wonder why SAS chose the date, and Derek Morgan (in <a href="http://books.google.com/books?id=s1h94CZjGCEC&amp;pg=PA2">The Essential Guide to SAS Dates and Times</a>) says “One story has it that the founders of SAS wanted to use the approximate birth date of the IBM 370 system, and they chose January 1, 1960 as an easy-to-remember approximation.” According to <a href="http://en.wikipedia.org/wiki/Epoch_(reference_date)#Notable_epoch_dates_in_computing">Wikipedia</a> S-Plus also uses the same reference date.</p>
+
+<p><strong>3. How are we supposed to pronounce McNemar’s test?</strong></p>
+
+<p>Suppose you have a set of matched pairs of observations and want to know if the distribution of some categorical outcome is the same for each side of the pair. You should use <a href="http://en.wikipedia.org/wiki/McNemar_test">McNemar’s test</a> to see if the observed differences are statistically significant.
+I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Quinn McNemar</a>’s name as “mik-nee’-mahr” and getting likely getting laughed at behind my back by biostatisticians. It turns out the <a href="http://www.medilexicon.com/medicaldictionary.php?t=90653">proper pronunciation</a> is “mak’ne-mahr”. <a href="http://www.youtube.com/watch?v=ax265c6pqvA">Ashwini Kalantri</a> pronounces it well as he explains how it works.</p>
+
+<p><strong>Note:</strong> The pretty math equations are rendered with <a href="http://www.mathjax.org">Mathjax</a> and integrating this with Javascript was trivial thanks to <a href="http://www.lucypark.kr/blog/2013/02/25/mathjax-kramdown-and-octopress/">Lucy Park</a>.</p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -636,48 +717,6 @@ are simple. The game starts with each player getting three cards and a pile of t
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2013/12/10/online-tech-in-an-in-person-seminar/">Online Tech in an In-person Seminar: An Experiment</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-12-10T00:00:00-05:00" pubdate data-updated="true">Dec 10<span>th</span>, 2013</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I’ve written about <a href="http://highvariance.net/blog/2013/05/20/seminars/">how I like to run seminar classes</a> before and you may have noticed that my approach is decidedly low tech. My students read the week’s articles before class and fill out a “worksheet” for each one. Before this semester, the most important question on the worksheet was “What didn’t you understand?” I would look over their answers to identify weak spots that we would  cover in class.</p>
-
-<p>This semester I tried something new: I took “What didn’t you understand?” off the worksheet and asked my students to post questions they had about the reading on a <a href="http://piazza.com">Piazza</a> online discussion forum. If two (or more) students have the same question, only the first has to post it–the others could just mark it as a “good question.” They could also answer each other’s questions and I could “approve” answers or provide my own. I had high hopes for the new system. I thought it would be easier for the students, and would make it easier for me to see what the hot button issues were and even provide some feedback before class. </p>
-
-<p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
-
-<p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/2/">&larr; Older</a>
@@ -693,6 +732,10 @@ are simple. The game starts with each player getting three cards and a pile of t
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/02/14/stat-nerd-trivia/">Three Pieces of Stat Nerd Trivia</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/02/13/my-second-blogoversary/">My Second Blogoversary</a>
       </li>
     
@@ -706,10 +749,6 @@ are simple. The game starts with each player getting three cards and a pile of t
     
       <li class="post">
         <a href="/blog/2013/12/31/home-music-streaming-3/">Home Music System 3.0</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/12/30/pdf-expert-5/">PDF Expert 5.0</a>
       </li>
     
   </ul>

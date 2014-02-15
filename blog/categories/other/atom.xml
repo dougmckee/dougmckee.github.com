@@ -4,7 +4,7 @@
   <title><![CDATA[other | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-02-13T22:57:53-05:00</updated>
+  <updated>2014-02-14T22:33:50-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Three Pieces of Stat Nerd Trivia]]></title>
+    <link href="http://highvariance.net/blog/2014/02/14/stat-nerd-trivia/"/>
+    <updated>2014-02-14T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/02/14/stat-nerd-trivia</id>
+    <content type="html"><![CDATA[<p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
+
+<p><strong>1. Where does the word “logit” come from?</strong></p>
+
+<p>One of the earliest probablistic models of a binary process is the <a href="http://en.wikipedia.org/wiki/Probit">probit</a>. It was developed by Chester Bliss in 1934, and in this paper he coined the term as a shortening of the phrase “probability unit”. The idea is that a one unit increase in an independent variable changes the probability of the outcome occurring by a constant number of probability units. Probits can be translated into actual probabilities using a particular non-linear transformation: the cumulative distribution function of the standard normal. That is, we have:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \Phi(\beta_0 + \beta_1 x_i)
+</script>
+
+<p>In 1944, Joseph Berkson developed a similar model that also mapped the real line to the (0,1) interval, this time using the logistic function:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \frac{\exp(\beta_0 + \beta_1 x_i)}{1 + \exp(\beta_0 + \beta_1 x_i)}
+</script>
+
+<p>By analogy, this model was given the name logit.</p>
+
+<p><strong>2. Why does Stata store dates as the number of days since January 1, 1960?</strong></p>
+
+<p><a href="https://www.dur.ac.uk/geography/staff/geogstaffhidden/?id=335">Nick Cox</a> knows a lot about <a href="http://www.stata.com">Stata</a>, and even he does not know exactly why this date was chosen as the origin for internal dates. His <a href="http://www.stata.com/statalist/archive/2003-08/msg00379.html">best guess</a> is that it was copied from “some data base or spreadsheet program”. My guess is that Stata copied SAS which uses the same date as the date-time origin. </p>
+
+<p>This led me to wonder why SAS chose the date, and Derek Morgan (in <a href="http://books.google.com/books?id=s1h94CZjGCEC&amp;pg=PA2">The Essential Guide to SAS Dates and Times</a>) says “One story has it that the founders of SAS wanted to use the approximate birth date of the IBM 370 system, and they chose January 1, 1960 as an easy-to-remember approximation.” According to <a href="http://en.wikipedia.org/wiki/Epoch_(reference_date)#Notable_epoch_dates_in_computing">Wikipedia</a> S-Plus also uses the same reference date.</p>
+
+<p><strong>3. How are we supposed to pronounce McNemar’s test?</strong></p>
+
+<p>Suppose you have a set of matched pairs of observations and want to know if the distribution of some categorical outcome is the same for each side of the pair. You should use <a href="http://en.wikipedia.org/wiki/McNemar_test">McNemar’s test</a> to see if the observed differences are statistically significant.
+I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Quinn McNemar</a>’s name as “mik-nee’-mahr” and getting likely getting laughed at behind my back by biostatisticians. It turns out the <a href="http://www.medilexicon.com/medicaldictionary.php?t=90653">proper pronunciation</a> is “mak’ne-mahr”. <a href="http://www.youtube.com/watch?v=ax265c6pqvA">Ashwini Kalantri</a> pronounces it well as he explains how it works.</p>
+
+<p><strong>Note:</strong> The pretty math equations are rendered with <a href="http://www.mathjax.org">Mathjax</a> and integrating this with Javascript was trivial thanks to <a href="http://www.lucypark.kr/blog/2013/02/25/mathjax-kramdown-and-octopress/">Lucy Park</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Second Blogoversary]]></title>
@@ -145,24 +183,6 @@ I’ll be back again some day.”</p>
 <p>For some people, New Orleans is a great city. It’s got world class sea food and its own brand of jazz. It’s got a casino downtown and a <a href="http://en.wikipedia.org/wiki/Bourbon_Street">whole street</a> full of daiquiris and debauchery. But for a vegetarian who doesn’t drink, doesn’t gamble, and whose musical tastes are a little less hip, New Orleans doesn’t have much to offer. I used to think the best thing about the city was voodoo and while that sounds all cool and mysterious, when you take a closer look, it’s not. Chicken blood, bits of hair, and stabbing little dolls to hurt real people is just creepy. Of course, there is <a href="http://www.auduboninstitute.org/visit/insectarium">the Insectarium</a> which is also a little creepy, but was a lot of fun with the girls when we visited a couple weeks ago. </p>
 
 <p>OK, I’ll admit it: I’m not usually such a Debby Downer, but  accumulated sleep debt from a busy winter and spring has taken a toll on my normally sunny disposition. Hopefully the end of the semester will take care of this I’ll soon be back to being a Cheerful Charlie!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Expanding the Market for Limited Edition Dishes]]></title>
-    <link href="http://highvariance.net/blog/2013/03/09/dishes/"/>
-    <updated>2013-03-09T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/03/09/dishes</id>
-    <content type="html"><![CDATA[<p><img src="/images/conan-dishes/yorkies.jpg" alt="Yorkies!" /></p>
-
-<p>Limited edition dishes have a very limited market for two main reasons. First, they feature a very limited selection of art. Cute dogs, American flags, flowers, and Russian folk tales only appeal to so many people.  These plates are basically baseball cards for grandmas. Second, most of these dishes are designed solely for display and could actually kill you if you ate off them–this is crazy since the last time I checked normal people used dishes for serving food, not decorating their walls.  These companies need to expand their stables of artists and use nontoxic paints. </p>
-
-<p>To get things started concretely, I propose the following set of four limited edition dinner plates by Frank Frazetta.  Imagine the look of wonder on your guests’ faces as they clear their plates and reveal the raw ferocity and masculinity of Conan the Barbarian. I know I would buy them. Click through to see them in their full resolution glory!</p>
-
-<p><a href="/images/conan-dishes/d1.jpg"><img src="/images/conan-dishes/d1-small.jpg" alt="Conan!" /></a>
-<a href="/images/conan-dishes/d2.jpg"><img src="/images/conan-dishes/d2-small.jpg" alt="Conan!" /></a>
-<a href="/images/conan-dishes/d3.jpg"><img src="/images/conan-dishes/d3-small.jpg" alt="Conan!" /></a>
-<a href="/images/conan-dishes/d4.jpg"><img src="/images/conan-dishes/d4-small.jpg" alt="Conan!" /></a></p>
 ]]></content>
   </entry>
   

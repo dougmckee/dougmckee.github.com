@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[trivia | High Variance]]></title>
+  <link href="http://highvariance.net/blog/categories/trivia/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2014-02-14T22:33:50-05:00</updated>
+  <id>http://highvariance.net/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Three Pieces of Stat Nerd Trivia]]></title>
+    <link href="http://highvariance.net/blog/2014/02/14/stat-nerd-trivia/"/>
+    <updated>2014-02-14T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/02/14/stat-nerd-trivia</id>
+    <content type="html"><![CDATA[<p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
+
+<p><strong>1. Where does the word “logit” come from?</strong></p>
+
+<p>One of the earliest probablistic models of a binary process is the <a href="http://en.wikipedia.org/wiki/Probit">probit</a>. It was developed by Chester Bliss in 1934, and in this paper he coined the term as a shortening of the phrase “probability unit”. The idea is that a one unit increase in an independent variable changes the probability of the outcome occurring by a constant number of probability units. Probits can be translated into actual probabilities using a particular non-linear transformation: the cumulative distribution function of the standard normal. That is, we have:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \Phi(\beta_0 + \beta_1 x_i)
+</script>
+
+<p>In 1944, Joseph Berkson developed a similar model that also mapped the real line to the (0,1) interval, this time using the logistic function:</p>
+
+<script type="math/tex; mode=display">
+\Pr(y_i) = \frac{\exp(\beta_0 + \beta_1 x_i)}{1 + \exp(\beta_0 + \beta_1 x_i)}
+</script>
+
+<p>By analogy, this model was given the name logit.</p>
+
+<p><strong>2. Why does Stata store dates as the number of days since January 1, 1960?</strong></p>
+
+<p><a href="https://www.dur.ac.uk/geography/staff/geogstaffhidden/?id=335">Nick Cox</a> knows a lot about <a href="http://www.stata.com">Stata</a>, and even he does not know exactly why this date was chosen as the origin for internal dates. His <a href="http://www.stata.com/statalist/archive/2003-08/msg00379.html">best guess</a> is that it was copied from “some data base or spreadsheet program”. My guess is that Stata copied SAS which uses the same date as the date-time origin. </p>
+
+<p>This led me to wonder why SAS chose the date, and Derek Morgan (in <a href="http://books.google.com/books?id=s1h94CZjGCEC&amp;pg=PA2">The Essential Guide to SAS Dates and Times</a>) says “One story has it that the founders of SAS wanted to use the approximate birth date of the IBM 370 system, and they chose January 1, 1960 as an easy-to-remember approximation.” According to <a href="http://en.wikipedia.org/wiki/Epoch_(reference_date)#Notable_epoch_dates_in_computing">Wikipedia</a> S-Plus also uses the same reference date.</p>
+
+<p><strong>3. How are we supposed to pronounce McNemar’s test?</strong></p>
+
+<p>Suppose you have a set of matched pairs of observations and want to know if the distribution of some categorical outcome is the same for each side of the pair. You should use <a href="http://en.wikipedia.org/wiki/McNemar_test">McNemar’s test</a> to see if the observed differences are statistically significant.
+I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Quinn McNemar</a>’s name as “mik-nee’-mahr” and getting likely getting laughed at behind my back by biostatisticians. It turns out the <a href="http://www.medilexicon.com/medicaldictionary.php?t=90653">proper pronunciation</a> is “mak’ne-mahr”. <a href="http://www.youtube.com/watch?v=ax265c6pqvA">Ashwini Kalantri</a> pronounces it well as he explains how it works.</p>
+
+<p><strong>Note:</strong> The pretty math equations are rendered with <a href="http://www.mathjax.org">Mathjax</a> and integrating this with Javascript was trivial thanks to <a href="http://www.lucypark.kr/blog/2013/02/25/mathjax-kramdown-and-octopress/">Lucy Park</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
