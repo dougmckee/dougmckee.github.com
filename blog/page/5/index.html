@@ -9,7 +9,7 @@
   <meta name="author" content="Doug McKee">
 
   
-  <meta name="description" content="The big lecture is an institution in institutions of higher learning. The professor stands at the front of a hall full of students and talks. &hellip;">
+  <meta name="description" content="I work regularly with two computers. At home, I have an iMac with a big drive that is on all the time. At the office (and everywhere else) I use a &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -98,6 +98,97 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2013/02/05/crashes-backups-and-lessons/">Crashed Disks, Imperfect Backup Strategies, and Lessons Learned</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-05T00:00:00-05:00" pubdate data-updated="true">Feb 5<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>I work regularly with two computers. At home, I have an iMac with a big drive that is on all the time. At the office (and everywhere else) I use a MacBook Air. All my documents and data are stored on Dropbox and I use <a href="http://www.subsonic.org/pages/index.jsp">Subsonic</a> to stream my home music collection wherever I happen to be. If I watched movies, I could probably do the same with them. With this setup, I am equally productive on both machines and it doesn’t take that much work to keep apps and preferences in sync.</p>
+
+<p>I used to think I had the perfect backup system. At home, my iMac’s internal drive is backed up to an external disk with Time Machine and to the cloud with <a href="http://backblaze.com">BackBlaze</a>. Since all my documents and data live in Dropbox, they’re duplicated (along with old versions) in Dropbox’s cloud. My Macbook Air has almost nothing sacred outside Dropbox and until recently, I thought that if the disk failed, all I’d have to do is reinstall my apps (just a few minutes work with the App Store) and I’d be back in business.  I was wrong.</p>
+
+<p>About two weeks ago, it happened: my Air’s disk failed: The only thing that showed up on my screen was a blinking Folder icon with a question mark in the center. I quickly dropped off the machine at the local Apple store for service and muddled along for a few days with my old ThinkPad <a href="http://wiki.osx86project.org/wiki/index.php/Main_Page">Hackintosh</a>. When I finally picked up my repaired machine, it had a pristine installation of Lion and nothing else. I brought it home, installed Dropbox, and let <a href="https://www.dropbox.com/help/137/en">LAN Sync</a> work its magic over the local wifi and in a couple hours my documents and data were back. Then, with the press of a button I installed my 25 or so App Store apps.</p>
+
+<p>That’s when I realized just how many apps I rely on are NOT in the App Store.  They fall into four broad categories:</p>
+
+<h2 id="apps-that-break-apples-sandboxing-rules">1. Apps that break Apple’s sandboxing rules</h2>
+
+<p>Several really useful utilities want to insert themselves deeper into the operating system than Apple would like.</p>
+
+<p><a href="https://agilebits.com/onepassword">1Password</a>: Lets me use ridiculously long strings of unguessable gobbledy gook for passwords without having to remember them. Also securely holds all my account numbers, credit card numbers and plugs this stuff into web pages as needed.</p>
+
+<p><a href="http://www.alfredapp.com">Alfred</a>: After a simple Command-Space I can type short incantations to make amazing things happen. You really need to check out the web page to see how awesome and productivity-enhancing this is.</p>
+
+<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a>: I type short things like “;s” in any app and TextExpander fills in long snippets of text.</p>
+
+<p><a href="http://pqrs.org/macosx/keyremap4macbook/">KeyRemap4Macbook</a>: I use it to give me emacs key combinations pretty much anywhere, but the app can do lots more.</p>
+
+<p><a href="http://manytricks.com/moom/">Moom</a>: Makes it easy to move and resize windows to common places and sizes.</p>
+
+<p><a href="http://www.stclairsoft.com/DefaultFolderX/">DefaultFolderX</a>: It expands the File-&gt;Open Dialog to show bigger QuickLook previews and makes it easy to select commonly used paths. It’s super-useful if you have very hierarchical directory structures.</p>
+
+<h2 id="apps-from-companies-that-dont-want-to-give-apple-30">2. Apps from companies that don’t want to give Apple 30%</h2>
+
+<p><a href="http://office.microsoft.com/en-us/">Microsoft Office</a>: The cheese sandwich of software–it does its job competently, but it’s hard to get excited about it.</p>
+
+<p><a href="http://www.stata.com">Stata</a>: My go-to data analysis software. Fast, feature-filled, relatively shallow learning curve, and great documentation. What more do you want?</p>
+
+<p><a href="http://www.mekentosj.com/papers/">Papers</a>: Manages big collections of pdfs and simplifies search for academic literature.</p>
+
+<h2 id="apps-i-think-should-be-in-the-app-store">3. Apps I think should be in the App Store</h2>
+
+<p>These apps are free and frankly I have no idea why they’re not in the App Store:</p>
+
+<p><a href="http://www.skype.com">Skype</a> and <a href="https://www.google.com/intl/en/chrome/browser/">Google Chrome</a>: If you are reading this on a computer screen, then you already know these two.</p>
+
+<p><a href="http://aquamacs.org">Aquamacs</a>: Puts Mac lipstick on an old pig of an editor. That said, I’ve been using emacs for 20 years and I love it.</p>
+
+<p><a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a>: I’ve been using nvAlt for about six months to manage all my miscellaneous notes. It’s super-easy to search and the data are accessible on all my devices.</p>
+
+<h2 id="apps-that-are-just-too-geeky-for-the-app-store">4. Apps that are just too geeky for the App Store</h2>
+
+<p>You’re going to be spending quality time at the command-line if you use <a href="http://mxcl.github.com/homebrew/">brew</a>, <a href="http://www.ruby-lang.org/en/">Ruby</a>, and <a href="http://octopress.org">Octopress</a>, so you may as well install them by hand.</p>
+
+<p>Once all I installed all these apps, I still had lots of little things to do.  I had to tweek the preferences for most of my apps. I had to set up the finicky network printer in the office. In order to access the secure university wifi network, I had to install the required certificate. I could go on, but this gives you the flavor–The whole process of getting back to where I started took far longer than I had envisioned and I don’t want to go through it again.  </p>
+
+<h2 id="the-solution">The Solution</h2>
+
+<p>The main requirement of any solution was that it back up what wasn’t already safe–i.e., everything outside my Dropbox folder. But any solution also had to need absolutely minimal human intervention. I am not to be trusted to manually mirror drives every week. I also wanted to do as much as possible with hardware I had lying around.</p>
+
+<p>Because we’re only talking about about 40 GB, I was able to repurpose an old 250GB external drive as a Time Machine disk that now lives at the office nestled into a book shelf. It’s plugged into a hub along with my phone charger, iPad charger and USB ethernet adapter. The first thing I always do upon arrival is plug the Air into it’s power adapter, the external display, and the hub. This procedure hasn’t had to change at all. When I leave, I pull the external display cable and close the lid on the Air. <a href="http://www.stclairsoft.com/Jettison/">Jettison</a> automatically waits for any ongoing Time Machine backups to finish and ejects the external disk before sleeping the Mac. As soon as I hear the disk stop, I unplug the hub and my power cable and I’m ready to go.</p>
+
+<p>The other day I took my favorite winter coat to a tailor to have the zipper fixed. The woman very graciously showed me that nothing was actually broken–I’d simply forgotten that it was a <a href="http://www.perfectex.com/two_way_zipper.jpg">two way zipper</a> and both parts needed to be at the bottom in order for it to work. It was embarrassing, but I was still happy since the “repair” was extremely fast and it cost nothing. I feel the same way about this adjustment to my backup system. It’s a little embarrassing that I didn’t recognize the weakness up front, but I’m also really happy that it was so easy to fix.</p>
+
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -562,100 +653,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/12/29/scratching-my-nerd-itch/">Scratching My Nerd Itch With Octopress</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-12-29T00:00:00-05:00" pubdate data-updated="true">Dec 29<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
-
-<ul>
-  <li>Built-in search</li>
-  <li>Organization with tags so visitors could easily find articles by category</li>
-  <li>Easy integration with Disqus comments</li>
-  <li>Built-in <a href="http://www.usa.gov/Topics/Reference-Shelf/Libraries/RSS-Library/What-Is-RSS.shtml">RSS feed</a> for those who want to subscribe</li>
-  <li>Automatic announcement of new articles to Facebook</li>
-  <li>Easy integration with <a href="http://www.google.com/analytics/">Google Analytics</a> (for traffic statistics)</li>
-</ul>
-
-<p>Now, a year later, I have more of a vision for what I want to do with the site and I’m ready to tinker a bit. Unfortunately, while there’s some flexibility in how a Tumblr site looks, but they don’t give you any real control. Ever since high school I’ve spent regular chunks of time writing code and bending computers to my will. I’ve done this as a professional software developer, as a research economist, and often just messing around. The last year has been less geeky than usual as I’ve concentrated on teaching and less technical research projects.  It’s time to scratch my nerd itch.</p>
-
-<p>I’ve chosen to switch to a particularly nerdy blog platform (<a href="http://octopress.org">Octopress</a>) that requires using command-line tools, but it has the huge benefit of total control. Octopress is built on top of <a href="https://github.com/mojombo/jekyll#readme">Jekyll</a> which is written in <a href="http://www.ruby-lang.org/en/">Ruby</a> and I can tweek it as much as I’d like. I’ve always wanted to learn Ruby and reading and modifying other other people’s code is a great way to learn a language.</p>
-
-<p>In addition to Octopress/Jekyll/Ruby, this project gets me up to speed on several other modern nerdy technologies:</p>
-
-<ul>
-  <li><a href="http://mxcl.github.com/homebrew/">Homebrew</a> is a package manager for MacOS that lets you install all sorts of open source software including the latest version of Ruby.</li>
-  <li><a href="http://git-scm.com">git</a> is what version control will look like for years to come–it’s fast, collaborative, distributed, and flexible.</li>
-  <li><a href="https://github.com">Github</a> is where all the coolest open source projects live these days.  Any new software I write that I want to share will go here.    </li>
-  <li><a href="http://sass-lang.com">Sass</a> (Syntactically Awesome Style Sheets) is a powerful layer on top of CSS (Cascading Style Sheets) that allows for powerful adaptive layout of HTML pages.</li>
-</ul>
-
-<p>While Octopress is in part an excuse to fiddle with new tech, it also feels very comfortable as articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>–a very lightweight text-based markup language that I lately find myself using for almost everything.</p>
-
-<h2 id="whats-new">What’s New?</h2>
-
-<p>On the surface, the site shouldn’t look all that different, but beyond the engine being replaced, there are several subtle changes:</p>
-
-<ul>
-  <li>A real <a href="http://highvariance.net/about.html">About</a> page</li>
-  <li>Links up top for the main categories I tend to write about</li>
-  <li>A search bar near the top of every page</li>
-  <li>Quick links to my recent posts and my favorite posts.</li>
-  <li>Much better layout for mobile devices</li>
-  <li>Super-fast rendering since Octopress generates the whole site as static HTML which just sits on the server</li>
-</ul>
-
-<h2 id="was-it-easy-to-migrate-from-tumblr">Was it Easy to Migrate from Tumblr?</h2>
-
-<p>Two things helped a lot: The Octopress documentation is excellent and I already had all the articles on my local machine in Markdown. The only thing that was tricky was backwards compatibility as I wanted all my old URL’s to work and all my discussions to transfer over.  I used the <a href="https://github.com/tsmango/jekyll_alias_generator">alias-generator</a> plugin and a little elbow grease to make all my Tumblr URL’s redirect to my new URL’s.   </p>
-
-<p>Disqus (the service that keeps track of comments) says they will crawl your new site and use any redirects it provides to update their database.  Unfortunately, while <em>browsers</em> can understand the redirects that the alias-generator creates<sup id="fnref:fn_ag"><a href="#fn:fn_ag" rel="footnote">1</a></sup> just fine, the <em>disqus crawler</em> does not.  So I had to create a csv file that mapped all the old URL’s to the new ones and upload that.</p>
-
-<p>Announcements of new articles on Facebook are now handled by <a href="http://ifttt.com">IFTTT</a>.  It will likely take a little fine-tuning to get these right.</p>
-
-<h2 id="whats-on-the-horizon">What’s on the Horizon?</h2>
-
-<p>The primary emphasis of this site remains the text, but I do want to integrate a little more media–even just a few pictures here and there would be nice. I want the category pages to have their own looks. Beyond that, all I know is that I’ve now got the power to do anything.  Should be fun!</p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:fn_ag">
-      <p>Since the site is static, it can’t actually send HTTP
-301 permanent redirects. Instead, the alias-generator creates HTML stub files for all the old URL’s with http-equiv meta tags containing the new locations of the URLs.<a href="#fnref:fn_ag" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/6/">&larr; Older</a>
@@ -673,6 +670,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/02/27/mlp-revelations/">My Little Pony: Revelation</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/02/14/stat-nerd-trivia/">Three Pieces of Stat Nerd Trivia</a>
       </li>
     
@@ -686,10 +687,6 @@
     
       <li class="post">
         <a href="/blog/2014/01/19/complementarities-of-literature-and-music/">Complementarities of Literature and Music</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/12/31/home-music-streaming-3/">Home Music System 3.0</a>
       </li>
     
   </ul>
