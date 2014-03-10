@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-03-05T00:22:16-05:00</updated>
+  <updated>2014-03-09T22:48:53-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Economics and Data Analysis]]></title>
+    <link href="http://highvariance.net/blog/2014/03/07/economics-and-data-analysis/"/>
+    <updated>2014-03-07T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/03/07/economics-and-data-analysis</id>
+    <content type="html"><![CDATA[<p>We live in a world where more and more people and organizations make <a href="http://www.amazon.com/Super-Crunchers-Why-Thinking-By-Numbers-Smart/dp/0553384732">decisions based on data</a>. These include business decisions, policy-making decisions, and even many personal decisions. <a href="http://www.quora.com/Google/What-do-economists-do-at-Google-their-responsibilities-as-Googles-employees">Google employs hundreds of quantitative analysts</a> to analyze auctions, forecast revenue, predict customer needs, and surely lots of other things we don’t know about. A good friend of mine just spent the last month carefully analyzing student loan data for the <a href="http://www.federalreserve.gov">Federal Reserve</a>. I even just read about a guy who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/all/">scraped dating data from OK Cupid</a> to find himself a wife.</p>
+
+<p>Business and the government often look to economists to do this kind of data analysis for two main reasons. First, economists have been using data to answer questions about optimal behavior for a long time and have developed a set of statistical methods tuned for these problems that we call <em>econometrics</em>. These tools are particularly applicable to the non-experimental (aka “observational”) data that is piling up all around us. The second reason is that economists are good at thinking mathematically about human behavior and markets–two concepts at the heart of many important questions. </p>
+
+<p>I am constantly telling my undergraduate students to take as many classes on econometrics, statistics, and/or data analysis as they can.  Only one semester of statistics/econometrics is required to get a bachelor’s degree in economics at Yale, and this introductory course covers the basics of probability, statistical inference, and linear regression.  The payoff to taking the second class is huge–that’s where students actually gain proficiency with elementary methods and build up to important methods like instrumental variables and difference-in-differences that can separate causation from correlation.</p>
+
+<p>I recently did an informal survey of ten top-tier economics departments and learned that seven of the ten now require two semesters (or quarters) of statistics and/or econometrics.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> I will be shocked if in five years it’s not at least nine out of ten. Even now, many advanced applied elective courses teach statistical methods so that students can understand (and contribute to) the research they read.</p>
+
+<p>At the beginning of my last semester in college I had a conversation with a fellow senior that has really stuck with me. He went on and on about how excited he was to be taking Econ 101. At least part of his logic was that he didn’t want to graduate without knowing something about the economy. I had not taken any economics up to this point and had no idea what he was talking about. I didn’t get it at all. Now I do. Economics training gives people tools for understanding how the world works. That training needs to keep up with our increasingly data-driven world.</p>
+
+<p><strong>Footnotes:</strong></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Harvard, MIT, Berkeley, Brown, Penn, and Duke require their economics majors to take two semesters of econometrics and/or statistics. Stanford requires two quarters. Yale, Amherst, and Princeton require one semester. Yale also offers an Econ/Math degree that requires two semesters of econometrics.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don't Throw Them to the Wolves]]></title>
@@ -107,73 +134,6 @@
 <p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
 
 <p>Update: <a href="/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Markdown and Me]]></title>
-    <link href="http://highvariance.net/blog/2013/08/30/markdown-and-me/"/>
-    <updated>2013-08-30T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/08/30/markdown-and-me</id>
-    <content type="html"><![CDATA[<p>I spend a lot of my time creating and editing plain text files. It isn’t the prettiest or most powerful format for documents, but I still love it.  Plain text is trivial to copy and paste between applications, and the files are human readable.  Unlike .doc files, PDF files, or even RTF files, there are a gazillion apps that will show and edit text. And the format has staying power–it’s <a href="http://en.wikipedia.org/wiki/Ascii">been around since the 1960’s</a> and I’m willing to bet it will be easy to work with in 20 years and maybe even 50 years. </p>
-
-<p>Markdown is an extremely simple but incredibly powerful way to add a bit of formatting to plain text without losing any of plain text’s benefits.  When I write with Markdown, I can still use my favorite editing applications. At the same time, I can have section headings, bold, italic, lists, links, and more.  Markdown does a lot of what HTML was originally designed to do but is much easier to write and much easier to read. It’s also easy to translate Markdown into any of these other formats when you need them. </p>
-
-<p>My favorite thing about Markdown is that there is almost no learning curve–most people already use pieces of it without realizing it. If you want to <em>emphasize</em> a few <strong>words</strong>, you put one or two stars around them. If you want to make a bulleted list, you use stars for that too.  </p>
-
-<p>This:</p>
-
-<pre><code>* apples
-* bananas
-* pears
-</code></pre>
-
-<p>turns into this:</p>
-
-<ul>
-  <li>apples</li>
-  <li>bananas</li>
-  <li>pears</li>
-</ul>
-
-<p>You nest lists by indenting them:</p>
-
-<pre><code>* apples
-	* Fuji
-	* Braeburn
-	* McIntosh
-* bananas
-* pears
-</code></pre>
-
-<p>to create this:</p>
-
-<ul>
-  <li>apples
-    <ul>
-      <li>Fuji</li>
-      <li>Braeburn</li>
-      <li>McIntosh</li>
-    </ul>
-  </li>
-  <li>bananas</li>
-  <li>pears</li>
-</ul>
-
-<p>Other stuff like marking headings with hashmarks or embedding links is straight-forward too. John Gruber invented Markdown in 2004 and the <a href="http://daringfireball.net/projects/markdown/syntax">original spec</a> is still a great description of the language.</p>
-
-<p>I use Markdown for tons of stuff.  This includes the notes that go along with every one of my lectures and presentations.  I can write them quickly and then have them display nicely on my iPad while I talk and walk around the room. I also take all my meeting notes in Markdown and sometimes share them with other meeting attendees. I write all my blog posts in Markdown and let Octopress/Jekyll automatically turn them into pretty HTML.</p>
-
-<p>I don’t (yet) use Markdown for everything.  My research articles are mostly written in Latex which does a much better job with mathematical equations and big structured documents.  I use MS Word when I am collaborating with someone who is more comfortable in that environment. My class syllabi are still in Latex, but even though I could probably switch, it might be more trouble than it’s worth.  And while I often draft my slide content in Markdown, it almost always ends up in a set of PowerPoint slides where I have much greater control over the layout.</p>
-
-<p>On the Mac, I use <a href="http://aquamacs.org/">emacs</a>  and <a href="http://www.foldingtext.com/">FoldingText</a> to edit standalone Markdown files like blog posts and lecture notes.  I like emacs because I’ve been using it for 20 years and it’s really an extension of my brain at this point. It’s also what I use for editing code.  On the other hand, it’s kind of ugly.  FoldingText lets me hide/show sections of my document easily and makes my documents look pretty while I edit them by doing things like bolding text surrounded by double stars and hiding the actual double stars unless my cursor is on the bolded words.  It does the same sort of thing for links.</p>
-
-<p>I use <a href="http://brettterpstra.com/projects/nvalt/">nvAlt</a> on my Mac to edit and manage all my meeting notes and miscellaneous notes. When editing, it just shows the raw text, but I can always hold down the control key to see the pretty version of the text.  nvAlt is super-easy to search and it stores all the notes as separate files on dropbox so I can easily migrate to some other app if the mood strikes.</p>
-
-<p>On my iPhone, I use <a href="http://writeup.prasannag.com">WriteUp</a> to edit standalone files like this blog post right now since it syncs so easily with Dropbox.  <a href="https://itunes.apple.com/us/app/notesy-for-dropbox/id386095500?mt=8">Notesy</a> syncs perfectly with nvAlt on the Mac.  On the iPad, Writeup displays my lecture notes beautifully and gives me the option to make last minute edits.</p>
-
-<p>If this post piques your interest, there’s great info about Markdown all over the web. Perhaps the single best resource is a <a href="http://macsparky.com/markdown/">new book</a> by David Sparks and Eddie Smith that gathers a whole bunch of Markdown info in one place.</p>
-
 ]]></content>
   </entry>
   

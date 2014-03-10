@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-03-05T00:22:16-05:00</updated>
+  <updated>2014-03-09T22:48:53-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Economics and Data Analysis]]></title>
+    <link href="http://highvariance.net/blog/2014/03/07/economics-and-data-analysis/"/>
+    <updated>2014-03-07T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/03/07/economics-and-data-analysis</id>
+    <content type="html"><![CDATA[<p>We live in a world where more and more people and organizations make <a href="http://www.amazon.com/Super-Crunchers-Why-Thinking-By-Numbers-Smart/dp/0553384732">decisions based on data</a>. These include business decisions, policy-making decisions, and even many personal decisions. <a href="http://www.quora.com/Google/What-do-economists-do-at-Google-their-responsibilities-as-Googles-employees">Google employs hundreds of quantitative analysts</a> to analyze auctions, forecast revenue, predict customer needs, and surely lots of other things we don’t know about. A good friend of mine just spent the last month carefully analyzing student loan data for the <a href="http://www.federalreserve.gov">Federal Reserve</a>. I even just read about a guy who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/all/">scraped dating data from OK Cupid</a> to find himself a wife.</p>
+
+<p>Business and the government often look to economists to do this kind of data analysis for two main reasons. First, economists have been using data to answer questions about optimal behavior for a long time and have developed a set of statistical methods tuned for these problems that we call <em>econometrics</em>. These tools are particularly applicable to the non-experimental (aka “observational”) data that is piling up all around us. The second reason is that economists are good at thinking mathematically about human behavior and markets–two concepts at the heart of many important questions. </p>
+
+<p>I am constantly telling my undergraduate students to take as many classes on econometrics, statistics, and/or data analysis as they can.  Only one semester of statistics/econometrics is required to get a bachelor’s degree in economics at Yale, and this introductory course covers the basics of probability, statistical inference, and linear regression.  The payoff to taking the second class is huge–that’s where students actually gain proficiency with elementary methods and build up to important methods like instrumental variables and difference-in-differences that can separate causation from correlation.</p>
+
+<p>I recently did an informal survey of ten top-tier economics departments and learned that seven of the ten now require two semesters (or quarters) of statistics and/or econometrics.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> I will be shocked if in five years it’s not at least nine out of ten. Even now, many advanced applied elective courses teach statistical methods so that students can understand (and contribute to) the research they read.</p>
+
+<p>At the beginning of my last semester in college I had a conversation with a fellow senior that has really stuck with me. He went on and on about how excited he was to be taking Econ 101. At least part of his logic was that he didn’t want to graduate without knowing something about the economy. I had not taken any economics up to this point and had no idea what he was talking about. I didn’t get it at all. Now I do. Economics training gives people tools for understanding how the world works. That training needs to keep up with our increasingly data-driven world.</p>
+
+<p><strong>Footnotes:</strong></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Harvard, MIT, Berkeley, Brown, Penn, and Duke require their economics majors to take two semesters of econometrics and/or statistics. Stanford requires two quarters. Yale, Amherst, and Princeton require one semester. Yale also offers an Econ/Math degree that requires two semesters of econometrics.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don't Throw Them to the Wolves]]></title>
@@ -806,84 +833,6 @@ quality was the show stopper. </p>
 <p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
 
 <p>Update: <a href="http://highvariance.net/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[So Embarrassing]]></title>
-    <link href="http://highvariance.net/blog/2013/09/18/so-embarrassing/"/>
-    <updated>2013-09-18T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/09/18/so-embarrassing</id>
-    <content type="html"><![CDATA[<p>I’ve always valued a catchy beat over insightful lyrics and my favorite genres tend to reflect that. In other words, I listen to a lot of songs with dumb lyrics, so it means something that the other day I heard some <em>extra</em> dumb lyrics on the radio. </p>
-
-<!--- Bonnie McKee, "American Girl"
---->
-<iframe width="560" height="315" src="http://highvariance.net//www.youtube.com/embed/-Uh6VZF0R5U" frameborder="0" allowfullscreen=""></iframe>
-
-<p>Lets take a closer look at Bonnie McKee’s “American Girl” line by line:</p>
-
-<pre><code>I fell in love in a 7/11 parking lot
-Sat on the curb drinking slurpees we mixed with alcohol
-</code></pre>
-
-<p>Either you’re underage and shouldn’t be mixing in alcohol or you’re of age and shouldn’t be drinking slurpees in the parking lot. I’m not sure which is worse. </p>
-
-<pre><code>We talked about all our dreams and how we would show 'em all (whoa oh oh oh)
-I told him I got a plan and I'm gonna dominate
-And I don't need any man to be getting in my way
-</code></pre>
-
-<p>This is as good as it gets–girl power!</p>
-
-<pre><code>But if you talk with your hands then we can negotiate (whoa oh oh oh)
-</code></pre>
-
-<p>I think she’s making a subtle sexual reference here. </p>
-
-<pre><code>I just keep moving my body (yeah)
-I'm always ready to party (yeah)
-No I don't listen to mommy (yeah)
-And I'll never say that I'm sorry
-</code></pre>
-
-<p>First off, not one of these four lines actually rhymes, and I don’t think she’s trying to <a href="http://en.wikipedia.org/wiki/Slant_rhyme">emulate Emily Dickinson</a>. Second, you’re to old to be calling your mother mommy. And third, I think even Gandhi had to occasionally apologize.</p>
-
-<pre><code>Chorus
-Oh I'm an American girl
-</code></pre>
-
-<p>If the rest of the world thinks this girl is representative of the whole population of American girls, we are in deep trouble.</p>
-
-<pre><code>Hot blooded and I'm ready to go I'm loving taking over the world
-Hot blooded, all american girl (Whoa) I was raised by a television
-</code></pre>
-
-<p>I spent a good chunk of my childhood in front of a TV too, but I watched relatively wholesome fare like The Brady Bunch, Happy Days, and Gilligan’s Island. She must have been raised by Bridezilla, real Housewives of Beverly Hills and The Jersey Shore. </p>
-
-<pre><code>Every day is a competition Put the key in my ignition (Oh-way-oh)
-</code></pre>
-
-<p>Oh no; another subtle sexual reference. I think she needs to go to <a href="http://en.wikipedia.org/wiki/Back_in_Black#Track_listing">AC DC school</a></p>
-
-<pre><code>I wanna see all the stars and everything in between
-</code></pre>
-
-<p>Unless she has a thing for dark matter, I have a feeling she’s talking about celebrities more than astronomy.</p>
-
-<pre><code>I wanna buy a new heart out of a vending machine
-Cause It's a free country so baby we can do anything (Whoa)
-</code></pre>
-
-<p>We may be a free country, but we still have fairly strict laws banning the <a href="http://en.wikipedia.org/wiki/Organ_trade">sale of organs</a>.</p>
-
-<pre><code>Chorus
-
-You know we're gonna shine so bright (Oh we're gonna shine so bright...) Oh baby gonna go all night (Oh we're gonna go all night) You know we're gonna shine so bright (Oh we're gonna shine so bright...) Oh baby gonna go all night
-
-Chorus
-</code></pre>
-
-<p>Every American should be embarrassed that this song exists. I was doubly embarrassed when I saw the “artist” was my namesake. And I’m triply embarrassed by how much I actually enjoy the song. It’s not as good as “Party in the USA” or “Call Me Maybe,” but it just makes me want to get up and dance whenever I hear it.  Maybe I should just stop talking before I embarrass myself further. </p>
 ]]></content>
   </entry>
   
