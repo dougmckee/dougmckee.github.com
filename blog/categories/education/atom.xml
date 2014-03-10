@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-03-09T22:48:53-04:00</updated>
+  <updated>2014-03-09T22:50:04-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Economics and Data Analysis]]></title>
-    <link href="http://highvariance.net/blog/2014/03/07/economics-and-data-analysis/"/>
-    <updated>2014-03-07T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/03/07/economics-and-data-analysis</id>
+    <link href="http://highvariance.net/blog/2014/03/09/economics-and-data-analysis/"/>
+    <updated>2014-03-09T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/03/09/economics-and-data-analysis</id>
     <content type="html"><![CDATA[<p>We live in a world where more and more people and organizations make <a href="http://www.amazon.com/Super-Crunchers-Why-Thinking-By-Numbers-Smart/dp/0553384732">decisions based on data</a>. These include business decisions, policy-making decisions, and even many personal decisions. <a href="http://www.quora.com/Google/What-do-economists-do-at-Google-their-responsibilities-as-Googles-employees">Google employs hundreds of quantitative analysts</a> to analyze auctions, forecast revenue, predict customer needs, and surely lots of other things we don’t know about. A good friend of mine just spent the last month carefully analyzing student loan data for the <a href="http://www.federalreserve.gov">Federal Reserve</a>. I even just read about a guy who <a href="http://www.wired.com/wiredscience/2014/01/how-to-hack-okcupid/all/">scraped dating data from OK Cupid</a> to find himself a wife.</p>
 
 <p>Business and the government often look to economists to do this kind of data analysis for two main reasons. First, economists have been using data to answer questions about optimal behavior for a long time and have developed a set of statistical methods tuned for these problems that we call <em>econometrics</em>. These tools are particularly applicable to the non-experimental (aka “observational”) data that is piling up all around us. The second reason is that economists are good at thinking mathematically about human behavior and markets–two concepts at the heart of many important questions. </p>
