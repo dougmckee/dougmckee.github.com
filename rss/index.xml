@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-03-22T00:18:39-04:00</updated>
+  <updated>2014-04-02T10:50:14-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Extreme Bird Watching]]></title>
+    <link href="http://highvariance.net/blog/2014/04/02/extreme-bird-watching/"/>
+    <updated>2014-04-02T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/02/extreme-bird-watching</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-dead-fish.jpg" /></p>
+
+<p>Spring has finally arrived in Connecticut. The snow is gone, replaced by snowdrops and crocuses, and the birds have returned. We&rsquo;ve had great fun watching robins, bluejays, and red-winged blackbirds pulling on worms and building nests, and hearing their songs fill the air. </p>
+
+<p>On the way home from school the other day we got an extra-special treat. As we drove by the reservoir, two hawks<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> flew over the car fighting over something. The birds were big and their prey was big too. The hawks dipped and dove and then lost control of their prize, letting it fall right into the street in front of us. </p>
+
+<p>When it bounced and rolled to a stop we saw it was a huge fish!  The whole rest of our trip home we wondered if the fish would still be there the next day and since it was a pretty busy street, hoped we wouldn&rsquo;t see a road-killed hawk (or two) lying near by.</p>
+
+<p>The next morning we were never so happy to see a dead fish all alone by the side of the road. We had to pull over so everyone could get out to take a closer look. Whoever said bird watching was boring?</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Maybe they were ospreys, but we get a lot of red-tailed hawks around here and <a href="http://en.wikipedia.org/wiki/Red-tailed_Hawk#Diet">Wikipedia</a> says they do occasionally eat fish.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fun and Games at the Library]]></title>
@@ -694,176 +718,6 @@ quality was the show stopper. </p>
 
 <p>R started by creating a new Princess character and enjoyed coloring her map of land throughout her adventure. R was initially very cautious exploring the caves&ndash;I had to goad her into moving down the tunnels&ndash;but by the end she was feeling quite comfortable underground. She was also wary of the frog boots and certainly didn&rsquo;t want to tangle with the giant spider. The whole adventure took about half an hour and my favorite moment was at the very end, when she said &ldquo;Can we play another story now?&rdquo;</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nonviolent Dungeons and Dragons for Kids]]></title>
-    <link href="http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids/"/>
-    <updated>2013-11-21T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids</id>
-    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-d-and-d-fun.jpg" /></p>
-
-<p>My daughter R spends half of her life in a fantasy world pretending she is either a pony, a cat, a princess, a fairy, or some combination of these. She also loves reading about fantastical adventures like <a href="http://www.amazon.com/Wonderful-Wizard-Oz-Anniversary-Wonder/dp/0060293233">The Wizard of Oz</a>, <a href="http://www.amazon.com/Comet-Moominland-Tove-Jansson/dp/0312608888">Comet in Moominland</a>, or <a href="http://www.amazon.com/The-Bravest-Knight-Mercer-Mayer/dp/0803732066">The Bravest Knight</a>. So when a friend sent me <a href="http://gygaxmagazine.com/2013/08/09/dming-for-your-toddler/">Cory Doctorow&rsquo;s account</a> of how he plays <a href="http://en.wikipedia.org/wiki/Dungeons_and_dragons">Dungeons and Dragons</a> (D&amp;D) with his four year old daughter, I got very excited. A game that has players pretending they are characters exploring mythical lands and fighting fabulous monsters seemed like an almost perfect match. Cory simplified the rules to fit into a little kid attention span, but there was still a problem: We run a nonviolent household and a game that revolves around bloodshed is a nonstarter.</p>
-
-<p>In middle school, I played a lot of D&amp;D. Sometimes I&rsquo;d play with friends who were all about the monsters, the combat, and the treasure.  Sometimes I played with friends who set up a vivid land, an intricate plot, and complex characters. These games revolved around solving mysteries, working together, and the occasional backstabbing. We stepped into another world when we played and while combat happened, it was just a small piece of the puzzle. This was the experience I wanted to share with R.</p>
-
-<p>After some experimentation, I think we&rsquo;ve come up with a decent set of rules and R is still talking about our last adventure (&ldquo;The Haunted Castle&rdquo;). I&rsquo;ve written up our rules and a description of that adventure here so we don&rsquo;t forget them and also for anyone else who might want to take the plunge. The biggest innovation is the replacement of the combat system with an &ldquo;interaction&rdquo; system.  Instead of fighting monsters, we try to befriend them or avoid them. And while the monsters might try to scare players or even imprison them, no one can actually hurt anyone.</p>
-
-<h2 id="creating-characters">Creating Characters</h2>
-
-<p><img class="right" src="http://highvariance.net/images/nvdndfk/character-sheet.png" /></p>
-
-<p>Cory Doctorow wanted get his daughter adventuring as quickly as possible, and so had her make up a bare bones character up front, fleshing her out as needed during the game. We found that creating a character was one of the most riveting parts of the game. I pre-printed some character sheets (<a href="http://highvariance.net/images/nvdndfk/character-sheet.docx">.docx</a>, <a href="http://highvariance.net/images/nvdndfk/character-sheet.pdf">.pdf</a>) and R enjoyed rolling dice, writing down numbers, and drawing her character&rsquo;s picture. We started by choosing the character&rsquo;s name, race, and job.  Races include:</p>
-
-<ul>
-  <li>human,</li>
-  <li>fairy (can fly),</li>
-  <li>elf (good at hiding and finding), </li>
-  <li>dwarf (can sniff out gems), and </li>
-  <li>hobbit (can squeeze into small spaces). </li>
-</ul>
-
-<p>Possible jobs are: </p>
-
-<ul>
-  <li>princess (good at horseback riding), </li>
-  <li>knight (also good on horses), and </li>
-  <li>wizard (casting spells). </li>
-</ul>
-
-<p>There are no functional differences between knights and princesses just in case we end up playing with boys some time in the future. I didn&rsquo;t think thieves or clerics were kid-appropriate.</p>
-
-<p>Each character has three attributes: </p>
-
-<ul>
-  <li>strength, </li>
-  <li>intelligence, and</li>
-  <li>dexterity.</li>
-</ul>
-
-<p>These affect the characters&rsquo; chances of doing things like finding traps, climbing obstacles, jumping over things, or pushing/lifting things.  I had R roll three six-sided dice (aka 3d6) three times and each time decide which attribute she wanted that roll to be. I also let her roll again if she got a really low number.</p>
-
-<p>I&rsquo;m sure we&rsquo;ll be adding new races, jobs and attributes as we play more. </p>
-
-<h2 id="magic">Magic</h2>
-
-<p>Wizards start off with one spell, but anyone can find and use scrolls with spells.  Possible spells currently include:</p>
-
-<ul>
-  <li>Rainbow (can impress or distract monsters)</li>
-  <li>Sleep (can put monsters to sleep for 10 minutes)</li>
-  <li>Universal language (allows character to speak to any animate creature)</li>
-  <li>Smoke cloud (good for creating diversions)</li>
-  <li>Invisibility (lasts one hour)</li>
-  <li>Flight (lasts one hour)</li>
-  <li>Super strength (lasts one hour)</li>
-</ul>
-
-<h2 id="magic-items">Magic Items</h2>
-
-<p>The sky is the limit on magical items that can be found in the course of the adventure.  R already has a Wand of Stone (that turns living creatures to stone) and a Bracelet of Teleportation (that works once per day).</p>
-
-<h2 id="basic-game-play">Basic Game Play</h2>
-
-<p>Every adventure has a big goal.  The player(s) have to do something like rescue someone, find something, or stop someone. In our first adventure, the party had to rescue a princess that had been kidnapped by a giant frog army and brought to a volcano.  Our second involved helping the frog army (now our friends) get back to their home pond through a magic tunnel. The players always start somewhere specific and get a short description of what&rsquo;s going on.  Then I say &ldquo;What do you do now?&rdquo;</p>
-
-<p>Cory&rsquo;s fairly improvisational method can work well if you have a great imagination and a library of &ldquo;situations&rdquo; you can bring to bear.  I&rsquo;ve found I do better with a little bit of preparation&ndash; not nearly as much as you would need to run a game with older kids or adults, but more than none. Our third adventure (&ldquo;The Haunted Castle&rdquo;) is described below. Be inspired by books (yours and his/hers) and movies. These are great sources for monsters, characters, situations, and plots.</p>
-
-<p>Some sort of board or map is very useful in anchoring the action.  We used a <a href="http://www.amazon.com/Large-Neat-Oh-Dinosaur-Dinosauria-Figures/dp/B0080IUTN2">dinosaur landscape</a> first and then just a hand-drawn map of a castle. If you have a big pad of paper (like <a href="http://www.amazon.com/Melissa-Doug-Easel-Paper-Pad/dp/B00365OLU6">Melissa and Doug&rsquo;s Easel Pad</a>), you can quickly draw anything you want.</p>
-
-<p>As the action unfolds, we do a lot of ad hoc dice rolling. This definitely adds an element of excitement. If you don&rsquo;t have dice, I highly recommend the <a href="http://www.amazon.com/Chessex-001LBCHX-Pound-O-Dice/dp/B008C0KXYS">Chessex Pound of Dice</a>.</p>
-
-<p>We&rsquo;ve been keeping track of who we befriend during each adventure and counting them up.  This might eventually be a decent analog of experience points (traditionally acquiring by killing monsters) but we haven&rsquo;t used these numbers for anything yet.</p>
-
-<h2 id="the-interaction-system">The Interaction System</h2>
-
-<p>When a player comes into contact with a creature, they can do anything except attack.  Possible actions include (but are not limited to):</p>
-
-<ul>
-  <li>Greet the creature</li>
-  <li>Give a present</li>
-  <li>Smile</li>
-  <li>Tell a joke</li>
-  <li>Sing a friendship song</li>
-  <li>Run away</li>
-  <li>Use a spell</li>
-</ul>
-
-<p>If the player decides to tell a joke or sing, they must actually do so. The joke or song must also be relevant to the situation at hand. If the player&rsquo;s action is friendly, they roll a die. The size depends on the quality of the action&ndash;e.g., a good joke gets a greater die. The creature also rolls a die equal to his/her &ldquo;friendship resistance points.&rdquo; More ornery creatures roll bigger dice. The highest number wins.  If the monster wins, s/he stays ornery and doesn&rsquo;t cooperate.  If the player wins, the monster becomes a friend.  No one ever gets hurt.  If friends are helping, they can roll dice too.</p>
-
-<h2 id="the-haunted-castle">The Haunted Castle</h2>
-
-<p>All descriptions and scenarios in this adventure benefit from extemperaneous elaboration&ndash;think of everything below as a jumping off point. The main goals are exploration and escape, and the only way out of the castle is to find and use the Bracelet of Teleportation.</p>
-
-<p><img class="right" src="http://highvariance.net/images/nvdndfk/the-haunted-castle-map.png" /></p>
-
-<p><strong>Props:</strong></p>
-
-<p>You don&rsquo;t actually need any props, but in general, with little kids, the more props the better.  This set worked well for us:</p>
-
-<ul>
-  <li>a big hand-drawn copy of <a href="http://highvariance.net/images/the-haunted-castle-map.pdf">the castle map</a> (you can also use a real doll house)</li>
-  <li>a way to dim the lights</li>
-  <li>spooky music and sound effects (the <a href="https://itunes.apple.com/us/app/dj-halloween/id337499264">DJ Halloween iPhone app</a> is awesome)</li>
-  <li>a fancy box (doubles as jewelry box and treasure chest)</li>
-  <li>a bracelet</li>
-  <li>a key</li>
-</ul>
-
-<p><strong>Introduction:</strong></p>
-
-<blockquote>
-  <p>One day you were out exploring the Tangled Forest and there arose a terrible storm in the late afternoon. In the heavy rain, you couldn&rsquo;t see much, but then there was a flash of lightning and it illuminated a castle to your left on a hill. It looks dark and foreboding but you need shelter. </p>
-</blockquote>
-
-<blockquote>
-  <p>What do you do?</p>
-</blockquote>
-
-<p>As the player moves closer to the castle they see flickering lights in the windows. The castle is made of heavy gray stone and is surrounded by a moat. Strange dangerous creatures seem to be swimming in the moat. On the right side of the castle rises a tall tower. A drawbridge slowly lowers.</p>
-
-<p><strong>The five rooms of the castle (<a href="http://highvariance.net/images/nvdndfk/the-haunted-castle-map.pdf">.pdf map</a>):</strong></p>
-
-<p><strong>3. The Great Room</strong></p>
-
-<p>Once inside the castle, the drawbridge slams closed and three skeletons (FR points = 1d6 each) appear and laugh.  They tell the player she is trapped. The room is dark but has torches on the left and right walls.  On each side of the room are two doors. R made friends with these skeletons right away, but they aren&rsquo;t very helpful.</p>
-
-<p><strong>1. The Kitchen</strong></p>
-
-<p>Three witches are huddled in a corner around a big bubbling cauldron with their backs to the door.  They are completely engrossed in cackling and stirring, and won&rsquo;t notice a player until the player talks to them. Until they are befriended (FR points = 1d6 each), they will threaten to turn the player into a rat even though they won&rsquo;t actually do it. They also won&rsquo;t chase the player out of the room.</p>
-
-<p>Once befriended, they can&rsquo;t answer any questions, but they will refer the player to the rats in the dining room and offer up a universal language scroll so the player can talk to them.</p>
-
-<p><strong>2. The Dining Room</strong> </p>
-
-<p>The room is dominated by a huge table covered with rotting food on beautiful plates and big bowls of boiling stews. It smells terrible and there are rats sneaking around in the corners. As the rats get comfortable, they will hop on the table to steal food and drinks.</p>
-
-<p>The rats here know a lot, and they can answer direct questions, but they usually run away after they answer them. Of course, you need the universal language spell to talk to them.</p>
-
-<ul>
-  <li>Q: How can I escape? A: You need the magic bracelet&ndash;it can transport you anywhere in an instant.</li>
-  <li>Q: Where is the bracelet? A: In the dungeon&ndash;but don&rsquo;t open the wrong chest!</li>
-  <li>Q: Where is the key to the chest? A: In the tower&ndash;but don&rsquo;t wake up the vampire!</li>
-</ul>
-
-<p><strong>4. The Dungeon</strong></p>
-
-<p>The dungeon is dark&ndash;the player must bring a torch from upstairs or she won&rsquo;t be able to see a thing.  The stairs are long and the dungeon is deep underground. The ceilings are low. The dungeon itself is filled with rubble, broken furniture, and loads of cob webs.  It&rsquo;s more like a messy basement than a true dungeon, but it&rsquo;s still scary.</p>
-
-<p>In the far corner lie two large ornate chests. They look much fancier after the dust has been blown or brushed off.  One is unlocked and inside is a mummy (FR=1d12). He moves slowly and just says &ldquo;Leave me alone! Leave my dungeon&rdquo; over and over.</p>
-
-<p>The second chest is locked and can only be opened with the key from the tower.  It contains gold coins, gems, and the Bracelet of Teleportation which will take the player home.</p>
-
-<p><strong>5. The Tower</strong></p>
-
-<p>The stairs to the top of the tower are long and they lead to a heavy unlocked wooden door. The player must roll 3d6 lower than their strength to push it open. Entering the room, the player sees an old decrepit bedroom. The bed is wrought iron with chipped paint and dirty white silk canopy. Sleeping on his back with his arms crossed over his chest is a vampire. He has pale white skin and two sharp canines protruding from his mouth.</p>
-
-<p>As the player walks around the room, she makes noise stepping on broken glass and knocking things off dressers. These noises wake up the vampire if she rolls a 6 on a d6.  Otherwise the vampire simply moves and groans. In a jewelry box on a table next to the bed is the key that opens the locked dungeon chest.</p>
-
-<p>If the vampire wakes up, he is very angry and has 1d20 friendship resistance points. At this point, the player should notice the jewelry box. If she still doesn&rsquo;t grab it, the vampire should throw it at her, miss, and have it smash on the stairs revealing the key. The vampire will chase them down the stairs, but not into the dungeon. </p>
-
-<p>Happy adventuring!</p>
 ]]></content>
   </entry>
   
