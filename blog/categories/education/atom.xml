@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-04T23:19:33-04:00</updated>
+  <updated>2014-04-07T22:47:13-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Way to Teach Seminars]]></title>
+    <link href="http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars/"/>
+    <updated>2014-04-06T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars</id>
+    <content type="html"><![CDATA[<p><a href="http://www.amazon.com/The-Peloponnesian-War-Donald-Kagan/dp/0142004375"><img class="right" src="http://highvariance.net/images/hv-the-peloponnesian-war.jpg" /></a></p>
+
+<p>Donald Kagan is a giant<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> in the study of ancient Greek history–I mean sheesh, you should see his <a href="http://en.wikipedia.org/wiki/Donald_Kagan">Wikipedia</a> page! He is also one of the most celebrated teachers at Yale and the other day I had the pleasure of <a href="http://teaching.yale.edu/programs/faculty/award-winning-teachers-teaching-lunchtime-colloquia">hearing him talk</a> about how he teaches seminars. </p>
+
+<p>Each week during the semester Professor Kagan has two of his students write a 5-7 page response to specific questions related to the week’s topic. For example, in his class on Thucydides and the Peloponnesian War, he has students evaluate Sparta’s strategies and try to suggest better ones. The students circulate their papers a week before class so everyone has a chance to read and digest them. The class consists primarily of a group interrogation of the authors led by Professor Kagan. I believe the students find the process equal parts intimidating and inspiring. Each student is held to the fire twice during the semester.</p>
+
+<p>Everyone is expected to be prepared for class. That becomes very clear very quickly because Professor Kagan considers every student fair game for probing questions. That would be enough to make me read. I should definitely do more of this in my seminars.</p>
+
+<p>Ancient Spartans used to have lunch in groups of 15. Based on this (and his own personal experience) Professor Kagan says 15 is the optimal number of students in a seminar. I’d love to have a seminars this size, but I also hate turning students away. My compromise is to accept about 25 students. The class is still good for the first 15 and loads better for the 10 students who would otherwise miss out completely.</p>
+
+<p>In addition to his oral feedback during class, Professor Kagan gives written feedback on the papers. He does not assign any grades to anything until the end of the semester. While I feel qualitative feedback is far more valuable as both a guide and a motivator, I also believe students deserve a clear quantitative signal about their work. If they want an A, they need to know if they need to invest more in the class. Final grades should not be surprises.</p>
+
+<p>In many ways Professor Kagan’s method couldn’t be more different from <a href="">mine</a>. Learning how to write a long technical research paper and working on it throughout the semester is the spine of my seminars. Professor Kagan explicitly eschews this as he wants his students to spend as much time as possible grappling with the week’s reading and the concepts in those <a href="http://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War">books</a> (or even <a href="http://en.wikipedia.org/wiki/Stele">steles</a>). Even so, I’m still excited to try a few of his techniques.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="http://en.wikipedia.org/wiki/Titan_(mythology)">Titan</a> is probably the more appropriate term. <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Economics and Data Analysis]]></title>
@@ -111,29 +139,6 @@
 <p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
 
 <p>NOTE: It should be glaringly obvious from a brief perusal of this site that I do not speak on behalf of Yale.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few Thoughts on Grade Inflation]]></title>
-    <link href="http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation/"/>
-    <updated>2013-11-07T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/07/a-few-thoughts-on-grade-inflation</id>
-    <content type="html"><![CDATA[<p><a href="http://www.yalealumnimagazine.com/articles/3735">Grade inflation at Yale</a> is a sensitive topic–The administration doesn’t even like to call the issue grade inflation but instead refers to the problem as grade <em>compression</em>. The feeling is not that grades are (necessarily) too high, but that with so many A’s and A-‘a being handed out, it’s very hard to distinguish the good students and the great students. Is this really true? And is grade inflation itself a real problem? And if there is a problem with grade distributions, how should we fix it? I don’t have answers, but I do have opinions.</p>
-
-<p>First off, many people complaining about grade inflation seem to believe students today don’t “deserve” so many A’s. I think that’s dumb.  The main purpose of class grades is to help employers and graduate schools distinguish between students graduating at the same time from the same university. Even with Yale’s high mean grades right now, I believe there is still enough variation in the distribution to be able to do this. Grade inflation is a problem if <em>everyone</em> is getting A’s, but as long as you have three grade categories (e.g., A, A-, and B+) you can distinguish the excellent from the good and the good from the poor in a single graduating class.</p>
-
-<p>As fun as it would be to be able to use grades to compare students from different generations, it’s not terribly useful.  By the time you are five years out of college, employers have far better direct information on workplace performance than your GPA. To put this in baseball terms, debating whether Miguel Cabrera is better than Joe Dimaggio is entertaining, but knowing the answer won’t help the Tigers compete for the World Series next year.  They need to assess performance of players available today.</p>
-
-<p>Grades shouldn’t be used to compare individuals across universities either–institutional standards have been different for a long time.  <a href="http://www.rpi.edu">My alma mater</a> held grades to a B- average when I was in college and that was a lot lower than its peers.  It wasn’t a problem because employers knew this and took it into account when hiring new college graduates.  Plenty of my friends with seemingly low GPA’s had little trouble finding jobs.</p>
-
-<p>Unfortunately, there is a fair bit of <a href="http://www.bostonglobe.com/ideas/2013/08/31/the-trouble-with-grade-inflation-works/tL6am7MEz56f3PA2MD7I3I/story.html">evidence</a> that employers and graduate schools <em>do</em> compare GPA’s across universities without taking proper account of the institutions’ different grade distributions. This argues that grade inflation at Yale is actually a <em>good</em> thing for its own undergraduates. Of course, if we want to live in a more meritocratic society (where the best students get the best jobs), it’s not fair that students at grade-inflated universities get the best jobs.</p>
-
-<p>Implementing a solution is going to be difficult, because we’re stuck in a <a href="http://en.wikipedia.org/wiki/Prisoners_dilemma">prisoner’s dilemma</a>–all the elite universities have an incentive to ignore their own grade inflation because it benefits them individually.  There needs to be collective action (cooperation!) between schools on an issue that is prickly enough at the individual university level.</p>
-
-<p>Alternatively, it might be easier for the <em>consumers</em> of grades to solve this problem by demanding class ranks and ignoring GPA’s all together when comparing candidates from different universities. That is, admissions committees and employers need to smarten up.  In a perfect market, economic theory predicts that the firms and schools that do this will get better candidates and drive the firms and schools that don’t out of business. This is the same theory that says discrimination on the basis of sex and race should naturally disappear from the market.  Now that I think about it, we might be living with the negative consequences of grade inflation for a while.</p>
-
-<p>Update: <a href="/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation">I’ve written up a couple more thoughts on grade inflation</a>.</p>
 ]]></content>
   </entry>
   

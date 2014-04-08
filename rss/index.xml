@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-04T23:19:33-04:00</updated>
+  <updated>2014-04-07T22:47:13-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Way to Teach Seminars]]></title>
+    <link href="http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars/"/>
+    <updated>2014-04-06T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars</id>
+    <content type="html"><![CDATA[<p><a href="http://www.amazon.com/The-Peloponnesian-War-Donald-Kagan/dp/0142004375"><img class="right" src="http://highvariance.net/images/hv-the-peloponnesian-war.jpg" /></a></p>
+
+<p>Donald Kagan is a giant<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> in the study of ancient Greek history–I mean sheesh, you should see his <a href="http://en.wikipedia.org/wiki/Donald_Kagan">Wikipedia</a> page! He is also one of the most celebrated teachers at Yale and the other day I had the pleasure of <a href="http://teaching.yale.edu/programs/faculty/award-winning-teachers-teaching-lunchtime-colloquia">hearing him talk</a> about how he teaches seminars. </p>
+
+<p>Each week during the semester Professor Kagan has two of his students write a 5-7 page response to specific questions related to the week’s topic. For example, in his class on Thucydides and the Peloponnesian War, he has students evaluate Sparta’s strategies and try to suggest better ones. The students circulate their papers a week before class so everyone has a chance to read and digest them. The class consists primarily of a group interrogation of the authors led by Professor Kagan. I believe the students find the process equal parts intimidating and inspiring. Each student is held to the fire twice during the semester.</p>
+
+<p>Everyone is expected to be prepared for class. That becomes very clear very quickly because Professor Kagan considers every student fair game for probing questions. That would be enough to make me read. I should definitely do more of this in my seminars.</p>
+
+<p>Ancient Spartans used to have lunch in groups of 15. Based on this (and his own personal experience) Professor Kagan says 15 is the optimal number of students in a seminar. I’d love to have a seminars this size, but I also hate turning students away. My compromise is to accept about 25 students. The class is still good for the first 15 and loads better for the 10 students who would otherwise miss out completely.</p>
+
+<p>In addition to his oral feedback during class, Professor Kagan gives written feedback on the papers. He does not assign any grades to anything until the end of the semester. While I feel qualitative feedback is far more valuable as both a guide and a motivator, I also believe students deserve a clear quantitative signal about their work. If they want an A, they need to know if they need to invest more in the class. Final grades should not be surprises.</p>
+
+<p>In many ways Professor Kagan’s method couldn’t be more different from <a href="">mine</a>. Learning how to write a long technical research paper and working on it throughout the semester is the spine of my seminars. Professor Kagan explicitly eschews this as he wants his students to spend as much time as possible grappling with the week’s reading and the concepts in those <a href="http://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War">books</a> (or even <a href="http://en.wikipedia.org/wiki/Stele">steles</a>). Even so, I’m still excited to try a few of his techniques.</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="http://en.wikipedia.org/wiki/Titan_(mythology)">Titan</a> is probably the more appropriate term. <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Black metal for kids]]></title>
@@ -646,56 +674,6 @@ are simple. The game starts with each player getting three cards and a pile of t
 
 <p>Maybe our bedroom is dusty. Maybe I have allergies. Maybe I get a lot of low-grade colds. I don’t know why I sneeze a few times almost every morning when I wake up, but I do. And with two little kids, we all get our share of normal-grade colds. This means we go through a lot of tissues. Sneeze Shield means the tissue doesn’t fall apart when a grown up blows into it. I don’t miss handfuls of wet snot at all.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Photo Management Quest, Part 2: Loom]]></title>
-    <link href="http://highvariance.net/blog/2013/11/29/pq2-loom/"/>
-    <updated>2013-11-29T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/29/pq2-loom</id>
-    <content type="html"><![CDATA[<p>(Note: You might want to read <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">my first photo management rant</a> and <a href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix">Part 1</a> for context.)</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-loom.png" /></p>
-
-<p>Ever since
-<a href="http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup">Everpix went belly up</a>,
-photo management has been a common topic on the blogs I read and the
-podcasts I listen to. The current
-<a href="http://thesweetsetup.com/apps/our-favorite-photo-stream-alternative/">consensus favorite</a>
-is <a href="http://www.loom.com">Loom</a> and when I read their feature list I was
-pretty excited. They seemlessly sync your iOS Camera Roll and your Mac’s
-iPhoto Library with the cloud. Unlike Everpix, they store original files
-instead of lossy compressed versions. Unlike Everpix and Adobe Revel,
-they store photos AND videos. Their web app lets you browse your photo
-collection from anywhere. I loved that you could create and manage
-albums of photos from anywhere. Even their pricing ($40/yr for 50GB and
-$99/yr for 255GB) was reasonable.</p>
-
-<p>I signed up for the service, and while it took longer than I thought it
-should, the iOS app eventually pushed my 300 photo Camera Roll up to the
-cloud.  After enjoyably browsing this little collection on my phone,
-iPad, and Mac (using the web app), I decided to pony up for a month of 255GB
-of storage and try uploading my whole iPhoto library.  I won’t bore you
-with the details, but after six days of synchronization hangs, duplicate
-photos, and unanswered support email, I gave up.</p>
-
-<p>It’s possible that the problem was just me as I haven’t found anyone
-else complaining about Loom synchronization on the web.  My internet
-connection’s upload speed is not that great–just 1.5 Mbps–but this is
-the first time I’ve had a product give me trouble. Dropbox has been
-successfully syncing more than 50 GB of files for about three years now
-and I have used BackBlaze to successfully replicate about a terabyte of data.</p>
-
-<p>I found the whole experience rather depressing. The service even on paper
-wasn’t perfect. They don’t remove duplicate photos. They don’t offer
-even rudimentary editing tools. They won’t stream videos through any of
-their apps. They won’t synchronize folders on Windows machines with the
-cloud. That said, their feature set was above my bar and they seemed
-like they were moving in the right direction.  This time software
-quality was the show stopper. </p>
-
-<p>Sigh. The quest continues.</p>
 ]]></content>
   </entry>
   
