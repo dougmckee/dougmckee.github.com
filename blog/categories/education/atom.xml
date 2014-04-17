@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-10T15:19:00-04:00</updated>
+  <updated>2014-04-17T12:04:05-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Creativity in the Classroom]]></title>
+    <link href="http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom/"/>
+    <updated>2014-04-17T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom</id>
+    <content type="html"><![CDATA[<p><a href="http://www.missionartcenter.com"><img src="http://highvariance.net/images/hv-kids-painting.jpg" /></a></p>
+
+<p>While some disciplines encourage substantial creativity in their undergraduate students, the vast majority of college student academic effort goes into analysis or memorization. Certainly that’s true in economics. Most of the students in my seminars are seniors, and they are far more comfortable interpreting and using theory than creating or even tweeking it. </p>
+
+<p>In the core classes, economics majors are taught a series of models of the world. These include simple models like: “Individuals make choices to maximize their utility<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.” If these individuals don’t know exactly what the consequences of their choice might be, we assume they maximize their <em>expectation</em> of utility. Another example: Prices are determined by equating demand and supply functions since at the end of the day, the amount bought and the amount put up for sale should be the same (i.e., they reach an <em>equilibrium</em>). If I write down one of these models on the board in a senior seminar, my students recognize it and can tell me what it means. If I describe a novel situation and ask them to write down a formal model that captures the choices made and the constraints faced, they have a much harder time.</p>
+
+<p>Like almost any activity, you can become better at coming up with new and interesting ideas through practice. I follow three principles to inspire my students to work creatively in my classes. The first is that students must be actively engaged. Some faculty are very good at this. On the first day of the semester, <a href="http://www.yale.edu/strobel/">Scott Strobel</a> has all his students play <a href="http://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>. Most of them have never seen this game before, and they need to figure out how it works. They actively grapple with the problem instead of passively receiving knowledge from the lecture. As the semester progresses, Professor Strobel spends some time transferring static knowledge from his brain to his students’, but he focuses his effort on teaching students how to think.</p>
+
+<p>There are many ways to keep students engaged. Calling on them when they haven’t raised their hand, saying slightly outrageous things to start conversations, and basically making sure the class is more interesting than Facebook all help. This is harder in a big lecture, but not impossible. Mixing in quizzes, pair exercises, and even <a href="http://www.cmu.edu/teaching/clickers/">clickers</a> can make sure students come to class and think while they are there.</p>
+
+<p>The second key to inculcating creativity is the most obvious: Have students create things during class. I often spend the first hour talking about something substantive and in the second hour my students break into small groups and propose something new. In one class we started by discussing several policies different countries have tried for reducing high school drop out rates. Then each small group proposed (and later defended) a new policy for reducing high school drop out in a particular context. In another class, I had them design their own conditional cash transfer programs. While most conditional cash transfer programs involve paying parents (usually mothers) to take their kids to the doctor or enroll them in school, I wanted my students to think outside the box. Some of the ideas they came up with were really interesting. In a third class, we talked about the relationship between health and retirement behavior and how health is a multi-dimensional concept. The small groups then proposed new ways to measure dimensions of health that are ignored by traditional measures. </p>
+
+<p>My third principle is that ideas are precious. That is, the classroom has to be a safe place to share an imperfect idea. Most ideas my students come up with are bad. This isn’t surprising since most ideas anyone comes up with are bad. In fact, the more innovative and truly new an idea is, the more flaws it initially has. But the vast majority of <em>all</em> good ideas start as bad ideas. Bad ideas inspire other ideas which inspire other ideas which may  eventually be good ideas. That’s why it’s so important not to squash things right away. I model this by saying things like “Here’s a bad idea, but maybe it will help us think of something that would actually work.” Providing constructive feedback is critical to the process of moving ideas along.</p>
+
+<p>The rewards to creativity in real economic research (and I think scientific research in general) are huge. All of the truly great papers involve big leaps. Strong analytical skills are important, but they are far from sufficient. In the workplace, there are big payoffs to creativity too. I’d even say that creativity is a traditional comparative advantage of the United States. </p>
+
+<p>Yale President Peter Salovey’s <a href="http://president.yale.edu/creativity-transfer">recent Note from Woodbridge Hall</a> gives several examples of Yale graduates starting businesses, writing plays, and inventing products. He’s absolutely right that some Yale students are very creative. And yet, I believe we can and must do better at encouraging their innate creativity in the classroom.</p>
+
+<p><strong>Footnotes:</strong></p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>You can think of utility as happiness, but the concept is a little bit different. Imagine that individuals rank, in order of preference, every possible combination of stuff that they value. If they maximize their utility, that means there is no other attainable combination of stuff that they prefer.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Another Way to Teach Seminars]]></title>
@@ -114,31 +149,6 @@
 <p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
 
 <p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A Few More Thoughts on Grade Inflation]]></title>
-    <link href="http://highvariance.net/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation/"/>
-    <updated>2013-11-12T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/11/12/a-few-more-thoughts-on-grade-inflation</id>
-    <content type="html"><![CDATA[<p>Last week I gave three reasons why <a href="/blog/2013/11/07/a-few-thoughts-on-grade-inflation">Yale shouldn’t worry so much about grade inflation</a>:</p>
-
-<ol>
-  <li>There is still enough room at the top of the grade distribution to separate students into Excellent (A), Good (A-), and Good enough (B+).</li>
-  <li>It doesn’t matter that you can’t reasonably compare today’s students to students from more than five years ago.</li>
-  <li>It’s actually a good thing for Yale undergraduates because employers and graduate schools like high grades.</li>
-</ol>
-
-<p>This doesn’t mean we should wash our hands and walk away–There are still some issues with grades that should be addressed.  First, grade distributions are still rising and we could end up in a place where there isn’t enough room at the top to distinguish great students. That wouldn’t be fair to those students because they are the ones who should get into the best graduate schools and get the best jobs. It would be nice to put the brakes on grade inflation even if we don’t need to reverse it. The economics department has had some success holding grade distributions steady since we started suggesting grade guidelines to our faculty before the end of every semester. They aren’t requirements, but the faculty do seem to take them seriously.</p>
-
-<p>The second issue is that grade distributions at Yale vary across departments. In general, grades are higher (and more compressed) in courses that judge students based on essays, papers, and class participation where it’s just hard to assign a numeric grade. It’s easier to do so in courses that have more exams and problem sets where it’s much clearer what’s right and wrong, and these classes tend to have more “traditional” grade distributions. This means students who care about grades shy away from classes and majors that are more likely to lower their GPA even if those classes might be more interesting or beneficial in the long-term. I’ve had students who want to go to law school but feel like they won’t get into a top program because they took too much science and math.</p>
-
-<p>I don’t think it makes sense to force or even suggest that all classes follow the same grade distribution.  Even in my department, the guidelines are different for the more quantitative/analytical core classes than the more creative/applied advanced classes. I think the best way to head off potential future grade inflation is for departments to have their own suggested grading guidelines that may depend on the type of course.</p>
-
-<p>Incentivizing students to take the more harshly graded classes and enroll in the “tougher” majors is a harder problem, and I don’t have an answer.  I do know that at my alma mater, students’ rank in their graduating class and in their major was on their transcript. I think doing this at Yale would be better than doing nothing. Some grad schools and employers would ignore this information, but the smarter ones would use it to identify the best students.  </p>
-
-<p>NOTE: It should be glaringly obvious from a brief perusal of this site that I do not speak on behalf of Yale.</p>
 ]]></content>
   </entry>
   
