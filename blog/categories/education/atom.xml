@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-17T12:04:05-04:00</updated>
+  <updated>2014-04-19T21:38:45-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -108,7 +108,7 @@
     <link href="http://highvariance.net/blog/2014/03/04/thrown-to-the-wolves/"/>
     <updated>2014-03-04T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/03/04/thrown-to-the-wolves</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-wolfpack.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-wolfpack.jpeg %}</p>
 
 <p>I recently heard <a href="http://bbs.yale.edu/people/michael_koelle-1.profile">Michael Koelle</a> (Associate Professor of Molecular Biophysics and Biochemistry at Yale) give a very interesting <a href="http://teaching.yale.edu/programs/faculty/award-winning-teachers-teaching-lunchtime-colloquia">presentation on teaching</a>. He led by saying he wasn’t going to talk about anything trendy like MOOC’s or flipping the classroom or project-based learning, but would instead focus on how how he teaches traditional big lecture courses. He proceeded to tell us about the most progressive lecture courses I’ve ever heard of. Among other things, he never lectures for more than 15 minutes at a time and peppers his classes with interactivity and small group exercises. While his whole talk was inspiring and full of concrete advice and ideas, I want to write today about something he brought up almost in passing.</p>
 

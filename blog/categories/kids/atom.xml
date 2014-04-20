@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-17T12:04:05-04:00</updated>
+  <updated>2014-04-19T21:38:45-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -69,7 +69,7 @@ Mountains of might
     <link href="http://highvariance.net/blog/2014/03/21/fun-and-games-at-the-library/"/>
     <updated>2014-03-21T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/03/21/fun-and-games-at-the-library</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-alphabet-rug.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-alphabet-rug.jpg %}</p>
 
 <p>Consumption, analysis, and <a href="http://randsinrepose.com/archives/the-builders-high/">creation</a>. A lot of my time can be assigned to one of these three categories, and while all three have their place, I find it very easy to slouch into consumption and shirk creation. I feel better about myself when I’m in balance, so I’m always looking for opportunities to make things. That’s one reason the girls and I have been making up so <a href="http://highvariance.net/blog/2014/03/12/pretty-pretty-princess/">many</a> <a href="http://highvariance.net/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids/">new</a> <a href="http://highvariance.net/blog/2013/12/17/sequence-for-kids/">games</a> lately. </p>
 
@@ -109,7 +109,7 @@ Mountains of might
 
 <p><strong>2. Rainbow Magic:</strong> R is currently obsessed with <a href="http://en.wikipedia.org/wiki/Rainbow_Magic">this series</a> of beginning chapter books. They are formulaic in the same way <a href="http://en.wikipedia.org/wiki/Dora_the_Explorer">Dora and Boots</a> are formulaic beginning readers and <a href="http://en.wikipedia.org/wiki/Hardy_Boys">The Hardy Boys</a> are formulaic tween boy schlock. The books come in sets of seven (e.g. <a href="http://www.amazon.com/gp/product/0545175178/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0545175178&amp;linkCode=as2&amp;tag=highvari-20">The Pet Fairies</a>) and each book involves two girls (Rachel and Kirsty) helping a particular fairy retrieve some magic item before Jack Frost and/or his goblins can get it. The books are quite harmless, and the thing is kids <em>like</em> formula–figuring it out is like solving a puzzle. B is not so into the stories yet, but she’s been swept up in R’s enthusiasm, and at the library she loves to gather up a big pile of the books, pore over the covers, and flip for pictures of goblins. We recently made up a game where she files her books by the first letter of the fairy’s name on the alphabet rug. Fun and even a little educational!</p>
 
-<p><img class="right" src="/images/hv-picture-book-scavenger-hunt.jpg"></p>
+<p>{% img right /images/hv-picture-book-scavenger-hunt.jpg %}</p>
 
 <p><strong>3. Picture Book Scavenger Hunt:</strong> This is a game I’ve been trying to get the girls excited about for years, and during our last library outing it finally took hold. I made a list of animals, characters and objects, and the girls had to find a picture of each in a book. We settled in between two big shelves and started digging. It was surprisingly difficult–I would have told you that a third of all picture books contain princesses, fairies, pirates, and dogs. It turns out dogs are easy to find, but everything else took a little hunting. </p>
 
@@ -123,7 +123,7 @@ Mountains of might
     <link href="http://highvariance.net/blog/2014/03/12/pretty-pretty-princess/"/>
     <updated>2014-03-12T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/03/12/pretty-pretty-princess</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-pretty-pretty-princess.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-pretty-pretty-princess.jpg %}</p>
 
 <p>I was talking to one of R’s former pre-school teachers the other day, and she mentioned a board game she used to play with her daughter and husband called <em>Pretty Pretty Princess</em>. It involved moving pieces around the board (ala Candy Land) and collecting real jewelry that you get to wear. You win when you put on the tiara and shout out “I’m a Pretty Pretty Princess!” My first thought was that both of my girls would love this game and I should look for it on Amazon as soon as possible.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> My second thought was that we already owned most of the parts and it would be even more fun to make the game ourselves.</p>
 
@@ -148,7 +148,7 @@ Mountains of might
     <link href="http://highvariance.net/blog/2013/12/17/sequence-for-kids/"/>
     <updated>2013-12-17T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/12/17/sequence-for-kids</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/hv-sequence-for-kids.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img center /images/hv-sequence-for-kids.jpg %}</p>
 
 <p>With the holidays upon us it seems like every geek blogger I read has been recommending family-friendly board games. <a href="http://macsparky.com/blog/2013boardgames">MacSparky</a> sent me to <a href="http://fannypackmafia.com/blog/2013/12/8/my-favorite-board-games-from-2013-part-one">Fanny Pack Mafia</a>, <a href="http://www.marco.org/2013/12/12/gift-guide-actually-used-for-a-year">Marco</a> says <a href="http://www.amazon.com/gp/product/B0007YDBLE/?tag=marcoorg-20">Power Grid</a> is really good, and <a href="http://kottke.org/13/11/how-to-quickly-get-good-at-chess">Kottke</a> is sending me to <a href="http://www.gautamnarula.com/how-to-get-good-at-chess-fast/">Gautam Narula</a> to improve my chess game. This is all well and good, but these games are a bit much for my 2.5 and 5 year old kids.  Maybe that’s why our favorite game hasn’t been on any of these lists.</p>
 
@@ -181,7 +181,7 @@ are simple. The game starts with each player getting three cards and a pile of t
     <id>http://highvariance.net/blog/2013/12/16/kid-book-review-second-time-around</id>
     <content type="html"><![CDATA[<p>One of the best things about having a second child is getting to do all your favorite little kid things again.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Near the top of that list for me is re-reading our best picture books, and L, at 2.5 years old is just now appreciating the stories as well as the pictures. These five books have been particularly popular over the last few weeks:</p>
 
-<p><img class="right" src="/images/hv-uncle-elephant.jpg" title="[title “Uncle Elephant”]" ></p>
+<p>{% img right /images/hv-uncle-elephant.jpg [title “Uncle Elephant”] %}</p>
 
 <ul>
   <li>
@@ -192,7 +192,7 @@ are simple. The game starts with each player getting three cards and a pile of t
   </li>
 </ul>
 
-<p><img class="left" src="/images/hv-lyle-walks-the-dogs.jpg" title="[title “Lyle Walks the Dogs”]" ></p>
+<p>{% img left /images/hv-lyle-walks-the-dogs.jpg [title “Lyle Walks the Dogs”] %}</p>
 
 <ul>
   <li>
@@ -203,7 +203,7 @@ are simple. The game starts with each player getting three cards and a pile of t
   </li>
 </ul>
 
-<p><img class="right" src="/images/hv-there-are-cats-in-this-book.jpg" title="[title “There are cats in this book”]" ></p>
+<p>{% img right /images/hv-there-are-cats-in-this-book.jpg [title “There are cats in this book”] %}</p>
 
 <ul>
   <li><a href="http://www.amazon.com/There-Are-Cats-This-Book/dp/0763639230">There Are Cats in This Book</a> (written and illustrated by Viviane Schwarz) I’m cheating here since we just discovered this book a month ago at the library, but it’s just so good and so perfect for the two year old age group that I had to include it. It follows in the interactive mode of Herve Tullet’s <a href="http://www.amazon.com/Press-Here-Herve-Tullet/dp/0811879542">Press Here</a> asking the reader to do things (like toss a ball of yarn or look inside a box) and reacting to them. The only potential downside is that the pop-up features are not totally robust, but isn’t that what Scotch tape is for? I just realized there’s a well-reviewed sequel (<a href="http://www.amazon.com/There-Are-Cats-this-Book/dp/0763649546">There are no cats in this book</a>) and can’t wait to check that out too!</li>

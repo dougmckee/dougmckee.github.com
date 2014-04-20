@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-17T12:04:05-04:00</updated>
+  <updated>2014-04-19T21:38:45-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2014/01/30/exploiting-irrationality/"/>
     <updated>2014-01-30T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/01/30/exploiting-irrationality</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-floss.png"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-floss.png %}</p>
 
 <p>When I was growing up, none of the several clocks in the house told the correct time. My mother would set them all between 5 and 30 minutes fast in an effort to fool herself into leaving the house when she was supposed to. I thought this was completely insane. Why not just wake up early enough to do what you needed to do, and then do that? Why play these games with yourself when pure rationality would suffice?</p>
 
@@ -38,7 +38,7 @@
     <id>http://highvariance.net/blog/2013/12/31/home-music-streaming-3</id>
     <content type="html"><![CDATA[<p><a href="http://daringfireball.net/2013/12/the_year_in_apple_and_technology">John Gruber</a> loves to talk about how technology improves primarily through a series of small steps and the occasional big jump. While the first iPhone was revolutionary, the iPhone 5s is a far better product due to several incremental improvements, none of which got much attention along the way. In the last year, three small things changed in my home music system that make it better than <a href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/">the last time I wrote about it</a> and a <strong>lot</strong> better than when I <a href="http://highvariance.net/blog/2012/03/02/home-music-streaming/">first wrote about it</a>.</p>
 
-<p><img class="right" src="/images/hv-itunes-radio.jpeg"></p>
+<p>{% img right /images/hv-itunes-radio.jpeg %}</p>
 
 <h2 id="itunes-radio">1. iTunes Radio</h2>
 
@@ -50,7 +50,7 @@
 
 <p>In early December, Apple released Remote 4.1 with support for iTunes Radio and now I can stream it all over the house. Remote won’t show my Radio listening history and it’s laggier than I’d like, but I still use it all the time.</p>
 
-<p><img class="right" src="/images/hv-pioneer-a4.jpeg"></p>
+<p>{% img right /images/hv-pioneer-a4.jpeg %}</p>
 
 <h2 id="my-new-pioneer-a4">2. My new Pioneer A4</h2>
 
@@ -58,7 +58,7 @@
 
 <p>My favorite feature of the set up is being able to stream simultaneously to several speakers around the house, and this just got even better as I’ve added a <a href="http://www.amazon.com/Pioneer-XW-SMA4-K-Speaker-featuring-Wireless/dp/B00903HKXI">Pioneer A4 Airplay speaker</a> in the basement. The A4 got an amazingly <a href="http://thewirecutter.com/reviews/the-best-airplay-speaker/">positive review</a> in <a href="http://thewirecutter.com">the Wirecutter</a>, and was just $200, even though it sounds like it should cost much more. The set up instructions are horrific, but the set up itself was not so bad. I’m a little perplexed about why Pioneer would discontinue it without an obvious replacement product, but they did. If you have one or manage to get your hands on one, I highly recommend holding the input button down for 3 seconds to turn on Quick Start Mode. This changes the start up time from 35 seconds to under 5 seconds, and while they don’t tell you how much extra power it burns standing by, it’s definitely worth it.</p>
 
-<p><img class="right" src="/images/hv-airfoil.jpeg"></p>
+<p>{% img right /images/hv-airfoil.jpeg %}</p>
 
 <h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
 
@@ -71,7 +71,7 @@
     <link href="http://highvariance.net/blog/2013/12/30/pdf-expert-5/"/>
     <updated>2013-12-30T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/12/30/pdf-expert-5</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-pdf-expert-5.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-pdf-expert-5.jpeg %}</p>
 
 <p>More than a year ago I wrote <a href="http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">a quick review</a> of what I thought were the three best PDF annotation apps on the iPad. The clear winner for my needs was <a href="https://itunes.apple.com/app/id743974925?mt=8&amp;ign-mpt=uo%3D4">PDF Expert</a>. Things haven’t changed much since then. <a href="http://brooksreview.net">Ben Brooks</a> just did a <a href="http://thesweetsetup.com/apps/best-pdf-manager-editor-ipad/">super-comprehensive review</a> over at <a href="http://thesweetsetup.com">The Sweet Setup</a>, and the latest version of PDF Expert (5.0) floated to the top. I just upgraded and worked it through its paces grading twenty 15-20 page papers. </p>
 
@@ -93,7 +93,7 @@
     <id>http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
 
-<p><img class="right" src="/images/hv-dropbox.jpg"></p>
+<p>{% img right /images/hv-dropbox.jpg %}</p>
 
 <p>I am extremely happy to report some actual forward progress in this episode of My Photo Management Quest.  The short story is that all my photos now live on Dropbox in a nice hieararchical folder structure where I can browse and share them from any of my computers or iOS devices. My new system isn’t perfect, but it’s pretty good and I think it’s a solid foundation for the future.</p>
 
@@ -115,11 +115,11 @@
 
 <p>Now that my photos live in Dropbox, I have at least three choices of iOS apps to browse them.  The <a href="https://www.dropbox.com/iphoneapp">Dropbox app</a>’s photo tab lets me scroll through thumbnails of all my photos sorted by date and download full resolution versions as needed. I can also browse the folder structure through the standard file browing UI and grab photos, though I don’t get a pretty set of big thumbnails.  Playing videos and sharing links to files and folders is easy.</p>
 
-<p><img class="left" src="/images/hv-heliog.png"></p>
+<p>{% img left /images/hv-heliog.png %}</p>
 
 <p><a href="http://www.heliogapp.com">Heliog</a> is fast and pretty–it preserves my folder hierarchy and shows nice screens of thumbnails. I can share folders or sets of photos and easily move photos between folders. The downsides are that it doesn’t play video and I can’t delete photos from the photo view (have to be in the album view). These both seem easily fixable.</p>
 
-<p><img class="right" src="/images/hv-unbound.jpg"></p>
+<p>{% img right /images/hv-unbound.jpg %}</p>
 
 <p>Right now, I think <a href="http://unboundapp.com">Unbound</a> is the best of the bunch.  Unlike Heliog, it plays videos and let’s me delete photos from the photo view. Like Heliog, sharing Dropbox links is easy and browsing is fast–you can even make the app cache folders for quicker (or offline) access. Unbound will show you all the photo’s EXIF data and even show where a photo was taken on a map. Moving pictures between folders is easy, but I don’t think it’s possible to copy pictures to other albums. It shows me all my folders, but flattens the hierarchy–i.e., my month folders are no longer grouped by year. The ordering is correct, so this isn’t actually so bad.</p>
 
