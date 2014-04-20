@@ -4,7 +4,7 @@
   <title><![CDATA[kbr | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kbr/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-19T21:38:45-04:00</updated>
+  <updated>2014-04-19T21:39:08-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -20,7 +20,7 @@
     <id>http://highvariance.net/blog/2013/12/16/kid-book-review-second-time-around</id>
     <content type="html"><![CDATA[<p>One of the best things about having a second child is getting to do all your favorite little kid things again.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Near the top of that list for me is re-reading our best picture books, and L, at 2.5 years old is just now appreciating the stories as well as the pictures. These five books have been particularly popular over the last few weeks:</p>
 
-<p>{% img right /images/hv-uncle-elephant.jpg [title “Uncle Elephant”] %}</p>
+<p><img class="right" src="/images/hv-uncle-elephant.jpg" title="[title “Uncle Elephant”]" ></p>
 
 <ul>
   <li>
@@ -31,7 +31,7 @@
   </li>
 </ul>
 
-<p>{% img left /images/hv-lyle-walks-the-dogs.jpg [title “Lyle Walks the Dogs”] %}</p>
+<p><img class="left" src="/images/hv-lyle-walks-the-dogs.jpg" title="[title “Lyle Walks the Dogs”]" ></p>
 
 <ul>
   <li>
@@ -42,7 +42,7 @@
   </li>
 </ul>
 
-<p>{% img right /images/hv-there-are-cats-in-this-book.jpg [title “There are cats in this book”] %}</p>
+<p><img class="right" src="/images/hv-there-are-cats-in-this-book.jpg" title="[title “There are cats in this book”]" ></p>
 
 <ul>
   <li><a href="http://www.amazon.com/There-Are-Cats-This-Book/dp/0763639230">There Are Cats in This Book</a> (written and illustrated by Viviane Schwarz) I’m cheating here since we just discovered this book a month ago at the library, but it’s just so good and so perfect for the two year old age group that I had to include it. It follows in the interactive mode of Herve Tullet’s <a href="http://www.amazon.com/Press-Here-Herve-Tullet/dp/0811879542">Press Here</a> asking the reader to do things (like toss a ball of yarn or look inside a box) and reacting to them. The only potential downside is that the pop-up features are not totally robust, but isn’t that what Scotch tape is for? I just realized there’s a well-reviewed sequel (<a href="http://www.amazon.com/There-Are-Cats-this-Book/dp/0763649546">There are no cats in this book</a>) and can’t wait to check that out too!</li>
@@ -70,7 +70,7 @@
 
 <h2 id="keepers">Keepers:</h2>
 
-<p>{% img right /images/hv-cowboy-and-octopus.jpg [title “Cowboy and Octopus”] %}</p>
+<p><img class="right" src="/images/hv-cowboy-and-octopus.jpg" title="[title “Cowboy and Octopus”]" ></p>
 
 <ul>
   <li>
@@ -95,7 +95,7 @@
 
 <h2 id="honorable-mentions">Honorable mentions:</h2>
 
-<p>{% img right /images/hv-jims-lion.jpg [title “Jim’s Lion”] %}</p>
+<p><img class="right" src="/images/hv-jims-lion.jpg" title="[title “Jim’s Lion”]" ></p>
 
 <ul>
   <li>
@@ -114,7 +114,7 @@
 
 <h2 id="dishonorable-mentions">Dishonorable mentions:</h2>
 
-<p>{% img right /images/hv-big-elephant.jpg [title “The Big Elephant in the Room”] %}</p>
+<p><img class="right" src="/images/hv-big-elephant.jpg" title="[title “The Big Elephant in the Room”]" ></p>
 
 <ul>
   <li>

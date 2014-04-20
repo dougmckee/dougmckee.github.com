@@ -4,7 +4,7 @@
   <title><![CDATA[music | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-19T21:38:45-04:00</updated>
+  <updated>2014-04-19T21:39:08-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983/"/>
     <updated>2014-04-18T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-shout-at-the-devil.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-shout-at-the-devil.jpg"></p>
 
 <p>Late at night, as I putter around the house folding laundry or washing dishes or putting away toys, I often listen to podcasts. Most are mainstream. For sports, I listen to the <a href="http://sports.espn.go.com/espnradio/podcast/archive?id=2864045">BS Report</a> and <a href="https://itunes.apple.com/us/podcast/grantland-nfl-podcast/id730254718?mt=2">Grantland NFL</a>; for tech stuff, I listen to <a href="http://atp.fm">Accidental Tech Podcast</a> and <a href="http://www.macpowerusers.com">Mac Power Users</a>; and for real life, I like <a href="http://www.thisamericanlife.org">This American Life</a> and <a href="http://dadsbeingdads.net">Dads Being Dads</a>.</p>
 
@@ -123,7 +123,7 @@ Mountains of might
     <id>http://highvariance.net/blog/2013/12/31/home-music-streaming-3</id>
     <content type="html"><![CDATA[<p><a href="http://daringfireball.net/2013/12/the_year_in_apple_and_technology">John Gruber</a> loves to talk about how technology improves primarily through a series of small steps and the occasional big jump. While the first iPhone was revolutionary, the iPhone 5s is a far better product due to several incremental improvements, none of which got much attention along the way. In the last year, three small things changed in my home music system that make it better than <a href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/">the last time I wrote about it</a> and a <strong>lot</strong> better than when I <a href="http://highvariance.net/blog/2012/03/02/home-music-streaming/">first wrote about it</a>.</p>
 
-<p>{% img right /images/hv-itunes-radio.jpeg %}</p>
+<p><img class="right" src="/images/hv-itunes-radio.jpeg"></p>
 
 <h2 id="itunes-radio">1. iTunes Radio</h2>
 
@@ -135,7 +135,7 @@ Mountains of might
 
 <p>In early December, Apple released Remote 4.1 with support for iTunes Radio and now I can stream it all over the house. Remote won’t show my Radio listening history and it’s laggier than I’d like, but I still use it all the time.</p>
 
-<p>{% img right /images/hv-pioneer-a4.jpeg %}</p>
+<p><img class="right" src="/images/hv-pioneer-a4.jpeg"></p>
 
 <h2 id="my-new-pioneer-a4">2. My new Pioneer A4</h2>
 
@@ -143,7 +143,7 @@ Mountains of might
 
 <p>My favorite feature of the set up is being able to stream simultaneously to several speakers around the house, and this just got even better as I’ve added a <a href="http://www.amazon.com/Pioneer-XW-SMA4-K-Speaker-featuring-Wireless/dp/B00903HKXI">Pioneer A4 Airplay speaker</a> in the basement. The A4 got an amazingly <a href="http://thewirecutter.com/reviews/the-best-airplay-speaker/">positive review</a> in <a href="http://thewirecutter.com">the Wirecutter</a>, and was just $200, even though it sounds like it should cost much more. The set up instructions are horrific, but the set up itself was not so bad. I’m a little perplexed about why Pioneer would discontinue it without an obvious replacement product, but they did. If you have one or manage to get your hands on one, I highly recommend holding the input button down for 3 seconds to turn on Quick Start Mode. This changes the start up time from 35 seconds to under 5 seconds, and while they don’t tell you how much extra power it burns standing by, it’s definitely worth it.</p>
 
-<p>{% img right /images/hv-airfoil.jpeg %}</p>
+<p><img class="right" src="/images/hv-airfoil.jpeg"></p>
 
 <h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
 
