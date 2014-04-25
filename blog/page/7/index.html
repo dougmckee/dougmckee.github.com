@@ -9,7 +9,7 @@
   <meta name="author" content="Doug McKee">
 
   
-  <meta name="description" content="Our neighborhood is so awesome. For the last three years (at least) on the evening before Halloween nearly all the kids gather for the Pumpkin Parade &hellip;">
+  <meta name="description" content="When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing. Tumblr &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -98,6 +98,100 @@
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/blog/2012/12/29/scratching-my-nerd-itch/">Scratching My Nerd Itch With Octopress</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-12-29T00:00:00-05:00" pubdate data-updated="true">Dec 29<span>th</span>, 2012</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
+
+<ul>
+  <li>Built-in search</li>
+  <li>Organization with tags so visitors could easily find articles by category</li>
+  <li>Easy integration with Disqus comments</li>
+  <li>Built-in <a href="http://www.usa.gov/Topics/Reference-Shelf/Libraries/RSS-Library/What-Is-RSS.shtml">RSS feed</a> for those who want to subscribe</li>
+  <li>Automatic announcement of new articles to Facebook</li>
+  <li>Easy integration with <a href="http://www.google.com/analytics/">Google Analytics</a> (for traffic statistics)</li>
+</ul>
+
+<p>Now, a year later, I have more of a vision for what I want to do with the site and I’m ready to tinker a bit. Unfortunately, while there’s some flexibility in how a Tumblr site looks, but they don’t give you any real control. Ever since high school I’ve spent regular chunks of time writing code and bending computers to my will. I’ve done this as a professional software developer, as a research economist, and often just messing around. The last year has been less geeky than usual as I’ve concentrated on teaching and less technical research projects.  It’s time to scratch my nerd itch.</p>
+
+<p>I’ve chosen to switch to a particularly nerdy blog platform (<a href="http://octopress.org">Octopress</a>) that requires using command-line tools, but it has the huge benefit of total control. Octopress is built on top of <a href="https://github.com/mojombo/jekyll#readme">Jekyll</a> which is written in <a href="http://www.ruby-lang.org/en/">Ruby</a> and I can tweek it as much as I’d like. I’ve always wanted to learn Ruby and reading and modifying other other people’s code is a great way to learn a language.</p>
+
+<p>In addition to Octopress/Jekyll/Ruby, this project gets me up to speed on several other modern nerdy technologies:</p>
+
+<ul>
+  <li><a href="http://mxcl.github.com/homebrew/">Homebrew</a> is a package manager for MacOS that lets you install all sorts of open source software including the latest version of Ruby.</li>
+  <li><a href="http://git-scm.com">git</a> is what version control will look like for years to come–it’s fast, collaborative, distributed, and flexible.</li>
+  <li><a href="https://github.com">Github</a> is where all the coolest open source projects live these days.  Any new software I write that I want to share will go here.    </li>
+  <li><a href="http://sass-lang.com">Sass</a> (Syntactically Awesome Style Sheets) is a powerful layer on top of CSS (Cascading Style Sheets) that allows for powerful adaptive layout of HTML pages.</li>
+</ul>
+
+<p>While Octopress is in part an excuse to fiddle with new tech, it also feels very comfortable as articles are written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>–a very lightweight text-based markup language that I lately find myself using for almost everything.</p>
+
+<h2 id="whats-new">What’s New?</h2>
+
+<p>On the surface, the site shouldn’t look all that different, but beyond the engine being replaced, there are several subtle changes:</p>
+
+<ul>
+  <li>A real <a href="http://highvariance.net/about.html">About</a> page</li>
+  <li>Links up top for the main categories I tend to write about</li>
+  <li>A search bar near the top of every page</li>
+  <li>Quick links to my recent posts and my favorite posts.</li>
+  <li>Much better layout for mobile devices</li>
+  <li>Super-fast rendering since Octopress generates the whole site as static HTML which just sits on the server</li>
+</ul>
+
+<h2 id="was-it-easy-to-migrate-from-tumblr">Was it Easy to Migrate from Tumblr?</h2>
+
+<p>Two things helped a lot: The Octopress documentation is excellent and I already had all the articles on my local machine in Markdown. The only thing that was tricky was backwards compatibility as I wanted all my old URL’s to work and all my discussions to transfer over.  I used the <a href="https://github.com/tsmango/jekyll_alias_generator">alias-generator</a> plugin and a little elbow grease to make all my Tumblr URL’s redirect to my new URL’s.   </p>
+
+<p>Disqus (the service that keeps track of comments) says they will crawl your new site and use any redirects it provides to update their database.  Unfortunately, while <em>browsers</em> can understand the redirects that the alias-generator creates<sup id="fnref:fn_ag"><a href="#fn:fn_ag" rel="footnote">1</a></sup> just fine, the <em>disqus crawler</em> does not.  So I had to create a csv file that mapped all the old URL’s to the new ones and upload that.</p>
+
+<p>Announcements of new articles on Facebook are now handled by <a href="http://ifttt.com">IFTTT</a>.  It will likely take a little fine-tuning to get these right.</p>
+
+<h2 id="whats-on-the-horizon">What’s on the Horizon?</h2>
+
+<p>The primary emphasis of this site remains the text, but I do want to integrate a little more media–even just a few pictures here and there would be nice. I want the category pages to have their own looks. Beyond that, all I know is that I’ve now got the power to do anything.  Should be fun!</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:fn_ag">
+      <p>Since the site is static, it can’t actually send HTTP
+301 permanent redirects. Instead, the alias-generator creates HTML stub files for all the old URL’s with http-equiv meta tags containing the new locations of the URLs.<a href="#fnref:fn_ag" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -827,90 +921,6 @@ their desks to do so.</p>
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/10/13/mythical-creatures/">Mythical Creatures</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-10-13T00:00:00-04:00" pubdate data-updated="true">Oct 13<span>th</span>, 2012</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p><strong>Basilisk/Cockatrice</strong></p>
-
-<pre><code>Head and body of a cock,
-Its breath cracks rock.
-
-Leather wings--Whish!
-Serpent tail--Swish!
-A Basilisk--Hisss!
-No doodle-head this!
-
-(A Basilisk!--HISSS!
-    Is also called--HISSS!
-    A Cockatrice.)
- 
-HISSSSSS!
- 
-                  by Laura Whipple
-</code></pre>
-
-<p>As you may remember from <a href="http://highvariance.net/post/22767550387/carle-vs-lionni-no-accounting-for-taste">my last post</a>, my older daughter loves Greek
-mythology, but the stories are hopelessly age-inappropriate. We’ve been
-reading them anyway and I try to tone them down on the fly with limited
-success.  What I’ve really wanted was something that could extract the
-magic and wonder of the creatures and leave the ultra-violence and the
-mixed moral messages behind.  It turns out I owe Eric Carle an apology
-because he’s published exactly the book I was looking for.</p>
-
-<p><a href="http://www.amazon.com/Eric-Carles-Dragons-Carle/dp/014240103X">Dragons, Dragons</a> combines Eric Carle’s admittedly pretty
-collage pictures with poems about 30 mythical creatures from around the
-world.  Many are from Greek myths (e.g., Cerberus, Pegasus, the
-Minotaur!) but they also hail from Japan (kappa), Africa (Okolo), the
-Americas (Quetzalcoatl), Australia (bunyip), the Middle East
-(manticore and roc), and other places.  In some cases the artistic representations don’t
-match the images in my head (in addition to his lion’s head, the
-chimaera has a goat’s head sprouting out of his back!) but considering
-we don’t have any actual specimens to determine who is “correct,” I
-don’t mind.</p>
-
-<p>My favorite part of the book is the poetry.  Why should mythical
-creatures be constrained to prose?  To accompany his illustrations,
-Mr. Carle has chosen work ranging from classic (William Blake and
-Elizabeth Barrett Browning) to poets I’ve never heard of but are a lot
-of fun (see Laura Whipple’s contribution above).  R learns vocabulary
-when we read them and she definitely appreciates the vivid word pictures
-and rhymes.  She’s already memorized a few of the poems and there’s even
-one (the Phoenix) that is written specifically for two voices.</p>
-
-<p><a href="http://highvariance.net/post/22767550387/carle-vs-lionni-no-accounting-for-taste">I’m still not a fan</a> of all of Eric Carle’s work, but this book is almost perfect.</p>
-
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/blog/page/8/">&larr; Older</a>
@@ -928,6 +938,10 @@ one (the Phoenix) that is written specifically for two voices.</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/04/24/improving-classes-with-live-student-feedback/">Improving Classes with Live Student Feedback</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/04/18/crucial-years-in-metal-1983/">Crucial Years in Metal: 1983</a>
       </li>
     
@@ -941,10 +955,6 @@ one (the Phoenix) that is written specifically for two voices.</p>
     
       <li class="post">
         <a href="/blog/2014/04/04/black-metal-for-kids/">Black metal for kids</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/04/02/extreme-bird-watching/">Extreme Bird Watching</a>
       </li>
     
   </ul>

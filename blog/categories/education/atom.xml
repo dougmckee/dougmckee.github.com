@@ -4,7 +4,7 @@
   <title><![CDATA[education | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-19T21:39:08-04:00</updated>
+  <updated>2014-04-24T23:23:57-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Improving Classes with Live Student Feedback]]></title>
+    <link href="http://highvariance.net/blog/2014/04/24/improving-classes-with-live-student-feedback/"/>
+    <updated>2014-04-24T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/24/improving-classes-with-live-student-feedback</id>
+    <content type="html"><![CDATA[<p>One of the huge payoffs from having smart students that are engaged and thinking <a href="http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom/">creatively</a> is that they have great ideas for how I can make <a href="http://highvariance.net/blog/2013/05/20/seminars/">my courses</a> better. Yesterday was the last meeting of the semester for my <a href="http://www.econ.yale.edu/~dm529/hcla-syllabus.pdf">Economics of Human Capital in Latin America</a> seminar, and I spent the last 15 minutes getting feedback on the course. I could have waited for their written course evaluations, but this way we can actually have a constructive dialog. Here’s what we came up with:</p>
+
+<h2 id="substantive-content">Substantive Content</h2>
+
+<ul>
+  <li>They felt like they learned a lot about economics, policy, and empirical methods, but didn’t have a strong feel for the region itself. I should provide more background material (e.g., optional reading) on Latin America.</li>
+  <li>After the introductory week, weeks two and three are focused on schooling. My students choose their research topics right before the fourth week. Not surprisingly, topics are heavily weighted toward education. I need to do a better job during the first week previewing the later course content, but I’m also seriously considering making their research topics due a week later so they are exposed to a wider range of material.</li>
+  <li>Some students wanted to spend a week talking about how human capital influences (and is influenced by) poverty and inequality at a macro level. I used to have a class on this topic but dropped it. I might have to bring it back.</li>
+  <li>Other students wanted to know more about rural areas of Latin America and in particular the role of human capital in agriculture. I think most of the interesting work on agriculture in development economics is happening in Africa and Asia, but I should look more closely to see if there are good papers in Latin America.</li>
+  <li>For everything I add, something has to go, and I’m not sure what that would be. Maybe I should give them a menu of 15+ topics and have them vote for their favorite 13 at the beginning of the semester.</li>
+</ul>
+
+<h2 id="empirical-methods">Empirical Methods</h2>
+
+<ul>
+  <li>The literature we read mostly relies on data analysis methods they have never seen before. These include difference-in-differences, instrumental variables, regression discontinuity, and propensity score matching. I try to give short mini-lectures about these methods in class before they read articles that use them. Sometimes we run out of time and I email them some notes and review the method on the same day we discuss the corresponding paper. This is sub-optimal and I need to try harder to do the mini-lectures before they read the papers. That said, my students did appreciate the class’s balance of substance and method.</li>
+  <li>I should provide more references for the methods we talk about for those students that want to learn more.</li>
+  <li>In years past I’ve had some students suggest that I hand out a methods problem set at the beginning of the semester to ensure that they take some time outside class to mull the math behind the methods. This year a student suggested a short in-class quiz early in the semester for the same reasons. It would certainly help them later in the semester if they were more solid on the methods, so next year I’m going to try one of these ideas.</li>
+</ul>
+
+<h2 id="worksheets">Worksheets</h2>
+
+<ul>
+  <li>A staple of my seminars is the worksheet that every student fills out for every article they read during the semester. They always struggle at the beginning and then get the hang of it. To speed up this process, some students suggested that I walk through a few worksheets in class and hand out a few more examples of  worksheets that are filled out well.</li>
+  <li>Almost every article we read has one key table or figure that summarizes the primary contribution of the paper. One of my students had the fantastic idea that I should ask them to identify this in the worksheets. Doing so would force them to spend quality time with the raw tables instead of trusting the authors’ textual interpretation of the results.</li>
+  <li>At the end of every worksheet, I ask them what they didn’t understand in the paper. Some of the students were frustrated that they didn’t always get answers to those questions in class. <a href="http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar/">I tried to fix this</a> last semester and the cure was worse than the disease. A better system is out there, but I still don’t know what it is.</li>
+</ul>
+
+<h2 id="presentations-and-in-class-exercises">Presentations and In-class Exercises</h2>
+
+<ul>
+  <li>They all got a lot out of preparing and doing a presentation in class, and one student suggested that everyone should do this twice. I don’t want to spend more class-time on presentations, but if the individual presentations are shorter, this could work well.</li>
+  <li>They liked the presentations of things they hadn’t read such as background material or optional papers. We should do more of this.</li>
+  <li>In class I often have them suggest potential solutions to complicated social problems in a very small amount of time. If I pre-announce these exercises, they can think about them before class and have a better and deeper discussion during class.</li>
+</ul>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Creativity in the Classroom]]></title>
@@ -134,21 +177,6 @@
 <p>Junior faculty in top departments are evaluated for promotion based on their research productivity. Mentoring is a way to improve their teaching without having to take time away from their research. In fact, there are techniques many juniors don’t know that will <em>save</em> them time spent teaching. Starting with high-quality course materials means less time preparing class. Clearer lectures mean fewer confused students visiting during office hours. A better match between lecture content and exam content means fewer irate student emails.</p>
 
 <p>If a department is serious about upgrading the quality of its undergraduate instruction, doing a better job of mentoring junior faculty is low hanging fruit. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Online tech in an in-person seminar: An experiment]]></title>
-    <link href="http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar/"/>
-    <updated>2013-12-10T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar</id>
-    <content type="html"><![CDATA[<p>I’ve written about <a href="http://highvariance.net/blog/2013/05/20/seminars/">how I like to run seminar classes</a> before and you may have noticed that my approach is decidedly low tech. My students read the week’s articles before class and fill out a “worksheet” for each one. Before this semester, the most important question on the worksheet was “What didn’t you understand?” I would look over their answers to identify weak spots that we would  cover in class.</p>
-
-<p>This semester I tried something new: I took “What didn’t you understand?” off the worksheet and asked my students to post questions they had about the reading on a <a href="http://piazza.com">Piazza</a> online discussion forum. If two (or more) students have the same question, only the first has to post it–the others could just mark it as a “good question.” They could also answer each other’s questions and I could “approve” answers or provide my own. I had high hopes for the new system. I thought it would be easier for the students, and would make it easier for me to see what the hot button issues were and even provide some feedback before class. </p>
-
-<p>It didn’t work very well. Even with a fair amount of cajoling during the semester, I would only get 4-5 students (of 24) participating in the forum each week. Based on feedback during the last class, it seems there were three primary reasons. First, it wasn’t clear to many of them that they could post their questions anonymously and they didn’t want to embarrass themselves in front of their fellow students by posting potentially “dumb” questions. Second, several students felt they were done with the assignment after they filled out their worksheets. They didn’t want to take the time to go to the Piazza web site for more work. Third, they didn’t like posting questions that weren’t going to get answered on the forum.</p>
-
-<p>I’m not ready to give up on the idea, but I’m also not sure what to do differently next semester. I can try more cajoling on the first day of class and I can let everyone know that they can post anonymously. I can also commit to answering questions before class. The worksheets and questions are due on Monday night, so that gives me plenty of time before Wednesday’s class to provide at least basic answers. I’m still not sure this will be enough to get mass participation.</p>
 ]]></content>
   </entry>
   
