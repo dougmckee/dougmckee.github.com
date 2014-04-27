@@ -4,7 +4,7 @@
   <title><![CDATA[music | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-24T23:23:57-04:00</updated>
+  <updated>2014-04-26T21:53:00-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Irish Pride]]></title>
+    <link href="http://highvariance.net/blog/2014/04/26/irish-pride/"/>
+    <updated>2014-04-26T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/26/irish-pride</id>
+    <content type="html"><![CDATA[<p><a href="http://cvcomics.com/requiem/?p=691"><img src="http://highvariance.net/images/hv-primordial.jpg" /></a></p>
+
+<p>I grew up outside Boston surrounded by Irish American kids named Sully and Patrick. Even though my last name was McKee, I was different. I was told that my ancestors were MacKays from Scotland who migrated to Ireland and changed their name to McKee to avoid discrimination. I read Scottish folk tales, fantasized about competing in the Highland Games, and seriously considered getting a kilt. I tracked down my tartan, and as a young adult toured Scottish castles and got lost in the moors on my mountain bike. I know this sounds ridiculous coming from a suburban American kid, but Scotland felt like home.</p>
+
+<p>Then when I was about 30 I told my dad this story and he just laughed. It turns out while one of my distant relatives was indeed Scottish, the rest of his side of the family was full-blooded Irish. I couldn’t believe it. I like U2’s early work as much as the next guy, but suddenly I was supposed to embrace St. Patrick’s Day, leprechauns, and the color green? </p>
+
+<p>In the years since, I’ve tried to have an open mind and learn more about my new homeland. It hasn’t come naturally, but I am happy to report that I’ve found a band that seems to have kindled a little bit of Irish pride in me. <a href="http://en.wikipedia.org/wiki/Primordial_(band)">Primordial</a> was founded in 1987 near Dublin and has released seven albums that are an incredible mixture of epic black metal and Irish folk music. While the instruments are not traditional, many of the melodies are. The lyrics range from wild fantasy to Irish history. The singer (Alan Averil) is amazing–you feel exactly what he’s feeling.</p>
+
+<p>I found Primordial through the <a href="http://cvcomics.com/requiem">Requiem Metal Podcast</a> where you can listen to a <a href="http://cvcomics.com/requiem/?p=691">two</a> <a href="http://cvcomics.com/requiem/?p=704">part</a> episode about the band and hear several of their songs. They have truly unique sound that really speaks to me. Maybe I’ll wear green tomorrow.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crucial Years in Metal: 1983]]></title>
@@ -148,84 +165,6 @@ Mountains of might
 <h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
 
 <p><a href="http://www.rogueamoeba.com/airfoil/">Airfoil</a> is the application on my Mac that grabs output from <a href="https://www.spotify.com/us/">Spotify</a> and sends it to any Airplay destination(s) I choose in the house. When Apple released <a href="http://arstechnica.com/apple/2013/10/os-x-10-9/">Mavericks</a>, the new power management features broke Airfoil. The latest version of Airfoil works around this and also bakes in support for remote control, so I don’t need to run a separate Airfoil helper application anymore. <a href="http://remoteless.no">Remoteless</a>, the iOS app for controlling Spotify on the Mac also released an update recently that supports Airfoil directly, so I no longer need a separate Airfoil remote app on my phone.  The only software programs I need now to play almost any album anywhere in the house are Spotify and Airfoil running on the Mac, and Remoteless on iOS.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[So Embarrassing]]></title>
-    <link href="http://highvariance.net/blog/2013/09/18/so-embarrassing/"/>
-    <updated>2013-09-18T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2013/09/18/so-embarrassing</id>
-    <content type="html"><![CDATA[<p>I’ve always valued a catchy beat over insightful lyrics and my favorite genres tend to reflect that. In other words, I listen to a lot of songs with dumb lyrics, so it means something that the other day I heard some <em>extra</em> dumb lyrics on the radio. </p>
-
-<!--- Bonnie McKee, "American Girl"
---->
-<iframe width="560" height="315" src="http://highvariance.net//www.youtube.com/embed/-Uh6VZF0R5U" frameborder="0" allowfullscreen=""></iframe>
-
-<p>Lets take a closer look at Bonnie McKee’s “American Girl” line by line:</p>
-
-<pre><code>I fell in love in a 7/11 parking lot
-Sat on the curb drinking slurpees we mixed with alcohol
-</code></pre>
-
-<p>Either you’re underage and shouldn’t be mixing in alcohol or you’re of age and shouldn’t be drinking slurpees in the parking lot. I’m not sure which is worse. </p>
-
-<pre><code>We talked about all our dreams and how we would show 'em all (whoa oh oh oh)
-I told him I got a plan and I'm gonna dominate
-And I don't need any man to be getting in my way
-</code></pre>
-
-<p>This is as good as it gets–girl power!</p>
-
-<pre><code>But if you talk with your hands then we can negotiate (whoa oh oh oh)
-</code></pre>
-
-<p>I think she’s making a subtle sexual reference here. </p>
-
-<pre><code>I just keep moving my body (yeah)
-I'm always ready to party (yeah)
-No I don't listen to mommy (yeah)
-And I'll never say that I'm sorry
-</code></pre>
-
-<p>First off, not one of these four lines actually rhymes, and I don’t think she’s trying to <a href="http://en.wikipedia.org/wiki/Slant_rhyme">emulate Emily Dickinson</a>. Second, you’re to old to be calling your mother mommy. And third, I think even Gandhi had to occasionally apologize.</p>
-
-<pre><code>Chorus
-Oh I'm an American girl
-</code></pre>
-
-<p>If the rest of the world thinks this girl is representative of the whole population of American girls, we are in deep trouble.</p>
-
-<pre><code>Hot blooded and I'm ready to go I'm loving taking over the world
-Hot blooded, all american girl (Whoa) I was raised by a television
-</code></pre>
-
-<p>I spent a good chunk of my childhood in front of a TV too, but I watched relatively wholesome fare like The Brady Bunch, Happy Days, and Gilligan’s Island. She must have been raised by Bridezilla, real Housewives of Beverly Hills and The Jersey Shore. </p>
-
-<pre><code>Every day is a competition Put the key in my ignition (Oh-way-oh)
-</code></pre>
-
-<p>Oh no; another subtle sexual reference. I think she needs to go to <a href="http://en.wikipedia.org/wiki/Back_in_Black#Track_listing">AC DC school</a></p>
-
-<pre><code>I wanna see all the stars and everything in between
-</code></pre>
-
-<p>Unless she has a thing for dark matter, I have a feeling she’s talking about celebrities more than astronomy.</p>
-
-<pre><code>I wanna buy a new heart out of a vending machine
-Cause It's a free country so baby we can do anything (Whoa)
-</code></pre>
-
-<p>We may be a free country, but we still have fairly strict laws banning the <a href="http://en.wikipedia.org/wiki/Organ_trade">sale of organs</a>.</p>
-
-<pre><code>Chorus
-
-You know we're gonna shine so bright (Oh we're gonna shine so bright...) Oh baby gonna go all night (Oh we're gonna go all night) You know we're gonna shine so bright (Oh we're gonna shine so bright...) Oh baby gonna go all night
-
-Chorus
-</code></pre>
-
-<p>Every American should be embarrassed that this song exists. I was doubly embarrassed when I saw the “artist” was my namesake. And I’m triply embarrassed by how much I actually enjoy the song. It’s not as good as “Party in the USA” or “Call Me Maybe,” but it just makes me want to get up and dance whenever I hear it.  Maybe I should just stop talking before I embarrass myself further. </p>
 ]]></content>
   </entry>
   
