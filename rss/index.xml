@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-04-26T21:53:00-04:00</updated>
+  <updated>2014-05-09T11:02:15-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -14,62 +14,420 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Choosing the Right Tool for the Job]]></title>
+    <link href="http://highvariance.net/blog/2014/05/09/the-right-tool/"/>
+    <updated>2014-05-09T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/05/09/the-right-tool</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-tools.jpg" /></p>
+
+<p>Every new programming project involves choosing a language early in the process. This choice can be exciting and daunting at the same time, as it always involves weighing several conflicting factors. Based on many years of varied programming experience, here is my advice:</p>
+
+<!--More-->
+
+<ol>
+  <li>
+    <p>Pick a language appropriate to the task. Do you need good numerical optimization libraries? Do you need matrix operations? Do you need to parse HTML files? You don&rsquo;t need the best language, but you don&rsquo;t want to be stuck with something too slow or that requires you to write a lot of unnecessary support code. This is what John D. Cook is getting at when he says <a href="http://www.johndcook.com/blog/2014/03/12/dont-be-a-technical-masochist/">&ldquo;Don&rsquo;t be a technical masochist&rdquo;</a>. I always think of this first even though it&rsquo;s not always the most important criterion. </p>
+  </li>
+  <li>
+    <p>Take into account the fact that you might have to learn (or relearn) the language. This is the dreaded learning curve and even though I&rsquo;m a quick learner, I always underestimate the time it takes to achieve proficiency.</p>
+  </li>
+  <li>
+    <p>Think about the future utility of knowing the language. This is harder than it looks. On the one hand Python is broadly popular and winning in scientific computing. Ruby is a similar language but has better libraries for web development. Both seem like good investments, but I haven&rsquo;t used Python in more than 5 years and I&rsquo;ve never written anything in Ruby. </p>
+  </li>
+  <li>
+    <p>If you are collaborating, think about what the rest of the team knows. Even if your partner isn&rsquo;t writing as much code as you, it&rsquo;s pretty valuable if they can read your code.</p>
+  </li>
+  <li>
+    <p>Don&rsquo;t forget to have fun. Programming can be a grind&ndash;sometimes it&rsquo;s fun to stretch your brain with something new. </p>
+  </li>
+  <li>
+    <p>Expertise in a language should not be squandered. It&rsquo;s a lot of work pouring the core of a language (and it&rsquo;s standard libraries) into your head, but once you do it, you can write a lot of good code very quickly. This knowledge depreciates quickly when you switch to different &ldquo;better&rdquo; tools for a given job.</p>
+  </li>
+</ol>
+
+<p>I spend a fair amount of my time analyzing data with <a href="http://www.stata.com">Stata</a>, and that involves writing programs in a quirky proprietary language. For example, it has no variables, but it does have local and global macros. To evaluate a local macro, you surround its name with a back quote and a forward quote (`x&rsquo;). These can be nested. Global variables are prefixed with a dollar sign ($x). That said, it has general file handling and regular expression functions, and you can do interesting programming with it.</p>
+
+<p>Lately, I&rsquo;ve been trying to maintain and build my expertise in Stata by using it for a broad range of programming tasks even when it&rsquo;s not the objectively best tool for a job. That was the case a few months ago when I parsed up and analyzed the content on this site. The end result looks a little weird, but it works and my brain is in a better place for it:</p>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span> (analyze.do)</span> <a href="http://highvariance.net/downloads/code/analyze.do">download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+<span class="line-number">7</span>
+<span class="line-number">8</span>
+<span class="line-number">9</span>
+<span class="line-number">10</span>
+<span class="line-number">11</span>
+<span class="line-number">12</span>
+<span class="line-number">13</span>
+<span class="line-number">14</span>
+<span class="line-number">15</span>
+<span class="line-number">16</span>
+<span class="line-number">17</span>
+<span class="line-number">18</span>
+<span class="line-number">19</span>
+<span class="line-number">20</span>
+<span class="line-number">21</span>
+<span class="line-number">22</span>
+<span class="line-number">23</span>
+<span class="line-number">24</span>
+<span class="line-number">25</span>
+<span class="line-number">26</span>
+<span class="line-number">27</span>
+<span class="line-number">28</span>
+<span class="line-number">29</span>
+<span class="line-number">30</span>
+<span class="line-number">31</span>
+<span class="line-number">32</span>
+<span class="line-number">33</span>
+<span class="line-number">34</span>
+<span class="line-number">35</span>
+<span class="line-number">36</span>
+<span class="line-number">37</span>
+<span class="line-number">38</span>
+<span class="line-number">39</span>
+<span class="line-number">40</span>
+<span class="line-number">41</span>
+<span class="line-number">42</span>
+<span class="line-number">43</span>
+<span class="line-number">44</span>
+<span class="line-number">45</span>
+<span class="line-number">46</span>
+<span class="line-number">47</span>
+<span class="line-number">48</span>
+<span class="line-number">49</span>
+<span class="line-number">50</span>
+<span class="line-number">51</span>
+<span class="line-number">52</span>
+<span class="line-number">53</span>
+<span class="line-number">54</span>
+<span class="line-number">55</span>
+<span class="line-number">56</span>
+<span class="line-number">57</span>
+<span class="line-number">58</span>
+<span class="line-number">59</span>
+<span class="line-number">60</span>
+<span class="line-number">61</span>
+<span class="line-number">62</span>
+<span class="line-number">63</span>
+<span class="line-number">64</span>
+<span class="line-number">65</span>
+<span class="line-number">66</span>
+<span class="line-number">67</span>
+<span class="line-number">68</span>
+<span class="line-number">69</span>
+<span class="line-number">70</span>
+<span class="line-number">71</span>
+<span class="line-number">72</span>
+<span class="line-number">73</span>
+<span class="line-number">74</span>
+<span class="line-number">75</span>
+<span class="line-number">76</span>
+<span class="line-number">77</span>
+<span class="line-number">78</span>
+<span class="line-number">79</span>
+<span class="line-number">80</span>
+<span class="line-number">81</span>
+<span class="line-number">82</span>
+<span class="line-number">83</span>
+<span class="line-number">84</span>
+<span class="line-number">85</span>
+<span class="line-number">86</span>
+<span class="line-number">87</span>
+<span class="line-number">88</span>
+<span class="line-number">89</span>
+<span class="line-number">90</span>
+<span class="line-number">91</span>
+<span class="line-number">92</span>
+<span class="line-number">93</span>
+<span class="line-number">94</span>
+<span class="line-number">95</span>
+<span class="line-number">96</span>
+<span class="line-number">97</span>
+<span class="line-number">98</span>
+<span class="line-number">99</span>
+<span class="line-number">100</span>
+<span class="line-number">101</span>
+<span class="line-number">102</span>
+<span class="line-number">103</span>
+<span class="line-number">104</span>
+<span class="line-number">105</span>
+<span class="line-number">106</span>
+<span class="line-number">107</span>
+<span class="line-number">108</span>
+<span class="line-number">109</span>
+<span class="line-number">110</span>
+<span class="line-number">111</span>
+<span class="line-number">112</span>
+<span class="line-number">113</span>
+<span class="line-number">114</span>
+<span class="line-number">115</span>
+<span class="line-number">116</span>
+<span class="line-number">117</span>
+<span class="line-number">118</span>
+<span class="line-number">119</span>
+<span class="line-number">120</span>
+<span class="line-number">121</span>
+<span class="line-number">122</span>
+<span class="line-number">123</span>
+<span class="line-number">124</span>
+<span class="line-number">125</span>
+<span class="line-number">126</span>
+<span class="line-number">127</span>
+<span class="line-number">128</span>
+<span class="line-number">129</span>
+<span class="line-number">130</span>
+<span class="line-number">131</span>
+<span class="line-number">132</span>
+<span class="line-number">133</span>
+<span class="line-number">134</span>
+<span class="line-number">135</span>
+<span class="line-number">136</span>
+<span class="line-number">137</span>
+<span class="line-number">138</span>
+<span class="line-number">139</span>
+<span class="line-number">140</span>
+<span class="line-number">141</span>
+<span class="line-number">142</span>
+<span class="line-number">143</span>
+<span class="line-number">144</span>
+<span class="line-number">145</span>
+<span class="line-number">146</span>
+<span class="line-number">147</span>
+<span class="line-number">148</span>
+<span class="line-number">149</span>
+<span class="line-number">150</span>
+<span class="line-number">151</span>
+<span class="line-number">152</span>
+<span class="line-number">153</span>
+<span class="line-number">154</span>
+<span class="line-number">155</span>
+<span class="line-number">156</span>
+<span class="line-number">157</span>
+<span class="line-number">158</span>
+<span class="line-number">159</span>
+<span class="line-number">160</span>
+<span class="line-number">161</span>
+<span class="line-number">162</span>
+<span class="line-number">163</span>
+<span class="line-number">164</span>
+<span class="line-number">165</span>
+<span class="line-number">166</span>
+<span class="line-number">167</span>
+<span class="line-number">168</span>
+<span class="line-number">169</span>
+<span class="line-number">170</span>
+<span class="line-number">171</span>
+<span class="line-number">172</span>
+<span class="line-number">173</span>
+<span class="line-number">174</span>
+<span class="line-number">175</span>
+<span class="line-number">176</span>
+<span class="line-number">177</span>
+<span class="line-number">178</span>
+<span class="line-number">179</span>
+<span class="line-number">180</span>
+</pre></td><td class="code"><pre><code class="text"><span class="line">/*
+</span><span class="line">* Analyze articles published on High Variance in 2012 and 2013
+</span><span class="line">*
+</span><span class="line">* BTW: UCLA has way better documentation of file read than Stata:
+</span><span class="line">*      http://www.ats.ucla.edu/stat/stata/faq/fileread.htm
+</span><span class="line">*
+</span><span class="line">*/
+</span><span class="line">
+</span><span class="line">set more off
+</span><span class="line">
+</span><span class="line">capture log close
+</span><span class="line">log using analyze.log ,replace
+</span><span class="line">
+</span><span class="line">global DEST &quot;../source/images/analyze-2014-02-09&quot;
+</span><span class="line">
+</span><span class="line">capture program drop parse_post
+</span><span class="line">capture program drop load_year_posts
+</span><span class="line">file close _all
+</span><span class="line">
+</span><span class="line">/* Given the name of a Markdown document, parse it and return its
+</span><span class="line">   title, date (of publication), tags, and wordcount.
+</span><span class="line">*/
+</span><span class="line">program define parse_post ,rclass
+</span><span class="line">    local mdfile &quot;`1&#39;&quot;
+</span><span class="line">
+</span><span class="line">    tempname fh
+</span><span class="line">    file open `fh&#39; using `mdfile&#39; ,read
+</span><span class="line">
+</span><span class="line">    local donewithyaml=0
+</span><span class="line">    local wordcount=0
+</span><span class="line">    /* Assume first line is just &quot;---&quot; marking beginning of YAML header */
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    while r(eof)==0 {
+</span><span class="line">      * di `&quot;LINE :`line&#39;:&quot;&#39;
+</span><span class="line">      if (!`donewithyaml&#39;) { // Parse header
+</span><span class="line">        if (`&quot;`line&#39;&quot;&#39;==&quot;---&quot;) {
+</span><span class="line">           local donewithyaml = 1
+</span><span class="line">        }
+</span><span class="line">        else {
+</span><span class="line">          local key = &quot;&quot;
+</span><span class="line">          local value = &quot;&quot;
+</span><span class="line">          if regexm(`&quot;`line&#39;&quot;&#39;,`&quot;([a-zA-z-]+): [&quot;]*([^&quot;]*)[&quot;]*&quot;&#39;) {
+</span><span class="line">            local key = regexs(1)
+</span><span class="line">            local value = regexs(2)
+</span><span class="line">            * di `&quot;KEY: `key&#39;&quot;&#39;
+</span><span class="line">            * di `&quot;VALUE: `value&#39;&quot;&#39;
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;date&quot;) {
+</span><span class="line">              local date = date(&quot;`value&#39;&quot;, &quot;YMD&quot;)
+</span><span class="line">            }
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;categories&quot;) {
+</span><span class="line">              local tags = &quot;`value&#39;&quot;
+</span><span class="line">            }
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;title&quot;) {
+</span><span class="line">              local title = &quot;`value&#39;&quot;
+</span><span class="line">            }
+</span><span class="line">          }
+</span><span class="line">        }
+</span><span class="line">      }
+</span><span class="line">      else { // Count words in body of post
+</span><span class="line">        local wcl = wordcount(`&quot;`line&#39;&quot;&#39;)
+</span><span class="line">        * display `&quot;wordcount(`line&#39;): `wcl&#39;&quot;&#39;
+</span><span class="line">        local wordcount = `wordcount&#39; + `wcl&#39;
+</span><span class="line">      }
+</span><span class="line">      file read `fh&#39; line
+</span><span class="line">    }
+</span><span class="line">    file close `fh&#39;
+</span><span class="line">
+</span><span class="line">    return local title = &quot;`title&#39;&quot;
+</span><span class="line">    return scalar date = `date&#39;
+</span><span class="line">    return local tags = &quot;`tags&#39;&quot;
+</span><span class="line">    return scalar wordcount = `wordcount&#39;
+</span><span class="line">
+</span><span class="line">end
+</span><span class="line">
+</span><span class="line">/* Given a year, load in the stats (using parse_post) for each article.
+</span><span class="line">   The resulting data set is one observation per post. It also creates dummy
+</span><span class="line">   variables for each referenced tag.
+</span><span class="line">*/
+</span><span class="line">program define load_year_posts
+</span><span class="line">    local year &quot;`1&#39;&quot;
+</span><span class="line">    ! ls ~/octopress/source/_posts/`year&#39;-* &gt; /tmp/`year&#39;-filelist.txt
+</span><span class="line">
+</span><span class="line">    tempname fh
+</span><span class="line">    file open `fh&#39; using &quot;/tmp/`year&#39;-filelist.txt&quot; ,read
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    local i 1
+</span><span class="line">    qui set obs 1
+</span><span class="line">    qui gen title=&quot;&quot;
+</span><span class="line">    qui gen tags=&quot;&quot;
+</span><span class="line">    qui gen wordcount=.
+</span><span class="line">    qui gen postdate=.
+</span><span class="line">    while r(eof)==0 {
+</span><span class="line">      qui set obs `i&#39;
+</span><span class="line">      parse_post &quot;`line&#39;&quot;
+</span><span class="line">      qui replace title = `&quot;`r(title)&#39;&quot;&#39; if _n==`i&#39;
+</span><span class="line">      qui replace tags = &quot;`r(tags)&#39;&quot; if _n==`i&#39;
+</span><span class="line">      qui replace postdate = r(date) if _n==`i&#39;
+</span><span class="line">      qui replace wordcount = r(wordcount) if _n==`i&#39;
+</span><span class="line">      local ntags = wordcount(r(tags))
+</span><span class="line">      forval j = 1/`ntags&#39; {
+</span><span class="line">        local tag = subinstr(word(r(tags),`j&#39;),&quot;-&quot;,&quot;_&quot;,.)
+</span><span class="line">        capture confirm var tag_`tag&#39;
+</span><span class="line">        if _rc != 0 {
+</span><span class="line">          qui gen tag_`tag&#39;=.
+</span><span class="line">        }
+</span><span class="line">        qui replace tag_`tag&#39;=1 if _n==`i&#39;
+</span><span class="line">      }
+</span><span class="line">      local i = `i&#39; + 1
+</span><span class="line">      file read `fh&#39; line
+</span><span class="line">    }
+</span><span class="line">    file close `fh&#39;
+</span><span class="line">    foreach tagvar of varlist tag_* {
+</span><span class="line">      qui replace `tagvar&#39;=0 if `tagvar&#39;==.
+</span><span class="line">    }
+</span><span class="line">    gen year=`year&#39;
+</span><span class="line">end
+</span><span class="line">
+</span><span class="line">/* Load up 2012 and 3013 */
+</span><span class="line">
+</span><span class="line">clear
+</span><span class="line">load_year_posts 2012
+</span><span class="line">tempfile y2012
+</span><span class="line">save `y2012&#39;
+</span><span class="line">clear
+</span><span class="line">load_year_posts 2013
+</span><span class="line">append using `y2012&#39;
+</span><span class="line">
+</span><span class="line">local tags &quot;tech politics thanks education kids economics music productivity conan kbr photo mundane christmas blog&quot;
+</span><span class="line">
+</span><span class="line">/* Are there any articles that do not have one of the above tags? */
+</span><span class="line">
+</span><span class="line">local tagvars &quot;&quot;
+</span><span class="line">local ifclause &quot;if 1 &quot;
+</span><span class="line">local yvaroptions &quot;yvaroptions(relabel(&quot;
+</span><span class="line">local i=1
+</span><span class="line">foreach t in `tags&#39; {
+</span><span class="line">  local tagvars = &quot;`tagvars&#39; tag_`t&#39;&quot;
+</span><span class="line">  local ifclause = &quot;`ifclause &#39; &amp; tag_`t&#39;==0&quot;
+</span><span class="line">  local yvaroptions `&quot;`yvaroptions&#39;`i&#39; &quot;`t&#39;&quot; &quot;&#39;
+</span><span class="line">  local i = `i&#39; + 1
+</span><span class="line">}
+</span><span class="line">local yvaroptions `&quot;`yvaroptions&#39;))&quot;&#39;
+</span><span class="line">count `ifclause&#39;
+</span><span class="line">list title tags `ifclause&#39;
+</span><span class="line">
+</span><span class="line">di `&quot;`yvaroptions&#39;&quot;&#39;
+</span><span class="line">
+</span><span class="line">/* Draw lots of pretty pictures.
+</span><span class="line">*  Thanks Michael Mitchell for your awesome _Visual Guide to Stata Graphics_ Third Edition!
+</span><span class="line">*/
+</span><span class="line">
+</span><span class="line">graph hbar (sum) `tagvars&#39; ,ascategory over(year) `yvaroptions&#39; b1title(&quot;Article Count by tag&quot;)
+</span><span class="line">graph export $DEST/tags.png ,replace
+</span><span class="line">
+</span><span class="line">// Thanks for the overlaid histogram ATS!
+</span><span class="line">// http://www.ats.ucla.edu/stat/stata/faq/histogram_overlay.htm
+</span><span class="line">
+</span><span class="line">twoway (histogram wordcount if year==2012 ,frequency start(0) width(100) color(navy)) ///
+</span><span class="line">       (histogram wordcount if year==2013 ,frequency start(0) width(100) fcolor(none) lcolor(black)) ///
+</span><span class="line">       ,xtitle(&quot;&quot;) ytitle(&quot;Word Count Frequency&quot;) legend(label(1 &quot;2012&quot;) label(2 &quot;2013&quot;))
+</span><span class="line">graph export $DEST/wchist.png ,replace
+</span><span class="line">
+</span><span class="line">bysort year: summarize wordcount ,detail
+</span><span class="line">
+</span><span class="line">gen month = month(postdate)
+</span><span class="line">
+</span><span class="line">gen ac=1
+</span><span class="line">graph bar (sum) ac ,over(year) over(month) asyvars ///
+</span><span class="line">      b1title(&quot;Month&quot;) ytitle(&quot;Article Count&quot;)
+</span><span class="line">graph export $DEST/ac.png ,replace
+</span><span class="line">
+</span><span class="line">graph bar (sum) wordcount ,over(year) over(month) asyvars ///
+</span><span class="line">      b1title(&quot;Month&quot;) ytitle(&quot;Word Count&quot;)
+</span><span class="line">graph export $DEST/wc.png ,replace
+</span><span class="line">
+</span><span class="line">collapse (sum) ac wordcount ,by(year)
+</span><span class="line">list
+</span><span class="line">
+</span><span class="line">log close
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Irish Pride]]></title>
     <link href="http://highvariance.net/blog/2014/04/26/irish-pride/"/>
     <updated>2014-04-26T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/04/26/irish-pride</id>
     <content type="html"><![CDATA[<p><a href="http://cvcomics.com/requiem/?p=691"><img src="http://highvariance.net/images/hv-primordial.jpg" /></a></p>
 
-<p>I grew up outside Boston surrounded by Irish American kids named Sully and Patrick. Even though my last name was McKee, I was different. I was told that my ancestors were MacKays from Scotland who migrated to Ireland and changed their name to McKee to avoid discrimination. I read Scottish folk tales, fantasized about competing in the Highland Games, and seriously considered getting a kilt. I tracked down my tartan, and as a young adult toured Scottish castles and got lost in the moors on my mountain bike. I know this sounds ridiculous coming from a suburban American kid, but Scotland felt like home.</p>
-
-<p>Then when I was about 30 I told my dad this story and he just laughed. It turns out while one of my distant relatives was indeed Scottish, the rest of his side of the family was full-blooded Irish. I couldn’t believe it. I like U2’s early work as much as the next guy, but suddenly I was supposed to embrace St. Patrick’s Day, leprechauns, and the color green? </p>
+<p>I grew up outside Boston surrounded by Irish-American kids named Sully and Patrick. Even though my last name was McKee, I was different. I was told that my ancestors were MacKays from Scotland who migrated to Ireland and changed their name to McKee to avoid discrimination. I read Scottish folk tales, fantasized about competing in the Highland Games, and seriously considered getting a kilt. I tracked down my tartan, and as a young adult toured Scottish castles and got lost in the moors on my mountain bike. I know this sounds ridiculous coming from a suburban American kid, but Scotland felt like home.
+<!--more-->
+Then when I was about 30 I told my dad this story and he just laughed. It turns out while one of my distant relatives was indeed Scottish, the rest of his side of the family was full-blooded Irish. I couldn’t believe it. I like U2’s early work as much as the next guy, but suddenly I was supposed to embrace St. Patrick’s Day, leprechauns, and the color green? </p>
 
 <p>In the years since, I’ve tried to have an open mind and learn more about my new homeland. It hasn’t come naturally, but I am happy to report that I’ve found a band that seems to have kindled a little bit of Irish pride in me. <a href="http://en.wikipedia.org/wiki/Primordial_(band)">Primordial</a> was founded in 1987 near Dublin and has released seven albums that are an incredible mixture of epic black metal and Irish folk music. While the instruments are not traditional, many of the melodies are. The lyrics range from wild fantasy to Irish history. The singer (Alan Averil) is amazing–you feel exactly what he’s feeling.</p>
 
 <p>I found Primordial through the <a href="http://cvcomics.com/requiem">Requiem Metal Podcast</a> where you can listen to a <a href="http://cvcomics.com/requiem/?p=691">two</a> <a href="http://cvcomics.com/requiem/?p=704">part</a> episode about the band and hear several of their songs. They have truly unique sound that really speaks to me. Maybe I’ll wear green tomorrow.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Improving Classes with Live Student Feedback]]></title>
-    <link href="http://highvariance.net/blog/2014/04/24/improving-classes-with-live-student-feedback/"/>
-    <updated>2014-04-24T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/04/24/improving-classes-with-live-student-feedback</id>
-    <content type="html"><![CDATA[<p>One of the huge payoffs from having smart students that are engaged and thinking <a href="http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom/">creatively</a> is that they have great ideas for how I can make <a href="http://highvariance.net/blog/2013/05/20/seminars/">my courses</a> better. Yesterday was the last meeting of the semester for my <a href="http://www.econ.yale.edu/~dm529/hcla-syllabus.pdf">Economics of Human Capital in Latin America</a> seminar, and I spent the last 15 minutes getting feedback on the course. I could have waited for their written course evaluations, but this way we can actually have a constructive dialog. Here’s what we came up with:</p>
-
-<h2 id="substantive-content">Substantive Content</h2>
-
-<ul>
-  <li>They felt like they learned a lot about economics, policy, and empirical methods, but didn’t have a strong feel for the region itself. I should provide more background material (e.g., optional reading) on Latin America.</li>
-  <li>After the introductory week, weeks two and three are focused on schooling. My students choose their research topics right before the fourth week. Not surprisingly, topics are heavily weighted toward education. I need to do a better job during the first week previewing the later course content, but I’m also seriously considering making their research topics due a week later so they are exposed to a wider range of material.</li>
-  <li>Some students wanted to spend a week talking about how human capital influences (and is influenced by) poverty and inequality at a macro level. I used to have a class on this topic but dropped it. I might have to bring it back.</li>
-  <li>Other students wanted to know more about rural areas of Latin America and in particular the role of human capital in agriculture. I think most of the interesting work on agriculture in development economics is happening in Africa and Asia, but I should look more closely to see if there are good papers in Latin America.</li>
-  <li>For everything I add, something has to go, and I’m not sure what that would be. Maybe I should give them a menu of 15+ topics and have them vote for their favorite 13 at the beginning of the semester.</li>
-</ul>
-
-<h2 id="empirical-methods">Empirical Methods</h2>
-
-<ul>
-  <li>The literature we read mostly relies on data analysis methods they have never seen before. These include difference-in-differences, instrumental variables, regression discontinuity, and propensity score matching. I try to give short mini-lectures about these methods in class before they read articles that use them. Sometimes we run out of time and I email them some notes and review the method on the same day we discuss the corresponding paper. This is sub-optimal and I need to try harder to do the mini-lectures before they read the papers. That said, my students did appreciate the class’s balance of substance and method.</li>
-  <li>I should provide more references for the methods we talk about for those students that want to learn more.</li>
-  <li>In years past I’ve had some students suggest that I hand out a methods problem set at the beginning of the semester to ensure that they take some time outside class to mull the math behind the methods. This year a student suggested a short in-class quiz early in the semester for the same reasons. It would certainly help them later in the semester if they were more solid on the methods, so next year I’m going to try one of these ideas.</li>
-</ul>
-
-<h2 id="worksheets">Worksheets</h2>
-
-<ul>
-  <li>A staple of my seminars is the worksheet that every student fills out for every article they read during the semester. They always struggle at the beginning and then get the hang of it. To speed up this process, some students suggested that I walk through a few worksheets in class and hand out a few more examples of  worksheets that are filled out well.</li>
-  <li>Almost every article we read has one key table or figure that summarizes the primary contribution of the paper. One of my students had the fantastic idea that I should ask them to identify this in the worksheets. Doing so would force them to spend quality time with the raw tables instead of trusting the authors’ textual interpretation of the results.</li>
-  <li>At the end of every worksheet, I ask them what they didn’t understand in the paper. Some of the students were frustrated that they didn’t always get answers to those questions in class. <a href="http://highvariance.net/blog/2013/12/10/online-tech-in-an-in-person-seminar/">I tried to fix this</a> last semester and the cure was worse than the disease. A better system is out there, but I still don’t know what it is.</li>
-</ul>
-
-<h2 id="presentations-and-in-class-exercises">Presentations and In-class Exercises</h2>
-
-<ul>
-  <li>They all got a lot out of preparing and doing a presentation in class, and one student suggested that everyone should do this twice. I don’t want to spend more class-time on presentations, but if the individual presentations are shorter, this could work well.</li>
-  <li>They liked the presentations of things they hadn’t read such as background material or optional papers. We should do more of this.</li>
-  <li>In class I often have them suggest potential solutions to complicated social problems in a very small amount of time. If I pre-announce these exercises, they can think about them before class and have a better and deeper discussion during class.</li>
-</ul>
 ]]></content>
   </entry>
   
@@ -103,69 +461,6 @@
 </ol>
 
 <p>After high school, I moved away from home and away from metal. When hair metal disappeared from the radio, I thought metal itself  had died. In the late 1990’s and early 2000’s I knew Nü Metal was a thing, but only dabbled a bit with bands like Korn, Disturbed, and even Linkin Park. Later in the 2000’s I learned that music called black metal and death metal existed, but extreme metal can be an acquired taste and I just wasn’t ready. Now, with Mark and Jason’s help, I’m really enjoying filling in the huge gaps in my metal education.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Creativity in the Classroom]]></title>
-    <link href="http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom/"/>
-    <updated>2014-04-17T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/04/17/creativity-in-the-classroom</id>
-    <content type="html"><![CDATA[<p><a href="http://www.missionartcenter.com"><img src="http://highvariance.net/images/hv-kids-painting.jpg" /></a></p>
-
-<p>While some disciplines encourage substantial creativity in their undergraduate students, the vast majority of college student academic effort goes into analysis or memorization. Certainly that’s true in economics. Most of the students in my seminars are seniors, and they are far more comfortable interpreting and using theory than creating or even tweeking it. </p>
-
-<p>In the core classes, economics majors are taught a series of models of the world. These include simple models like: “Individuals make choices to maximize their utility<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.” If these individuals don’t know exactly what the consequences of their choice might be, we assume they maximize their <em>expectation</em> of utility. Another example: Prices are determined by equating demand and supply functions since at the end of the day, the amount bought and the amount put up for sale should be the same (i.e., they reach an <em>equilibrium</em>). If I write down one of these models on the board in a senior seminar, my students recognize it and can tell me what it means. If I describe a novel situation and ask them to write down a formal model that captures the choices made and the constraints faced, they have a much harder time.</p>
-
-<p>Like almost any activity, you can become better at coming up with new and interesting ideas through practice. I follow three principles to inspire my students to work creatively in my classes. The first is that students must be actively engaged. Some faculty are very good at this. On the first day of the semester, <a href="http://www.yale.edu/strobel/">Scott Strobel</a> has all his students play <a href="http://en.wikipedia.org/wiki/Mastermind_(board_game)">Mastermind</a>. Most of them have never seen this game before, and they need to figure out how it works. They actively grapple with the problem instead of passively receiving knowledge from the lecture. As the semester progresses, Professor Strobel spends some time transferring static knowledge from his brain to his students’, but he focuses his effort on teaching students how to think.</p>
-
-<p>There are many ways to keep students engaged. Calling on them when they haven’t raised their hand, saying slightly outrageous things to start conversations, and basically making sure the class is more interesting than Facebook all help. This is harder in a big lecture, but not impossible. Mixing in quizzes, pair exercises, and even <a href="http://www.cmu.edu/teaching/clickers/">clickers</a> can make sure students come to class and think while they are there.</p>
-
-<p>The second key to inculcating creativity is the most obvious: Have students create things during class. I often spend the first hour talking about something substantive and in the second hour my students break into small groups and propose something new. In one class we started by discussing several policies different countries have tried for reducing high school drop out rates. Then each small group proposed (and later defended) a new policy for reducing high school drop out in a particular context. In another class, I had them design their own conditional cash transfer programs. While most conditional cash transfer programs involve paying parents (usually mothers) to take their kids to the doctor or enroll them in school, I wanted my students to think outside the box. Some of the ideas they came up with were really interesting. In a third class, we talked about the relationship between health and retirement behavior and how health is a multi-dimensional concept. The small groups then proposed new ways to measure dimensions of health that are ignored by traditional measures. </p>
-
-<p>My third principle is that ideas are precious. That is, the classroom has to be a safe place to share an imperfect idea. Most ideas my students come up with are bad. This isn’t surprising since most ideas anyone comes up with are bad. In fact, the more innovative and truly new an idea is, the more flaws it initially has. But the vast majority of <em>all</em> good ideas start as bad ideas. Bad ideas inspire other ideas which inspire other ideas which may  eventually be good ideas. That’s why it’s so important not to squash things right away. I model this by saying things like “Here’s a bad idea, but maybe it will help us think of something that would actually work.” Providing constructive feedback is critical to the process of moving ideas along.</p>
-
-<p>The rewards to creativity in real economic research (and I think scientific research in general) are huge. All of the truly great papers involve big leaps. Strong analytical skills are important, but they are far from sufficient. In the workplace, there are big payoffs to creativity too. I’d even say that creativity is a traditional comparative advantage of the United States. </p>
-
-<p>Yale President Peter Salovey’s <a href="http://president.yale.edu/creativity-transfer">recent Note from Woodbridge Hall</a> gives several examples of Yale graduates starting businesses, writing plays, and inventing products. He’s absolutely right that some Yale students are very creative. And yet, I believe we can and must do better at encouraging their innate creativity in the classroom.</p>
-
-<p><strong>Footnotes:</strong></p>
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>You can think of utility as happiness, but the concept is a little bit different. Imagine that individuals rank, in order of preference, every possible combination of stuff that they value. If they maximize their utility, that means there is no other attainable combination of stuff that they prefer.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Another Way to Teach Seminars]]></title>
-    <link href="http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars/"/>
-    <updated>2014-04-06T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/04/06/another-way-to-teach-seminars</id>
-    <content type="html"><![CDATA[<p><a href="http://www.amazon.com/The-Peloponnesian-War-Donald-Kagan/dp/0142004375"><img class="right" src="http://highvariance.net/images/hv-the-peloponnesian-war.jpg" /></a></p>
-
-<p>Donald Kagan is a giant<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> in the study of ancient Greek history–I mean sheesh, you should see his <a href="http://en.wikipedia.org/wiki/Donald_Kagan">Wikipedia</a> page! He is also one of the most celebrated teachers at Yale and the other day I had the pleasure of <a href="http://teaching.yale.edu/programs/faculty/award-winning-teachers-teaching-lunchtime-colloquia">hearing him talk</a> about how he teaches seminars. </p>
-
-<p>Each week during the semester Professor Kagan has two of his students write a 5-7 page response to specific questions related to the week’s topic. For example, in his class on Thucydides and the Peloponnesian War, he has students evaluate Sparta’s strategies and try to suggest better ones. The students circulate their papers a week before class so everyone has a chance to read and digest them. The class consists primarily of a group interrogation of the authors led by Professor Kagan. I believe the students find the process equal parts intimidating and inspiring. Each student is held to the fire twice during the semester.</p>
-
-<p>Everyone is expected to be prepared for class. That becomes very clear very quickly because Professor Kagan considers every student fair game for probing questions. That would be enough to make me read. I should definitely do more of this in my seminars.</p>
-
-<p>Ancient Spartans used to have lunch in groups of 15. Based on this (and his own personal experience) Professor Kagan says 15 is the optimal number of students in a seminar. I’d love to have a seminars this size, but I also hate turning students away. My compromise is to accept about 25 students. The class is still good for the first 15 and loads better for the 10 students who would otherwise miss out completely.</p>
-
-<p>In addition to his oral feedback during class, Professor Kagan gives written feedback on the papers. He does not assign any grades to anything until the end of the semester. While I feel qualitative feedback is far more valuable as both a guide and a motivator, I also believe students deserve a clear quantitative signal about their work. If they want an A, they need to know if they need to invest more in the class. Final grades should not be surprises.</p>
-
-<p>In many ways Professor Kagan’s method couldn’t be more different from <a href="http://highvariance.net/blog/2013/05/20/seminars/">mine</a>. Learning how to write a long technical research paper and working on it throughout the semester is the spine of my seminars. Professor Kagan explicitly eschews this as he wants his students to spend as much time as possible grappling with the week’s reading and the concepts in those <a href="http://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War">books</a> (or even <a href="http://en.wikipedia.org/wiki/Stele">steles</a>). Even so, I’m still excited to try a few of his techniques.</p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p><a href="http://en.wikipedia.org/wiki/Titan_(mythology)">Titan</a> is probably the more appropriate term. <a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
 ]]></content>
   </entry>
   
@@ -347,40 +642,6 @@ Mountains of might
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Don't Throw Them to the Wolves]]></title>
-    <link href="http://highvariance.net/blog/2014/03/04/thrown-to-the-wolves/"/>
-    <updated>2014-03-04T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/03/04/thrown-to-the-wolves</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://highvariance.net/images/hv-wolfpack.jpeg" /></p>
-
-<p>I recently heard <a href="http://bbs.yale.edu/people/michael_koelle-1.profile">Michael Koelle</a> (Associate Professor of Molecular Biophysics and Biochemistry at Yale) give a very interesting <a href="http://teaching.yale.edu/programs/faculty/award-winning-teachers-teaching-lunchtime-colloquia">presentation on teaching</a>. He led by saying he wasn&rsquo;t going to talk about anything trendy like MOOC&rsquo;s or flipping the classroom or project-based learning, but would instead focus on how how he teaches traditional big lecture courses. He proceeded to tell us about the most progressive lecture courses I&rsquo;ve ever heard of. Among other things, he never lectures for more than 15 minutes at a time and peppers his classes with interactivity and small group exercises. While his whole talk was inspiring and full of concrete advice and ideas, I want to write today about something he brought up almost in passing.</p>
-
-<p>Professor Koehlle&rsquo;s department introduces junior faculty to teaching big lectures by having them co-teach with someone senior the first few times. The junior sees first-hand what goes into a good lecture, learns the nuts and bolts with a safety net, and has someone right there who can answer questions and critique individual classes. What a great model! </p>
-
-<p>The far more common practice is to throw junior faculty to the wolves in a big course. If you happen to be a natural or are willing to invest far more than makes sense for someone hoping to get tenure, it might result in a decent class. More often than not, it&rsquo;s a train wreck. It occurs to me that while many departments can&rsquo;t afford to have two faculty teaching their big classes, there are other (cheaper) ways to mentor juniors:</p>
-
-<ol>
-  <li>
-    <p>Have experienced senior faculty pay attention to juniors while they are teaching a challenging class for the first time. That means observing lectures, having lunch meetings about how things are going, and encouraging juniors to ask questions about teaching.</p>
-  </li>
-  <li>
-    <p>When a junior takes over an existing class, give them as much of the previous instructor&rsquo;s materials as possible. Lecture slides are a start, but notes, problem sets and old exams are also helpful. If the department has <a href="http://highvariance.net/blog/2013/01/13/course-materials/">ownership of the materials</a>, this is easy.</p>
-  </li>
-  <li>
-    <p>Let juniors get their first teaching experience in a high-level class. It sounds weird to people outside academia, but the more advanced classes are much easier to teach. The students in these classes are more bought into the discipline&rsquo;s norms, and the material is closer to what the instructor works on every day while doing their research. Introductory classes need to be far more polished and have a much more diverse group of students. I love diversity but it&rsquo;s a lot harder to teach. Electives are easiest of all because every student in the class wants to be there.</p>
-  </li>
-  <li>
-    <p>Exploit university resources outside the department for helping teachers. At Yale, the <a href="http://teaching.yale.edu">Yale Teaching Center</a> will help instructors learn from their evaluations, review syllabi, and even do classroom observation. Letting faculty know about these services is a nice first step, but my experience is that only the above average teachers take advantage of them. It should be mandatory for all juniors (and probably seniors too).</p>
-  </li>
-</ol>
-
-<p>Junior faculty in top departments are evaluated for promotion based on their research productivity. Mentoring is a way to improve their teaching without having to take time away from their research. In fact, there are techniques many juniors don&rsquo;t know that will <em>save</em> them time spent teaching. Starting with high-quality course materials means less time preparing class. Clearer lectures mean fewer confused students visiting during office hours. A better match between lecture content and exam content means fewer irate student emails.</p>
-
-<p>If a department is serious about upgrading the quality of its undergraduate instruction, doing a better job of mentoring junior faculty is low hanging fruit. </p>
 ]]></content>
   </entry>
   
@@ -658,6 +919,135 @@ are simple. The game starts with each player getting three cards and a pile of t
 <p>Perhaps the best part of the game is that it&rsquo;s easy to modify the game for players of any age. We often play with cards face up.  This makes reasoning about your opponent&rsquo;s next move a little clearer and has two other big advantages: Little uncoordinated hands don&rsquo;t have to try to hold three cards at once, and it&rsquo;s a lot easier to teach strategy when you can see what cards your kid is holding.  I&rsquo;ve also played a fairly rule-free version of the game with one and two year-olds where we just deal out cards and place chips on the board. These kids love the animals and the bright colors of the chips and even like matching the animals to the squares on the board. </p>
 
 <p>Sequence for Kids really is fun for the whole family!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kid Book Review: Second Time Around]]></title>
+    <link href="http://highvariance.net/blog/2013/12/16/kid-book-review-second-time-around/"/>
+    <updated>2013-12-16T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/16/kid-book-review-second-time-around</id>
+    <content type="html"><![CDATA[<p>One of the best things about having a second child is getting to do all your favorite little kid things again.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Near the top of that list for me is re-reading our best picture books, and L, at 2.5 years old is just now appreciating the stories as well as the pictures. These five books have been particularly popular over the last few weeks:</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-uncle-elephant.jpg" title="[title &#34;Uncle Elephant&#34;]" alt="[title &#34;Uncle Elephant&#34;]" /></p>
+
+<ul>
+  <li>
+    <p><a href="http://www.amazon.com/Uncle-Elephant-Can-Read-Book/dp/0064441040">Uncle Elephant</a> (written and illustrated by Arnold Lobel) Like all of Arnold Lobel’s books, the illustrations are classic, the stories are clever, and the messages are deep. A boy loses his parents at the beginning and he bonds with his Uncle who takes care of him until his parents come back. Among other things, they walk in the garden, sing songs, and grant wishes to spiders. Uncle Elephant is the grandfather everyone wanted when they were growing up. We’ve also been enjoying Lobel’s <a href="http://www.amazon.com/s?url=search-alias=aps&amp;field-keywords=lobel%20frog%20and%20toad">Frog and Toad stories</a>.</p>
+  </li>
+  <li>
+    <p><a href="">Pup and Hound Catch a Thief</a> (written by Susan Hood, illustrated by Linda Hendry) This criminally under-rated series of books is published by Kids Can Press where it gets lost in a slew of mediocre tales of poorly behaved cats (<a href="http://www.amazon.com/Mittens-My-First-Can-Read-ebook/dp/B006JQTQNG">Mittens</a>) and dogs (<a href="http://www.amazon.com/Pizza-Sam-Kids-Can-Read/dp/1553373316">Sam</a>). The rhymes and artwork are cute, and the stories have twists at the end that both L and I can appreciate.</p>
+  </li>
+</ul>
+
+<p><img class="left" src="http://highvariance.net/images/hv-lyle-walks-the-dogs.jpg" title="[title &#34;Lyle Walks the Dogs&#34;]" alt="[title &#34;Lyle Walks the Dogs&#34;]" /></p>
+
+<ul>
+  <li>
+    <p><a href="http://www.amazon.com/Lyle-Crocodile-Walks-Dogs/dp/B006Z31NI4">Lyle Walks the Dogs</a> (written by Bernard Waber, illustrated by Paulis Waber) Not to be confused with <a href="">Zack’s Alligator</a> Bridget, Lyle the Crocodile is as sweet as Bridget is sassy. In this counting book Lyle builds a business through competent hard work and positive word of mouth.</p>
+  </li>
+  <li>
+    <p><a href="http://www.amazon.com/Curious-George-Rides-Bike-Rey/dp/B0099R035M">Curious George Rides a Bike</a> (written and illustrated by H.A. Rey) My personal favorite George book when I was a kid, I’m happy to report that L loves it too, even if she does admonish George for not wearing a helmet.</p>
+  </li>
+</ul>
+
+<p><img class="right" src="http://highvariance.net/images/hv-there-are-cats-in-this-book.jpg" title="[title &#34;There are cats in this book&#34;]" alt="[title &#34;There are cats in this book&#34;]" /></p>
+
+<ul>
+  <li><a href="http://www.amazon.com/There-Are-Cats-This-Book/dp/0763639230">There Are Cats in This Book</a> (written and illustrated by Viviane Schwarz) I’m cheating here since we just discovered this book a month ago at the library, but it’s just so good and so perfect for the two year old age group that I had to include it. It follows in the interactive mode of Herve Tullet’s <a href="http://www.amazon.com/Press-Here-Herve-Tullet/dp/0811879542">Press Here</a> asking the reader to do things (like toss a ball of yarn or look inside a box) and reacting to them. The only potential downside is that the pop-up features are not totally robust, but isn’t that what Scotch tape is for? I just realized there’s a well-reviewed sequel (<a href="http://www.amazon.com/There-Are-Cats-this-Book/dp/0763649546">There are no cats in this book</a>) and can’t wait to check that out too!</li>
+</ul>
+
+<hr />
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>One of the worst things about a second child is having to do all your least favorite things again, but I’m a glass-half-full guy. <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Photo Management Quest, Part 3: Dropbox and Friends]]></title>
+    <link href="http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/"/>
+    <updated>2013-12-13T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends</id>
+    <content type="html"><![CDATA[<p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-dropbox.jpg" /></p>
+
+<p>I am extremely happy to report some actual forward progress in this episode of My Photo Management Quest.  The short story is that all my photos now live on Dropbox in a nice hieararchical folder structure where I can browse and share them from any of my computers or iOS devices. My new system isn’t perfect, but it’s pretty good and I think it’s a solid foundation for the future.</p>
+
+<h2 id="moving-from-iphoto-to-dropbox">Moving from iPhoto to Dropbox</h2>
+
+<p>iPhoto is fundamentally an application for doing light editing and organization of photos on a single computer. Any new system that involves access from multiple different devices is going to require getting your photos out of iPhoto’s black box. My first step was to do <a href="http://www.macstories.net/tutorials/moving-from-iphoto-to-dropbox/">what Federico Vittici at MacStories did</a> through a combination of <a href="http://code.google.com/p/phoshare/">PhoShare</a> and <a href="http://www.noodlesoft.com/hazel.php">Hazel</a>.  The process created a set of year folders, and in each of those, a set of month folders that contain all my photos named and sorted by date. I also followed his lead and created a Hazel rule to move files from the Camera Uploads folder (where Dropbox puts my just-taken photos and videos) into my new Photos hierarchy. That means I need do absolutely nothing after I click my iPhone’s shutter button for my photos to be organized and accessible (by me) forever in the cloud. What a breath of fresh air compared to Apple’s Photo Stream!</p>
+
+<p>My photos currently take up about 20GB, and Dropbox charges $99 per 100GB. Give how rock solid Dropbox is and how many iOS apps support it, I think that’s a great deal. </p>
+
+<h2 id="further-organization-and-editing-on-the-mac">Further Organization and Editing on the Mac</h2>
+
+<p>I’ve been manually adding a bit more organization in two ways. First, I’ve split some months into separate events. For example, I created a “2013-10-halloween” folder (inside the “2013” folder) that contains the requisite costume and pumpkin photos. These photos no longer live in the generic “2013-10” folder. I’ve also created a few special folders (e.g., “yummy-things”) outside the date-based hierarchy that have <em>copies</em> of some pictures in the date-based hierarchy.  That way I can find those pictures by date or subject. I can also easily share these folders (read-only) with friends and family using Dropbox shared links. </p>
+
+<p>The best way I’ve found so far to actually create these new folders is Coverflow view in Finder. It’s <a href="https://discussions.apple.com/message/23562534#23562534">buggy in Mavericks</a> and it doesn’t let me see enough at the same time, but it works. I’m sure there are better ways (maybe <a href="http://unboundformac.com">Unbound for Mac</a> when it’s more stable, maybe <a href="http://www.arcsoft.com/photoplus/">Photo+ by Arcsoft</a>, maybe <a href="http://www.lynapp.com">Lyn</a>) but I haven’t settled on one yet.</p>
+
+<p>One of the biggest advantages of having my photos live in the file system is that I’m not locked into iPhoto for editing–I can now use whatever app I want. <a href="http://www.pixelmator.com">Pixelmator</a> is nice and I’m sure I’ll eventually settle on an even lighter weight app for easy stuff (e.g., cropping/red-eye reduction/brightness adjustment).</p>
+
+<h2 id="browsing-on-ios">Browsing on iOS</h2>
+
+<p>Now that my photos live in Dropbox, I have at least three choices of iOS apps to browse them.  The <a href="https://www.dropbox.com/iphoneapp">Dropbox app</a>’s photo tab lets me scroll through thumbnails of all my photos sorted by date and download full resolution versions as needed. I can also browse the folder structure through the standard file browing UI and grab photos, though I don’t get a pretty set of big thumbnails.  Playing videos and sharing links to files and folders is easy.</p>
+
+<p><img class="left" src="http://highvariance.net/images/hv-heliog.png" /></p>
+
+<p><a href="http://www.heliogapp.com">Heliog</a> is fast and pretty–it preserves my folder hierarchy and shows nice screens of thumbnails. I can share folders or sets of photos and easily move photos between folders. The downsides are that it doesn’t play video and I can’t delete photos from the photo view (have to be in the album view). These both seem easily fixable.</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-unbound.jpg" /></p>
+
+<p>Right now, I think <a href="http://unboundapp.com">Unbound</a> is the best of the bunch.  Unlike Heliog, it plays videos and let’s me delete photos from the photo view. Like Heliog, sharing Dropbox links is easy and browsing is fast–you can even make the app cache folders for quicker (or offline) access. Unbound will show you all the photo’s EXIF data and even show where a photo was taken on a map. Moving pictures between folders is easy, but I don’t think it’s possible to copy pictures to other albums. It shows me all my folders, but flattens the hierarchy–i.e., my month folders are no longer grouped by year. The ordering is correct, so this isn’t actually so bad.</p>
+
+<h2 id="the-future">The Future</h2>
+
+<p>The next step for my photo management system is to integrate the rest of our family photos. Right now they’re scattered across several computers, folders and hard drives with tons of duplicates. Dropping these photos into my Camera Uploads folder will immediately sort them into my master folder structure, but it won’t remove duplicates. There are lots of apps out there that promise to remove duplicates, but I’m scared to death that they’ll remove too much and the one app I tried (<a href="http://www.duplicatephotofixer.com/PhotoCleaner.aspx">Photos Duplicate Cleaner</a>) didn’t come close to catching everything. </p>
+
+<p>In the early days of the internet, companies like Yahoo tried organizing the web by manually creating big hiearchical lists of sites. Now we just Google for what we want and leave it to racks of servers and fancy algorithms to index it. The same thing has happened to mail. I used to carefully file all my mail into topic-specific folders, but now I just dump it all into one archive folder and rely on search when I need to find something. Photos will eventually be handled the same way. People won’t have to spend gobs of time dividing stacks of photos into events or tagging photos with their friends’ names–that’s what EXIF data and face recognition are for.  Everpix (may they rest in peace) was moving in this direction and I’ve heard <a href="http://www.wired.com/gadgetlab/2013/12/honan-photography/">great things about what Google+ is doing with pictures</a>. </p>
+
+<p>I am very excited to try some more cutting edge services as they roll out. With our photos safely backed up and accessible on Dropbox, I won’t have to worry about being locked into a deadend or that the service will mess up my photos.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> I’ll have the best of both worlds.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>For the record, Everpix did both: they made export very difficult and compressed photos, losing detail that I might eventually want. <a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Three Great Product Features]]></title>
+    <link href="http://highvariance.net/blog/2013/12/04/three-great-product-features/"/>
+    <updated>2013-12-04T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2013/12/04/three-great-product-features</id>
+    <content type="html"><![CDATA[<p>Great products get reviewed and talked about, but great features of good products often fly under the radar. They can seem obvious in hindsight or just have a niche group that really appreciates them. Here are three of my favorites that deserve more notice.</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-control-center.png" /></p>
+
+<p><strong>1. Control Center</strong></p>
+
+<p>Hands down my favorite new feature of iOS 7, the Control Center removes lots of little dead moments from my life. Every night I lock my phone into portrait mode when I get in bed. I use the flashlight at least twice a day. I select an Airplay destination or use the music controls about twice a day. And in the morning I free up the phone’s orientation again. Since I don’t even have to unlock the phone to do any of this, it saves me at least five seconds each time. That adds up to a minimum of 30 seconds a day and three whole hours a year.</p>
+
+<p><img class="left" src="http://highvariance.net/images/hv-whispersync.jpg" /></p>
+
+<p><strong>2. Whispersync</strong></p>
+
+<p>After the kids go to sleep and I’m cleaning the kitchen or putting toys away, I like to listen to audiobooks. When it’s particularly gripping, I continue to read the book on my phone in bed using the Kindle app. Whispersync means I automatically pick up right where I left off on the audio. The next night when I start listening again, the Audible app jumps to where I was in the e-book. I can’t imagine too many people take advantage of this, but I love it. </p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-sneeze-shield.jpg" /></p>
+
+<p><strong>3. Sneeze Shield</strong></p>
+
+<p>Maybe our bedroom is dusty. Maybe I have allergies. Maybe I get a lot of low-grade colds. I don’t know why I sneeze a few times almost every morning when I wake up, but I do. And with two little kids, we all get our share of normal-grade colds. This means we go through a lot of tissues. Sneeze Shield means the tissue doesn’t fall apart when a grown up blows into it. I don’t miss handfuls of wet snot at all.</p>
+
 ]]></content>
   </entry>
   

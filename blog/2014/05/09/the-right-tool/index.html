@@ -1,0 +1,715 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Choosing the Right Tool for the Job - High Variance</title>
+  <meta name="author" content="Doug McKee">
+
+  
+  <meta name="description" content="Every new programming project involves choosing a language early in the process. This choice can be exciting and daunting at the same time, as it &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://highvariance.net/blog/2014/05/09/the-right-tool/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/rss" rel="alternate" title="High Variance" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre',
+      'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-28036001-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">High Variance</a></h1>
+  
+    <h2>I just write about stuff I'm thinking about.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/rss" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:highvariance.net" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about.html">About</a></li>
+  <li><a href="/blog/categories/kids/">Kids</a></li>
+  <li><a href="/blog/categories/education/">Education</a></li>
+  <li><a href="/blog/categories/music/">Music</a></li>
+  <li><a href="/blog/categories/tech/">Tech</a></li>
+  <li><a href="/blog/categories/economics/">Economics</a></li>
+  <li><a href="/blog/categories/other/">Other</a></li>
+  <li><a href="/blog/archives">All</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Choosing the Right Tool for the Job</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-09T00:00:00-04:00" pubdate data-updated="true">May 9<span>th</span>, 2014</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img src="/images/hv-tools.jpg" /></p>
+
+<p>Every new programming project involves choosing a language early in the process. This choice can be exciting and daunting at the same time, as it always involves weighing several conflicting factors. Based on many years of varied programming experience, here is my advice:</p>
+
+<!--More-->
+
+<ol>
+  <li>
+    <p>Pick a language appropriate to the task. Do you need good numerical optimization libraries? Do you need matrix operations? Do you need to parse HTML files? You don&rsquo;t need the best language, but you don&rsquo;t want to be stuck with something too slow or that requires you to write a lot of unnecessary support code. This is what John D. Cook is getting at when he says <a href="http://www.johndcook.com/blog/2014/03/12/dont-be-a-technical-masochist/">&ldquo;Don&rsquo;t be a technical masochist&rdquo;</a>. I always think of this first even though it&rsquo;s not always the most important criterion. </p>
+  </li>
+  <li>
+    <p>Take into account the fact that you might have to learn (or relearn) the language. This is the dreaded learning curve and even though I&rsquo;m a quick learner, I always underestimate the time it takes to achieve proficiency.</p>
+  </li>
+  <li>
+    <p>Think about the future utility of knowing the language. This is harder than it looks. On the one hand Python is broadly popular and winning in scientific computing. Ruby is a similar language but has better libraries for web development. Both seem like good investments, but I haven&rsquo;t used Python in more than 5 years and I&rsquo;ve never written anything in Ruby. </p>
+  </li>
+  <li>
+    <p>If you are collaborating, think about what the rest of the team knows. Even if your partner isn&rsquo;t writing as much code as you, it&rsquo;s pretty valuable if they can read your code.</p>
+  </li>
+  <li>
+    <p>Don&rsquo;t forget to have fun. Programming can be a grind&ndash;sometimes it&rsquo;s fun to stretch your brain with something new. </p>
+  </li>
+  <li>
+    <p>Expertise in a language should not be squandered. It&rsquo;s a lot of work pouring the core of a language (and it&rsquo;s standard libraries) into your head, but once you do it, you can write a lot of good code very quickly. This knowledge depreciates quickly when you switch to different &ldquo;better&rdquo; tools for a given job.</p>
+  </li>
+</ol>
+
+<p>I spend a fair amount of my time analyzing data with <a href="http://www.stata.com">Stata</a>, and that involves writing programs in a quirky proprietary language. For example, it has no variables, but it does have local and global macros. To evaluate a local macro, you surround its name with a back quote and a forward quote (`x&rsquo;). These can be nested. Global variables are prefixed with a dollar sign ($x). That said, it has general file handling and regular expression functions, and you can do interesting programming with it.</p>
+
+<p>Lately, I&rsquo;ve been trying to maintain and build my expertise in Stata by using it for a broad range of programming tasks even when it&rsquo;s not the objectively best tool for a job. That was the case a few months ago when I parsed up and analyzed the content on this site. The end result looks a little weird, but it works and my brain is in a better place for it:</p>
+
+<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span> (analyze.do)</span> <a href="/downloads/code/analyze.do">download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+<span class="line-number">7</span>
+<span class="line-number">8</span>
+<span class="line-number">9</span>
+<span class="line-number">10</span>
+<span class="line-number">11</span>
+<span class="line-number">12</span>
+<span class="line-number">13</span>
+<span class="line-number">14</span>
+<span class="line-number">15</span>
+<span class="line-number">16</span>
+<span class="line-number">17</span>
+<span class="line-number">18</span>
+<span class="line-number">19</span>
+<span class="line-number">20</span>
+<span class="line-number">21</span>
+<span class="line-number">22</span>
+<span class="line-number">23</span>
+<span class="line-number">24</span>
+<span class="line-number">25</span>
+<span class="line-number">26</span>
+<span class="line-number">27</span>
+<span class="line-number">28</span>
+<span class="line-number">29</span>
+<span class="line-number">30</span>
+<span class="line-number">31</span>
+<span class="line-number">32</span>
+<span class="line-number">33</span>
+<span class="line-number">34</span>
+<span class="line-number">35</span>
+<span class="line-number">36</span>
+<span class="line-number">37</span>
+<span class="line-number">38</span>
+<span class="line-number">39</span>
+<span class="line-number">40</span>
+<span class="line-number">41</span>
+<span class="line-number">42</span>
+<span class="line-number">43</span>
+<span class="line-number">44</span>
+<span class="line-number">45</span>
+<span class="line-number">46</span>
+<span class="line-number">47</span>
+<span class="line-number">48</span>
+<span class="line-number">49</span>
+<span class="line-number">50</span>
+<span class="line-number">51</span>
+<span class="line-number">52</span>
+<span class="line-number">53</span>
+<span class="line-number">54</span>
+<span class="line-number">55</span>
+<span class="line-number">56</span>
+<span class="line-number">57</span>
+<span class="line-number">58</span>
+<span class="line-number">59</span>
+<span class="line-number">60</span>
+<span class="line-number">61</span>
+<span class="line-number">62</span>
+<span class="line-number">63</span>
+<span class="line-number">64</span>
+<span class="line-number">65</span>
+<span class="line-number">66</span>
+<span class="line-number">67</span>
+<span class="line-number">68</span>
+<span class="line-number">69</span>
+<span class="line-number">70</span>
+<span class="line-number">71</span>
+<span class="line-number">72</span>
+<span class="line-number">73</span>
+<span class="line-number">74</span>
+<span class="line-number">75</span>
+<span class="line-number">76</span>
+<span class="line-number">77</span>
+<span class="line-number">78</span>
+<span class="line-number">79</span>
+<span class="line-number">80</span>
+<span class="line-number">81</span>
+<span class="line-number">82</span>
+<span class="line-number">83</span>
+<span class="line-number">84</span>
+<span class="line-number">85</span>
+<span class="line-number">86</span>
+<span class="line-number">87</span>
+<span class="line-number">88</span>
+<span class="line-number">89</span>
+<span class="line-number">90</span>
+<span class="line-number">91</span>
+<span class="line-number">92</span>
+<span class="line-number">93</span>
+<span class="line-number">94</span>
+<span class="line-number">95</span>
+<span class="line-number">96</span>
+<span class="line-number">97</span>
+<span class="line-number">98</span>
+<span class="line-number">99</span>
+<span class="line-number">100</span>
+<span class="line-number">101</span>
+<span class="line-number">102</span>
+<span class="line-number">103</span>
+<span class="line-number">104</span>
+<span class="line-number">105</span>
+<span class="line-number">106</span>
+<span class="line-number">107</span>
+<span class="line-number">108</span>
+<span class="line-number">109</span>
+<span class="line-number">110</span>
+<span class="line-number">111</span>
+<span class="line-number">112</span>
+<span class="line-number">113</span>
+<span class="line-number">114</span>
+<span class="line-number">115</span>
+<span class="line-number">116</span>
+<span class="line-number">117</span>
+<span class="line-number">118</span>
+<span class="line-number">119</span>
+<span class="line-number">120</span>
+<span class="line-number">121</span>
+<span class="line-number">122</span>
+<span class="line-number">123</span>
+<span class="line-number">124</span>
+<span class="line-number">125</span>
+<span class="line-number">126</span>
+<span class="line-number">127</span>
+<span class="line-number">128</span>
+<span class="line-number">129</span>
+<span class="line-number">130</span>
+<span class="line-number">131</span>
+<span class="line-number">132</span>
+<span class="line-number">133</span>
+<span class="line-number">134</span>
+<span class="line-number">135</span>
+<span class="line-number">136</span>
+<span class="line-number">137</span>
+<span class="line-number">138</span>
+<span class="line-number">139</span>
+<span class="line-number">140</span>
+<span class="line-number">141</span>
+<span class="line-number">142</span>
+<span class="line-number">143</span>
+<span class="line-number">144</span>
+<span class="line-number">145</span>
+<span class="line-number">146</span>
+<span class="line-number">147</span>
+<span class="line-number">148</span>
+<span class="line-number">149</span>
+<span class="line-number">150</span>
+<span class="line-number">151</span>
+<span class="line-number">152</span>
+<span class="line-number">153</span>
+<span class="line-number">154</span>
+<span class="line-number">155</span>
+<span class="line-number">156</span>
+<span class="line-number">157</span>
+<span class="line-number">158</span>
+<span class="line-number">159</span>
+<span class="line-number">160</span>
+<span class="line-number">161</span>
+<span class="line-number">162</span>
+<span class="line-number">163</span>
+<span class="line-number">164</span>
+<span class="line-number">165</span>
+<span class="line-number">166</span>
+<span class="line-number">167</span>
+<span class="line-number">168</span>
+<span class="line-number">169</span>
+<span class="line-number">170</span>
+<span class="line-number">171</span>
+<span class="line-number">172</span>
+<span class="line-number">173</span>
+<span class="line-number">174</span>
+<span class="line-number">175</span>
+<span class="line-number">176</span>
+<span class="line-number">177</span>
+<span class="line-number">178</span>
+<span class="line-number">179</span>
+<span class="line-number">180</span>
+</pre></td><td class="code"><pre><code class="text"><span class="line">/*
+</span><span class="line">* Analyze articles published on High Variance in 2012 and 2013
+</span><span class="line">*
+</span><span class="line">* BTW: UCLA has way better documentation of file read than Stata:
+</span><span class="line">*      http://www.ats.ucla.edu/stat/stata/faq/fileread.htm
+</span><span class="line">*
+</span><span class="line">*/
+</span><span class="line">
+</span><span class="line">set more off
+</span><span class="line">
+</span><span class="line">capture log close
+</span><span class="line">log using analyze.log ,replace
+</span><span class="line">
+</span><span class="line">global DEST &quot;../source/images/analyze-2014-02-09&quot;
+</span><span class="line">
+</span><span class="line">capture program drop parse_post
+</span><span class="line">capture program drop load_year_posts
+</span><span class="line">file close _all
+</span><span class="line">
+</span><span class="line">/* Given the name of a Markdown document, parse it and return its
+</span><span class="line">   title, date (of publication), tags, and wordcount.
+</span><span class="line">*/
+</span><span class="line">program define parse_post ,rclass
+</span><span class="line">    local mdfile &quot;`1&#39;&quot;
+</span><span class="line">
+</span><span class="line">    tempname fh
+</span><span class="line">    file open `fh&#39; using `mdfile&#39; ,read
+</span><span class="line">
+</span><span class="line">    local donewithyaml=0
+</span><span class="line">    local wordcount=0
+</span><span class="line">    /* Assume first line is just &quot;---&quot; marking beginning of YAML header */
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    while r(eof)==0 {
+</span><span class="line">      * di `&quot;LINE :`line&#39;:&quot;&#39;
+</span><span class="line">      if (!`donewithyaml&#39;) { // Parse header
+</span><span class="line">        if (`&quot;`line&#39;&quot;&#39;==&quot;---&quot;) {
+</span><span class="line">           local donewithyaml = 1
+</span><span class="line">        }
+</span><span class="line">        else {
+</span><span class="line">          local key = &quot;&quot;
+</span><span class="line">          local value = &quot;&quot;
+</span><span class="line">          if regexm(`&quot;`line&#39;&quot;&#39;,`&quot;([a-zA-z-]+): [&quot;]*([^&quot;]*)[&quot;]*&quot;&#39;) {
+</span><span class="line">            local key = regexs(1)
+</span><span class="line">            local value = regexs(2)
+</span><span class="line">            * di `&quot;KEY: `key&#39;&quot;&#39;
+</span><span class="line">            * di `&quot;VALUE: `value&#39;&quot;&#39;
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;date&quot;) {
+</span><span class="line">              local date = date(&quot;`value&#39;&quot;, &quot;YMD&quot;)
+</span><span class="line">            }
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;categories&quot;) {
+</span><span class="line">              local tags = &quot;`value&#39;&quot;
+</span><span class="line">            }
+</span><span class="line">            if (&quot;`key&#39;&quot;==&quot;title&quot;) {
+</span><span class="line">              local title = &quot;`value&#39;&quot;
+</span><span class="line">            }
+</span><span class="line">          }
+</span><span class="line">        }
+</span><span class="line">      }
+</span><span class="line">      else { // Count words in body of post
+</span><span class="line">        local wcl = wordcount(`&quot;`line&#39;&quot;&#39;)
+</span><span class="line">        * display `&quot;wordcount(`line&#39;): `wcl&#39;&quot;&#39;
+</span><span class="line">        local wordcount = `wordcount&#39; + `wcl&#39;
+</span><span class="line">      }
+</span><span class="line">      file read `fh&#39; line
+</span><span class="line">    }
+</span><span class="line">    file close `fh&#39;
+</span><span class="line">
+</span><span class="line">    return local title = &quot;`title&#39;&quot;
+</span><span class="line">    return scalar date = `date&#39;
+</span><span class="line">    return local tags = &quot;`tags&#39;&quot;
+</span><span class="line">    return scalar wordcount = `wordcount&#39;
+</span><span class="line">
+</span><span class="line">end
+</span><span class="line">
+</span><span class="line">/* Given a year, load in the stats (using parse_post) for each article.
+</span><span class="line">   The resulting data set is one observation per post. It also creates dummy
+</span><span class="line">   variables for each referenced tag.
+</span><span class="line">*/
+</span><span class="line">program define load_year_posts
+</span><span class="line">    local year &quot;`1&#39;&quot;
+</span><span class="line">    ! ls ~/octopress/source/_posts/`year&#39;-* &gt; /tmp/`year&#39;-filelist.txt
+</span><span class="line">
+</span><span class="line">    tempname fh
+</span><span class="line">    file open `fh&#39; using &quot;/tmp/`year&#39;-filelist.txt&quot; ,read
+</span><span class="line">    file read `fh&#39; line
+</span><span class="line">    local i 1
+</span><span class="line">    qui set obs 1
+</span><span class="line">    qui gen title=&quot;&quot;
+</span><span class="line">    qui gen tags=&quot;&quot;
+</span><span class="line">    qui gen wordcount=.
+</span><span class="line">    qui gen postdate=.
+</span><span class="line">    while r(eof)==0 {
+</span><span class="line">      qui set obs `i&#39;
+</span><span class="line">      parse_post &quot;`line&#39;&quot;
+</span><span class="line">      qui replace title = `&quot;`r(title)&#39;&quot;&#39; if _n==`i&#39;
+</span><span class="line">      qui replace tags = &quot;`r(tags)&#39;&quot; if _n==`i&#39;
+</span><span class="line">      qui replace postdate = r(date) if _n==`i&#39;
+</span><span class="line">      qui replace wordcount = r(wordcount) if _n==`i&#39;
+</span><span class="line">      local ntags = wordcount(r(tags))
+</span><span class="line">      forval j = 1/`ntags&#39; {
+</span><span class="line">        local tag = subinstr(word(r(tags),`j&#39;),&quot;-&quot;,&quot;_&quot;,.)
+</span><span class="line">        capture confirm var tag_`tag&#39;
+</span><span class="line">        if _rc != 0 {
+</span><span class="line">          qui gen tag_`tag&#39;=.
+</span><span class="line">        }
+</span><span class="line">        qui replace tag_`tag&#39;=1 if _n==`i&#39;
+</span><span class="line">      }
+</span><span class="line">      local i = `i&#39; + 1
+</span><span class="line">      file read `fh&#39; line
+</span><span class="line">    }
+</span><span class="line">    file close `fh&#39;
+</span><span class="line">    foreach tagvar of varlist tag_* {
+</span><span class="line">      qui replace `tagvar&#39;=0 if `tagvar&#39;==.
+</span><span class="line">    }
+</span><span class="line">    gen year=`year&#39;
+</span><span class="line">end
+</span><span class="line">
+</span><span class="line">/* Load up 2012 and 3013 */
+</span><span class="line">
+</span><span class="line">clear
+</span><span class="line">load_year_posts 2012
+</span><span class="line">tempfile y2012
+</span><span class="line">save `y2012&#39;
+</span><span class="line">clear
+</span><span class="line">load_year_posts 2013
+</span><span class="line">append using `y2012&#39;
+</span><span class="line">
+</span><span class="line">local tags &quot;tech politics thanks education kids economics music productivity conan kbr photo mundane christmas blog&quot;
+</span><span class="line">
+</span><span class="line">/* Are there any articles that do not have one of the above tags? */
+</span><span class="line">
+</span><span class="line">local tagvars &quot;&quot;
+</span><span class="line">local ifclause &quot;if 1 &quot;
+</span><span class="line">local yvaroptions &quot;yvaroptions(relabel(&quot;
+</span><span class="line">local i=1
+</span><span class="line">foreach t in `tags&#39; {
+</span><span class="line">  local tagvars = &quot;`tagvars&#39; tag_`t&#39;&quot;
+</span><span class="line">  local ifclause = &quot;`ifclause &#39; &amp; tag_`t&#39;==0&quot;
+</span><span class="line">  local yvaroptions `&quot;`yvaroptions&#39;`i&#39; &quot;`t&#39;&quot; &quot;&#39;
+</span><span class="line">  local i = `i&#39; + 1
+</span><span class="line">}
+</span><span class="line">local yvaroptions `&quot;`yvaroptions&#39;))&quot;&#39;
+</span><span class="line">count `ifclause&#39;
+</span><span class="line">list title tags `ifclause&#39;
+</span><span class="line">
+</span><span class="line">di `&quot;`yvaroptions&#39;&quot;&#39;
+</span><span class="line">
+</span><span class="line">/* Draw lots of pretty pictures.
+</span><span class="line">*  Thanks Michael Mitchell for your awesome _Visual Guide to Stata Graphics_ Third Edition!
+</span><span class="line">*/
+</span><span class="line">
+</span><span class="line">graph hbar (sum) `tagvars&#39; ,ascategory over(year) `yvaroptions&#39; b1title(&quot;Article Count by tag&quot;)
+</span><span class="line">graph export $DEST/tags.png ,replace
+</span><span class="line">
+</span><span class="line">// Thanks for the overlaid histogram ATS!
+</span><span class="line">// http://www.ats.ucla.edu/stat/stata/faq/histogram_overlay.htm
+</span><span class="line">
+</span><span class="line">twoway (histogram wordcount if year==2012 ,frequency start(0) width(100) color(navy)) ///
+</span><span class="line">       (histogram wordcount if year==2013 ,frequency start(0) width(100) fcolor(none) lcolor(black)) ///
+</span><span class="line">       ,xtitle(&quot;&quot;) ytitle(&quot;Word Count Frequency&quot;) legend(label(1 &quot;2012&quot;) label(2 &quot;2013&quot;))
+</span><span class="line">graph export $DEST/wchist.png ,replace
+</span><span class="line">
+</span><span class="line">bysort year: summarize wordcount ,detail
+</span><span class="line">
+</span><span class="line">gen month = month(postdate)
+</span><span class="line">
+</span><span class="line">gen ac=1
+</span><span class="line">graph bar (sum) ac ,over(year) over(month) asyvars ///
+</span><span class="line">      b1title(&quot;Month&quot;) ytitle(&quot;Article Count&quot;)
+</span><span class="line">graph export $DEST/ac.png ,replace
+</span><span class="line">
+</span><span class="line">graph bar (sum) wordcount ,over(year) over(month) asyvars ///
+</span><span class="line">      b1title(&quot;Month&quot;) ytitle(&quot;Word Count&quot;)
+</span><span class="line">graph export $DEST/wc.png ,replace
+</span><span class="line">
+</span><span class="line">collapse (sum) ac wordcount ,by(year)
+</span><span class="line">list
+</span><span class="line">
+</span><span class="line">log close
+</span></code></pre></td></tr></table></div></figure></notextile></div>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Doug McKee</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-05-09T00:00:00-04:00" pubdate data-updated="true">May 9<span>th</span>, 2014</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/tech/'>tech</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://highvariance.net/blog/2014/05/09/the-right-tool/" data-via="HighVarianceNet" data-counturl="http://highvariance.net/blog/2014/05/09/the-right-tool/" >Tweet</a>
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2014/04/26/irish-pride/" title="Previous Post: Irish Pride">&laquo; Irish Pride</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2014/05/09/the-right-tool/">Choosing the Right Tool for the Job</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/04/26/irish-pride/">Irish Pride</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/04/18/crucial-years-in-metal-1983/">Crucial Years in Metal: 1983</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/04/04/black-metal-for-kids/">Black metal for kids</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/04/02/extreme-bird-watching/">Extreme Bird Watching</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Favorite Posts</h1>
+  <ul id="favorite_posts">
+    <li class="post">
+       <a href="/blog/2011/12/21/first-post/">First Post</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2011/12/23/home-for-christmas/">Home for Christmas</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/13/ebooks-and-kids/">E-books and Kids</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2012/02/22/not-dead-yet/">New Wave: Not
+  Dead Yet!</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2013/01/29/lectures-2.0/">Lectures 2.0</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2013/09/05/the-stars-align">The Stars Align</a>
+    </li>
+    <li class="post">
+       <a
+  href="/blog/2013/11/21/non-violent-dungeons-and-dragons-for-kids">Nonviolent
+  D&D for Kids</a>
+    </li>
+    <li class="post">
+       <a href="/blog/2013/03/09/dishes">Limited Edition Dishes</a>
+    </li>
+  </ul>
+</section>
+
+
+<section>
+
+  
+    <a href="http://twitter.com/HighVarianceNet" class="twitter-follow-button" data-show-count="false">Follow @HighVarianceNet</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 - Doug McKee -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'highvariance';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://highvariance.net/blog/2014/05/09/the-right-tool/';
+        var disqus_url = 'http://highvariance.net/blog/2014/05/09/the-right-tool/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
