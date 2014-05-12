@@ -4,7 +4,7 @@
   <title><![CDATA[blog | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-05-09T22:51:02-04:00</updated>
+  <updated>2014-05-12T15:39:49-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Teach Better: My New Teaching Blog]]></title>
+    <link href="http://highvariance.net/blog/2014/05/11/teach-better/"/>
+    <updated>2014-05-11T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/05/11/teach-better</id>
+    <content type="html"><![CDATA[<p><a href="http://teachbetter.co"><img src="http://highvariance.net/images/hv-teach-better.png" /></a></p>
+
+<p>I am very happy to announce the birth of this blog’s first child!</p>
+
+<p><a href="http://teachbetter.co">Teach Better</a> is the new home for everything I have to say about teaching and education in general. <a href="http://highvariance.net">High Variance</a> will remain high variance, and you can continue to come here for regular <a href="http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983/">rants about 80’s music</a>, <a href="http://highvariance.net/blog/2013/09/05/the-stars-align/">heartwarming kid stories</a> and <a href="http://highvariance.net/blog/2012/02/26/kid-book-review-monster-edition/">book reviews</a>, <a href="http://highvariance.net/blog/2013/12/27/conan-the-snowman/">original Christmas carols</a>, and the occasional <a href="http://highvariance.net/blog/2014/02/27/mlp-revelations/">ridiculous theory</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Second Blogoversary]]></title>
@@ -177,63 +190,6 @@ yesterday that prove @mattgemmell right.”  </p>
 </blockquote>
 
 <p>So we’ve come full circle.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Comments on Blogs]]></title>
-    <link href="http://highvariance.net/blog/2012/01/04/comments-on-blogs/"/>
-    <updated>2012-01-04T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2012/01/04/comments-on-blogs</id>
-    <content type="html"><![CDATA[<p>It’s become very trendy on tech blogs to not allow comments on articles.
-And at least a couple of folks
-(<a href="http://mattgemmell.com/2011/11/29/comments-off/">Matt Gemmell</a> and
-<a href="http://brooksreview.net/2011/11/gemmell-comments/">Ben Brooks</a> have been
-actively trying to convince other bloggers to turn off their comments too.  I
-agree that if you’ve got a popular blog (and maybe a thin skin), turning
-off comments can make your life easier.  I would even agree that on
-popular blogs (and websites more generally) many (most?)  comments don’t
-really further the discussion.  In fact, I read most of my blogs
-(including Matt’s and Ben’s) inside
-<a href="http://reederapp.com/">an RSS reader</a> and so I don’t even see any of
-the comments that might or might not be there unless I click through to
-the site itself.</p>
-
-<p>But I have three objections to their position on comments.  First, when
-you don’t get much traffic (I’m looking at you High Variance) and you
-know most of the people reading your blog, it’s really nice to get as
-much feedback as possible and I think comments are the best way to do
-that.  If someone reading my article has something interesting to say
-about it, the comment gives them an audience.  They can always email if
-they want to say something privately,</p>
-
-<p>Second, I often like to read what other people have to say about an
-article (whether I’ve written it or not), even when I have to wade
-through some less than insightful stuff.  Again, the signal-to-noise
-ratio is particularly high in the early days of a blog when it’s mostly
-friends reading, but even on a big messy site like
-<a href="http://www.espn.com">espn.com</a> I think it’s fun to see the popular
-reaction to a story.  And yes, I get it that the sample is not even
-representative of the readership let alone the general population.  I
-think <a href="http://slashdot.org">Slashdot</a> is a terrific example of how
-constructive (and entertaining) discussion of an issue can happen on the
-web through comments.</p>
-
-<p>Third, there’s this high horse attitude that if people have something to
-say about an article, they should just write it up as an article on
-their own blog.  And if the original author reads it and wants to
-comment back, they will write another article on their blog.  I’m sorry,
-but this just doesn’t happen.  I mean, I’ve seen blogs comment on other
-blogs, but in almost every case the debate stops there.  And it’s
-impossible for someone visiting the original site to see the
-conversation at all.  And, believe it or not, there are people with
-intelligent things to say that don’t have a blog.</p>
-
-<p>Maybe I’ll change my tune in the future when I’m drowning in haters and
-forum-spam, but I have a feeling that’s going to be a while.  Until
-then, comments will stay turned on.</p>
-
-<p><a href="http://highvariance.net/post/15402930759/update-comments-on-blogs">UPDATE HERE</a></p>
 ]]></content>
   </entry>
   
