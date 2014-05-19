@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-05-12T15:39:49-04:00</updated>
+  <updated>2014-05-19T09:55:20-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wawa: Philadelphia's Hidden Jewel]]></title>
+    <link href="http://highvariance.net/blog/2014/05/19/wawa/"/>
+    <updated>2014-05-19T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/05/19/wawa</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-wawa.jpg" /></p>
+
+<p>I recently made a quick return visit to Philadelphia and rediscovered one of my favorite Philly institutions. It wasn&rsquo;t the <a href="http://en.wikipedia.org/wiki/Liberty_bell">Liberty Bell</a>, the <a href="http://www.visitphilly.com/music-art/philadelphia/love-statue/">Love sculpture</a>, or even the <a href="http://www.huffingtonpost.com/2014/04/06/tetris-skyscraper_n_5099208.html">giant tetris tower</a>. It was <a href="http://en.wikipedia.org/wiki/Wawa,_Inc.">Wawa</a>: the world&rsquo;s greatest convenience store. What makes it so much better than 7-Eleven, ampm, or even the recently departed <a href="http://en.wikipedia.org/wiki/White_Hen">White Hen</a>? Two things:</p>
+
+<!--more-->
+
+<ol>
+  <li>Wawa has the high tech efficiency of a Japanese factory. They do everything they can possibly think of to get you exactly what you want as fast as possible. When you want a fresh sandwich (or bagel or breakfast burrito or anything else that needs preparation) you don&rsquo;t wait in line and talk to an error prone human. Instead, you tap your way through a perfectly designed touch screen interface and when you finish, your receipt is instantly printed. While you pay for your order (and anything else), they make your food. Wawa is always packed, but no one is ever waiting for anything.</li>
+  <li>Wawa has their finger on the pulse of America. Do Americans want roller hot dogs or stale donuts? No! We want fresh baked goods and 10 flavors of fresh-brewed coffee. Do we want two choices for liquid additives for our coffee? No! We want to choose between skim, 1%, 2%, whole, half-and-half, full-on-cream, and three different non-dairy creamers. And they all better be on ice. Wawa is on the cutting edge of smoothies and fancy iced coffee drinks too. At the same time, they&rsquo;ve got a great selection of sodas, candy, and medicine.</li>
+</ol>
+
+<p>I admit I&rsquo;m a little biased. My three-year-old and I enjoyed playing find the &ldquo;Wawa&rdquo; in the store (not a hard game given the number of self-branded items) while listening to a continuous stream of 80&rsquo;s music (<a href="https://www.youtube.com/watch?v=BoXu6QmxpJE">Everybody Wang Chung Tonight!</a>). Even so, I&rsquo;m perplexed. Why is America outside of Philadelphia almost completely deprived of the Wawa experience? It made sense before 2008 when the Phillies <a href="http://en.wikipedia.org/wiki/2008_World_Series">won the World Series</a> and the city needed <em>something</em> to be proud of. But now? Nothing should be stopping Wawa from total world domination.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Teach Better: My New Teaching Blog]]></title>
@@ -857,26 +878,6 @@ I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Qu
 <h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
 
 <p><a href="http://www.rogueamoeba.com/airfoil/">Airfoil</a> is the application on my Mac that grabs output from <a href="https://www.spotify.com/us/">Spotify</a> and sends it to any Airplay destination(s) I choose in the house. When Apple released <a href="http://arstechnica.com/apple/2013/10/os-x-10-9/">Mavericks</a>, the new power management features broke Airfoil. The latest version of Airfoil works around this and also bakes in support for remote control, so I don’t need to run a separate Airfoil helper application anymore. <a href="http://remoteless.no">Remoteless</a>, the iOS app for controlling Spotify on the Mac also released an update recently that supports Airfoil directly, so I no longer need a separate Airfoil remote app on my phone.  The only software programs I need now to play almost any album anywhere in the house are Spotify and Airfoil running on the Mac, and Remoteless on iOS.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[PDF Expert 5.0]]></title>
-    <link href="http://highvariance.net/blog/2013/12/30/pdf-expert-5/"/>
-    <updated>2013-12-30T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2013/12/30/pdf-expert-5</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://highvariance.net/images/hv-pdf-expert-5.jpeg" /></p>
-
-<p>More than a year ago I wrote <a href="http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">a quick review</a> of what I thought were the three best PDF annotation apps on the iPad. The clear winner for my needs was <a href="https://itunes.apple.com/app/id743974925?mt=8&amp;ign-mpt=uo%3D4">PDF Expert</a>. Things haven&rsquo;t changed much since then. <a href="http://brooksreview.net">Ben Brooks</a> just did a <a href="http://thesweetsetup.com/apps/best-pdf-manager-editor-ipad/">super-comprehensive review</a> over at <a href="http://thesweetsetup.com">The Sweet Setup</a>, and the latest version of PDF Expert (5.0) floated to the top. I just upgraded and worked it through its paces grading twenty 15-20 page papers. </p>
-
-<p>All the features PDF Expert had before are still there, and now they all work just a little better. The new annotation toolbar sits on the side taking up very little room. You can have multiple documents open simultaneously in separate tabs. I flipped back and forth between each student&rsquo;s final paper and their graded midterm draft so I could see if how they incorporated my earlier feedback. The synchronization with Dropbox is more reliable than it was&ndash;I used to get the occasional failed sync and 5.0 has been rock solid.</p>
-
-<p>There are lots of new features I haven&rsquo;t even tried yet. The most intriguing is a review mode that let&rsquo;s you edit the text and then transforms those edits into MS Word Track Changes style annotations. If I&rsquo;m working on a document with someone, I would <em>much</em> rather see their changes in a source format (like MS Word) where I can choose to accept or reject the changes. On the other hand, if I&rsquo;m giving heavy-handed feedback to a student on a draft, this might be just the ticket.</p>
-
-<p>My only complaint about 5.0 is ridiculously minor: when I backspace delete in a text box, the text flickers. That&rsquo;s it&ndash;everything else works great. </p>
-
-<p>For the last several months I&rsquo;ve done most of my PDF annotation on the Mac. A big screen and a real keyboard are advantages that are hard to beat. PDF Expert 5.0 has brought me back to the iPad. In portrait mode, I can thumb-type fast enough and the new toolbar is very efficient. With my reading glasses and a 12 point font, my iPad&rsquo;s screen size is fine. It&rsquo;s nice to be able to spend some productive time on my couch again.</p>
-
 ]]></content>
   </entry>
   
