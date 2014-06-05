@@ -4,7 +4,7 @@
   <title><![CDATA[High Variance]]></title>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-06-02T10:18:46-04:00</updated>
+  <updated>2014-06-05T11:48:16-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Subscribe via email]]></title>
+    <link href="http://highvariance.net/blog/2014/06/04/subscribe-via-email/"/>
+    <updated>2014-06-04T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/06/04/subscribe-via-email</id>
+    <content type="html"><![CDATA[<p>I am happy to report that you can now to subscribe to <a href="http://highvariance.net">High Variance</a> by email. Just look under the <strong>Follow</strong> heading on the right side of any page, fill in your email address, and press the <strong>Follow this site via email</strong> button. <a href="https://blogtrottr.com">Blogtrottr</a> will send you a confirmation message, and then you’ll get every new article emailed to you within an hour of it going live. If you prefer, you can still subscribe to the site’s <a href="http://highvariance.net/rss/index.xml">RSS feed</a> or <a href="https://twitter.com/intent/user?screen_name=HighVarianceNet">follow me on Twitter</a> for updates.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dokken versus the World]]></title>
@@ -970,24 +979,6 @@ I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Qu
 <p><img src="http://highvariance.net/images/analyze-2014-02-09/traffic-2013.png" /></p>
 
 <p>To celebrate, I’ve made a few minor tweeks to the site. First, I’ve added an <a href="http://ifttt.com">IFTTT</a> rule that tweets every time I post something new. You can follow me at <a href="https://twitter.com/intent/follow?screen_name=HighVarianceNet">HighVarianceNet</a>. Second, I’ve made it easier to share content on the site by adding links for tweeting articles and sharing them on Facebook. Third, I’ve signed up as an <a href="https://affiliate-program.amazon.com/gp/associates/join/landing/main.html">Amazon associate</a>. That means if you follow a link from this site to Amazon and then buy the product, you’ll pay the same price but I’ll get a few cents. Maybe by the end of next year I’ll be able to celebrate with a free cup of coffee.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Exploiting Irrationality]]></title>
-    <link href="http://highvariance.net/blog/2014/01/30/exploiting-irrationality/"/>
-    <updated>2014-01-30T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/01/30/exploiting-irrationality</id>
-    <content type="html"><![CDATA[<p><img class="right" src="http://highvariance.net/images/hv-floss.png" /></p>
-
-<p>When I was growing up, none of the several clocks in the house told the correct time. My mother would set them all between 5 and 30 minutes fast in an effort to fool herself into leaving the house when she was supposed to. I thought this was completely insane. Why not just wake up early enough to do what you needed to do, and then do that? Why play these games with yourself when pure rationality would suffice?</p>
-
-<p>The answer (of course) is that my mother is far from completely rational, and this system worked for her in a way that my proposed system just didn&rsquo;t. And while I like to think that I&rsquo;m not as crazy as my mother, I&rsquo;m not an automaton either. It&rsquo;s taken me a long time to give in to that and start exploiting some of my foibles for good.</p>
-
-<p>A few weeks ago, I read <a href="http://www.macworld.com/article/2085007/the-iphone-habit-apps-that-help-you-keep-your-new-years-resolutions.html">an article</a> by my productivity sensei (<a href="http://macsparky.com">David Sparks</a>) where he recommended an iPhone app called <a href="http://habitlist.com">Habit List</a> for folks trying to kickstart good habits. There&rsquo;s <a href="http://en.wikipedia.org/wiki/Habit">some scientific research</a> that says if you can somehow get yourself to do something regularly for a few weeks, it becomes a lot easier to continue doing it. There&rsquo;s also some <a href="http://en.wikipedia.org/wiki/Candy_Crush">evidence</a> that games can be addictive. In a nutshell, Habit List makes doing mundane things into a game. By the time you&rsquo;re bored with the game, the habit has been formed.</p>
-
-<p>Since I installed Habit List, I&rsquo;ve managed to floss every day except one (thanks stomach flu!). My exercise program has been less successful, but that&rsquo;s more the fault of the cold weather and that same stomach flu than a failure of the app. You can bet that I&rsquo;ll be plugging in some more easy-to-ignore-but-good-for-me chores soon.</p>
 
 ]]></content>
   </entry>
