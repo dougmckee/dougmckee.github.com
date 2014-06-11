@@ -2,9 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[High Variance]]></title>
+  <subtitle><![CDATA[This is my blog. dffefc5e-920f-483b-8d1d-72339f432217]]></subtitle>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-06-09T23:17:43-04:00</updated>
+  <updated>2014-06-11T14:42:52-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
