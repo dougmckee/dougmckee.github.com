@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-06-19T10:57:43-04:00</updated>
+  <updated>2014-06-19T10:59:42-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2014/05/09/the-right-tool/"/>
     <updated>2014-05-09T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/05/09/the-right-tool</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-tools.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-tools.jpg %}</p>
 
 <p>Every new programming project involves choosing a language early in the process. This choice can be exciting and daunting at the same time, as it always involves weighing several conflicting factors. Based on many years of varied programming experience, here is my advice:</p>
 
@@ -49,368 +49,7 @@
 
 <p>Lately, I’ve been trying to maintain and build my expertise in Stata by using it for a broad range of programming tasks even when it’s not the objectively best tool for a job. That was the case a few months ago when I parsed up and analyzed the content on this site. The end result looks a little weird, but it works and my brain is in a better place for it:</p>
 
-<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span> (analyze.do)</span> <a href='/downloads/code/analyze.do'>download</a></figcaption>
- <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-<span class='line-number'>31</span>
-<span class='line-number'>32</span>
-<span class='line-number'>33</span>
-<span class='line-number'>34</span>
-<span class='line-number'>35</span>
-<span class='line-number'>36</span>
-<span class='line-number'>37</span>
-<span class='line-number'>38</span>
-<span class='line-number'>39</span>
-<span class='line-number'>40</span>
-<span class='line-number'>41</span>
-<span class='line-number'>42</span>
-<span class='line-number'>43</span>
-<span class='line-number'>44</span>
-<span class='line-number'>45</span>
-<span class='line-number'>46</span>
-<span class='line-number'>47</span>
-<span class='line-number'>48</span>
-<span class='line-number'>49</span>
-<span class='line-number'>50</span>
-<span class='line-number'>51</span>
-<span class='line-number'>52</span>
-<span class='line-number'>53</span>
-<span class='line-number'>54</span>
-<span class='line-number'>55</span>
-<span class='line-number'>56</span>
-<span class='line-number'>57</span>
-<span class='line-number'>58</span>
-<span class='line-number'>59</span>
-<span class='line-number'>60</span>
-<span class='line-number'>61</span>
-<span class='line-number'>62</span>
-<span class='line-number'>63</span>
-<span class='line-number'>64</span>
-<span class='line-number'>65</span>
-<span class='line-number'>66</span>
-<span class='line-number'>67</span>
-<span class='line-number'>68</span>
-<span class='line-number'>69</span>
-<span class='line-number'>70</span>
-<span class='line-number'>71</span>
-<span class='line-number'>72</span>
-<span class='line-number'>73</span>
-<span class='line-number'>74</span>
-<span class='line-number'>75</span>
-<span class='line-number'>76</span>
-<span class='line-number'>77</span>
-<span class='line-number'>78</span>
-<span class='line-number'>79</span>
-<span class='line-number'>80</span>
-<span class='line-number'>81</span>
-<span class='line-number'>82</span>
-<span class='line-number'>83</span>
-<span class='line-number'>84</span>
-<span class='line-number'>85</span>
-<span class='line-number'>86</span>
-<span class='line-number'>87</span>
-<span class='line-number'>88</span>
-<span class='line-number'>89</span>
-<span class='line-number'>90</span>
-<span class='line-number'>91</span>
-<span class='line-number'>92</span>
-<span class='line-number'>93</span>
-<span class='line-number'>94</span>
-<span class='line-number'>95</span>
-<span class='line-number'>96</span>
-<span class='line-number'>97</span>
-<span class='line-number'>98</span>
-<span class='line-number'>99</span>
-<span class='line-number'>100</span>
-<span class='line-number'>101</span>
-<span class='line-number'>102</span>
-<span class='line-number'>103</span>
-<span class='line-number'>104</span>
-<span class='line-number'>105</span>
-<span class='line-number'>106</span>
-<span class='line-number'>107</span>
-<span class='line-number'>108</span>
-<span class='line-number'>109</span>
-<span class='line-number'>110</span>
-<span class='line-number'>111</span>
-<span class='line-number'>112</span>
-<span class='line-number'>113</span>
-<span class='line-number'>114</span>
-<span class='line-number'>115</span>
-<span class='line-number'>116</span>
-<span class='line-number'>117</span>
-<span class='line-number'>118</span>
-<span class='line-number'>119</span>
-<span class='line-number'>120</span>
-<span class='line-number'>121</span>
-<span class='line-number'>122</span>
-<span class='line-number'>123</span>
-<span class='line-number'>124</span>
-<span class='line-number'>125</span>
-<span class='line-number'>126</span>
-<span class='line-number'>127</span>
-<span class='line-number'>128</span>
-<span class='line-number'>129</span>
-<span class='line-number'>130</span>
-<span class='line-number'>131</span>
-<span class='line-number'>132</span>
-<span class='line-number'>133</span>
-<span class='line-number'>134</span>
-<span class='line-number'>135</span>
-<span class='line-number'>136</span>
-<span class='line-number'>137</span>
-<span class='line-number'>138</span>
-<span class='line-number'>139</span>
-<span class='line-number'>140</span>
-<span class='line-number'>141</span>
-<span class='line-number'>142</span>
-<span class='line-number'>143</span>
-<span class='line-number'>144</span>
-<span class='line-number'>145</span>
-<span class='line-number'>146</span>
-<span class='line-number'>147</span>
-<span class='line-number'>148</span>
-<span class='line-number'>149</span>
-<span class='line-number'>150</span>
-<span class='line-number'>151</span>
-<span class='line-number'>152</span>
-<span class='line-number'>153</span>
-<span class='line-number'>154</span>
-<span class='line-number'>155</span>
-<span class='line-number'>156</span>
-<span class='line-number'>157</span>
-<span class='line-number'>158</span>
-<span class='line-number'>159</span>
-<span class='line-number'>160</span>
-<span class='line-number'>161</span>
-<span class='line-number'>162</span>
-<span class='line-number'>163</span>
-<span class='line-number'>164</span>
-<span class='line-number'>165</span>
-<span class='line-number'>166</span>
-<span class='line-number'>167</span>
-<span class='line-number'>168</span>
-<span class='line-number'>169</span>
-<span class='line-number'>170</span>
-<span class='line-number'>171</span>
-<span class='line-number'>172</span>
-<span class='line-number'>173</span>
-<span class='line-number'>174</span>
-<span class='line-number'>175</span>
-<span class='line-number'>176</span>
-<span class='line-number'>177</span>
-<span class='line-number'>178</span>
-<span class='line-number'>179</span>
-<span class='line-number'>180</span>
-</pre></td><td class='code'><pre><code class='text'><span class='line'>/*
-</span><span class='line'>* Analyze articles published on High Variance in 2012 and 2013
-</span><span class='line'>*
-</span><span class='line'>* BTW: UCLA has way better documentation of file read than Stata:
-</span><span class='line'>*      http://www.ats.ucla.edu/stat/stata/faq/fileread.htm
-</span><span class='line'>*
-</span><span class='line'>*/
-</span><span class='line'>
-</span><span class='line'>set more off
-</span><span class='line'>
-</span><span class='line'>capture log close
-</span><span class='line'>log using analyze.log ,replace
-</span><span class='line'>
-</span><span class='line'>global DEST &quot;../source/images/analyze-2014-02-09&quot;
-</span><span class='line'>
-</span><span class='line'>capture program drop parse_post
-</span><span class='line'>capture program drop load_year_posts
-</span><span class='line'>file close _all
-</span><span class='line'>
-</span><span class='line'>/* Given the name of a Markdown document, parse it and return its
-</span><span class='line'>   title, date (of publication), tags, and wordcount.
-</span><span class='line'>*/
-</span><span class='line'>program define parse_post ,rclass
-</span><span class='line'>    local mdfile &quot;`1&#39;&quot;
-</span><span class='line'>
-</span><span class='line'>    tempname fh
-</span><span class='line'>    file open `fh&#39; using `mdfile&#39; ,read
-</span><span class='line'>
-</span><span class='line'>    local donewithyaml=0
-</span><span class='line'>    local wordcount=0
-</span><span class='line'>    /* Assume first line is just &quot;---&quot; marking beginning of YAML header */
-</span><span class='line'>    file read `fh&#39; line
-</span><span class='line'>    file read `fh&#39; line
-</span><span class='line'>    while r(eof)==0 {
-</span><span class='line'>      * di `&quot;LINE :`line&#39;:&quot;&#39;
-</span><span class='line'>      if (!`donewithyaml&#39;) { // Parse header
-</span><span class='line'>        if (`&quot;`line&#39;&quot;&#39;==&quot;---&quot;) {
-</span><span class='line'>           local donewithyaml = 1
-</span><span class='line'>        }
-</span><span class='line'>        else {
-</span><span class='line'>          local key = &quot;&quot;
-</span><span class='line'>          local value = &quot;&quot;
-</span><span class='line'>          if regexm(`&quot;`line&#39;&quot;&#39;,`&quot;([a-zA-z-]+): [&quot;]*([^&quot;]*)[&quot;]*&quot;&#39;) {
-</span><span class='line'>            local key = regexs(1)
-</span><span class='line'>            local value = regexs(2)
-</span><span class='line'>            * di `&quot;KEY: `key&#39;&quot;&#39;
-</span><span class='line'>            * di `&quot;VALUE: `value&#39;&quot;&#39;
-</span><span class='line'>            if (&quot;`key&#39;&quot;==&quot;date&quot;) {
-</span><span class='line'>              local date = date(&quot;`value&#39;&quot;, &quot;YMD&quot;)
-</span><span class='line'>            }
-</span><span class='line'>            if (&quot;`key&#39;&quot;==&quot;categories&quot;) {
-</span><span class='line'>              local tags = &quot;`value&#39;&quot;
-</span><span class='line'>            }
-</span><span class='line'>            if (&quot;`key&#39;&quot;==&quot;title&quot;) {
-</span><span class='line'>              local title = &quot;`value&#39;&quot;
-</span><span class='line'>            }
-</span><span class='line'>          }
-</span><span class='line'>        }
-</span><span class='line'>      }
-</span><span class='line'>      else { // Count words in body of post
-</span><span class='line'>        local wcl = wordcount(`&quot;`line&#39;&quot;&#39;)
-</span><span class='line'>        * display `&quot;wordcount(`line&#39;): `wcl&#39;&quot;&#39;
-</span><span class='line'>        local wordcount = `wordcount&#39; + `wcl&#39;
-</span><span class='line'>      }
-</span><span class='line'>      file read `fh&#39; line
-</span><span class='line'>    }
-</span><span class='line'>    file close `fh&#39;
-</span><span class='line'>
-</span><span class='line'>    return local title = &quot;`title&#39;&quot;
-</span><span class='line'>    return scalar date = `date&#39;
-</span><span class='line'>    return local tags = &quot;`tags&#39;&quot;
-</span><span class='line'>    return scalar wordcount = `wordcount&#39;
-</span><span class='line'>
-</span><span class='line'>end
-</span><span class='line'>
-</span><span class='line'>/* Given a year, load in the stats (using parse_post) for each article.
-</span><span class='line'>   The resulting data set is one observation per post. It also creates dummy
-</span><span class='line'>   variables for each referenced tag.
-</span><span class='line'>*/
-</span><span class='line'>program define load_year_posts
-</span><span class='line'>    local year &quot;`1&#39;&quot;
-</span><span class='line'>    ! ls ~/octopress/source/_posts/`year&#39;-* &gt; /tmp/`year&#39;-filelist.txt
-</span><span class='line'>
-</span><span class='line'>    tempname fh
-</span><span class='line'>    file open `fh&#39; using &quot;/tmp/`year&#39;-filelist.txt&quot; ,read
-</span><span class='line'>    file read `fh&#39; line
-</span><span class='line'>    local i 1
-</span><span class='line'>    qui set obs 1
-</span><span class='line'>    qui gen title=&quot;&quot;
-</span><span class='line'>    qui gen tags=&quot;&quot;
-</span><span class='line'>    qui gen wordcount=.
-</span><span class='line'>    qui gen postdate=.
-</span><span class='line'>    while r(eof)==0 {
-</span><span class='line'>      qui set obs `i&#39;
-</span><span class='line'>      parse_post &quot;`line&#39;&quot;
-</span><span class='line'>      qui replace title = `&quot;`r(title)&#39;&quot;&#39; if _n==`i&#39;
-</span><span class='line'>      qui replace tags = &quot;`r(tags)&#39;&quot; if _n==`i&#39;
-</span><span class='line'>      qui replace postdate = r(date) if _n==`i&#39;
-</span><span class='line'>      qui replace wordcount = r(wordcount) if _n==`i&#39;
-</span><span class='line'>      local ntags = wordcount(r(tags))
-</span><span class='line'>      forval j = 1/`ntags&#39; {
-</span><span class='line'>        local tag = subinstr(word(r(tags),`j&#39;),&quot;-&quot;,&quot;_&quot;,.)
-</span><span class='line'>        capture confirm var tag_`tag&#39;
-</span><span class='line'>        if _rc != 0 {
-</span><span class='line'>          qui gen tag_`tag&#39;=.
-</span><span class='line'>        }
-</span><span class='line'>        qui replace tag_`tag&#39;=1 if _n==`i&#39;
-</span><span class='line'>      }
-</span><span class='line'>      local i = `i&#39; + 1
-</span><span class='line'>      file read `fh&#39; line
-</span><span class='line'>    }
-</span><span class='line'>    file close `fh&#39;
-</span><span class='line'>    foreach tagvar of varlist tag_* {
-</span><span class='line'>      qui replace `tagvar&#39;=0 if `tagvar&#39;==.
-</span><span class='line'>    }
-</span><span class='line'>    gen year=`year&#39;
-</span><span class='line'>end
-</span><span class='line'>
-</span><span class='line'>/* Load up 2012 and 3013 */
-</span><span class='line'>
-</span><span class='line'>clear
-</span><span class='line'>load_year_posts 2012
-</span><span class='line'>tempfile y2012
-</span><span class='line'>save `y2012&#39;
-</span><span class='line'>clear
-</span><span class='line'>load_year_posts 2013
-</span><span class='line'>append using `y2012&#39;
-</span><span class='line'>
-</span><span class='line'>local tags &quot;tech politics thanks education kids economics music productivity conan kbr photo mundane christmas blog&quot;
-</span><span class='line'>
-</span><span class='line'>/* Are there any articles that do not have one of the above tags? */
-</span><span class='line'>
-</span><span class='line'>local tagvars &quot;&quot;
-</span><span class='line'>local ifclause &quot;if 1 &quot;
-</span><span class='line'>local yvaroptions &quot;yvaroptions(relabel(&quot;
-</span><span class='line'>local i=1
-</span><span class='line'>foreach t in `tags&#39; {
-</span><span class='line'>  local tagvars = &quot;`tagvars&#39; tag_`t&#39;&quot;
-</span><span class='line'>  local ifclause = &quot;`ifclause &#39; &amp; tag_`t&#39;==0&quot;
-</span><span class='line'>  local yvaroptions `&quot;`yvaroptions&#39;`i&#39; &quot;`t&#39;&quot; &quot;&#39;
-</span><span class='line'>  local i = `i&#39; + 1
-</span><span class='line'>}
-</span><span class='line'>local yvaroptions `&quot;`yvaroptions&#39;))&quot;&#39;
-</span><span class='line'>count `ifclause&#39;
-</span><span class='line'>list title tags `ifclause&#39;
-</span><span class='line'>
-</span><span class='line'>di `&quot;`yvaroptions&#39;&quot;&#39;
-</span><span class='line'>
-</span><span class='line'>/* Draw lots of pretty pictures.
-</span><span class='line'>*  Thanks Michael Mitchell for your awesome _Visual Guide to Stata Graphics_ Third Edition!
-</span><span class='line'>*/
-</span><span class='line'>
-</span><span class='line'>graph hbar (sum) `tagvars&#39; ,ascategory over(year) `yvaroptions&#39; b1title(&quot;Article Count by tag&quot;)
-</span><span class='line'>graph export $DEST/tags.png ,replace
-</span><span class='line'>
-</span><span class='line'>// Thanks for the overlaid histogram ATS!
-</span><span class='line'>// http://www.ats.ucla.edu/stat/stata/faq/histogram_overlay.htm
-</span><span class='line'>
-</span><span class='line'>twoway (histogram wordcount if year==2012 ,frequency start(0) width(100) color(navy)) ///
-</span><span class='line'>       (histogram wordcount if year==2013 ,frequency start(0) width(100) fcolor(none) lcolor(black)) ///
-</span><span class='line'>       ,xtitle(&quot;&quot;) ytitle(&quot;Word Count Frequency&quot;) legend(label(1 &quot;2012&quot;) label(2 &quot;2013&quot;))
-</span><span class='line'>graph export $DEST/wchist.png ,replace
-</span><span class='line'>
-</span><span class='line'>bysort year: summarize wordcount ,detail
-</span><span class='line'>
-</span><span class='line'>gen month = month(postdate)
-</span><span class='line'>
-</span><span class='line'>gen ac=1
-</span><span class='line'>graph bar (sum) ac ,over(year) over(month) asyvars ///
-</span><span class='line'>      b1title(&quot;Month&quot;) ytitle(&quot;Article Count&quot;)
-</span><span class='line'>graph export $DEST/ac.png ,replace
-</span><span class='line'>
-</span><span class='line'>graph bar (sum) wordcount ,over(year) over(month) asyvars ///
-</span><span class='line'>      b1title(&quot;Month&quot;) ytitle(&quot;Word Count&quot;)
-</span><span class='line'>graph export $DEST/wc.png ,replace
-</span><span class='line'>
-</span><span class='line'>collapse (sum) ac wordcount ,by(year)
-</span><span class='line'>list
-</span><span class='line'>
-</span><span class='line'>log close
-</span></code></pre></td></tr></table></div></figure></notextile></div></p>
+<p>{% include_code lang:text analyze.do %}</p>
 ]]></content>
   </entry>
   
@@ -419,7 +58,7 @@
     <link href="http://highvariance.net/blog/2014/01/30/exploiting-irrationality/"/>
     <updated>2014-01-30T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/01/30/exploiting-irrationality</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-floss.png"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-floss.png %}</p>
 
 <p>When I was growing up, none of the several clocks in the house told the correct time. My mother would set them all between 5 and 30 minutes fast in an effort to fool herself into leaving the house when she was supposed to. I thought this was completely insane. Why not just wake up early enough to do what you needed to do, and then do that? Why play these games with yourself when pure rationality would suffice?</p>
 
@@ -439,7 +78,7 @@
     <id>http://highvariance.net/blog/2013/12/31/home-music-streaming-3</id>
     <content type="html"><![CDATA[<p><a href="http://daringfireball.net/2013/12/the_year_in_apple_and_technology">John Gruber</a> loves to talk about how technology improves primarily through a series of small steps and the occasional big jump. While the first iPhone was revolutionary, the iPhone 5s is a far better product due to several incremental improvements, none of which got much attention along the way. In the last year, three small things changed in my home music system that make it better than <a href="http://highvariance.net/blog/2013/02/16/home-music-streaming-2/">the last time I wrote about it</a> and a <strong>lot</strong> better than when I <a href="http://highvariance.net/blog/2012/03/02/home-music-streaming/">first wrote about it</a>.</p>
 
-<p><img class="right" src="/images/hv-itunes-radio.jpeg"></p>
+<p>{% img right /images/hv-itunes-radio.jpeg %}</p>
 
 <h2 id="itunes-radio">1. iTunes Radio</h2>
 
@@ -451,7 +90,7 @@
 
 <p>In early December, Apple released Remote 4.1 with support for iTunes Radio and now I can stream it all over the house. Remote won’t show my Radio listening history and it’s laggier than I’d like, but I still use it all the time.</p>
 
-<p><img class="right" src="/images/hv-pioneer-a4.jpeg"></p>
+<p>{% img right /images/hv-pioneer-a4.jpeg %}</p>
 
 <h2 id="my-new-pioneer-a4">2. My new Pioneer A4</h2>
 
@@ -459,7 +98,7 @@
 
 <p>My favorite feature of the set up is being able to stream simultaneously to several speakers around the house, and this just got even better as I’ve added a <a href="http://www.amazon.com/Pioneer-XW-SMA4-K-Speaker-featuring-Wireless/dp/B00903HKXI">Pioneer A4 Airplay speaker</a> in the basement. The A4 got an amazingly <a href="http://thewirecutter.com/reviews/the-best-airplay-speaker/">positive review</a> in <a href="http://thewirecutter.com">the Wirecutter</a>, and was just $200, even though it sounds like it should cost much more. The set up instructions are horrific, but the set up itself was not so bad. I’m a little perplexed about why Pioneer would discontinue it without an obvious replacement product, but they did. If you have one or manage to get your hands on one, I highly recommend holding the input button down for 3 seconds to turn on Quick Start Mode. This changes the start up time from 35 seconds to under 5 seconds, and while they don’t tell you how much extra power it burns standing by, it’s definitely worth it.</p>
 
-<p><img class="right" src="/images/hv-airfoil.jpeg"></p>
+<p>{% img right /images/hv-airfoil.jpeg %}</p>
 
 <h2 id="simplified-configuration-for-spotify">3. Simplified configuration for Spotify</h2>
 
@@ -472,7 +111,7 @@
     <link href="http://highvariance.net/blog/2013/12/30/pdf-expert-5/"/>
     <updated>2013-12-30T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/12/30/pdf-expert-5</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-pdf-expert-5.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-pdf-expert-5.jpeg %}</p>
 
 <p>More than a year ago I wrote <a href="http://highvariance.net/blog/2012/05/16/pdf-annotation-on-the-ipad-in-2012/">a quick review</a> of what I thought were the three best PDF annotation apps on the iPad. The clear winner for my needs was <a href="https://itunes.apple.com/app/id743974925?mt=8&amp;ign-mpt=uo%3D4">PDF Expert</a>. Things haven’t changed much since then. <a href="http://brooksreview.net">Ben Brooks</a> just did a <a href="http://thesweetsetup.com/apps/best-pdf-manager-editor-ipad/">super-comprehensive review</a> over at <a href="http://thesweetsetup.com">The Sweet Setup</a>, and the latest version of PDF Expert (5.0) floated to the top. I just upgraded and worked it through its paces grading twenty 15-20 page papers. </p>
 
@@ -494,7 +133,7 @@
     <id>http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
 
-<p><img class="right" src="/images/hv-dropbox.jpg"></p>
+<p>{% img right /images/hv-dropbox.jpg %}</p>
 
 <p>I am extremely happy to report some actual forward progress in this episode of My Photo Management Quest.  The short story is that all my photos now live on Dropbox in a nice hieararchical folder structure where I can browse and share them from any of my computers or iOS devices. My new system isn’t perfect, but it’s pretty good and I think it’s a solid foundation for the future.</p>
 
@@ -516,11 +155,11 @@
 
 <p>Now that my photos live in Dropbox, I have at least three choices of iOS apps to browse them.  The <a href="https://www.dropbox.com/iphoneapp">Dropbox app</a>’s photo tab lets me scroll through thumbnails of all my photos sorted by date and download full resolution versions as needed. I can also browse the folder structure through the standard file browing UI and grab photos, though I don’t get a pretty set of big thumbnails.  Playing videos and sharing links to files and folders is easy.</p>
 
-<p><img class="left" src="/images/hv-heliog.png"></p>
+<p>{% img left /images/hv-heliog.png %}</p>
 
 <p><a href="http://www.heliogapp.com">Heliog</a> is fast and pretty–it preserves my folder hierarchy and shows nice screens of thumbnails. I can share folders or sets of photos and easily move photos between folders. The downsides are that it doesn’t play video and I can’t delete photos from the photo view (have to be in the album view). These both seem easily fixable.</p>
 
-<p><img class="right" src="/images/hv-unbound.jpg"></p>
+<p>{% img right /images/hv-unbound.jpg %}</p>
 
 <p>Right now, I think <a href="http://unboundapp.com">Unbound</a> is the best of the bunch.  Unlike Heliog, it plays videos and let’s me delete photos from the photo view. Like Heliog, sharing Dropbox links is easy and browsing is fast–you can even make the app cache folders for quicker (or offline) access. Unbound will show you all the photo’s EXIF data and even show where a photo was taken on a map. Moving pictures between folders is easy, but I don’t think it’s possible to copy pictures to other albums. It shows me all my folders, but flattens the hierarchy–i.e., my month folders are no longer grouped by year. The ordering is correct, so this isn’t actually so bad.</p>
 

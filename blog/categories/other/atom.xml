@@ -4,7 +4,7 @@
   <title><![CDATA[other | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-06-19T10:57:43-04:00</updated>
+  <updated>2014-06-19T10:59:42-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -27,7 +27,7 @@
     <link href="http://highvariance.net/blog/2014/05/19/wawa/"/>
     <updated>2014-05-19T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/05/19/wawa</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-wawa.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-wawa.jpg %}</p>
 
 <p>I recently made a quick return visit to Philadelphia and rediscovered one of my favorite Philly institutions. It wasn’t the <a href="http://en.wikipedia.org/wiki/Liberty_bell">Liberty Bell</a>, the <a href="http://www.visitphilly.com/music-art/philadelphia/love-statue/">Love sculpture</a>, or even the <a href="http://www.huffingtonpost.com/2014/04/06/tetris-skyscraper_n_5099208.html">giant tetris tower</a>. It was <a href="http://en.wikipedia.org/wiki/Wawa,_Inc.">Wawa</a>: the world’s greatest convenience store. What makes it so much better than 7-Eleven, ampm, or even the recently departed <a href="http://en.wikipedia.org/wiki/White_Hen">White Hen</a>? Two things:</p>
 
@@ -48,7 +48,7 @@
     <link href="http://highvariance.net/blog/2014/04/02/extreme-bird-watching/"/>
     <updated>2014-04-02T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/04/02/extreme-bird-watching</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-dead-fish.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-dead-fish.jpg %}</p>
 
 <p>Spring has finally arrived in Connecticut. The snow is gone, replaced by snowdrops and crocuses, and the birds have returned. We’ve had great fun watching robins, bluejays, and red-winged blackbirds pulling on worms and building nests, and hearing their songs fill the air. </p>
 
