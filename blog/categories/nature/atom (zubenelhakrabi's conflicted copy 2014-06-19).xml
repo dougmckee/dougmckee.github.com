@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[nature | High Variance]]></title>
+  <link href="http://highvariance.net/blog/categories/nature/atom.xml" rel="self"/>
+  <link href="http://highvariance.net/"/>
+  <updated>2014-06-19T10:56:51-04:00</updated>
+  <id>http://highvariance.net/</id>
+  <author>
+    <name><![CDATA[Doug McKee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Extreme Bird Watching]]></title>
+    <link href="http://highvariance.net/blog/2014/04/02/extreme-bird-watching/"/>
+    <updated>2014-04-02T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/04/02/extreme-bird-watching</id>
+    <content type="html"><![CDATA[<p><img src="/images/hv-dead-fish.jpg"></p>
+
+<p>Spring has finally arrived in Connecticut. The snow is gone, replaced by snowdrops and crocuses, and the birds have returned. We’ve had great fun watching robins, bluejays, and red-winged blackbirds pulling on worms and building nests, and hearing their songs fill the air. </p>
+
+<p>On the way home from school the other day we got an extra-special treat. As we drove by the reservoir, two hawks<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> flew over the car fighting over something. The birds were big and their prey was big too. The hawks dipped and dove and then lost control of their prize, letting it fall right into the street in front of us. </p>
+
+<p>When it bounced and rolled to a stop we saw it was a huge fish!  The whole rest of our trip home we wondered if the fish would still be there the next day and since it was a pretty busy street, hoped we wouldn’t see a road-killed hawk (or two) lying near by.</p>
+
+<p>The next morning we were never so happy to see a dead fish all alone by the side of the road. We had to pull over so everyone could get out to take a closer look. Whoever said bird watching was boring?</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Maybe they were ospreys, but we get a lot of red-tailed hawks around here and <a href="http://en.wikipedia.org/wiki/Red-tailed_Hawk#Diet">Wikipedia</a> says they do occasionally eat fish.<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+</feed>

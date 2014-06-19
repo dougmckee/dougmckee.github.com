@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[High Variance]]></title>
-  <subtitle><![CDATA[This is my blog. dffefc5e-920f-483b-8d1d-72339f432217]]></subtitle>
+  <subtitle><![CDATA[This is my blog.]]></subtitle>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-06-11T14:42:52-04:00</updated>
+  <updated>2014-06-19T10:57:43-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -13,6 +13,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Going old school with the Mister Men and Little Misses]]></title>
+    <link href="http://highvariance.net/blog/2014/06/19/mister-men-and-little-misses/"/>
+    <updated>2014-06-19T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/06/19/mister-men-and-little-misses</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://highvariance.net/images/hv-mister-men-little-misses.jpg" /></p>
+
+<p><img class="left" src="http://highvariance.net/images/hv-little-miss-dotty.jpg" /></p>
+
+<p>For weeks now our house has been coated in a thin layer of Mister Men and Little Miss books. We have about 70 of these brilliant little square paperbacks, and both girls love them. My three year old carries bundles of them around the house in little bags. She pages through them looking at the pictures, trying to sound out the names, and laughing her head off. It takes her ten minutes to select just the right set to read at bedtime. My five year old will also grab a stack and try to wrap her brain around the stories and the British vocabulary.</p>
+
+<p>The funny thing is that my wife and I amassed our collection before we had kids. <!--more-->My wife had fond memories of reading them while she babysat during high school and we figured our future kids would love them too. A <a href="http://economics.sas.upenn.edu/faculty/jere-behrman">good friend of ours</a> thought we were nuts. He said  you can only read a book so many times before it rots your brain. Kids often want their parents to read books twice that many times. His strategy was to shun all children&rsquo;s books until he had to read them in hopes of not crossing the misery threshold with some of them. We ignored his advice and blissfully read on, and so far we&rsquo;re still big fans of the Mister Men and Little Misses.</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-mister-tickle.jpg" /></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Roger_Hargreaves">Roger Hargreaves</a> started writing stories about the Mister Men in 1971. <em>Mr. Tickle</em>, his first, was 30 pages of bold colorful illustrations  accompanying a funny story of a little man with extraordinarily long arms and a love for tickling people. Roger went on to write 47 books about the Mister Men and another 34 about their female counterparts: the Little Misses. His son Adam has continued to write them since Roger passed away in 1988.</p>
+
+<p><img class="left" src="http://highvariance.net/images/hv-little-miss-bossy.jpg" /></p>
+
+<p>In some ways, all these books are similar. The characters are fairly one dimensional.  Some are good (like Mr. Happy and Little Miss Fun), some are bad (like Little Miss Bossy and Mr. Mischief), and some just are what they are (like Mr. Tall and Little Miss Shy). The bad ones often (but not always) learn a lesson at the end. But the books are also quirky and unpolished&ndash;you never <em>really</em> know what&rsquo;s going to happen. Some stories have odd twists (<em>Mr. Perfect</em>), others just peter out (like <em>Little Miss Curious</em>), and a few go right where you think they&rsquo;re going (like <em>Mr. Daydream</em>). </p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-mister-men-back.jpg" /></p>
+
+<p>On the back of every book is a picture of every single Mister Man or Little Miss. Both girls love poring over these tiny portraits. The characters have distinctive colors, shapes, shoes, and hats and they often show up as secondary characters in other books. Recognizing them in the stories and finding them on the backs of the books is great fun. I have a feeling our whole family will be reading these stories for years to come.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[1983: Revisited]]></title>
@@ -952,44 +979,6 @@ Mountains of might
 <p>I think spring had better come soon before I go completely insane.</p>
 
 <p>Hurry up ponies!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Three Pieces of Stat Nerd Trivia]]></title>
-    <link href="http://highvariance.net/blog/2014/02/14/stat-nerd-trivia/"/>
-    <updated>2014-02-14T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/02/14/stat-nerd-trivia</id>
-    <content type="html"><![CDATA[<p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
-
-<p><strong>1. Where does the word “logit” come from?</strong></p>
-
-<p>One of the earliest probablistic models of a binary process is the <a href="http://en.wikipedia.org/wiki/Probit">probit</a>. It was developed by Chester Bliss in 1934, and in this paper he coined the term as a shortening of the phrase “probability unit”. The idea is that a one unit increase in an independent variable changes the probability of the outcome occurring by a constant number of probability units. Probits can be translated into actual probabilities using a particular non-linear transformation: the cumulative distribution function of the standard normal. That is, we have:</p>
-
-<script type="math/tex; mode=display">
-\Pr(y_i) = \Phi(\beta_0 + \beta_1 x_i)
-</script>
-
-<p>In 1944, Joseph Berkson developed a similar model that also mapped the real line to the (0,1) interval, this time using the logistic function:</p>
-
-<script type="math/tex; mode=display">
-\Pr(y_i) = \frac{\exp(\beta_0 + \beta_1 x_i)}{1 + \exp(\beta_0 + \beta_1 x_i)}
-</script>
-
-<p>By analogy, this model was given the name logit.</p>
-
-<p><strong>2. Why does Stata store dates as the number of days since January 1, 1960?</strong></p>
-
-<p><a href="https://www.dur.ac.uk/geography/staff/geogstaffhidden/?id=335">Nick Cox</a> knows a lot about <a href="http://www.stata.com">Stata</a>, and even he does not know exactly why this date was chosen as the origin for internal dates. His <a href="http://www.stata.com/statalist/archive/2003-08/msg00379.html">best guess</a> is that it was copied from “some data base or spreadsheet program”. My guess is that Stata copied SAS which uses the same date as the date-time origin. </p>
-
-<p>This led me to wonder why SAS chose the date, and Derek Morgan (in <a href="http://books.google.com/books?id=s1h94CZjGCEC&amp;pg=PA2">The Essential Guide to SAS Dates and Times</a>) says “One story has it that the founders of SAS wanted to use the approximate birth date of the IBM 370 system, and they chose January 1, 1960 as an easy-to-remember approximation.” According to <a href="http://en.wikipedia.org/wiki/Epoch_(reference_date)#Notable_epoch_dates_in_computing">Wikipedia</a> S-Plus also uses the same reference date.</p>
-
-<p><strong>3. How are we supposed to pronounce McNemar’s test?</strong></p>
-
-<p>Suppose you have a set of matched pairs of observations and want to know if the distribution of some categorical outcome is the same for each side of the pair. You should use <a href="http://en.wikipedia.org/wiki/McNemar_test">McNemar’s test</a> to see if the observed differences are statistically significant.
-I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Quinn McNemar</a>’s name as “mik-nee’-mahr” and getting likely getting laughed at behind my back by biostatisticians. It turns out the <a href="http://www.medilexicon.com/medicaldictionary.php?t=90653">proper pronunciation</a> is “mak’ne-mahr”. <a href="http://www.youtube.com/watch?v=ax265c6pqvA">Ashwini Kalantri</a> pronounces it well as he explains how it works.</p>
-
-<p><strong>Note:</strong> The pretty math equations are rendered with <a href="http://www.mathjax.org">Mathjax</a> and integrating this with Javascript was trivial thanks to <a href="http://www.lucypark.kr/blog/2013/02/25/mathjax-kramdown-and-octopress/">Lucy Park</a>.</p>
 ]]></content>
   </entry>
   
