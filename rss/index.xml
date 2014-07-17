@@ -5,7 +5,7 @@
   <subtitle><![CDATA[This is my blog.]]></subtitle>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-07-14T22:29:44-04:00</updated>
+  <updated>2014-07-16T22:08:53-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -13,6 +13,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My favorite podcast app: It's not what you think]]></title>
+    <link href="http://highvariance.net/blog/2014/07/16/network/"/>
+    <updated>2014-07-16T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2014/07/16/network</id>
+    <content type="html"><![CDATA[<p>The <a href="http://www.macstories.net/reviews/overcast-review/">whole</a> <a href="http://www.macworld.com/article/2454285/review-overcast-is-a-winning-podcast-app.html">Internet</a> <a href="http://www.imore.com/overcast-iphone-review-podcasts-reconsidered">seemed</a> <a href="http://www.512pixels.net/blog/2014/7/overcast">to</a> <a href="http://daringfireball.net/linked/2014/07/16/overcast-1">go</a> <a href="https://twitter.com/search?q=overcast">crazy</a> today about the release of <a href="http://marco.org">Marco Arment</a>’s new podcast app for iOS: <a href="https://overcast.fm">Overcast</a>. He’s a nerd celebrity and he’s been teasing his fanbase (myself included) for what seems like a year as he worked on it and talked about it. Marco is an accomplished entrepreneur and engineer, and this release was <em>highly</em> anticipated. As a fan and a regular podcast listener, you might think I would be one of his first customers, but you’d be wrong.</p>
+
+<p><img class="right" src="http://highvariance.net/images/hv-network-podcast-app.jpg" /></p>
+
+<p>I’ve been using <a href="http://networkapp.net">Network</a> for the last six months and am very happy. The UI couldn’t have less chrome–All you see in the app is the artwork from your podcasts, episode descriptions, and a plus sign for adding new podcasts. Your interaction with the app is almost entirely through gestures. It’s not <em>completely</em> intuitive, but it makes me smile and reminds me a lot of the <a href="http://realmacsoftware.com/clear">Clear</a> to-do and reminders app.</p>
+
+<p><a href="http://vemedio.com/products/instacast">Instacast</a>, <a href="http://www.downcastapp.com">Downcast</a>, <a href="http://www.shiftyjelly.com/pocketcasts">Pocket Casts</a> and now Overcast all have a lot more features than Network, but I don’t need a lot of features and I certainly don’t want to fiddle with my podcast app while I choose avocadoes and listen to <a href="http://atp.fm">John Siracusa</a> complain about LCD TV’s. Some of Overcast’s features (e.g., Smart Speed) do sound cool and non-intrusive, but for now Network is perfect for me–It plays my podcasts and just melts into the background.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[It's Monday! What are You Reading? #IMWAYR]]></title>
@@ -986,15 +1001,6 @@ Mountains of might
     </li>
   </ol>
 </div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Economics and Data Analysis]]></title>
-    <link href="http://highvariance.net/blog/2014/03/09/economics-and-data-analysis/"/>
-    <updated>2014-03-09T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/03/09/economics-and-data-analysis</id>
-    <content type="html"><![CDATA[<p>This post has moved to <a href="http://teachbetter.co/blog/2014/03/09/economics-and-data-analysis/">Teach Better</a>.</p>
 ]]></content>
   </entry>
   
