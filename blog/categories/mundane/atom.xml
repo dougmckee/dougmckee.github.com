@@ -4,7 +4,7 @@
   <title><![CDATA[mundane | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/mundane/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-08-04T10:12:33-04:00</updated>
+  <updated>2014-08-23T06:00:34-07:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,23 +16,23 @@
   <entry>
     <title type="html"><![CDATA[Three Great Product Features]]></title>
     <link href="http://highvariance.net/blog/2013/12/04/three-great-product-features/"/>
-    <updated>2013-12-04T00:00:00-05:00</updated>
+    <updated>2013-12-04T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2013/12/04/three-great-product-features</id>
     <content type="html"><![CDATA[<p>Great products get reviewed and talked about, but great features of good products often fly under the radar. They can seem obvious in hindsight or just have a niche group that really appreciates them. Here are three of my favorites that deserve more notice.</p>
 
-<p>{% img right /images/hv-control-center.png %}</p>
+<p><img class="right" src="/images/hv-control-center.png"></p>
 
 <p><strong>1. Control Center</strong></p>
 
 <p>Hands down my favorite new feature of iOS 7, the Control Center removes lots of little dead moments from my life. Every night I lock my phone into portrait mode when I get in bed. I use the flashlight at least twice a day. I select an Airplay destination or use the music controls about twice a day. And in the morning I free up the phone’s orientation again. Since I don’t even have to unlock the phone to do any of this, it saves me at least five seconds each time. That adds up to a minimum of 30 seconds a day and three whole hours a year.</p>
 
-<p>{% img left /images/hv-whispersync.jpg %}</p>
+<p><img class="left" src="/images/hv-whispersync.jpg"></p>
 
 <p><strong>2. Whispersync</strong></p>
 
 <p>After the kids go to sleep and I’m cleaning the kitchen or putting toys away, I like to listen to audiobooks. When it’s particularly gripping, I continue to read the book on my phone in bed using the Kindle app. Whispersync means I automatically pick up right where I left off on the audio. The next night when I start listening again, the Audible app jumps to where I was in the e-book. I can’t imagine too many people take advantage of this, but I love it. </p>
 
-<p>{% img right /images/hv-sneeze-shield.jpg %}</p>
+<p><img class="right" src="/images/hv-sneeze-shield.jpg"></p>
 
 <p><strong>3. Sneeze Shield</strong></p>
 
@@ -44,7 +44,7 @@
   <entry>
     <title type="html"><![CDATA[Bathroom Fan Love Letters]]></title>
     <link href="http://highvariance.net/blog/2012/10/30/bathroom-fan-love-letters/"/>
-    <updated>2012-10-30T00:00:00-04:00</updated>
+    <updated>2012-10-30T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2012/10/30/bathroom-fan-love-letters</id>
     <content type="html"><![CDATA[<p>Two of my favorite bloggers (<a href="http://www.marco.org">Marco Arment</a> and <a href="http://brooksreview.net">Ben Brooks</a>) recently
 published passionate <a href="http://www.marco.org/2012/05/06/bathroom-fan-timer-switches">love</a> <a href="http://brooksreview.net/2012/03/amazon-item/">letters</a> to the <a href="http://www.amazon.com/dp/B003TJAGPS">Panasonic WhisperCeiling</a> bathroom
@@ -93,7 +93,7 @@ let ourselves be blinded by the opinions of fan-bois.</p>
   <entry>
     <title type="html"><![CDATA[Ode to My Messenger Bag]]></title>
     <link href="http://highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag/"/>
-    <updated>2012-02-02T00:00:00-05:00</updated>
+    <updated>2012-02-02T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2012/02/02/ode-to-my-messenger-bag</id>
     <content type="html"><![CDATA[<p>Messenger bags have been getting a lot of flack on
 <a href="http://brooksreview.net/2011/12/backpacks-my-bff/">Ben Brooks’ blog</a>
@@ -135,7 +135,7 @@ same bag.  And it’ll still look great.</p>
   <entry>
     <title type="html"><![CDATA[Radiators, Thermostats, and Heat Momentum]]></title>
     <link href="http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum/"/>
-    <updated>2012-01-14T00:00:00-05:00</updated>
+    <updated>2012-01-14T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2012/01/14/radiators-thermostats-and-heat-momentum</id>
     <content type="html"><![CDATA[<p>We’re deep into our first winter in the new house and are just now
 figuring out how to properly control the indoor temperature.  On the
@@ -202,7 +202,7 @@ me it’s the former so I’m going with that.</p>
   <entry>
     <title type="html"><![CDATA[Humidifers]]></title>
     <link href="http://highvariance.net/blog/2012/01/11/humidifiers/"/>
-    <updated>2012-01-11T00:00:00-05:00</updated>
+    <updated>2012-01-11T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2012/01/11/humidifiers</id>
     <content type="html"><![CDATA[<p>Having someone I respect validate a choice I’ve made always gives me a
 warm feeling inside.  In

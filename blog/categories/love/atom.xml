@@ -4,7 +4,7 @@
   <title><![CDATA[love | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/love/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-08-04T10:12:33-04:00</updated>
+  <updated>2014-08-23T06:00:34-07:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,19 +16,19 @@
   <entry>
     <title type="html"><![CDATA[Tile, a Geek Love Story]]></title>
     <link href="http://highvariance.net/blog/2014/07/03/tile-a-geek-love-story/"/>
-    <updated>2014-07-03T00:00:00-04:00</updated>
+    <updated>2014-07-03T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/07/03/tile-a-geek-love-story</id>
     <content type="html"><![CDATA[<p>The other day I got this email:</p>
 
-<p>{% img center /images/hv-tile-request.png %}</p>
+<p><img class="center" src="/images/hv-tile-request.png"></p>
 
 <p>Indeed, I have a story, but I doubt it will be on Tile’s front page anytime soon. <!--More--> It started almost a year ago when I backed my very first <a href="https://www.kickstarter.com">Kickstarter</a> project and ordered four Tiles. These magical one inch squares promised to keep me from ever losing anything ever again. I immediately envisioned attaching them to my keys, my wife’s keys, our wallets, and my daughters’ favorite toys. And I knew once I had them in my hands I would think of a host of new possibilities. I was in geek love. </p>
 
-<p>{% img left /images/hv-tile.jpeg %}</p>
+<p><img class="left" src="/images/hv-tile.jpeg"></p>
 
 <p>Each $18.95 tile was a tiny Bluetooth beacon that could talk to any phone nearby that had the Tile app installed. If my keys fell behind a couch cushion, my phone could make their Tile play a little song announcing where they were. If I accidentally dropped my keys in the bushes, the app would remember where it last saw them and show me on a map. And if I left them on a plane, my app would talk to Tile’s cloud servers and let me know when another Tile user went near them and show me their location. The project had already hit it’s funding goal and was rocketing toward production. I couldn’t wait to get my delivery!</p>
 
-<p>{% img right /images/hv-tile-key-basket.jpg %}</p>
+<p><img class="right" src="/images/hv-tile-key-basket.jpg"></p>
 
 <p>Months passed as the Tile Team worked through a series of last minute issues, and my interest started to wane. Then I realized that the batteries inside the Tiles expire after a year and are un-replaceable. That is, you have to buy new Tiles every year when your old ones die. And by the time my Tiles finally arrived, I realized that I already had a pretty good system for keeping track of my keys: They are always either in my pocket or in our kitchen key basket. I haven’t lost track of my keys in years. The same goes for my wallet, and even if I were a chronic wallet-loser, the Tile turns out to be too thick to comfortably slide into it.</p>
 
@@ -41,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[Playing the Victim]]></title>
     <link href="http://highvariance.net/blog/2012/12/13/playing-the-victim/"/>
-    <updated>2012-12-13T00:00:00-05:00</updated>
+    <updated>2012-12-13T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2012/12/13/playing-the-victim</id>
     <content type="html"><![CDATA[<p>The eighties are not known as a time of soul bearing honesty (see
 <a href="http://en.wikipedia.org/wiki/Iran–Contra_affair">Iran-Contra</a>), but

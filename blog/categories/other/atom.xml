@@ -4,7 +4,7 @@
   <title><![CDATA[other | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-08-04T10:12:33-04:00</updated>
+  <updated>2014-08-23T06:00:34-07:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Subscribe via email]]></title>
     <link href="http://highvariance.net/blog/2014/06/04/subscribe-via-email/"/>
-    <updated>2014-06-04T00:00:00-04:00</updated>
+    <updated>2014-06-04T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/06/04/subscribe-via-email</id>
     <content type="html"><![CDATA[<p>I am happy to report that you can now to subscribe to <a href="http://highvariance.net">High Variance</a> by email. Just look under the <strong>Follow</strong> heading on the right side of any page, fill in your email address, and press the <strong>Follow this site via email</strong> button. <a href="https://blogtrottr.com">Blogtrottr</a> will send you a confirmation message, and then you’ll get every new article emailed to you within an hour of it going live. If you prefer, you can still subscribe to the site’s <a href="http://highvariance.net/rss/index.xml">RSS feed</a> or <a href="https://twitter.com/intent/user?screen_name=HighVarianceNet">follow me on Twitter</a> for updates.</p>
 ]]></content>
@@ -25,9 +25,9 @@
   <entry>
     <title type="html"><![CDATA[Wawa: Philadelphia's Hidden Jewel]]></title>
     <link href="http://highvariance.net/blog/2014/05/19/wawa/"/>
-    <updated>2014-05-19T00:00:00-04:00</updated>
+    <updated>2014-05-19T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/05/19/wawa</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-wawa.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-wawa.jpg"></p>
 
 <p>I recently made a quick return visit to Philadelphia and rediscovered one of my favorite Philly institutions. It wasn’t the <a href="http://en.wikipedia.org/wiki/Liberty_bell">Liberty Bell</a>, the <a href="http://www.visitphilly.com/music-art/philadelphia/love-statue/">Love sculpture</a>, or even the <a href="http://www.huffingtonpost.com/2014/04/06/tetris-skyscraper_n_5099208.html">giant tetris tower</a>. It was <a href="http://en.wikipedia.org/wiki/Wawa,_Inc.">Wawa</a>: the world’s greatest convenience store. What makes it so much better than 7-Eleven, ampm, or even the recently departed <a href="http://en.wikipedia.org/wiki/White_Hen">White Hen</a>? Two things:</p>
 
@@ -46,9 +46,9 @@
   <entry>
     <title type="html"><![CDATA[Extreme Bird Watching]]></title>
     <link href="http://highvariance.net/blog/2014/04/02/extreme-bird-watching/"/>
-    <updated>2014-04-02T00:00:00-04:00</updated>
+    <updated>2014-04-02T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/04/02/extreme-bird-watching</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-dead-fish.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-dead-fish.jpg"></p>
 
 <p>Spring has finally arrived in Connecticut. The snow is gone, replaced by snowdrops and crocuses, and the birds have returned. We’ve had great fun watching robins, bluejays, and red-winged blackbirds pulling on worms and building nests, and hearing their songs fill the air. </p>
 
@@ -70,7 +70,7 @@
   <entry>
     <title type="html"><![CDATA[My Little Pony: Revelation]]></title>
     <link href="http://highvariance.net/blog/2014/02/27/mlp-revelations/"/>
-    <updated>2014-02-27T00:00:00-05:00</updated>
+    <updated>2014-02-27T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/02/27/mlp-revelations</id>
     <content type="html"><![CDATA[<p>It’s been a rough winter filled with snow days and sickness and not enough sleep. Tonight the wind is howling and the temperature is supposed to drop to the single digits. To get us in the mood for spring, the girls and I hunkered down in front of YouTube to hear Twilight Sparkle and the rest of the My Little Ponies sing “Winter Wrap-up”.</p>
 
@@ -100,7 +100,7 @@
   <entry>
     <title type="html"><![CDATA[Three Pieces of Stat Nerd Trivia]]></title>
     <link href="http://highvariance.net/blog/2014/02/14/stat-nerd-trivia/"/>
-    <updated>2014-02-14T00:00:00-05:00</updated>
+    <updated>2014-02-14T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/02/14/stat-nerd-trivia</id>
     <content type="html"><![CDATA[<p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
 
