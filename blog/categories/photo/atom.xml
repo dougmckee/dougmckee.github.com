@@ -4,7 +4,7 @@
   <title><![CDATA[photo | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-08-23T06:00:34-07:00</updated>
+  <updated>2014-09-01T12:01:36-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[My Photo Management Quest, Part 3: Dropbox and Friends]]></title>
     <link href="http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends/"/>
-    <updated>2013-12-13T00:00:00-08:00</updated>
+    <updated>2013-12-13T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
 
@@ -71,7 +71,7 @@
   <entry>
     <title type="html"><![CDATA[My Photo Management Quest, Part 2: Loom]]></title>
     <link href="http://highvariance.net/blog/2013/11/29/pq2-loom/"/>
-    <updated>2013-11-29T00:00:00-08:00</updated>
+    <updated>2013-11-29T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2013/11/29/pq2-loom</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">my first photo management rant</a> and <a href="/blog/2013/04/30/pq1-adobe-revel-and-everpix">Part 1</a> for context.)</p>
 
@@ -121,7 +121,7 @@ quality was the show stopper. </p>
   <entry>
     <title type="html"><![CDATA[My Photo Management Quest, Part 1: Adobe Revel and Everpix]]></title>
     <link href="http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix/"/>
-    <updated>2013-04-30T00:00:00-07:00</updated>
+    <updated>2013-04-30T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2013/04/30/pq1-adobe-revel-and-everpix</id>
     <content type="html"><![CDATA[<p>I am frustrated and I know I’m not the only one. I want
 want a photo management system that requires minimum maintenance and gives me maximum flexibility. I’ve complained about this <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">before</a>, but I’m tired of waiting for Apple to hand me a gift-wrapped solution.  They didn’t last summer in iOS 6 and I have no faith that they will in iOS 7.</p>
@@ -168,7 +168,7 @@ want a photo management system that requires minimum maintenance and gives me ma
   <entry>
     <title type="html"><![CDATA[Photos + iPhoto + iOS + iCloud = i'm underwhelmed]]></title>
     <link href="http://highvariance.net/blog/2012/03/09/im-not-happy/"/>
-    <updated>2012-03-09T00:00:00-08:00</updated>
+    <updated>2012-03-09T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2012/03/09/im-not-happy</id>
     <content type="html"><![CDATA[<p>You may have heard that Apple announced a new iPad this week and that
 they released a version of iPhoto that runs on iPads and iPhones. Most
