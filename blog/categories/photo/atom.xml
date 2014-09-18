@@ -4,7 +4,7 @@
   <title><![CDATA[photo | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/photo/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-09-01T12:01:36-04:00</updated>
+  <updated>2014-09-18T11:44:01-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -20,7 +20,7 @@
     <id>http://highvariance.net/blog/2013/12/13/pq3-dropbox-and-friends</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read my other <a href="http://highvariance.net/blog/categories/photo/">posts about photo management</a> for context first.)</p>
 
-<p><img class="right" src="/images/hv-dropbox.jpg"></p>
+<p>{% img right /images/hv-dropbox.jpg %}</p>
 
 <p>I am extremely happy to report some actual forward progress in this episode of My Photo Management Quest.  The short story is that all my photos now live on Dropbox in a nice hieararchical folder structure where I can browse and share them from any of my computers or iOS devices. My new system isn’t perfect, but it’s pretty good and I think it’s a solid foundation for the future.</p>
 
@@ -42,11 +42,11 @@
 
 <p>Now that my photos live in Dropbox, I have at least three choices of iOS apps to browse them.  The <a href="https://www.dropbox.com/iphoneapp">Dropbox app</a>’s photo tab lets me scroll through thumbnails of all my photos sorted by date and download full resolution versions as needed. I can also browse the folder structure through the standard file browing UI and grab photos, though I don’t get a pretty set of big thumbnails.  Playing videos and sharing links to files and folders is easy.</p>
 
-<p><img class="left" src="/images/hv-heliog.png"></p>
+<p>{% img left /images/hv-heliog.png %}</p>
 
 <p><a href="http://www.heliogapp.com">Heliog</a> is fast and pretty–it preserves my folder hierarchy and shows nice screens of thumbnails. I can share folders or sets of photos and easily move photos between folders. The downsides are that it doesn’t play video and I can’t delete photos from the photo view (have to be in the album view). These both seem easily fixable.</p>
 
-<p><img class="right" src="/images/hv-unbound.jpg"></p>
+<p>{% img right /images/hv-unbound.jpg %}</p>
 
 <p>Right now, I think <a href="http://unboundapp.com">Unbound</a> is the best of the bunch.  Unlike Heliog, it plays videos and let’s me delete photos from the photo view. Like Heliog, sharing Dropbox links is easy and browsing is fast–you can even make the app cache folders for quicker (or offline) access. Unbound will show you all the photo’s EXIF data and even show where a photo was taken on a map. Moving pictures between folders is easy, but I don’t think it’s possible to copy pictures to other albums. It shows me all my folders, but flattens the hierarchy–i.e., my month folders are no longer grouped by year. The ordering is correct, so this isn’t actually so bad.</p>
 
@@ -75,7 +75,7 @@
     <id>http://highvariance.net/blog/2013/11/29/pq2-loom</id>
     <content type="html"><![CDATA[<p>(Note: You might want to read <a href="http://highvariance.net/blog/2012/03/09/im-not-happy/">my first photo management rant</a> and <a href="/blog/2013/04/30/pq1-adobe-revel-and-everpix">Part 1</a> for context.)</p>
 
-<p><img class="right" src="/images/hv-loom.png"></p>
+<p>{% img right /images/hv-loom.png %}</p>
 
 <p>Ever since
 <a href="http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup">Everpix went belly up</a>,
@@ -132,7 +132,7 @@ want a photo management system that requires minimum maintenance and gives me ma
 
 <h2 id="adobe-revelhttpwwwadoberevelcom"><a href="http://www.adoberevel.com">Adobe Revel</a></h2>
 
-<p><img class="right" src="/images/hv-adobe-revel.png"></p>
+<p>{% img right /images/hv-adobe-revel.png %}</p>
 
 <p>I was super-excited when I heard about Adobe Revel.  The service stores all your pictures in the cloud, and they give you free iOS and Mac apps to edit and manage them. Pictures are streamed to your iOS devices as needed freeing up a whole lot of space.  The apps are (supposedly) built on top of the same editing/browsing engine powering LightRoom and they are (actually) very well done.  The service is expensive ($5.99/month) but it promises a lot.</p>
 
@@ -140,7 +140,7 @@ want a photo management system that requires minimum maintenance and gives me ma
 
 <h2 id="everpixhttpwwweverpixcom"><a href="http://www.everpix.com">Everpix</a></h2>
 
-<p><img class="right" src="/images/hv-everpix.png"></p>
+<p>{% img right /images/hv-everpix.png %}</p>
 
 <p>After my experience with Revel, I was cautiously optimistic about Everpix. It also stores all your photos in the cloud and has terrific iOS apps for browsing your collection, but it differentiates itself in three ways:</p>
 
