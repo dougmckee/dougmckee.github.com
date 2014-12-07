@@ -4,7 +4,7 @@
   <title><![CDATA[other | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/other/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-12-02T12:01:03-05:00</updated>
+  <updated>2014-12-07T07:36:24-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zebras and Expertise on the Internet]]></title>
+    <link href="http://highvariance.net/blog/2014/12/07/zebras-and-expertise-on-the-internet/"/>
+    <updated>2014-12-07T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/12/07/zebras-and-expertise-on-the-internet</id>
+    <content type="html"><![CDATA[<p>The Internet is full of people talking about stuff they don’t know much about. It’s common at <a href="https://answers.yahoo.com">Yahoo Answers</a> and <a href="http://www.answers.com">Answers.com</a>, but <a href="http://amazon.com">Amazon</a> reviews and <a href="https://www.wikipedia.org">Wikipedia</a> are rife with it too. Even when bloggers are experts in one area, they often write much more broadly. As <a href="http://idlewords.com/about.htm">Maclej Ceglowski</a> delightfully points out in <a href="http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm">his article about Paul Graham’s lack of expertise on painting</a>, even the top of the food chain is not immune. </p>
+
+<p>I think it’s fantastic. You don’t need to be an expert to have something interesting to say. Regular people notice things experts don’t, and they often have a perspective closer to mine. Non-experts can also be <a href="http://www.amazon.com/Funniest-Amazon-Product-Reviews/lm/RM0256CJKINZJ">incredibly entertaining</a>.</p>
+
+<p>As a consumer I’m careful not to take anything too seriously, but many folks are more trusting than me of the average blogger. As a producer, I worry about this all the time, as I love thinking and writing about things on the edge (or well over the edge) of my expertise. When I wildly speculate I try to be clear about it, but I feel a little bad that some readers might not notice. </p>
+
+<p>It has turned out that the most common way for people to find this site is by searching for “are zebras mean” or “do zebras bite.” I don’t know jack about this subject, but that didn’t stop me from writing <a href="http://highvariance.net/blog/2012/03/01/why-are-zebras-so-mean-and-horses-so-nice/">a few hundred words about it</a> a couple years ago.  African Safari guide <a href="http://www.quora.com/Rory-Young-1">Rory Young</a> recently wrote <a href="http://www.quora.com/Can-zebras-be-domesticated-and-trained/answer/Rory-Young-1">a terrific article on Quora</a> that shares real knowledge about why zebras can be so nasty.  It makes me very happy to be able to send my potentially disappointed visitors on to some real answers.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Subscribe via email]]></title>
@@ -27,7 +42,7 @@
     <link href="http://highvariance.net/blog/2014/05/19/wawa/"/>
     <updated>2014-05-19T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/05/19/wawa</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-wawa.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-wawa.jpg %}</p>
 
 <p>I recently made a quick return visit to Philadelphia and rediscovered one of my favorite Philly institutions. It wasn’t the <a href="http://en.wikipedia.org/wiki/Liberty_bell">Liberty Bell</a>, the <a href="http://www.visitphilly.com/music-art/philadelphia/love-statue/">Love sculpture</a>, or even the <a href="http://www.huffingtonpost.com/2014/04/06/tetris-skyscraper_n_5099208.html">giant tetris tower</a>. It was <a href="http://en.wikipedia.org/wiki/Wawa,_Inc.">Wawa</a>: the world’s greatest convenience store. What makes it so much better than 7-Eleven, ampm, or even the recently departed <a href="http://en.wikipedia.org/wiki/White_Hen">White Hen</a>? Two things:</p>
 
@@ -48,7 +63,7 @@
     <link href="http://highvariance.net/blog/2014/04/02/extreme-bird-watching/"/>
     <updated>2014-04-02T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/04/02/extreme-bird-watching</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-dead-fish.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-dead-fish.jpg %}</p>
 
 <p>Spring has finally arrived in Connecticut. The snow is gone, replaced by snowdrops and crocuses, and the birds have returned. We’ve had great fun watching robins, bluejays, and red-winged blackbirds pulling on worms and building nests, and hearing their songs fill the air. </p>
 
@@ -94,44 +109,6 @@
 <p>I think spring had better come soon before I go completely insane.</p>
 
 <p>Hurry up ponies!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Three Pieces of Stat Nerd Trivia]]></title>
-    <link href="http://highvariance.net/blog/2014/02/14/stat-nerd-trivia/"/>
-    <updated>2014-02-14T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/02/14/stat-nerd-trivia</id>
-    <content type="html"><![CDATA[<p>I’ve recently learned three bits of trivia that only a statistics nerd could love. They won’t help you think deeply about data. They won’t help you analyze data. In fact, they’ll probably push useful knowledge out of your head and make you dumber. Read further at your own risk.</p>
-
-<p><strong>1. Where does the word “logit” come from?</strong></p>
-
-<p>One of the earliest probablistic models of a binary process is the <a href="http://en.wikipedia.org/wiki/Probit">probit</a>. It was developed by Chester Bliss in 1934, and in this paper he coined the term as a shortening of the phrase “probability unit”. The idea is that a one unit increase in an independent variable changes the probability of the outcome occurring by a constant number of probability units. Probits can be translated into actual probabilities using a particular non-linear transformation: the cumulative distribution function of the standard normal. That is, we have:</p>
-
-<script type="math/tex; mode=display">
-\Pr(y_i) = \Phi(\beta_0 + \beta_1 x_i)
-</script>
-
-<p>In 1944, Joseph Berkson developed a similar model that also mapped the real line to the (0,1) interval, this time using the logistic function:</p>
-
-<script type="math/tex; mode=display">
-\Pr(y_i) = \frac{\exp(\beta_0 + \beta_1 x_i)}{1 + \exp(\beta_0 + \beta_1 x_i)}
-</script>
-
-<p>By analogy, this model was given the name logit.</p>
-
-<p><strong>2. Why does Stata store dates as the number of days since January 1, 1960?</strong></p>
-
-<p><a href="https://www.dur.ac.uk/geography/staff/geogstaffhidden/?id=335">Nick Cox</a> knows a lot about <a href="http://www.stata.com">Stata</a>, and even he does not know exactly why this date was chosen as the origin for internal dates. His <a href="http://www.stata.com/statalist/archive/2003-08/msg00379.html">best guess</a> is that it was copied from “some data base or spreadsheet program”. My guess is that Stata copied SAS which uses the same date as the date-time origin. </p>
-
-<p>This led me to wonder why SAS chose the date, and Derek Morgan (in <a href="http://books.google.com/books?id=s1h94CZjGCEC&amp;pg=PA2">The Essential Guide to SAS Dates and Times</a>) says “One story has it that the founders of SAS wanted to use the approximate birth date of the IBM 370 system, and they chose January 1, 1960 as an easy-to-remember approximation.” According to <a href="http://en.wikipedia.org/wiki/Epoch_(reference_date)#Notable_epoch_dates_in_computing">Wikipedia</a> S-Plus also uses the same reference date.</p>
-
-<p><strong>3. How are we supposed to pronounce McNemar’s test?</strong></p>
-
-<p>Suppose you have a set of matched pairs of observations and want to know if the distribution of some categorical outcome is the same for each side of the pair. You should use <a href="http://en.wikipedia.org/wiki/McNemar_test">McNemar’s test</a> to see if the observed differences are statistically significant.
-I went years pronouncing <a href="http://en.wikipedia.org/wiki/Quinn_McNemar">Quinn McNemar</a>’s name as “mik-nee’-mahr” and getting likely getting laughed at behind my back by biostatisticians. It turns out the <a href="http://www.medilexicon.com/medicaldictionary.php?t=90653">proper pronunciation</a> is “mak’ne-mahr”. <a href="http://www.youtube.com/watch?v=ax265c6pqvA">Ashwini Kalantri</a> pronounces it well as he explains how it works.</p>
-
-<p><strong>Note:</strong> The pretty math equations are rendered with <a href="http://www.mathjax.org">Mathjax</a> and integrating this with Javascript was trivial thanks to <a href="http://www.lucypark.kr/blog/2013/02/25/mathjax-kramdown-and-octopress/">Lucy Park</a>.</p>
 ]]></content>
   </entry>
   

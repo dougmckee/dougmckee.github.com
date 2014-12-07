@@ -4,7 +4,7 @@
   <title><![CDATA[music | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-12-02T12:01:03-05:00</updated>
+  <updated>2014-12-07T07:36:24-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2014/06/09/1983-revisited/"/>
     <updated>2014-06-09T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/06/09/1983-revisited</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/hv-holy-diver.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img center /images/hv-holy-diver.jpg %}</p>
 
 <p>In the weeks after I posted <a href="http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983/">my case for 1983</a> as a crucial year in heavy metal history, I went through a crisis of faith. What about Judas Priest? What about Iron Maiden? And what if I forgot an even bigger band or album? Luckily I could turn to my metal sensei in this time of need. The same Mike who dragged me to the import metal bins at the Rockin’ Mania record store in Framingham and opened my eyes to a whole world of music was just an email away. Here’s what he had to say:</p>
 
@@ -58,7 +58,7 @@ Wild, wild, wild
 
 <p>But Mike is right–Quiet Riot were pop metal and they were the first metal band to have the number one album in the country. It’s a shame it had to be them.</p>
 
-<p><img class="center" src="/images/hv-def-leppard.jpg"></p>
+<p>{% img center /images/hv-def-leppard.jpg %}</p>
 
 <p>I thought long and hard about including “Pyromania” on my list, but at the end of the day I decided Def Leppard was a hard rock band that happened to have good hair and bad spelling. That said, I loved this album, and they were heavier than most stuff on the radio at the time. I killed this cassette too.</p>
 
@@ -71,7 +71,7 @@ Wild, wild, wild
     <link href="http://highvariance.net/blog/2014/06/02/dokken-versus-the-world/"/>
     <updated>2014-06-02T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/06/02/dokken-versus-the-world</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-dokken.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-dokken.jpg %}</p>
 
 <p>I love Dokken and I know <a href="http://cvcomics.com/requiem/?p=26">I’m not alone</a>. George Lynch is an amazing guitarist, and Don Dokken has a perfect hair metal voice. They really are the musician’s hair metal band. But even I have to admit that Dokken was not the most original band in the world. For years, it bugged me that their song “Tooth and Nail” ripped off Foreigner’s “Tooth and Nail”. And just recently I realized that <em>many</em> of their songs share titles with other big eighties (or late seventies) songs. In a few cases, Dokken came first, but with most, Dokken looks more like the inspired party than the inspiration. I thought it would be fun to explore when Dokken’s song was better (or worse) with a little head-to-head competition.</p>
 
@@ -218,7 +218,7 @@ Then when I was about 30 I told my dad this story and he just laughed. It turns 
     <link href="http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983/"/>
     <updated>2014-04-18T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/04/18/crucial-years-in-metal-1983</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-shout-at-the-devil.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-shout-at-the-devil.jpg %}</p>
 
 <p>Late at night, as I putter around the house folding laundry or washing dishes or putting away toys, I often listen to podcasts. Most are mainstream. For sports, I listen to the <a href="http://sports.espn.go.com/espnradio/podcast/archive?id=2864045">BS Report</a> and <a href="https://itunes.apple.com/us/podcast/grantland-nfl-podcast/id730254718?mt=2">Grantland NFL</a>; for tech stuff, I listen to <a href="http://atp.fm">Accidental Tech Podcast</a> and <a href="http://www.macpowerusers.com">Mac Power Users</a>; and for real life, I like <a href="http://www.thisamericanlife.org">This American Life</a> and <a href="http://dadsbeingdads.net">Dads Being Dads</a>.</p>
 
