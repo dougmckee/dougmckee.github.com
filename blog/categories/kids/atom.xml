@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2014-12-07T07:36:24-05:00</updated>
+  <updated>2014-12-08T15:49:33-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kid Book Review: Details #IMWAYR]]></title>
+    <link href="http://highvariance.net/blog/2014/12/08/kbr-details/"/>
+    <updated>2014-12-08T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2014/12/08/kbr-details</id>
+    <content type="html"><![CDATA[<p>When I was a kid, I liked nothing better then settling down in a corner with a big detailed picture book like <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Busy, Busy Town</a> and poring over each page looking for things I’d never seen before. My 6-year-old daughter is exactly the same, although the particular books she enjoys are different. Here are three of her favorites:</p>
+
+<p><img class="left" src="/images/hv-crabtree.jpeg"></p>
+
+<p><a href="http://www.amazon.com/Crabtree-Jon-Nichols/dp/1936365820">Crabtree</a> (by Jon and Tucker Nichols, 2013) Alfred Crabtree is a weird dude who loses his false teeth and spends the story searching his belongs for them. This takes a while because he seemingly never throws anything away. The quirky drawings, odd organization, and carefully typed captions are all hilarious. <a href="http://kottke.org">Jason Kottke</a> (Internet-curator-extraordinaire) <a href="http://kottke.org/14/03/crabtree">recommended this book</a>, and he has yet to steer me wrong. The only downside is that it will be hard to find a copy to buy if your library doesn’t have one.</p>
+
+<p><img class="right" src="/images/hv-welcome-to-mamoko.jpeg"></p>
+
+<p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Welcome to Mamoko</a> (by Aleksandra Mizielinska and Daniel Mizielinski, 2010) We actually got this book because we loved the authors’ <a href="http://www.amazon.com/Maps-Aleksandra-Mizielinska/dp/0763668966">Maps</a> so much. The story is introduced with a big cast of characters and a question about each (e.g., “Olaf Brown has a big day ahead. Who helps him out of a spot of trouble?”). What follows is a sequence of double page wordless scenes with all the characters in different urban settings. Even my three year-old loves to try to figure out what’s going on.</p>
+
+<p><img class="left" src="/images/hv-incredible-comparisons.jpeg"></p>
+
+<p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Incredible Comparisons</a> (written by Russell Ash, illustrated by Stephen Biesty, 1996) My 6-year-old loves books with bite-sized amazing facts, and in this DK book almost every fact is accompanied by a beautiful picture. A blue whale weighs as much as 26 elephants. The moon is as wide as Australia. Angel Falls is three times taller than the Eiffel Tower. The Great Pyramid weighs as much as 16 Empire State Buildings! Highly recommended.</p>
+
+<p><img class="center" src="/images/imwayr.jpg"></p>
+
+<p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Finding my niche #IMWAYR]]></title>
@@ -22,23 +47,23 @@
 
 <p>The fact is there are real gems hiding on the shelves of most libraries waiting to be discovered or rediscovered. That’s what you’ll find here: good books that I know can be found at at least one library (mine) and hopefully yours. </p>
 
-<p>{% img left /images/hv-the-quiet-place.jpeg %}</p>
+<p><img class="left" src="/images/hv-the-quiet-place.jpeg"></p>
 
 <p><a href="http://www.amazon.com/Quiet-Place-Sarah-Stewart/dp/0374325650">The Quiet Place</a> (written by Sarah Stewart, illustrated by David Small, 2012) This book is told as a series of letters written by a young girl who moves from Mexico to the US. She starts nervous but excited and even though she has a wonderful mother and brother, she misses the family and home she’s left behind. Gradually, she makes a new home and new friends. I don’t think the author was an immigrant herself, but she really captures the experience and brought a tear to my eye.</p>
 
-<p>{% img right /images/hv-pish-posh.jpeg %}</p>
+<p><img class="right" src="/images/hv-pish-posh.jpeg"></p>
 
 <p><a href="http://www.amazon.com/Pish-Posh-Said-Hieronymus-Bosch/dp/0152622101">Pish, Posh, Said Hieronymus Bosch</a> (written by Nancy Willard, illustrated by Leo, Diane, and Lee Dillon, 1991) On the one hand, it seems totally insane to turn Bosch’s <a href="https://en.wikipedia.org/wiki/Hieronymus_Bosch#mediaviewer/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg">psychadelic visions of hell</a> into a children’s book, but on the other, kids love big eccentric detailed illustrations (e.g., <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Richard Scarry’s Busy, Busy Town</a>) and those are right in Bosch’s wheel house. This is the story of the artist, his housekeeper, and their unusual house, and it totally works.</p>
 
-<p>{% img left /images/hv-bog-baby.jpeg %}</p>
+<p><img class="left" src="/images/hv-bog-baby.jpeg"></p>
 
 <p><a href="http://www.amazon.com/Bog-Baby-Jeanne-Willis/dp/0375861769">Bog Baby</a> (written by Jeanne Willis, illustrated by Gwen Millward, 2009) I love stories about kids who find animals, take them home, and then realize that wild animals need to be wild. Angelina Ballerina learns the lesson with a <a href="http://www.amazon.com/Angelina-Butterfly-Ballerina-Katharine-Holabird/dp/0448440156">butterfly</a>, Mole learns the lesson with a <a href="http://www.amazon.com/Mole-Baby-Bird-Marjorie-Newman/dp/1582347840">baby bird</a>, and in this book, two sisters learn the lesson with a fantastical creature called a bog baby.  The pen and ink illustrations are unique and beautiful.</p>
 
-<p>{% img right /images/hv-alpha-oops.jpeg %}</p>
+<p><img class="right" src="/images/hv-alpha-oops.jpeg"></p>
 
 <p><a href="http://www.amazon.com/AlphaOops-Day-Z-Went-First/dp/0763660841">AlphaOops: The Day Z Went First</a> (written by Alethea Kontis, illustrated Bob Kolar) Why does A always get to go first? Z decides it’s time to mix things up and hilarity ensues. Both my girls (now 6 and 3.5 years old) thought this book was a lot of fun.</p>
 
-<p>{% img center /images/imwayr.jpg %}</p>
+<p><img class="center" src="/images/imwayr.jpg"></p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -49,23 +74,23 @@
     <link href="http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club/"/>
     <updated>2014-11-24T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club</id>
-    <content type="html"><![CDATA[<p>{% img left /images/hv-jenny-and-the-cat-club.jpg %}</p>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/hv-jenny-and-the-cat-club.jpg"></p>
 
 <p>Over the summer I discovered a <a href="(http://www.teachmentortexts.com/)">whole community of folks</a> on the Internet who read and blog about kids books. It was very exciting and I had great fun reading their work and sharing mine <a href="http://highvariance.net/blog/2014/07/14/monday-reading/">here</a>, <a href="http://highvariance.net/blog/2014/07/21/violence-in-picture-books/">here</a>, <a href="http://highvariance.net/blog/2014/07/28/kbr-eclectic/">here</a>, <a href="http://highvariance.net/blog/2014/08/04/poetry-for-kids/">here</a> and <a href="http://highvariance.net/blog/2014/09/01/kbr-travel-edition/">here</a>. Then the Fall came and I fell into the teaching vortex. Sunday nights turned into lecture preparation marathons, and I’ve been spending Monday mornings and afternoons presenting the fruits of this labor. I’ve scratched my blogging itch on <a href="http://teachbetter.co">Teach Better</a>, but the <a href="http://highvariance.net/blog/categories/kbr/">Kid Book Review</a> section of <a href="http://highvariance.net">High Variance</a> has lain fallow. What better way to celebrate my first Monday off in ages (for Thanksgiving Break), than with an <a href="https://twitter.com/hashtag/imwayr">#IMWAYR</a> post!</p>
 
-<p>{% img right /images/hv-the-fire-cat.jpg %}</p>
+<p><img class="right" src="/images/hv-the-fire-cat.jpg"></p>
 
 <p>When I was a kid, one of my very favorite books was <a href="http://www.amazon.com/Fire-Cat-Can-Read-Book/dp/0064440389">The Fire Cat</a> by <a href="https://en.wikipedia.org/wiki/Esther_Averill">Esther Averill</a>. The main character was not bad or good–Like people in the real world, Pickles was a mix of both. He was born strong and ambitious, but with no idea what to do with his gifts. He spends his time terrorizing smaller cats, but eventually learns to be kind and finds his true calling working in a fire house.</p>
 
 <p>It wasn’t until I went to buy this book for my daughter a few years ago that I discovered Esther Averill had written a whole series of wonderful books about cats living in New York City! And in 2003, the New York Review reprinted most of them with nice affordably priced hardcover bindings. The books revolve around the adventures of a shy but strong (<a href="http://www.amazon.com/School-Cats-Review-Childrens-Collection/dp/159017173X">stronger than Pickles even</a>) black cat named Jenny Linsky and her friends in the Cat Club that meets in her garden.</p>
 
-<p>{% img left /images/hv-the-fire-cat.jpg %}</p>
+<p><img class="left" src="/images/hv-the-fire-cat.jpg"></p>
 
 <p>The series contains stories for a variety of ages starting with the <a href="http://www.amazon.com/Jennys-Birthday-Book-Esther-Averill/dp/1590171543">Jenny’s Birthday Book</a> for very little kids, moving to <a href="">The Fire Cat</a> which is an early reader, and culminating in several chapter books like the <a href="http://www.amazon.com/Hotel-York-Review-Childrens-Collection/dp/1590171594">The Hotel Cat</a> and <a href="http://www.amazon.com/Captains-Streets-Review-Childrens-Collection/dp/1590171748">Captains of the City Streets</a>, that make great bedtime reading.</p>
 
 <p>If you’ve never had the pleasure of reading these books, the clear starting point is <a href="http://www.amazon.com/Jenny-Cat-Club-Collection-Childrens/dp/1590170474">Jenny and the Cat Club</a> where you learn how Jenny joined the club and meet all its colorful members. I can’t recommend these books highly enough.</p>
 
-<p>{% img center /images/imwayr.jpg %}</p>
+<p><img class="center" src="/images/imwayr.jpg"></p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -82,7 +107,7 @@
 
 <p>These are our top picks for the trip:</p>
 
-<p>{% img /images/hv-ipad-ebooks.jpg %}</p>
+<p><img src="/images/hv-ipad-ebooks.jpg"></p>
 
 <p><strong>On the iPad:</strong></p>
 
@@ -92,7 +117,7 @@
 
 <p><strong>From the library:</strong></p>
 
-<p>{% img right /images/hv-grace-for-president.jpeg %}</p>
+<p><img class="right" src="/images/hv-grace-for-president.jpeg"></p>
 
 <p><a href="http://www.amazon.com/James-Giant-Peach-Roald-Dahl/dp/0142410365">James and the Giant Peach</a> (written by Roald Dahl) One of my favorites as a kid turns out to be one of R’s favorites too. Dahl’s characters and dialog are just so vivid and funny.</p>
 
@@ -102,7 +127,7 @@
 
 <p><a href="http://www.amazon.com/Sipping-Spiders-Through-Straw-Campfire/dp/0439584019">Sipping Spiders Through a Straw: Campfire Songs for Monsters</a> (written by Kelly DiPucchio, illustrated by Gris Grimly) Until I wrote this list I didn’t realize how big a part Kelly DiPucchio played in our vacation! Both girls are still singing these crazy songs.</p>
 
-<p>{% img center /images/imwayr.jpg %}</p>
+<p><img class="center" src="/images/imwayr.jpg"></p>
 
 <p>Originally hosted by Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a>, Jen over at <a href="http://www.teachmentortexts.com/#axzz1u6wnaZyt">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions of <strong>It’s Monday! What are You Reading?</strong> All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -113,7 +138,7 @@
     <link href="http://highvariance.net/blog/2014/08/23/milestones/"/>
     <updated>2014-08-23T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/08/23/milestones</id>
-    <content type="html"><![CDATA[<p>{% img center /images/hv-bathing-suits.jpg %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/hv-bathing-suits.jpg"></p>
 
 <p>Learning to walk, talk, or ride a bike are all big milestones in a child’s life. We usually remember how old our kids were when they reached them, but the actual point in time is somewhat arbitrary. How many steps is considered walking? When does babbling turn into talking? When do they really have control of the bike?</p>
 
@@ -122,127 +147,6 @@
 <p>For the past two weeks we’ve been on vacation in California, and we’ve had some good times playing in the pool and in the surf. Yesterday in the pool R was enjoying climbing on and off a boogie board in the shallow end. When it got away from her and floated to the deep end, she dog-paddled over to get it and kicked her way back. I blinked my eyes a few times and told her I thought she could have made it to the ladder (on the other side of the pool) if she wanted to. She shook her head and said “I don’t think so,” but the gears were turning. A few minutes later she just went for it. I swam right next to her. She arrived at the ladder with a big smile on her face. And then swam all the way back. </p>
 
 <p>Holy shit, the girl can swim!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Getting Kids Hooked on Poetry #IMWAYR]]></title>
-    <link href="http://highvariance.net/blog/2014/08/04/poetry-for-kids/"/>
-    <updated>2014-08-04T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/08/04/poetry-for-kids</id>
-    <content type="html"><![CDATA[<p>I still remember in third grade when my grandmother got me my first book of poetry. I looked at it suspiciously and cast it aside. I don’t think I opened it more than a couple times and I have no idea what happened to it. Much later (as a pretentious young adult), I started taking poetry as seriously as song lyrics, and slowly built up a real appreciation for it.  But even after all these years, it still feels a little like a foreign language.</p>
-
-<p>My theory has always been that I would be fluent in poetry if only it had been a regular part of my life when I was little. In our household we’re testing that theory with the girls by mixing a fair bit of poetry in with our usual large helpings of stories and nature books. So far, it’s going well–The girls think of poems as a completely normal form of expression. I think the key is reading widely, but making sure to hit subjects that the girls already enjoy. Here are some of our favorite collections:</p>
-
-<p>{% img right /images/poems/hv-sharing-the-seasons.jpg %}</p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Sharing-Seasons-A-Book-Poems/dp/1416902104">Sharing the Seasons: A Book of Poems</a> (collected by Lee Bennett Hopkins, illustrated by David Diaz) These vivid poems are clever and really capture the variety of life across the seasons. This collection is probably the house favorite and R loves to recite this spring poem:</li>
-</ul>
-
-<blockquote>
-  <p>“Don’t You Dare” by Beverly McLoughland  </p>
-
-  <p>Stop! cried Robin,<br />
-Don’t you dare begin it<br />
-Another tweety rhyme<br />
-With a redbreast in it.  </p>
-
-  <p>Another cheery verse<br />
-With a cherry tree,<br />
-Don’t you dare<br />
-Write another spring poem about me!  </p>
-
-  <p>Take your pad and pencil<br />
-To the reedy bog<br />
-When you feel a poem coming–<br />
-Think Frog.  </p>
-</blockquote>
-
-<p>{% img right /images/poems/hv-flower-fairies.jpeg %}</p>
-
-<ul>
-  <li><a href="http://www.amazon.com/The-Complete-Book-Flower-Fairies/dp/0723248397">The Complete Book of the Flower Fairies</a> (written and illustrated by Cicely Mary Barker) This collection is incredible and I don’t say that lightly. Ms. Barker is most known for her beautifully detailed drawings, but I think the accompanying poems are just as wonderful. If the flower grows in England, Ms. Barker has almost certainly written about its fairies.</li>
-</ul>
-
-<blockquote>
-  <p>“The Dandelion Fairy”  by Cicely Mary Barker</p>
-
-  <p>Here’s the Dandelion’s rhyme:<br />
-See my leaves with tooth-like edges;<br />
-Blow my clocks to tell the time;<br />
-See me flaunting by the hedges,<br />
-In the meadow, in the lane,<br />
-Gay and naughty in the garden;<br />
-Pull me up-I grow again,<br />
-Asking neither leave nor pardon.<br />
-Sillies, what are you about<br />
-With your spades and hoes of iron?<br />
-You can never drive me out-<br />
-Me, the dauntless Dandelion!  </p>
-</blockquote>
-
-<p>{% img right /images/poems/hv-a-childs-book-of-poems.jpeg %}</p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Childs-Book-Poems-Gyo-Fujikawa/dp/1402750617">A Child’s Book of Poems</a> (collected and illustrated by Gyo Fujikawa) I’ve been <a href="http://highvariance.net/blog/2011/12/30/bad-behavior/">a huge fan</a> of Mr. Fujikawa’s pen and ink drawings since I came across <a href="http://www.amazon.com/What-Busy-Day-Gyo-Fujikawa/dp/1402768192">Oh, What a Busy Day</a>. This collection is full of “serious” poetry by the likes of Wordsworth, Blake, Coleridge and Tennyson as well as plenty of silly rhymes by the prolific Anonymous.</li>
-</ul>
-
-<blockquote>
-  <p>“Rain in Summer” by Henry Wadworth Longfellow  </p>
-
-  <p>How beautiful is the rain!<br />
-After the dust and heat,<br />
-In the broad and fiery street,<br />
-In the narrow lane,<br />
-How beautiful is the rain!<br />
-How it clatters along the roofs,<br />
-Like the tram of hoofs!</p>
-
-  <p>How it gushes and struggles out<br />
-From the throat of the overflowing spout!<br />
-Across the windowpane<br />
-It pours and pours;<br />
-And swift and wide,<br />
-With a muddy tide,<br />
-Like a river down the gutter roars<br />
-The rain, the welcome rain!  </p>
-</blockquote>
-
-<p>{% img right /images/poems/hv-wonton.jpeg %}</p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Won-Ton-Tale-Told-Haiku/dp/0805089950">Wonton: A Cat Tale Told in Haiku</a> (written by Lee Wardlaw, illustrated by Eugene Yelchin) I’ve been meaning to write about the best cat books for cat lovers, and this book would definitely make that list too. It follows a cat on his journey from the shelter to a new home. And as the title says, the author really does tell the story as a series of perfect haiku.</li>
-</ul>
-
-<blockquote>
-  <p>“The New Place”</p>
-
-  <p>Deep, dark bed cave. Me?<br />
-Hiding? I’m no scaredy cat!<br />
-I like dust bunnies!  </p>
-
-  <p>“Here, kitty, kitty.”<br />
-Ha. I’ll stay put till I know:<br />
-Are they friend…or foe?  </p>
-
-  <p>Yawn. String-on-a-stick.<br />
-Fine. I’ll come out and chase it<br />
-to make you happy.  </p>
-</blockquote>
-
-<p>{% img right /images/poems/hv-water-boatman.jpeg %}</p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Water-Boatman-Caldecott-Ribbon-Nonfiction/dp/0618135472">Song of the Water Boatman &amp; Other Pond Poems</a> (by Joyce Sidman, illustrated by Beckie Prange) If you’re looking for fantastic nature-focused poetry, you’ve come to the right place. This book has entertained us, educated us, and even <a href="http://highvariance.net/blog/2012/04/02/salamanders-and-peepers/">inspired adventures</a>.</li>
-</ul>
-
-<p>I’m always looking for more kid-appropriate (and kid-accessible) poetry so please share your favorites below!</p>
-
-<p>{% img center /images/imwayr.jpg %}</p>
-
-<p>Originally hosted by Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a>, Jen over at <a href="http://www.teachmentortexts.com/#axzz1u6wnaZyt">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions of <strong>It’s Monday! What are You Reading?</strong> All three sites are great places to find new books for yourself and your kids.</p>
-
 ]]></content>
   </entry>
   
