@@ -5,7 +5,7 @@
   <subtitle><![CDATA[This is my blog.]]></subtitle>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2015-10-27T20:17:13-04:00</updated>
+  <updated>2015-11-21T17:26:56-05:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -13,6 +13,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AnyList vs Grocery IQ]]></title>
+    <link href="http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq/"/>
+    <updated>2015-11-20T00:00:00-05:00</updated>
+    <id>http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-anylist-vs-grocery-iq.png" /></p>
+
+<p>Jason Snell <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">recently wrote</a> that once he invests the time to learn and get comfortable with a tool, it takes something not just a <em>little</em> better, but <em>substantially</em> better to get him to switch. His examples were software he uses to edit podcasts and his overall computer set up: He edits his podcasts with Apple&rsquo;s Logic even though many folks think he should move to Adobe Audition. Similarly, he really likes a lot about working on an iPad, but it&rsquo;s not enough to make him sell his Mac and go <a href="https://www.macstories.net/stories/ipad-pro-review/">whole hog on iOS</a>.</p>
+
+<p>I tend to agree with Mr. Snell on most things and this is no exception. About a year ago, I was pleasantly surprised to find we both used the same grocery list app: <a href="http://www.groceryiq.com">Grocery IQ</a>. Sure, it&rsquo;s kind of ugly and barely maintained and littered with useless coupons, but it worked better than any other list app (general or grocery-specific) I had tried. And yet, when I saw the folks over at <a href="http://thesweetsetup.com">The Sweet Setup</a> chose <a href="https://www.anylistapp.com">AnyList</a> as their <a href="http://thesweetsetup.com/apps/anylist-favorite-grocery-shopping-app/">favorite grocery shopping app</a> I was tempted&ndash;Could it be worth the switching cost? On the other hand, this is an app my wife and I both use several times per week so the bar was higher than usual. I bit the bullet and checked it out.</p>
+
+<p>The short answer is that AnyList is way better than Grocery IQ and I couldn&rsquo;t be happier that I switched. Here&rsquo;s why:</p>
+
+<ol>
+  <li>I can add items to the shopping list with Siri; e.g., &ldquo;Add bananas to my grocery list.&rdquo;</li>
+  <li>I can reorder aisles (&ldquo;categories&rdquo;) to match my store&rsquo;s layout.</li>
+  <li>AnyList makes more efficient use of screen real estate.</li>
+  <li>No coupons!</li>
+  <li>AnyList has much faster syncing of shared lists.</li>
+  <li>It&rsquo;s under active development. This has tangible benefits relative to Grocery IQ like the fact that it uses the current iOS keyboard instead of a grody old one.</li>
+</ol>
+
+<p>From here on out, I&rsquo;m going to be more open to trying new tools. In this case, I screwed up the cost benefit calculation on both sides: I couldn&rsquo;t imagine the app could be this much better than what I was already using, <em>and</em> I over-estimated the switching costs&ndash;It&rsquo;s not like a had a whole bunch of muscle memory invested in checking off items as I bought them.</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Adi Gildor (1969-2015)]]></title>
@@ -667,31 +694,6 @@ And over the the lake. </p>
   <li><a href="http://www.amazon.com/Zacks-Alligator-Can-Read-Book/dp/0064441865">Zack’s Alligator</a> (written by Shirley Mozelle and illustrated by James Watts) This story is pure fun and I’ve never met a kid who wouldn’t do anything to have Zack’s alligator keychain. It’s like reading a smarter <a href="http://www.amazon.com/Danny-Dinosaur-Syd-Hoff/dp/0064440028">Danny and the Dinosaur</a> with a strong female lead character. </li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tile, a Geek Love Story]]></title>
-    <link href="http://highvariance.net/blog/2014/07/03/tile-a-geek-love-story/"/>
-    <updated>2014-07-03T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/07/03/tile-a-geek-love-story</id>
-    <content type="html"><![CDATA[<p>The other day I got this email:</p>
-
-<p><img class="center" src="http://highvariance.net/images/hv-tile-request.png" /></p>
-
-<p>Indeed, I have a story, but I doubt it will be on Tile’s front page anytime soon. <!--More--> It started almost a year ago when I backed my very first <a href="https://www.kickstarter.com">Kickstarter</a> project and ordered four Tiles. These magical one inch squares promised to keep me from ever losing anything ever again. I immediately envisioned attaching them to my keys, my wife’s keys, our wallets, and my daughters’ favorite toys. And I knew once I had them in my hands I would think of a host of new possibilities. I was in geek love. </p>
-
-<p><img class="left" src="http://highvariance.net/images/hv-tile.jpeg" /></p>
-
-<p>Each $18.95 tile was a tiny Bluetooth beacon that could talk to any phone nearby that had the Tile app installed. If my keys fell behind a couch cushion, my phone could make their Tile play a little song announcing where they were. If I accidentally dropped my keys in the bushes, the app would remember where it last saw them and show me on a map. And if I left them on a plane, my app would talk to Tile’s cloud servers and let me know when another Tile user went near them and show me their location. The project had already hit it’s funding goal and was rocketing toward production. I couldn’t wait to get my delivery!</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-tile-key-basket.jpg" /></p>
-
-<p>Months passed as the Tile Team worked through a series of last minute issues, and my interest started to wane. Then I realized that the batteries inside the Tiles expire after a year and are un-replaceable. That is, you have to buy new Tiles every year when your old ones die. And by the time my Tiles finally arrived, I realized that I already had a pretty good system for keeping track of my keys: They are always either in my pocket or in our kitchen key basket. I haven’t lost track of my keys in years. The same goes for my wallet, and even if I were a chronic wallet-loser, the Tile turns out to be too thick to comfortably slide into it.</p>
-
-<p>Many of my early relationships followed the same pattern: Fall deeply in something with someone that was half a creation of my imagination. As I realized that this person was flesh and blood with flaws and features I didn’t immediately appreciate, I walked away. It wasn’t until much later that I learned that you can’t really love anyone without first understanding that there are no ideal types. You have to recognize that everyone is at least a little messy on the inside and the outside.</p>
-
-<p>After a week with my Tiles, I’m starting to appreciate them. On Saturday my wife lost her keys and we spent several minutes scouring the house before we found them. I quickly attached a Tile, and that shouldn’t happen again. I’m also excited to put one in the car and always know where I’ve parked. Less than $20 for a  bit of magic is actually a pretty good deal even if it doesn’t last more than a year. And imagine how much cooler the next version will be!</p>
 ]]></content>
   </entry>
   
