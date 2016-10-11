@@ -4,7 +4,7 @@
   <title><![CDATA[kbr | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kbr/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2016-06-04T15:21:10-04:00</updated>
+  <updated>2016-10-11T12:29:52-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,13 +18,13 @@
     <link href="http://highvariance.net/blog/2015/03/23/kbr-laughing/"/>
     <updated>2015-03-23T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2015/03/23/kbr-laughing</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-book-with-no-pictures.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-book-with-no-pictures.jpeg %}</p>
 
 <p>Over the last couple weeks, the most popular book in our house, by far, has been <a href="http://www.amazon.com/Book-No-Pictures-B-J-Novak/dp/0803741715">The Book with No Pictures</a> by B.J. Novak. The gimmick is simple: When someone reads the book out loud, they have to say all the words. No matter how silly or ridiculous or preposterous or even nonsensical they might be. The reader may even have to sing the occasional song about eating ants for breakfast. Novak takes full advantage of this rule to induce huge laughs from the audience. The idea is partially ripped off from (inspired by?) Mo Willems’ <a href="http://www.amazon.com/We-Are-Book-Elephant-Piggie/dp/1423133080">We are in a Book</a>, but it’s executed so well I can’t really complain.</p>
 
 <p>Ever since we got this book, both kids (age 3 and 6) beg every grown-up that enters our house to read it. And how can you say to no to a kid begging you to read a book? Especially when you don’t know what’s coming? With many funny kids books, we can all laugh together. With this one, the kids are definitely laughing <em>at</em> the reader. Luckily this is a situation where quantity matters more than quality.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -35,7 +35,7 @@
     <link href="http://highvariance.net/blog/2015/02/16/kbr-winter-classics/"/>
     <updated>2015-02-16T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2015/02/16/kbr-winter-classics</id>
-    <content type="html"><![CDATA[<p><img class="left" src="/images/hv-brave-irene.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img left /images/hv-brave-irene.jpeg %}</p>
 
 <p>Now that we are deep into a winter that will seemingly never end, it’s time to look at a few classic children’s books that can carry us through.</p>
 
@@ -48,15 +48,15 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
 
 <p>Don’t worry, it all turns out wonderfully at the end, but boy, both my girls (and I) were on the edge of our seats the whole time!</p>
 
-<p><img class="right" src="/images/hv-100-dresses.jpeg"></p>
+<p>{% img right /images/hv-100-dresses.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Hundred-Dresses-Eleanor-Estes/dp/0152052607">The Hundred Dresses</a> (written by Eleanor Estes, illustrated by Louis Slobodkin, 1945) R and I really enjoyed this Newberry Honor winning chapter book about two girls who tease a poor immigrant girl from Poland into moving out of town. Both girls feel bad, but one feels worse about it than the other. I don’t want to give anything away, but the story feels amazingly real, right down to the messy ending. </p>
 
-<p><img class="left" src="/images/hv-moominland-midwinter.jpeg"></p>
+<p>{% img left /images/hv-moominland-midwinter.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Moominland-Midwinter-Moomins-Tove-Jansson/dp/0312625413">Moominland Midwinter</a> (by Tove Jansson, 1957) Last week I was a <a href="http://teachinginhighered.com/podcast/035-eliciting-using-feedback-students/">guest on the Teaching in Higher Ed podcast</a> and I one of my recommendations was <a href="http://www.amazon.com/Finn-Family-Moomintroll-Moomins-Jansson/dp/0312608896">Finn Family Moomintroll</a>, another book in this amazing series of stories about Moomintroll and his friends and family which take place in magical land far to the north. The stories and characters are rich enough to appeal to adults but clear and exciting enough to capture kids’ imaginations too. It’s criminal how under-appreciated (and unknown) these books are in the United States.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -69,19 +69,19 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
     <id>http://highvariance.net/blog/2014/12/08/kbr-details</id>
     <content type="html"><![CDATA[<p>When I was a kid, I liked nothing better then settling down in a corner with a big detailed picture book like <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Busy, Busy Town</a> and poring over each page looking for things I’d never seen before. My 6-year-old daughter is exactly the same, although the particular books she enjoys are different. Here are three of her favorites:</p>
 
-<p><img class="left" src="/images/hv-crabtree.jpeg"></p>
+<p>{% img left /images/hv-crabtree.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Crabtree-Jon-Nichols/dp/1936365820">Crabtree</a> (by Jon and Tucker Nichols, 2013) Alfred Crabtree is a weird dude who loses his false teeth and spends the story searching his belongs for them. This takes a while because he seemingly never throws anything away. The quirky drawings, odd organization, and carefully typed captions are all hilarious. <a href="http://kottke.org">Jason Kottke</a> (Internet-curator-extraordinaire) <a href="http://kottke.org/14/03/crabtree">recommended this book</a>, and he has yet to steer me wrong. The only downside is that it will be hard to find a copy to buy if your library doesn’t have one.</p>
 
-<p><img class="right" src="/images/hv-welcome-to-mamoko.jpeg"></p>
+<p>{% img right /images/hv-welcome-to-mamoko.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Welcome to Mamoko</a> (by Aleksandra Mizielinska and Daniel Mizielinski, 2010) We actually got this book because we loved the authors’ <a href="http://www.amazon.com/Maps-Aleksandra-Mizielinska/dp/0763668966">Maps</a> so much. The story is introduced with a big cast of characters and a question about each (e.g., “Olaf Brown has a big day ahead. Who helps him out of a spot of trouble?”). What follows is a sequence of double page wordless scenes with all the characters in different urban settings. Even my three year-old loves to try to figure out what’s going on.</p>
 
-<p><img class="left" src="/images/hv-incredible-comparisons.jpeg"></p>
+<p>{% img left /images/hv-incredible-comparisons.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Incredible Comparisons</a> (written by Russell Ash, illustrated by Stephen Biesty, 1996) My 6-year-old loves books with bite-sized amazing facts, and in this DK book almost every fact is accompanied by a beautiful picture. A blue whale weighs as much as 26 elephants. The moon is as wide as Australia. Angel Falls is three times taller than the Eiffel Tower. The Great Pyramid weighs as much as 16 Empire State Buildings! Highly recommended.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -96,23 +96,23 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
 
 <p>The fact is there are real gems hiding on the shelves of most libraries waiting to be discovered or rediscovered. That’s what you’ll find here: good books that I know can be found at at least one library (mine) and hopefully yours. </p>
 
-<p><img class="left" src="/images/hv-the-quiet-place.jpeg"></p>
+<p>{% img left /images/hv-the-quiet-place.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Quiet-Place-Sarah-Stewart/dp/0374325650">The Quiet Place</a> (written by Sarah Stewart, illustrated by David Small, 2012) This book is told as a series of letters written by a young girl who moves from Mexico to the US. She starts nervous but excited and even though she has a wonderful mother and brother, she misses the family and home she’s left behind. Gradually, she makes a new home and new friends. I don’t think the author was an immigrant herself, but she really captures the experience and brought a tear to my eye.</p>
 
-<p><img class="right" src="/images/hv-pish-posh.jpeg"></p>
+<p>{% img right /images/hv-pish-posh.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Pish-Posh-Said-Hieronymus-Bosch/dp/0152622101">Pish, Posh, Said Hieronymus Bosch</a> (written by Nancy Willard, illustrated by Leo, Diane, and Lee Dillon, 1991) On the one hand, it seems totally insane to turn Bosch’s <a href="https://en.wikipedia.org/wiki/Hieronymus_Bosch#mediaviewer/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg">psychadelic visions of hell</a> into a children’s book, but on the other, kids love big eccentric detailed illustrations (e.g., <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Richard Scarry’s Busy, Busy Town</a>) and those are right in Bosch’s wheel house. This is the story of the artist, his housekeeper, and their unusual house, and it totally works.</p>
 
-<p><img class="left" src="/images/hv-bog-baby.jpeg"></p>
+<p>{% img left /images/hv-bog-baby.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Bog-Baby-Jeanne-Willis/dp/0375861769">Bog Baby</a> (written by Jeanne Willis, illustrated by Gwen Millward, 2009) I love stories about kids who find animals, take them home, and then realize that wild animals need to be wild. Angelina Ballerina learns the lesson with a <a href="http://www.amazon.com/Angelina-Butterfly-Ballerina-Katharine-Holabird/dp/0448440156">butterfly</a>, Mole learns the lesson with a <a href="http://www.amazon.com/Mole-Baby-Bird-Marjorie-Newman/dp/1582347840">baby bird</a>, and in this book, two sisters learn the lesson with a fantastical creature called a bog baby.  The pen and ink illustrations are unique and beautiful.</p>
 
-<p><img class="right" src="/images/hv-alpha-oops.jpeg"></p>
+<p>{% img right /images/hv-alpha-oops.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/AlphaOops-Day-Z-Went-First/dp/0763660841">AlphaOops: The Day Z Went First</a> (written by Alethea Kontis, illustrated Bob Kolar) Why does A always get to go first? Z decides it’s time to mix things up and hilarity ensues. Both my girls (now 6 and 3.5 years old) thought this book was a lot of fun.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -123,23 +123,23 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
     <link href="http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club/"/>
     <updated>2014-11-24T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club</id>
-    <content type="html"><![CDATA[<p><img class="left" src="/images/hv-jenny-and-the-cat-club.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img left /images/hv-jenny-and-the-cat-club.jpg %}</p>
 
 <p>Over the summer I discovered a <a href="(http://www.teachmentortexts.com/)">whole community of folks</a> on the Internet who read and blog about kids books. It was very exciting and I had great fun reading their work and sharing mine <a href="http://highvariance.net/blog/2014/07/14/monday-reading/">here</a>, <a href="http://highvariance.net/blog/2014/07/21/violence-in-picture-books/">here</a>, <a href="http://highvariance.net/blog/2014/07/28/kbr-eclectic/">here</a>, <a href="http://highvariance.net/blog/2014/08/04/poetry-for-kids/">here</a> and <a href="http://highvariance.net/blog/2014/09/01/kbr-travel-edition/">here</a>. Then the Fall came and I fell into the teaching vortex. Sunday nights turned into lecture preparation marathons, and I’ve been spending Monday mornings and afternoons presenting the fruits of this labor. I’ve scratched my blogging itch on <a href="http://teachbetter.co">Teach Better</a>, but the <a href="http://highvariance.net/blog/categories/kbr/">Kid Book Review</a> section of <a href="http://highvariance.net">High Variance</a> has lain fallow. What better way to celebrate my first Monday off in ages (for Thanksgiving Break), than with an <a href="https://twitter.com/hashtag/imwayr">#IMWAYR</a> post!</p>
 
-<p><img class="right" src="/images/hv-the-fire-cat.jpg"></p>
+<p>{% img right /images/hv-the-fire-cat.jpg %}</p>
 
 <p>When I was a kid, one of my very favorite books was <a href="http://www.amazon.com/Fire-Cat-Can-Read-Book/dp/0064440389">The Fire Cat</a> by <a href="https://en.wikipedia.org/wiki/Esther_Averill">Esther Averill</a>. The main character was not bad or good–Like people in the real world, Pickles was a mix of both. He was born strong and ambitious, but with no idea what to do with his gifts. He spends his time terrorizing smaller cats, but eventually learns to be kind and finds his true calling working in a fire house.</p>
 
 <p>It wasn’t until I went to buy this book for my daughter a few years ago that I discovered Esther Averill had written a whole series of wonderful books about cats living in New York City! And in 2003, the New York Review reprinted most of them with nice affordably priced hardcover bindings. The books revolve around the adventures of a shy but strong (<a href="http://www.amazon.com/School-Cats-Review-Childrens-Collection/dp/159017173X">stronger than Pickles even</a>) black cat named Jenny Linsky and her friends in the Cat Club that meets in her garden.</p>
 
-<p><img class="left" src="/images/hv-the-fire-cat.jpg"></p>
+<p>{% img left /images/hv-the-fire-cat.jpg %}</p>
 
 <p>The series contains stories for a variety of ages starting with the <a href="http://www.amazon.com/Jennys-Birthday-Book-Esther-Averill/dp/1590171543">Jenny’s Birthday Book</a> for very little kids, moving to <a href="">The Fire Cat</a> which is an early reader, and culminating in several chapter books like the <a href="http://www.amazon.com/Hotel-York-Review-Childrens-Collection/dp/1590171594">The Hotel Cat</a> and <a href="http://www.amazon.com/Captains-Streets-Review-Childrens-Collection/dp/1590171748">Captains of the City Streets</a>, that make great bedtime reading.</p>
 
 <p>If you’ve never had the pleasure of reading these books, the clear starting point is <a href="http://www.amazon.com/Jenny-Cat-Club-Collection-Childrens/dp/1590170474">Jenny and the Cat Club</a> where you learn how Jenny joined the club and meet all its colorful members. I can’t recommend these books highly enough.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>

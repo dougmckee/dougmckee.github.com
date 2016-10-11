@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2016-06-04T15:21:10-04:00</updated>
+  <updated>2016-10-11T12:29:52-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -14,11 +14,69 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Let's Wait Awhile]]></title>
+    <link href="http://highvariance.net/blog/2016/10/11/lets-wait-awhile/"/>
+    <updated>2016-10-11T00:00:00-04:00</updated>
+    <id>http://highvariance.net/blog/2016/10/11/lets-wait-awhile</id>
+    <content type="html"><![CDATA[<p>{% img /images/la-et-ms-janet-jackson-control-30-years-later-20160204.jpeg %}</p>
+
+<p>My girls are precocious. The seven year-old reads beyond her age, climbs trees higher than she should, and seems pretty interested in boys. The five year-old wants to do anything her older sister does. Right now, I feel like I have a handle on the situation, but the future scares the heck out of me. As Kelly Oxford has made <a href="http://www.nytimes.com/2016/10/11/us/politics/sexual-assault-survivor-reaction.html">abundantly clear</a>, girls are vulnerable and many boys out there take advantage of it. And as <a href="https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html">Donald Trump has personified</a>, many of these boys never grow up and instead just move to more powerful positions.</p>
+
+<p>My plan is to continue to keep a close eye on my girls and try to keep the lines of communication open. I’ll also do my best to encourage friendships with kids that aren’t quite so risk-loving. Another idea I’ve had is to start playing more music with positive messages–Maybe it can be a subliminal influence. Here’s the start of a play list and I’d appreciate suggestions for additions:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=mxS_f1JWBfc">“Let’s Wait Awhile” (Janet Jackson)</a> Abstinence isn’t something usually <a href="https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII_halftime-show_controversy">associated with Janet</a>, but this song (and <a href="http://www.nytimes.com/2016/08/09/arts/music/janet-jackson-control-anniversary.html">this whole album</a> are just so good.</li>
+</ul>
+
+<pre>
+There's something I want to tell you
+There's something I think that you should know
+It's not that I shouldn't really love you
+Let's take it slow
+When we get to know each other
+And we're both feeling much stronger
+Then let's try to talk it over
+Let's wait awhile longer
+</pre>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=HWZisnZ-RGE">“We Don’t Have to Take Our Clothes Off” (Jermaine Stewart)</a>  This song was huge when I was in high school, and I might have to wait until the girls are in high school to play it. If it hasn’t yet occurred to you to take your clothes off to have to have a good time, I’d rather not implant the idea. And drinking cherry wine? That’s just going to lead to taking clothes off!</li>
+</ul>
+
+<pre>
+So come on baby, won't you show some class
+Why do you have to move so fast?
+We don't have to take our clothes off
+To have a good time
+Oh no
+We could dance and party all night
+And drink some cherry wine, oh
+</pre>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=v_yTphvyiPU">“Just a Kiss” (Lady Antebellum)</a> In my mind, this might be the perfect country song. Beautiful singing, catchy as heck, and a great message.</li>
+</ul>
+
+<pre>
+Just a kiss on your lips in the moonlight
+Just a touch of the fire burning so bright
+And I don't want to mess this thing up
+I don't want to push too far
+Just a shot in the dark that you just might
+Be the one I've been waiting for my whole life
+So baby I'm alright, with just a kiss goodnight
+</pre>
+
+<p>I’ve put <a href="https://open.spotify.com/user/126603624/playlist/7EDMZEBVhg3Fl1T6CUSoc9">the list on Spotify</a> too.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Adi Gildor (1969-2015)]]></title>
     <link href="http://highvariance.net/blog/2015/09/05/adi/"/>
     <updated>2015-09-05T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2015/09/05/adi</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-adi.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-adi.jpg %}</p>
 
 <p>Adi Gildor was my best friend. He died last week. I still can’t believe it, but this is what I said at his memorial service:</p>
 
@@ -87,7 +145,7 @@ In my heart I believe that what happened that night was an aberration. It should
     <link href="http://highvariance.net/blog/2015/06/21/single-mom/"/>
     <updated>2015-06-21T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2015/06/21/single-mom</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-mommy-and-me.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-mommy-and-me.jpg %}</p>
 
 <p>A good friend who is a single mom recently published <a href="https://singlemomintheivyleagues.wordpress.com/2015/06/20/fathers-male-role-models-and-raising-a-boy/">an article about the angst she feels on Father’s Day</a>. She wonders aloud what her son might or might not be missing out on by growing up with only a mom in the house. I think there are a lot of misconceptions out there, and wanted to share my personal experience as an only (and male) child of a single mom.</p>
 
@@ -108,13 +166,13 @@ In my heart I believe that what happened that night was an aberration. It should
     <link href="http://highvariance.net/blog/2015/03/23/kbr-laughing/"/>
     <updated>2015-03-23T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2015/03/23/kbr-laughing</id>
-    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-book-with-no-pictures.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img right /images/hv-book-with-no-pictures.jpeg %}</p>
 
 <p>Over the last couple weeks, the most popular book in our house, by far, has been <a href="http://www.amazon.com/Book-No-Pictures-B-J-Novak/dp/0803741715">The Book with No Pictures</a> by B.J. Novak. The gimmick is simple: When someone reads the book out loud, they have to say all the words. No matter how silly or ridiculous or preposterous or even nonsensical they might be. The reader may even have to sing the occasional song about eating ants for breakfast. Novak takes full advantage of this rule to induce huge laughs from the audience. The idea is partially ripped off from (inspired by?) Mo Willems’ <a href="http://www.amazon.com/We-Are-Book-Elephant-Piggie/dp/1423133080">We are in a Book</a>, but it’s executed so well I can’t really complain.</p>
 
 <p>Ever since we got this book, both kids (age 3 and 6) beg every grown-up that enters our house to read it. And how can you say to no to a kid begging you to read a book? Especially when you don’t know what’s coming? With many funny kids books, we can all laugh together. With this one, the kids are definitely laughing <em>at</em> the reader. Luckily this is a situation where quantity matters more than quality.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -125,7 +183,7 @@ In my heart I believe that what happened that night was an aberration. It should
     <link href="http://highvariance.net/blog/2015/02/16/kbr-winter-classics/"/>
     <updated>2015-02-16T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2015/02/16/kbr-winter-classics</id>
-    <content type="html"><![CDATA[<p><img class="left" src="/images/hv-brave-irene.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img left /images/hv-brave-irene.jpeg %}</p>
 
 <p>Now that we are deep into a winter that will seemingly never end, it’s time to look at a few classic children’s books that can carry us through.</p>
 
@@ -138,40 +196,15 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
 
 <p>Don’t worry, it all turns out wonderfully at the end, but boy, both my girls (and I) were on the edge of our seats the whole time!</p>
 
-<p><img class="right" src="/images/hv-100-dresses.jpeg"></p>
+<p>{% img right /images/hv-100-dresses.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Hundred-Dresses-Eleanor-Estes/dp/0152052607">The Hundred Dresses</a> (written by Eleanor Estes, illustrated by Louis Slobodkin, 1945) R and I really enjoyed this Newberry Honor winning chapter book about two girls who tease a poor immigrant girl from Poland into moving out of town. Both girls feel bad, but one feels worse about it than the other. I don’t want to give anything away, but the story feels amazingly real, right down to the messy ending. </p>
 
-<p><img class="left" src="/images/hv-moominland-midwinter.jpeg"></p>
+<p>{% img left /images/hv-moominland-midwinter.jpeg %}</p>
 
 <p><a href="http://www.amazon.com/Moominland-Midwinter-Moomins-Tove-Jansson/dp/0312625413">Moominland Midwinter</a> (by Tove Jansson, 1957) Last week I was a <a href="http://teachinginhighered.com/podcast/035-eliciting-using-feedback-students/">guest on the Teaching in Higher Ed podcast</a> and I one of my recommendations was <a href="http://www.amazon.com/Finn-Family-Moomintroll-Moomins-Jansson/dp/0312608896">Finn Family Moomintroll</a>, another book in this amazing series of stories about Moomintroll and his friends and family which take place in magical land far to the north. The stories and characters are rich enough to appeal to adults but clear and exciting enough to capture kids’ imaginations too. It’s criminal how under-appreciated (and unknown) these books are in the United States.</p>
 
-<p><img class="center" src="/images/imwayr.jpg"></p>
-
-<p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kid Book Review: Details #IMWAYR]]></title>
-    <link href="http://highvariance.net/blog/2014/12/08/kbr-details/"/>
-    <updated>2014-12-08T00:00:00-05:00</updated>
-    <id>http://highvariance.net/blog/2014/12/08/kbr-details</id>
-    <content type="html"><![CDATA[<p>When I was a kid, I liked nothing better then settling down in a corner with a big detailed picture book like <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Busy, Busy Town</a> and poring over each page looking for things I’d never seen before. My 6-year-old daughter is exactly the same, although the particular books she enjoys are different. Here are three of her favorites:</p>
-
-<p><img class="left" src="/images/hv-crabtree.jpeg"></p>
-
-<p><a href="http://www.amazon.com/Crabtree-Jon-Nichols/dp/1936365820">Crabtree</a> (by Jon and Tucker Nichols, 2013) Alfred Crabtree is a weird dude who loses his false teeth and spends the story searching his belongs for them. This takes a while because he seemingly never throws anything away. The quirky drawings, odd organization, and carefully typed captions are all hilarious. <a href="http://kottke.org">Jason Kottke</a> (Internet-curator-extraordinaire) <a href="http://kottke.org/14/03/crabtree">recommended this book</a>, and he has yet to steer me wrong. The only downside is that it will be hard to find a copy to buy if your library doesn’t have one.</p>
-
-<p><img class="right" src="/images/hv-welcome-to-mamoko.jpeg"></p>
-
-<p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Welcome to Mamoko</a> (by Aleksandra Mizielinska and Daniel Mizielinski, 2010) We actually got this book because we loved the authors’ <a href="http://www.amazon.com/Maps-Aleksandra-Mizielinska/dp/0763668966">Maps</a> so much. The story is introduced with a big cast of characters and a question about each (e.g., “Olaf Brown has a big day ahead. Who helps him out of a spot of trouble?”). What follows is a sequence of double page wordless scenes with all the characters in different urban settings. Even my three year-old loves to try to figure out what’s going on.</p>
-
-<p><img class="left" src="/images/hv-incredible-comparisons.jpeg"></p>
-
-<p><a href="http://www.amazon.com/Welcome-Mamoko-Aleksandra-Mizielinska/dp/0763668915">Incredible Comparisons</a> (written by Russell Ash, illustrated by Stephen Biesty, 1996) My 6-year-old loves books with bite-sized amazing facts, and in this DK book almost every fact is accompanied by a beautiful picture. A blue whale weighs as much as 26 elephants. The moon is as wide as Australia. Angel Falls is three times taller than the Eiffel Tower. The Great Pyramid weighs as much as 16 Empire State Buildings! Highly recommended.</p>
-
-<p><img class="center" src="/images/imwayr.jpg"></p>
+<p>{% img center /images/imwayr.jpg %}</p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
