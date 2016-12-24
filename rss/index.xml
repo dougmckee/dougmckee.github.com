@@ -5,7 +5,7 @@
   <subtitle><![CDATA[This is my blog.]]></subtitle>
   <link href="http://highvariance.net/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2016-10-11T12:29:42-04:00</updated>
+  <updated>2016-12-24T06:32:53-08:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -15,9 +15,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Moving from iPhone 6 to 7]]></title>
+    <link href="http://highvariance.net/blog/2016/12/23/moving-from-6-to-7/"/>
+    <updated>2016-12-23T00:00:00-08:00</updated>
+    <id>http://highvariance.net/blog/2016/12/23/moving-from-6-to-7</id>
+    <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/iphone-upgrade.jpg" /></p>
+
+<p>You might think the world has plenty of iPhone 7 reviews. Maybe even more iPhone 7 reviews than it needs. You&rsquo;re probably right, but the vast majority are written by nerds who upgrade their phones every year. Upgrading is a totally different experience for regular people who have waited two (or more) years. As a recent upgrader from a venerable iPhone 6+, I am here to tell you that it&rsquo;s worth moving up to the latest and greatest.</p>
+
+<p><strong>Battery:</strong> After two years of use (including 4 tough months of Pokemon Go), the battery on my 6+ was in bad shape. Now I&rsquo;m back to making it through a whole day without an external battery pack. Phew!</p>
+
+<p><strong>CPU/GPU:</strong> The 7+ is noticeably faster. Apps start faster and game animations are smoother. Nice.</p>
+
+<p><strong>RAM:</strong> The 6+ had 1GB. This wasn&rsquo;t enough. Switching apps almost always required the app to start from scratch. Switching web pages meant watching slow reloads. All that&rsquo;s gone with the 7+&rsquo;s tripled RAM. I think this is the most noticeable improvement and it&rsquo;s glorious.</p>
+
+<p><strong>Camera:</strong> The camera is higher resolution, better in low light, and has 2x optical zoom. Live pictures (which store a little bit of video before and after your still) are new since the 6. All this is neat and lots of folks will appreciate it more than me.</p>
+
+<p><strong>Other Stuff:</strong> </p>
+
+<ul>
+  <li>Turning it on is faster since it recognizes when you pick it up. This is cool.</li>
+  <li>The home button is worse, but the phone is a lot more waterproof than before. </li>
+  <li>The vibrate alert is just as vibrate-y and it&rsquo;s now quieter when the phone is sitting on a table.</li>
+  <li>The new colors are fine, but totally not noticeable when the phone is in a case.</li>
+  <li>No headphone jack = no big deal.</li>
+</ul>
+
+<p>The 6 is a pretty good phone&ndash;Unless yours is broken, you don&rsquo;t need to upgrade. That said, the 7 is a lot better and I notice the improvements every day.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Let's Wait Awhile]]></title>
     <link href="http://highvariance.net/blog/2016/10/11/lets-wait-awhile/"/>
-    <updated>2016-10-11T00:00:00-04:00</updated>
+    <updated>2016-10-11T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2016/10/11/lets-wait-awhile</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/la-et-ms-janet-jackson-control-30-years-later-20160204.jpeg" /></p>
 
@@ -75,7 +106,7 @@ So baby I'm alright, with just a kiss goodnight
   <entry>
     <title type="html"><![CDATA[Thinking about getting a unicycle?]]></title>
     <link href="http://highvariance.net/blog/2016/06/04/unicycle/"/>
-    <updated>2016-06-04T00:00:00-04:00</updated>
+    <updated>2016-06-04T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2016/06/04/unicycle</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-unicycles.jpg" /></p>
 
@@ -94,7 +125,7 @@ So baby I'm alright, with just a kiss goodnight
   <entry>
     <title type="html"><![CDATA[AnyList vs Grocery IQ]]></title>
     <link href="http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq/"/>
-    <updated>2015-11-20T00:00:00-05:00</updated>
+    <updated>2015-11-20T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-anylist-vs-grocery-iq.png" /></p>
 
@@ -121,7 +152,7 @@ So baby I'm alright, with just a kiss goodnight
   <entry>
     <title type="html"><![CDATA[Adi Gildor (1969-2015)]]></title>
     <link href="http://highvariance.net/blog/2015/09/05/adi/"/>
-    <updated>2015-09-05T00:00:00-04:00</updated>
+    <updated>2015-09-05T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/09/05/adi</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-adi.jpg" /></p>
 
@@ -190,7 +221,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Growing up with a single mom]]></title>
     <link href="http://highvariance.net/blog/2015/06/21/single-mom/"/>
-    <updated>2015-06-21T00:00:00-04:00</updated>
+    <updated>2015-06-21T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/06/21/single-mom</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-mommy-and-me.jpg" /></p>
 
@@ -211,7 +242,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[In praise of dentists]]></title>
     <link href="http://highvariance.net/blog/2015/06/03/in-praise-of-dentists/"/>
-    <updated>2015-06-03T00:00:00-04:00</updated>
+    <updated>2015-06-03T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/06/03/in-praise-of-dentists</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/hv-dental-exam.png" /></p>
 
@@ -234,7 +265,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[La La Love Me Like You Do]]></title>
     <link href="http://highvariance.net/blog/2015/05/25/la-la-love-me/"/>
-    <updated>2015-05-25T00:00:00-04:00</updated>
+    <updated>2015-05-25T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/05/25/la-la-love-me</id>
     <content type="html"><![CDATA[<iframe width="640" height="360" src="https://www.youtube.com/embed/AJtDXIazrMo?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
@@ -249,7 +280,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Are they laughing with me or at me? #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2015/03/23/kbr-laughing/"/>
-    <updated>2015-03-23T00:00:00-04:00</updated>
+    <updated>2015-03-23T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/03/23/kbr-laughing</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://highvariance.net/images/hv-book-with-no-pictures.jpeg" /></p>
 
@@ -266,7 +297,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Darn You Taylor Swift!]]></title>
     <link href="http://highvariance.net/blog/2015/02/22/darn-you-taylor-swift/"/>
-    <updated>2015-02-22T00:00:00-05:00</updated>
+    <updated>2015-02-22T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2015/02/22/darn-you-taylor-swift</id>
     <content type="html"><![CDATA[<p><img src="http://highvariance.net/images/darn-you.png" /></p>
 
@@ -295,7 +326,7 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Winter Classics #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2015/02/16/kbr-winter-classics/"/>
-    <updated>2015-02-16T00:00:00-05:00</updated>
+    <updated>2015-02-16T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2015/02/16/kbr-winter-classics</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://highvariance.net/images/hv-brave-irene.jpeg" /></p>
 
@@ -327,7 +358,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Details #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/12/08/kbr-details/"/>
-    <updated>2014-12-08T00:00:00-05:00</updated>
+    <updated>2014-12-08T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/12/08/kbr-details</id>
     <content type="html"><![CDATA[<p>When I was a kid, I liked nothing better then settling down in a corner with a big detailed picture book like <a href="http://www.amazon.com/Richard-Scarrys-Busy-Town/dp/0307168034">Busy, Busy Town</a> and poring over each page looking for things I’d never seen before. My 6-year-old daughter is exactly the same, although the particular books she enjoys are different. Here are three of her favorites:</p>
 
@@ -352,7 +383,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Zebras and Expertise on the Internet]]></title>
     <link href="http://highvariance.net/blog/2014/12/07/zebras-and-expertise-on-the-internet/"/>
-    <updated>2014-12-07T00:00:00-05:00</updated>
+    <updated>2014-12-07T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/12/07/zebras-and-expertise-on-the-internet</id>
     <content type="html"><![CDATA[<p>The Internet is full of people talking about stuff they don’t know much about. It’s common at <a href="https://answers.yahoo.com">Yahoo Answers</a> and <a href="http://www.answers.com">Answers.com</a>, but <a href="http://amazon.com">Amazon</a> reviews and <a href="https://www.wikipedia.org">Wikipedia</a> are rife with it too. Even when bloggers are experts in one area, they often write much more broadly. As <a href="http://idlewords.com/about.htm">Maclej Ceglowski</a> delightfully points out in <a href="http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm">his article about Paul Graham’s lack of expertise on painting</a>, even the top of the food chain is not immune. </p>
 
@@ -367,7 +398,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Finding my niche #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/12/01/kbr-finding-my-niche/"/>
-    <updated>2014-12-01T00:00:00-05:00</updated>
+    <updated>2014-12-01T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/12/01/kbr-finding-my-niche</id>
     <content type="html"><![CDATA[<p>If you look in the right places on the Internet, you can find terrific suggestions for books to read with your kids. Many of these recommendations are written by teachers and librarians who are tapped into the very latest and coolest new books. The downside is that I now have long wish lists of books that my local library hasn’t had a chance to buy yet. A year from now, my library might have some, but until then, my only option is to shell out real money for a brand new copy.</p>
 
@@ -398,7 +429,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Jenny and the Cat Club #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club/"/>
-    <updated>2014-11-24T00:00:00-05:00</updated>
+    <updated>2014-11-24T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2014/11/24/kbr-jenny-and-the-cat-club</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://highvariance.net/images/hv-jenny-and-the-cat-club.jpg" /></p>
 
@@ -425,7 +456,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Taking a break from sports]]></title>
     <link href="http://highvariance.net/blog/2014/09/18/taking-a-break-from-sports/"/>
-    <updated>2014-09-18T00:00:00-04:00</updated>
+    <updated>2014-09-18T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/09/18/taking-a-break-from-sports</id>
     <content type="html"><![CDATA[<p>Real life is messy. We balance several life goals (family, career, personal) and many of these goals are difficult to even articulate clearly let alone achieve. For me, sports has always been an escape from life’s complexity. It’s a place where the goals are crystal clear and usually simple: <a href="http://seattletimes.com/html/seahawks/2022823508_seahawks03xml.html">Win</a>. <a href="http://en.wikipedia.org/wiki/Brazil_national_football_team">Win beautifully</a>. <a href="http://www.nba.com/history/players/abduljabbar_stats.html">Achieve milestones no has ever reached</a>. </p>
 
@@ -453,7 +484,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Travel Edition #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/09/01/kbr-travel-edition/"/>
-    <updated>2014-09-01T00:00:00-04:00</updated>
+    <updated>2014-09-01T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/09/01/kbr-travel-edition</id>
     <content type="html"><![CDATA[<p>Every summer we fly off to California for one or two weeks of fun in the sun. At least during the day we have fun in the sun. There are also many of hours of fun in the dark every morning since we start the trip on Eastern Daylight Time, and there’s plenty of downtime mid-afternoon when we just want to chill. At home and away, books fill in these gaps between real-life adventures.</p>
 
@@ -490,7 +521,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Milestones]]></title>
     <link href="http://highvariance.net/blog/2014/08/23/milestones/"/>
-    <updated>2014-08-23T00:00:00-04:00</updated>
+    <updated>2014-08-23T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/08/23/milestones</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://highvariance.net/images/hv-bathing-suits.jpg" /></p>
 
@@ -507,7 +538,7 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
   <entry>
     <title type="html"><![CDATA[Getting Kids Hooked on Poetry #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/08/04/poetry-for-kids/"/>
-    <updated>2014-08-04T00:00:00-04:00</updated>
+    <updated>2014-08-04T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/08/04/poetry-for-kids</id>
     <content type="html"><![CDATA[<p>I still remember in third grade when my grandmother got me my first book of poetry. I looked at it suspiciously and cast it aside. I don’t think I opened it more than a couple times and I have no idea what happened to it. Much later (as a pretentious young adult), I started taking poetry as seriously as song lyrics, and slowly built up a real appreciation for it.  But even after all these years, it still feels a little like a foreign language.</p>
 
@@ -628,7 +659,7 @@ to make you happy.  </p>
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Eclectic Edition #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2014/07/28/kbr-eclectic/"/>
-    <updated>2014-07-28T00:00:00-04:00</updated>
+    <updated>2014-07-28T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2014/07/28/kbr-eclectic</id>
     <content type="html"><![CDATA[<p>The three picture books described below have little in common beyond being very popular in our house. One is a diamond in the rough, another is a fantastic collection of poems, and the third is a quirky reference book. None are new, but one or two might be new to you:</p>
 
@@ -657,74 +688,6 @@ to make you happy.  </p>
 <p><img class="center" src="http://highvariance.net/images/imwayr.jpg" /></p>
 
 <p>Originally hosted by Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a>, Jen over at <a href="http://www.teachmentortexts.com/#axzz1u6wnaZyt">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions of <strong>It’s Monday! What are You Reading?</strong> All three sites are great places to find new books for yourself and your kids.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Violence in Picture Books #IMWAYR]]></title>
-    <link href="http://highvariance.net/blog/2014/07/21/violence-in-picture-books/"/>
-    <updated>2014-07-21T00:00:00-04:00</updated>
-    <id>http://highvariance.net/blog/2014/07/21/violence-in-picture-books</id>
-    <content type="html"><![CDATA[<p>Violence is rampant in kids’ books. <a href="http://en.wikipedia.org/wiki/The_Hobbit">The Hobbit</a> and the <a href="http://en.wikipedia.org/wiki/Harry_potter">Harry Potter</a> books are filled with magical blades and fierce battles. <a href="http://en.wikipedia.org/wiki/Hardy_Boys">The Hardy Boys</a> and <a href="http://en.wikipedia.org/wiki/Nancy_Drew">Nancy Drew</a> are dodging bullets and getting bound to chairs in every other chapter. Even <a href="http://en.wikipedia.org/wiki/Charlotte%27s_Web">Charlotte’s Web</a> starts with a near ax murder. My kids (age 3 and 5) aren’t quite old enough to be reading these books on their own, and we are pretty careful about what we read to them. A while back I wrote about <a href="http://highvariance.net/blog/2012/10/06/violence-in-kids-books/">R’s fascination with Greek mythology</a>, but this turned out to be a phase–The closest she gets to violence these days is a <a href="http://www.amazon.com/Case-Fight-Jigsaw-Jones-Mystery/dp/0439678072">food fight with Jigsaw Jones</a>.</p>
-
-<p>Both girls still spend most of their time in the relatively safe world of picture books. I say <em>relatively</em> safe because occasionally we happen across some surprising brutality. Here are a few examples we’ve happened upon recently:</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-millions-of-cats.jpeg" /></p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Millions-Edition-Picture-Puffin-Books/dp/0142407089">Millions of cats</a> (written and illustrated by Wanda Gag in 1928) The illustrations are uniquely beautiful black pen and ink drawings and the story is about a very old man who goes out looking for a cat but has trouble deciding and ends up returning to his wife with millions of potential pets. (This happens to me sometimes when I go grocery shopping hungry, albeit on a smaller scale.) Unfortunately, the story takes a <a href="http://en.wikipedia.org/wiki/Malthus">Malthusian</a> turn when the multitude of cats start fighting about who is the prettiest:</li>
-</ul>
-
-<blockquote>
-  <p>They bit and scratched and clawed each other and made such a great noise that the very old man and the very old woman ran into the house as fast as they could. They did not like such quarreling. But after a while the noise stopped and the very old man and the very old woman peeped out of the window to see what had happened. They could not see a single cat! I think they must have eaten each other all up said the very old woman, “It’s too bad!”</p>
-</blockquote>
-
-<p>Too bad indeed! Luckily one kitten who didn’t think he was prettiest survived. In this case <a href="https://www.youtube.com/watch?v=QJO3ROT-A4E">One Direction was right</a> when they said “You don’t know you’re beautiful and that’s what makes you beautiful.” Seriously, I loved this book when was a kid and only found the millions of deaths mildly unsettling.</p>
-
-<p><img class="right" src="http://highvariance.net/images/hv-feathers-and-fools.jpeg" /></p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Feathers-Fools-Mem-Fox/dp/0152023658">Feathers and Fools</a> (written by Mem Fox, illustrated by Nicholas Wilton in 1996) Mem Fox has written some tremendous books, but no matter how you slice it, this book about two flocks of birds who don’t get along is not young-child-appropriate. You might as well just read the latest news stories of the Israeli-Palestinian conflict to your kids at bed time:</li>
-</ul>
-
-<blockquote>
-  <p>But the swans, seeing them coming, made ready. 
-Soon cries filled the air and blood darkened the earth. 
-A cloud of feathers rose into the sky and haunted the sun. </p>
-
-  <p>Of all the birds, not one remained alive. 
-Silence hung over the gardens. 
-And over the the lake. </p>
-
-  <p>Then, in the shadows of the gardens, an egg hatched, and a small bird staggered out into the bloodstained silence. </p>
-
-  <p>Among the reefs beside the lake a second egg hatched, and another small bird teetered out into the ruins </p>
-</blockquote>
-
-<p><img class="right" src="http://highvariance.net/images/hv-poor-mr-nosey.jpg" /></p>
-
-<ul>
-  <li><a href="http://www.amazon.com/Mr-Nosey-Men-Little-Miss/dp/0843174781">Mr. Nosey</a> (written and illustrated by Roger Hargreaves in 1971) I’ve written before about <a href="http://highvariance.net/blog/2014/06/19/mister-men-and-little-misses/">how much I love the Mister Men and Little Misses</a>, but this particular book is one that I actively avoid. Mr. Nosey is just one of many annoying but endearing Mister Men in the series who get their comeuppance. What’s different here is that Mr. Nosey is actually physically abused. Even worse is the pleasure the abusers take in hurting their victim:</li>
-</ul>
-
-<blockquote>
-  <p>“BANG” went a hammer right on the end of Mr. Nosey’s nose.</p>
-
-  <p>“Oh dear. I AM sorry!” said old Mr. Chips, who was nailing up a loose plank in the fence.</p>
-
-  <p>Poor Mr. Nosey had to go home immediately and bandage his poor red sore nose.</p>
-
-  <p>Mr. Chips grinned a broad grim.(sic!)</p>
-
-  <p>The Plan was working very well indeed.</p>
-</blockquote>
-
-<p>The real world is violent place. Eventually my girls will have to learn this and figure out how to live in it. We’re going to shelter them until we think they’re ready. I don’t know when that will be, but I know it won’t be for a while.</p>
-
-<p><img class="center" src="http://highvariance.net/images/imwayr.jpg" /></p>
-
-<p>Originally hosted by Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a>, Jen over at <a href="http://www.teachmentortexts.com/#axzz1u6wnaZyt">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions of It’s Monday! What are You Reading? All three sites are great places to find new books for yourself and your kids.</p>
 
 ]]></content>
   </entry>

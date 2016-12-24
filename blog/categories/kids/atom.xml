@@ -4,7 +4,7 @@
   <title><![CDATA[kids | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/kids/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2016-10-11T12:29:52-04:00</updated>
+  <updated>2016-12-24T06:32:53-08:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,9 +16,9 @@
   <entry>
     <title type="html"><![CDATA[Let's Wait Awhile]]></title>
     <link href="http://highvariance.net/blog/2016/10/11/lets-wait-awhile/"/>
-    <updated>2016-10-11T00:00:00-04:00</updated>
+    <updated>2016-10-11T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2016/10/11/lets-wait-awhile</id>
-    <content type="html"><![CDATA[<p>{% img /images/la-et-ms-janet-jackson-control-30-years-later-20160204.jpeg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/la-et-ms-janet-jackson-control-30-years-later-20160204.jpeg"></p>
 
 <p>My girls are precocious. The seven year-old reads beyond her age, climbs trees higher than she should, and seems pretty interested in boys. The five year-old wants to do anything her older sister does. Right now, I feel like I have a handle on the situation, but the future scares the heck out of me. As Kelly Oxford has made <a href="http://www.nytimes.com/2016/10/11/us/politics/sexual-assault-survivor-reaction.html">abundantly clear</a>, girls are vulnerable and many boys out there take advantage of it. And as <a href="https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html">Donald Trump has personified</a>, many of these boys never grow up and instead just move to more powerful positions.</p>
 
@@ -74,9 +74,9 @@ So baby I'm alright, with just a kiss goodnight
   <entry>
     <title type="html"><![CDATA[Adi Gildor (1969-2015)]]></title>
     <link href="http://highvariance.net/blog/2015/09/05/adi/"/>
-    <updated>2015-09-05T00:00:00-04:00</updated>
+    <updated>2015-09-05T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/09/05/adi</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-adi.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-adi.jpg"></p>
 
 <p>Adi Gildor was my best friend. He died last week. I still can’t believe it, but this is what I said at his memorial service:</p>
 
@@ -143,9 +143,9 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Growing up with a single mom]]></title>
     <link href="http://highvariance.net/blog/2015/06/21/single-mom/"/>
-    <updated>2015-06-21T00:00:00-04:00</updated>
+    <updated>2015-06-21T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/06/21/single-mom</id>
-    <content type="html"><![CDATA[<p>{% img /images/hv-mommy-and-me.jpg %}</p>
+    <content type="html"><![CDATA[<p><img src="/images/hv-mommy-and-me.jpg"></p>
 
 <p>A good friend who is a single mom recently published <a href="https://singlemomintheivyleagues.wordpress.com/2015/06/20/fathers-male-role-models-and-raising-a-boy/">an article about the angst she feels on Father’s Day</a>. She wonders aloud what her son might or might not be missing out on by growing up with only a mom in the house. I think there are a lot of misconceptions out there, and wanted to share my personal experience as an only (and male) child of a single mom.</p>
 
@@ -164,15 +164,15 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Are they laughing with me or at me? #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2015/03/23/kbr-laughing/"/>
-    <updated>2015-03-23T00:00:00-04:00</updated>
+    <updated>2015-03-23T00:00:00-07:00</updated>
     <id>http://highvariance.net/blog/2015/03/23/kbr-laughing</id>
-    <content type="html"><![CDATA[<p>{% img right /images/hv-book-with-no-pictures.jpeg %}</p>
+    <content type="html"><![CDATA[<p><img class="right" src="/images/hv-book-with-no-pictures.jpeg"></p>
 
 <p>Over the last couple weeks, the most popular book in our house, by far, has been <a href="http://www.amazon.com/Book-No-Pictures-B-J-Novak/dp/0803741715">The Book with No Pictures</a> by B.J. Novak. The gimmick is simple: When someone reads the book out loud, they have to say all the words. No matter how silly or ridiculous or preposterous or even nonsensical they might be. The reader may even have to sing the occasional song about eating ants for breakfast. Novak takes full advantage of this rule to induce huge laughs from the audience. The idea is partially ripped off from (inspired by?) Mo Willems’ <a href="http://www.amazon.com/We-Are-Book-Elephant-Piggie/dp/1423133080">We are in a Book</a>, but it’s executed so well I can’t really complain.</p>
 
 <p>Ever since we got this book, both kids (age 3 and 6) beg every grown-up that enters our house to read it. And how can you say to no to a kid begging you to read a book? Especially when you don’t know what’s coming? With many funny kids books, we can all laugh together. With this one, the kids are definitely laughing <em>at</em> the reader. Luckily this is a situation where quantity matters more than quality.</p>
 
-<p>{% img center /images/imwayr.jpg %}</p>
+<p><img class="center" src="/images/imwayr.jpg"></p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
@@ -181,9 +181,9 @@ In my heart I believe that what happened that night was an aberration. It should
   <entry>
     <title type="html"><![CDATA[Kid Book Review: Winter Classics #IMWAYR]]></title>
     <link href="http://highvariance.net/blog/2015/02/16/kbr-winter-classics/"/>
-    <updated>2015-02-16T00:00:00-05:00</updated>
+    <updated>2015-02-16T00:00:00-08:00</updated>
     <id>http://highvariance.net/blog/2015/02/16/kbr-winter-classics</id>
-    <content type="html"><![CDATA[<p>{% img left /images/hv-brave-irene.jpeg %}</p>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/hv-brave-irene.jpeg"></p>
 
 <p>Now that we are deep into a winter that will seemingly never end, it’s time to look at a few classic children’s books that can carry us through.</p>
 
@@ -196,15 +196,15 @@ Even if she could call for help, no one would hear her. Her body shook. Her teet
 
 <p>Don’t worry, it all turns out wonderfully at the end, but boy, both my girls (and I) were on the edge of our seats the whole time!</p>
 
-<p>{% img right /images/hv-100-dresses.jpeg %}</p>
+<p><img class="right" src="/images/hv-100-dresses.jpeg"></p>
 
 <p><a href="http://www.amazon.com/Hundred-Dresses-Eleanor-Estes/dp/0152052607">The Hundred Dresses</a> (written by Eleanor Estes, illustrated by Louis Slobodkin, 1945) R and I really enjoyed this Newberry Honor winning chapter book about two girls who tease a poor immigrant girl from Poland into moving out of town. Both girls feel bad, but one feels worse about it than the other. I don’t want to give anything away, but the story feels amazingly real, right down to the messy ending. </p>
 
-<p>{% img left /images/hv-moominland-midwinter.jpeg %}</p>
+<p><img class="left" src="/images/hv-moominland-midwinter.jpeg"></p>
 
 <p><a href="http://www.amazon.com/Moominland-Midwinter-Moomins-Tove-Jansson/dp/0312625413">Moominland Midwinter</a> (by Tove Jansson, 1957) Last week I was a <a href="http://teachinginhighered.com/podcast/035-eliciting-using-feedback-students/">guest on the Teaching in Higher Ed podcast</a> and I one of my recommendations was <a href="http://www.amazon.com/Finn-Family-Moomintroll-Moomins-Jansson/dp/0312608896">Finn Family Moomintroll</a>, another book in this amazing series of stories about Moomintroll and his friends and family which take place in magical land far to the north. The stories and characters are rich enough to appeal to adults but clear and exciting enough to capture kids’ imaginations too. It’s criminal how under-appreciated (and unknown) these books are in the United States.</p>
 
-<p>{% img center /images/imwayr.jpg %}</p>
+<p><img class="center" src="/images/imwayr.jpg"></p>
 
 <p>Sheila at <a href="http://bookjourney.wordpress.com/">Book Journey</a> started <strong>It’s Monday! What are You Reading?</strong>, and Jen over at <a href="http://www.teachmentortexts.com/">Teach Mentor Texts</a> along with Kellee and Ricki at <a href="http://www.unleashingreaders.com/">Unleashing Readers</a> host kidlit versions.  All three sites are great places to find new books for yourself and your kids.</p>
 ]]></content>
