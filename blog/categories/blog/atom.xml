@@ -4,7 +4,7 @@
   <title><![CDATA[blog | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2016-12-24T06:32:53-08:00</updated>
+  <updated>2017-10-08T07:29:24-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Teach Better: My New Teaching Blog]]></title>
     <link href="http://highvariance.net/blog/2014/05/11/teach-better/"/>
-    <updated>2014-05-11T00:00:00-07:00</updated>
+    <updated>2014-05-11T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2014/05/11/teach-better</id>
     <content type="html"><![CDATA[<p><a href="http://teachbetter.co"><img src="http://highvariance.net/images/hv-teach-better.png" /></a></p>
 
@@ -29,7 +29,7 @@
   <entry>
     <title type="html"><![CDATA[My Second Blogoversary]]></title>
     <link href="http://highvariance.net/blog/2014/02/13/my-second-blogoversary/"/>
-    <updated>2014-02-13T00:00:00-08:00</updated>
+    <updated>2014-02-13T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2014/02/13/my-second-blogoversary</id>
     <content type="html"><![CDATA[<p>In the past few weeks this blog has achieved two big milestones: December 21 marked the second anniversary of <a href="http://highvariance.net/blog/2011/12/21/first-post/">my first post</a>, and on December 30, I published my 100th article. To mark the occasion, I thought it would be fun to reflect on the past two years quantitatively.</p>
 
@@ -73,7 +73,7 @@
   <entry>
     <title type="html"><![CDATA[Scratching my nerd itch with Octopress]]></title>
     <link href="http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch/"/>
-    <updated>2012-12-29T00:00:00-08:00</updated>
+    <updated>2012-12-29T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2012/12/29/scratching-my-nerd-itch</id>
     <content type="html"><![CDATA[<p>When I started this blog, I chose a platform that would give me a site that looked fine out of the box so I could concentrate on the writing.  <a href="http://www.tumblr.com">Tumblr</a> fit this requirement and even provided several nice features:</p>
 
@@ -140,7 +140,7 @@
   <entry>
     <title type="html"><![CDATA[Happy Blogoversary!]]></title>
     <link href="http://highvariance.net/blog/2012/12/22/happy-blogoversary/"/>
-    <updated>2012-12-22T00:00:00-08:00</updated>
+    <updated>2012-12-22T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2012/12/22/happy-blogoversary</id>
     <content type="html"><![CDATA[<p>The first time I saw the World Wide Web, I was hunched over an 8 lb laptop using a <a href="http://en.wikipedia.org/wiki/Lynx_(web_browser)">text based browser</a> and a 56k modem. There wasn’t much to see and it didn’t seem like a big deal. Then about three month’s later <a href="http://en.wikipedia.org/wiki/NCSA_Mosaic">NCSA Mosaic</a> (the first graphical browser) was released and I “got it.” Within a week <a href="http://en.wikipedia.org/wiki/NaviSoft">we</a> redefined our product line and turned a generic set of “network publishing” tools into a web server and a web authoring tool.  Within a year we were purchased by America Online to show that they “got” the web too. My point is that I’ve been deeply embedded in the web for a long time.  </p>
 
@@ -167,7 +167,7 @@
   <entry>
     <title type="html"><![CDATA[Update: Comments on Blogs]]></title>
     <link href="http://highvariance.net/blog/2012/01/06/update-comments-on-blogs/"/>
-    <updated>2012-01-06T00:00:00-08:00</updated>
+    <updated>2012-01-06T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2012/01/06/update-comments-on-blogs</id>
     <content type="html"><![CDATA[<p>Wouldn’t you know it, the very day after I post <a href="http://highvariance.net/post/15325386814/comments-on-blogs">my piece on comments on
 blogs</a>, <a href="http://www.marco.org">Marco Arment</a> and
