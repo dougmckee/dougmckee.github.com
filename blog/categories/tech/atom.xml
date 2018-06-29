@@ -4,7 +4,7 @@
   <title><![CDATA[tech | High Variance]]></title>
   <link href="http://highvariance.net/blog/categories/tech/atom.xml" rel="self"/>
   <link href="http://highvariance.net/"/>
-  <updated>2018-06-29T17:14:27-04:00</updated>
+  <updated>2018-06-29T17:19:26-04:00</updated>
   <id>http://highvariance.net/</id>
   <author>
     <name><![CDATA[Doug McKee]]></name>
@@ -18,7 +18,7 @@
     <link href="http://highvariance.net/blog/2017/10/08/gojira/"/>
     <updated>2017-10-08T00:00:00-04:00</updated>
     <id>http://highvariance.net/blog/2017/10/08/gojira</id>
-    <content type="html"><![CDATA[<p><img src="/images/gojira.jpeg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/gojira.jpeg %}</p>
 
 <p>I don’t go to a lot of concerts, so when I do, the stakes are high. That’s especially the case now that I live in Ithaca where you have to drive three hours to see anyone who’s not sitting on a stool playing an acoustic guitar. Thursday night my friend Kelly and I drove to the Clifton Park Concert Hall to see French heavy metal band <a href="https://en.wikipedia.org/wiki/Gojira_(band)">Gojira</a>. The whole experience was awesome.</p>
 
@@ -61,7 +61,7 @@
     <link href="http://highvariance.net/blog/2016/12/23/moving-from-6-to-7/"/>
     <updated>2016-12-23T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2016/12/23/moving-from-6-to-7</id>
-    <content type="html"><![CDATA[<p><img src="/images/iphone-upgrade.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img /images/iphone-upgrade.jpg %}</p>
 
 <p>You might think the world has plenty of iPhone 7 reviews. Maybe even more iPhone 7 reviews than it needs. You’re probably right, but the vast majority are written by nerds who upgrade their phones every year. Upgrading is a totally different experience for regular people who have waited two (or more) years. As a recent upgrader from a venerable iPhone 6+, I am here to tell you that it’s worth moving up to the latest and greatest.</p>
 
@@ -92,7 +92,7 @@
     <link href="http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq/"/>
     <updated>2015-11-20T00:00:00-05:00</updated>
     <id>http://highvariance.net/blog/2015/11/20/anylist-vs-grocery-iq</id>
-    <content type="html"><![CDATA[<p><img src="/images/hv-anylist-vs-grocery-iq.png"></p>
+    <content type="html"><![CDATA[<p>{% img /images/hv-anylist-vs-grocery-iq.png %}</p>
 
 <p>Jason Snell <a href="https://sixcolors.com/post/2015/11/ipad-pro-new-tricks-for-old-dogs/">recently wrote</a> that once he invests the time to learn and get comfortable with a tool, it takes something not just a <em>little</em> better, but <em>substantially</em> better to get him to switch. His examples were software he uses to edit podcasts and his overall computer set up: He edits his podcasts with Apple’s Logic even though many folks think he should move to Adobe Audition. Similarly, he really likes a lot about working on an iPad, but it’s not enough to make him sell his Mac and go <a href="https://www.macstories.net/stories/ipad-pro-review/">whole hog on iOS</a>.</p>
 
@@ -121,7 +121,7 @@
     <id>http://highvariance.net/blog/2014/07/16/network</id>
     <content type="html"><![CDATA[<p>The <a href="http://www.macstories.net/reviews/overcast-review/">whole</a> <a href="http://www.macworld.com/article/2454285/review-overcast-is-a-winning-podcast-app.html">Internet</a> <a href="http://www.imore.com/overcast-iphone-review-podcasts-reconsidered">seemed</a> <a href="http://www.512pixels.net/blog/2014/7/overcast">to</a> <a href="http://daringfireball.net/linked/2014/07/16/overcast-1">go</a> <a href="https://twitter.com/search?q=overcast">crazy</a> today about the release of <a href="http://marco.org">Marco Arment</a>’s new podcast app for iOS: <a href="https://overcast.fm">Overcast</a>. He’s a nerd celebrity and he’s been teasing his fanbase (myself included) for what seems like a year as he worked on it and talked about it. Marco is an accomplished entrepreneur and engineer, and this release was <em>highly</em> anticipated. As a fan and a regular podcast listener, you might think I would be one of his first customers, but you’d be wrong.</p>
 
-<p><img class="right" src="/images/hv-network-podcast-app.jpg"></p>
+<p>{% img right /images/hv-network-podcast-app.jpg %}</p>
 
 <p>I’ve been using <a href="http://networkapp.net">Network</a> for the last six months and am very happy. The UI couldn’t have less chrome–All you see in the app is the artwork from your podcasts, episode descriptions, and a plus sign for adding new podcasts. Your interaction with the app is almost entirely through gestures. It’s not <em>completely</em> intuitive, but it makes me smile and reminds me a lot of the <a href="http://realmacsoftware.com/clear">Clear</a> to-do and reminders app.</p>
 
@@ -136,15 +136,15 @@
     <id>http://highvariance.net/blog/2014/07/03/tile-a-geek-love-story</id>
     <content type="html"><![CDATA[<p>The other day I got this email:</p>
 
-<p><img class="center" src="/images/hv-tile-request.png"></p>
+<p>{% img center /images/hv-tile-request.png %}</p>
 
 <p>Indeed, I have a story, but I doubt it will be on Tile’s front page anytime soon. <!--More--> It started almost a year ago when I backed my very first <a href="https://www.kickstarter.com">Kickstarter</a> project and ordered four Tiles. These magical one inch squares promised to keep me from ever losing anything ever again. I immediately envisioned attaching them to my keys, my wife’s keys, our wallets, and my daughters’ favorite toys. And I knew once I had them in my hands I would think of a host of new possibilities. I was in geek love. </p>
 
-<p><img class="left" src="/images/hv-tile.jpeg"></p>
+<p>{% img left /images/hv-tile.jpeg %}</p>
 
 <p>Each $18.95 tile was a tiny Bluetooth beacon that could talk to any phone nearby that had the Tile app installed. If my keys fell behind a couch cushion, my phone could make their Tile play a little song announcing where they were. If I accidentally dropped my keys in the bushes, the app would remember where it last saw them and show me on a map. And if I left them on a plane, my app would talk to Tile’s cloud servers and let me know when another Tile user went near them and show me their location. The project had already hit it’s funding goal and was rocketing toward production. I couldn’t wait to get my delivery!</p>
 
-<p><img class="right" src="/images/hv-tile-key-basket.jpg"></p>
+<p>{% img right /images/hv-tile-key-basket.jpg %}</p>
 
 <p>Months passed as the Tile Team worked through a series of last minute issues, and my interest started to wane. Then I realized that the batteries inside the Tiles expire after a year and are un-replaceable. That is, you have to buy new Tiles every year when your old ones die. And by the time my Tiles finally arrived, I realized that I already had a pretty good system for keeping track of my keys: They are always either in my pocket or in our kitchen key basket. I haven’t lost track of my keys in years. The same goes for my wallet, and even if I were a chronic wallet-loser, the Tile turns out to be too thick to comfortably slide into it.</p>
 
